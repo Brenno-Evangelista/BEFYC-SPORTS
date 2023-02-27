@@ -1,0 +1,36 @@
+{
+    "Produtos":[
+        {
+          "id": 0,
+          "nome": "Camisa olimpique de marselhe",
+          "tipo": "Camisa",
+          "img": "../imagens/Produtos/Camisa/camisa-O.marselha.png",
+          "cor": ["Branca", "Azul"],
+          "tamanho": ["P", "M", "G"],
+          "preço": 80
+        },
+        {
+          "id": 0,
+          "nome": "Camisa psg ",
+          "tipo": "Camisa",
+          "img": "../imagens/Produtos/Camisa/camisa-base.png",
+          "cor": ["Branca"],
+          "tamanho": ["P", "M", "G"],
+          "preço": 90
+        },
+        {
+          "id": 0,
+          "nome": "Chuteira nike futsal",
+          "tipo": "chuteira",
+          "img": "../imagens/Produtos/Chuteira/chuteira-futsal-adidas-predator-freak.png",
+          "cor": ["Branca", "Azul"],
+          "tamanho": ["P", "M", "G"],
+          "preço": 100
+        }
+
+
+
+
+
+  ]
+}

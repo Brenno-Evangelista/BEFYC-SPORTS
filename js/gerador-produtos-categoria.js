@@ -1,5 +1,5 @@
 let jsonObject = {} 
-let productsContainer = document.getElementById('products');
+let productsContainer = document.getElementById('produtos');
 
 requestJSON = () => {
     let req = new XMLHttpRequest();
