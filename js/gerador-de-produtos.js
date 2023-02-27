@@ -1,10 +1,10 @@
 let jsonObject = {} 
-let productContainer = document.getElementsByClassName('product-section')[0];
+let productContainer = document.getElementsByClassName('sessão-produtos')[0];
 
 // gera json
 requestJSON = () => { 
     let req = new XMLHttpRequest();
-    req.open('GET', '', false); 
+    req.open('GET', 'https://raw.githubusercontent.com/Brenno-Evangelista/BEFYC-SPORTS/main/js/produtosbefyc.json', false); 
     req.send(null);
     if(req.status == 200) {
       jsonObject = JSON.parse(req.responseText);
@@ -60,7 +60,7 @@ generateProductHTML();
 
 
 
-let selectOptions = document.getElementById('product-size-select'); // seleciona o select
+let selectOptions = document.getElementById('selecionar-tamanho'); // seleciona o select
 let size = jsonObject.products[idValue].size;
 
 

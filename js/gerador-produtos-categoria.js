@@ -22,8 +22,8 @@ generateHTML = (json, x) => {
             <div class="produto">
                 <img src="`+json[x].img+`">
                 <span class="catalogo-line"></span>
-                <p class="produto-titulo">`+json[x].name+`</p>
-                <p class="produto-preço">R$`+json[x].price+`,00</p>
+                <p class="produto-titulo">`+json[x].nome+`</p>
+                <p class="produto-preço">R$`+json[x].preço+`,00</p>
                 <form method='get' action="produtos.html">
                     <input type="hidden" value="`+json[x].id+`" name='id'/>
                     <button class="produto-button" type="submit">Comprar</button>
