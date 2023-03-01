@@ -6,7 +6,7 @@
           "tipo": "Camisa",
           "img": "../imagens/Produtos/Camisa/camisa-O.marselha.png",
           "cor": ["Branca", "Azul"],
-          "tamanho": ["P", "M", "G"],
+          "size": ["P", "M", "G"],
           "preço": 80
         },
         {
@@ -15,7 +15,7 @@
           "tipo": "Camisa",
           "img": "../imagens/Produtos/Camisa/camisa-base.png",
           "cor": ["Branca"],
-          "tamanho": ["P", "M", "G"],
+          "size": ["P", "M", "G"],
           "preço": 90
         },
         {
@@ -24,7 +24,7 @@
           "tipo": "chuteira",
           "img": "../imagens/Produtos/Chuteira/chuteira-futsal-adidas-predator-freak.png",
           "cor": ["Branca", "Azul"],
-          "tamanho": ["P", "M", "G"],
+          "size": ["P", "M", "G"],
           "preço": 100
         }
        ]

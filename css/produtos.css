@@ -70,7 +70,7 @@
     padding: 0.5rem;
     text-align: center;
     background-color: var(--main-blue-color);
-    color: var(--text-white-color);
+    color: var(--text-red-color);
     border: none;
     border-radius:10px;
     transition: opacity .5s ease;
