@@ -35,6 +35,140 @@
           "color": ["Preta", "Azul"],
           "size": ["40", "41", "42"],
           "price": 190
+        },
+
+
+
+
+
+
+
+
+
+
+
+        {
+          "id": 32,
+          "name": "Kit Treino Arsenal",
+          "type": "Treino",
+          "img": "../imagens/Produtos/treino/roupa-arsenal.png",
+          "color": ["Preta", "Vermelho"],
+          "size": ["P", "M", "G", "GG"],
+          "price": 87
+        },
+
+        {
+          "id": 33,
+          "name": "Kit Treino Borussia",
+          "type": "Treino",
+          "img": "../imagens/Produtos/treino/roupa-borussia.png",
+          "color": ["Preta", "Amarelo"],
+          "size": ["P", "M", "G", "GG"],
+          "price": 87
+        },
+
+        {
+          "id": 34,
+          "name": "Kit Treino City",
+          "type": "Treino",
+          "img": "../imagens/Produtos/treino/roupa-city.png",
+          "color": ["Azul-Escuro", "Azul-Claro"],
+          "size": ["P", "M", "G", "GG"],
+          "price": 95
+        },
+
+        {
+          "id": 35,
+          "name": "Kit Treino França",
+          "type": "Treino",
+          "img": "../imagens/Produtos/treino/roupa-frança.png",
+          "color": ["Azul"],
+          "size": ["P", "M", "G", "GG"],
+          "price": 95
+        },
+
+        {
+          "id": 36,
+          "name": "Kit Treino Milan",
+          "type": "Treino",
+          "img": "../imagens/Produtos/treino/roupa-milan.png",
+          "color": ["Preta", "Vermelho"],
+          "size": ["P", "M", "G", "GG"],
+          "price": 95
+        },
+
+        {
+          "id": 37,
+          "name": "Kit de Surf Feminino",
+          "type": "Treino",
+          "img": "../imagens/Produtos/treino/roupa-surfista-fm.png",
+          "color": ["Preta", "Branco"],
+          "size": ["P", "M", "G"],
+          "price": 45
+        },
+
+        {
+          "id": 38,
+          "name": "Roupa Termica, Calça e Blusa",
+          "type": "Treino",
+          "img": "../imagens/Produtos/treino/roupa-termica.png",
+          "color": ["Preta"],
+          "size": ["P", "M", "G"],
+          "price": 50
+        },
+
+        {
+          "id": 39,
+          "name": "Kit Treino Adidas, Short e Camisa",
+          "type": "Treino",
+          "img": "../imagens/Produtos/treino/roupa-treino-adidas.png",
+          "color": ["Preta", "Branca"],
+          "size": ["P", "M", "G", "GG"],
+          "price": 45
+        },
+
+        {
+          "id": 40,
+          "name": "Kit Treino Feminino, Short e Cropped",
+          "type": "Treino",
+          "img": "../imagens/Produtos/treino/roupa-treino-fm2.png",
+          "color": ["Azul", "Ciano", "Rosa"],
+          "size": ["P", "M", "G"],
+          "price": 45
+        },
+
+        {
+          "id": 41,
+          "name": "Kit Treino Feminino, Short e Cropped",
+          "type": "Treino",
+          "img": "../imagens/Produtos/treino/roupa-treino-fm3.png",
+          "color": ["Cinza"],
+          "size": ["P", "M", "G"],
+          "price": 30
+        },
+
+        {
+          "id": 42,
+          "name": "Kit Treino Feminino, Calça e Cropped",
+          "type": "Treino",
+          "img": "../imagens/Produtos/treino/roupa-treino-fm4.png",
+          "color": ["Preto", "Verde"],
+          "size": ["P", "M", "G"],
+          "price": 45
+        },
+
+        {
+          "id": 43,
+          "name": "Kit Treino Feminino Nike, Short e Cropped",
+          "type": "Treino",
+          "img": "../imagens/Produtos/treino/roupa-treino-fm5.png",
+          "color": ["Branco", "Preto"],
+          "size": ["P", "M", "G"],
+          "price": 60
         }
+        
+
+
+
        ]
     }
