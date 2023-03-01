@@ -206,6 +206,7 @@ CATALOGO
 .produto-titulo {
     font-size: 1.2rem;
     text-align: center;
+    font-weight: bold;
 }
 
 .produto-preço {

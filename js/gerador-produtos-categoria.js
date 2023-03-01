@@ -13,13 +13,13 @@ requestJSON = () => {
 // pegar parametro URL
 let query = location.search; // pega querystring da pagina 
 let keyValue = query.split('='); //divide em um array
-let catValue = keyValue[2]; // pega valor do id em string (Categorias)
+let catValue = keyValue[1]; // pega valor do id em string (Categorias)
 
 // Gera HTML do produto 
 generateHTML = (json, x) => {
     productsContainer.innerHTML += `
 
-            <div class="produto">
+            <div id="produto-unico">
                 <img src="`+json[x].img+`" class="img-produto">
                 <span class="catalogo-line"></span>
                 <p class="produto-titulo">`+json[x].name+`</p>
@@ -58,9 +58,9 @@ selectedFilter = () => {
 
     let selectedOption = document.getElementsByClassName('form-select')[0].value;
 
-    if(selectedOption == 'price-ascending') {
+    if(selectedOption == 'preço-crescente') {
         filterByLowestPrice(json);
-    } else if(selectedOption == 'price-descending') {
+    } else if(selectedOption == 'preço-decrescente') {
         filterByBiggestPrice(json);
     } 
 

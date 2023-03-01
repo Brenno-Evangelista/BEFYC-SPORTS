@@ -123,7 +123,8 @@ footer {
     flex-direction: row;
     justify-content: space-evenly;
     padding: 1rem;
-    margin-top: 2.4rem;
+    margin-top: 10%;
+    position: relative;
     border-top: 2px solid var(--main-blue-color);
 }
 

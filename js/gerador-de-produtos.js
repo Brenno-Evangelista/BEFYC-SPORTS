@@ -15,7 +15,7 @@ requestJSON = () => {
 generateProductHTML = () => {
     productContainer.innerHTML += `
 
-        <div id="Produto">
+        <div id="produto">
             <div id="image-div">
                 <img id="produto-image" src="`+jsonObject.products[idValue].img+`">
             </div>

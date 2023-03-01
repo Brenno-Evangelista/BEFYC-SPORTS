@@ -6,26 +6,35 @@
           "type": "Camisa",
           "img": "../imagens/Produtos/Camisa/camisa-O.marselha.png",
           "color": ["Branca", "Azul"],
-          "size": ["P", "M", "G"],
-          "price": 80
+          "size": ["P", "M", "G", "GG"],
+          "price": 65
         },
         {
           "id": 1,
           "name": "Camisa Paris Saint-Germain",
           "type": "Camisa",
-          "img": "../imagens/Produtos/Camisa/camisa-base.png",
+          "img": "../imagens/Produtos/Camisa/camisa-Psg.png",
           "color": ["Branca"],
-          "size": ["P", "M", "G"],
-          "price": 90
+          "size": ["P", "M", "G", "GG"],
+          "price": 80
         },
         {
           "id": 2,
+          "name": "Camisa Cruzeiro 23",
+          "type": "Camisa",
+          "img": "../imagens/Produtos/Camisa/camisa-Cruzeiro.png",
+          "color": ["Azul", "Azul"],
+          "size": ["P", "M", "G", "GG"],
+          "price": 100
+        },
+        {
+          "id": 3,
           "name": "Chuteira nike futsal",
           "type": "Chuteira",
           "img": "../imagens/Produtos/Chuteira/chuteira-futsal-adidas-predator-freak.png",
-          "color": ["Branca", "Azul"],
+          "color": ["Preta", "Azul"],
           "size": ["40", "41", "42"],
-          "price": 100
+          "price": 190
         }
        ]
     }

@@ -101,21 +101,23 @@
     grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
     margin: 0 auto;
     width: 100%;
+    
 }
 
-.Produto {
+#produto-unico {
     margin: 1rem;
     padding: 0.4rem;
     display: flex;
     flex-direction: column;
+    text-align: center;
     align-items: center;
     justify-content: center;
-    border: 1px solid rgba(93, 93, 129, 0.3);
+    border: 1px solid var(--main-blue-color);
     border-radius: 5%;
 }
 
-.Produto img {
-    width: 100%;
+.img-produto{
+    width:100%;
     height: auto;
     max-height: 400px;
 }
@@ -127,7 +129,8 @@
 }
 
 .produto-titulo {
-    font-size: 1.2rem;
+    font-size: 1rem;
+    font-weight: bold;
 }
 
 .produto-preço {
@@ -147,7 +150,7 @@
     border-radius: 40px;
     padding: 0.5rem;
     text-transform: uppercase;
-    color: var(--text-white-color);
+    color: var(--text-red-color);
     text-align: center;
     transition: opacity .5s ease-in;
 }
