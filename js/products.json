@@ -139,33 +139,46 @@
 
         {
           "id": 41,
-          "name": "Kit Treino Feminino, Short e Cropped",
-          "type": "Treino",
-          "img": "../imagens/Produtos/treino/roupa-treino-fm3.png",
-          "color": ["Cinza"],
-          "size": ["P", "M", "G"],
-          "price": 30
-        },
-
-        {
-          "id": 42,
-          "name": "Kit Treino Feminino, Calça e Cropped",
-          "type": "Treino",
-          "img": "../imagens/Produtos/treino/roupa-treino-fm4.png",
-          "color": ["Preto", "Verde"],
-          "size": ["P", "M", "G"],
-          "price": 45
-        },
-
-        {
-          "id": 43,
           "name": "Kit Treino Feminino Nike, Short e Cropped",
           "type": "Treino",
           "img": "../imagens/Produtos/treino/roupa-treino-fm5.png",
           "color": ["Branco", "Preto"],
           "size": ["P", "M", "G"],
           "price": 60
+        },
+
+        {
+          "id": 42,
+          "name": "Pote Creatina Turbo",
+          "type": "Treino",
+          "img": "../imagens/Produtos/treino/pote-creatina.png",
+          "color": ["Preto"],
+          "size": [""],
+          "price": 45
+        },
+
+        {
+          "id" : 43,
+          "name": "Pacote Creatina Turbo 500g",
+          "type": "Treino",
+          "img": "../imagens/Produtos/treino/pacote-creatina-turbo.png",
+          "color": ["preto"],
+          "size": [""],
+          "price": 30
+          
         }
+
+        {
+          "id": 44,
+          "name": "Pacote Creatina Turbo 50g",
+          "type": "Treino",
+          "img": "../imagens/Produtos/treino/roupa-treino-fm4.png",
+          "color": ["Preto", "Verde"],
+          "size": [""],
+          "price": 45
+        },
+
+
         
 
 
