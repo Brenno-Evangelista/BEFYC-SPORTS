@@ -2,30 +2,30 @@
     "products":[
         {
           "id": 0,
-          "nome": "Camisa olimpique de marselhe",
-          "tipo": "Camisa",
+          "name": "Camisa olimpique de marselhe",
+          "type": "Camisa",
           "img": "../imagens/Produtos/Camisa/camisa-O.marselha.png",
-          "cor": ["Branca", "Azul"],
+          "color": ["Branca", "Azul"],
           "size": ["P", "M", "G"],
-          "preço": 80
+          "price": 80
         },
         {
           "id": 1,
-          "nome": "Camisa psg ",
-          "tipo": "Camisa",
+          "neme": "Camisa psg ",
+          "type": "Camisa",
           "img": "../imagens/Produtos/Camisa/camisa-base.png",
-          "cor": ["Branca"],
+          "color": ["Branca"],
           "size": ["P", "M", "G"],
-          "preço": 90
+          "price": 90
         },
         {
           "id": 2,
-          "nome": "Chuteira nike futsal",
-          "tipo": "chuteira",
+          "name": "Chuteira nike futsal",
+          "type": "chuteira",
           "img": "../imagens/Produtos/Chuteira/chuteira-futsal-adidas-predator-freak.png",
-          "cor": ["Branca", "Azul"],
+          "color": ["Branca", "Azul"],
           "size": ["P", "M", "G"],
-          "preço": 100
+          "price": 100
         }
        ]
     }

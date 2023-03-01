@@ -13,7 +13,7 @@ requestJSON = () => {
 // pegar parametro URL
 let query = location.search; // pega querystring da pagina 
 let keyValue = query.split('='); //divide em um array
-let catValue = keyValue[1]; // pega valor do id em string (baby ou kid)
+let catValue = keyValue[1]; // pega valor do id em string (Categorias)
 
 // Gera HTML do produto 
 generateHTML = (json, x) => {
@@ -22,10 +22,10 @@ generateHTML = (json, x) => {
             <div class="produto">
                 <img src="`+json[x].img+`">
                 <span class="catalogo-line"></span>
-                <p class="produto-titulo">`+json[x].nome+`</p>
-                <p class="produto-preço">R$`+json[x].preço+`,00</p>
+                <p class="produto-titulo">`+json[x].name+`</p>
+                <p class="produto-preço">R$`+json[x].price+`,00</p>
                 <form method='get' action="produtos.html">
-                    <input type="hidden" value="`+json[x].id+`" name='id'/>
+                    <input type="hidden" value="`+json[x].type+`" name='id'/>
                     <button class="produto-button" type="submit">Comprar</button>
                 </form>
             </div>

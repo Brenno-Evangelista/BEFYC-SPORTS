@@ -4,7 +4,7 @@ let productContainer = document.getElementsByClassName('sessão-produtos')[0];
 // gera json
 requestJSON = () => { 
     let req = new XMLHttpRequest();
-    req.open('GET', 'https://raw.githubusercontent.com/Brenno-Evangelista/BEFYC-SPORTS/main/products.json', false); 
+    req.open('GET', 'https://raw.githubusercontent.com/Brenno-Evangelista/BEFYC-SPORTS/main/js/products.json', false); 
     req.send(null);
     if(req.status == 200) {
       jsonObject = JSON.parse(req.responseText);
@@ -20,8 +20,8 @@ generateProductHTML = () => {
                 <img id="produto-image" src="`+jsonObject.products[idValue].img+`">
             </div>
             <div id="informação-produto">
-                <p id="produto-nome">`+jsonObject.products[idValue].nome+`</p>
-                <p id="produto-preço">R$`+jsonObject.products[idValue].preço+`,00</p>
+                <p id="produto-nome">`+jsonObject.products[idValue].name+`</p>
+                <p id="produto-preço">R$`+jsonObject.products[idValue].price+`,00</p>
                 <p class="label">Tamanho</p>
                 <select name="tamanho" id="selecionar-tamanho">
 
