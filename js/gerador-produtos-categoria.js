@@ -13,7 +13,7 @@ requestJSON = () => {
 // pegar parametro URL
 let query = location.search; // pega querystring da pagina 
 let keyValue = query.split('='); //divide em um array
-let catValue = keyValue[1]; // pega valor do id em string (Categorias)
+let catValue = keyValue[2]; // pega valor do id em string (Categorias)
 
 // Gera HTML do produto 
 generateHTML = (json, x) => {

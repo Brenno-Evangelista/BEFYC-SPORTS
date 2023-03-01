@@ -11,7 +11,7 @@
         },
         {
           "id": 1,
-          "neme": "Camisa Paris Saint-Germain",
+          "name": "Camisa Paris Saint-Germain",
           "type": "Camisa",
           "img": "../imagens/Produtos/Camisa/camisa-base.png",
           "color": ["Branca"],
@@ -24,7 +24,7 @@
           "type": "Chuteira",
           "img": "../imagens/Produtos/Chuteira/chuteira-futsal-adidas-predator-freak.png",
           "color": ["Branca", "Azul"],
-          "size": ["P", "M", "G"],
+          "size": ["40", "41", "42"],
           "price": 100
         }
        ]
