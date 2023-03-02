@@ -148,6 +148,16 @@
           "color": ["Azul", "Azul"],
           "size": ["P", "M", "G", "GG"],
           "price": 80
+        },
+
+        {
+          "id": 15,
+          "name": "Camisa Borussia 23/24",
+          "type": "Camisa",
+          "img": "../imagens/Produtos/Camisa/camisa-Borrusia.png",
+          "color": ["Preto", "Rosa"],
+          "size": ["P", "M", "G", "GG"],
+          "price": 80
         }
 
        ]
