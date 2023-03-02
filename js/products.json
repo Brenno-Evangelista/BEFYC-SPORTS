@@ -170,18 +170,9 @@
           "price": 80
         },
 
-        {
-          "id": 17,
-          "name": "Camisa Midtjylland 23/24",
-          "type": "Camisa",
-          "img": "../imagens/Produtos/Camisa/camisa-Midtjylland.png",
-          "color": ["Branco", "Vermelho", "Preto"],
-          "size": ["P", "M", "G", "GG"],
-          "price": 80
-        },
 
         {
-          "id": 18,
+          "id": 17,
           "name": "Camisa Monterrey 23/24",
           "type": "Camisa",
           "img": "../imagens/Produtos/Camisa/camisa-Monterrey.png",
@@ -191,7 +182,7 @@
         },
 
         {
-          "id": 19,
+          "id": 18,
           "name": "Camisa Dia dos Namorados 23/24",
           "type": "Camisa",
           "img": "../imagens/Produtos/Camisa/camisa-Napoli-Diadosnamorados.png",
@@ -201,7 +192,7 @@
         },
 
         {
-          "id": 20,
+          "id": 19,
           "name": "Camisa Parma 22/23",
           "type": "Camisa",
           "img": "../imagens/Produtos/Camisa/camisa-Parma.png",
@@ -211,7 +202,7 @@
         },
 
         {
-          "id": 21,
+          "id": 20,
           "name": "Camisa Porto 23/24",
           "type": "Camisa",
           "img": "../imagens/Produtos/Camisa/camisa-Porto.png",
@@ -221,7 +212,7 @@
         },
 
         {
-          "id": 22,
+          "id": 21,
           "name": "Camisa Sporting 23/24",
           "type": "Camisa",
           "img": "../imagens/Produtos/Camisa/camisa-Sporting.png",
@@ -231,7 +222,7 @@
         },
         
         {
-          "id": 23,
+          "id": 22,
           "name": "Camisa Werder Bremen Especial 'How Deep is Your Love?' 23/24",
           "type": "Camisa",
           "img": "../imagens/Produtos/Camisa/camisa-WerderBremer.png",
@@ -241,11 +232,21 @@
         },
 
         {
-          "id": 24,
+          "id": 23,
           "name": "Camisa West Ham 22/23",
           "type": "Camisa",
           "img": "../imagens/Produtos/Camisa/camisa-West-Ham.png",
           "color": ["Verde", "Verde-Escuro"],
+          "size": ["P", "M", "G", "GG"],
+          "price": 80
+        },
+
+        {
+          "id": 24,
+          "name": "Camisa Midtjylland 23/24",
+          "type": "Camisa",
+          "img": "../imagens/Produtos/Camisa/camisa-Midtjylland.png",
+          "color": ["Branco", "Vermelho", "Preto"],
           "size": ["P", "M", "G", "GG"],
           "price": 80
         }
