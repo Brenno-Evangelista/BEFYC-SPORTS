@@ -45,7 +45,7 @@
         },
 
         {
-          "id": 4,
+          "id": 42,
           "name": "Kit Treino Arsenal",
           "type": "Treino",
           "img": "../imagens/Produtos/treino/roupa-arsenal.png",
@@ -55,7 +55,7 @@
         },
 
         {
-          "id": 5,
+          "id": 43,
           "name": "Kit Treino Borussia",
           "type": "Treino",
           "img": "../imagens/Produtos/treino/roupa-borussia.png",
@@ -65,7 +65,7 @@
         },
 
         {
-          "id": 6,
+          "id": 44,
           "name": "Kit Treino City",
           "type": "Treino",
           "img": "../imagens/Produtos/treino/roupa-city.png",
@@ -75,7 +75,7 @@
         },
 
         {
-          "id": 7,
+          "id": 45,
           "name": "Kit Treino França",
           "type": "Treino",
           "img": "../imagens/Produtos/treino/roupa-frança.png",
@@ -85,7 +85,7 @@
         },
 
         {
-          "id": 8,
+          "id": 46,
           "name": "Kit Treino Milan",
           "type": "Treino",
           "img": "../imagens/Produtos/treino/roupa-milan.png",
@@ -95,7 +95,7 @@
         },
 
         {
-          "id": 9,
+          "id": 47,
           "name": "Kit de Surf Feminino",
           "type": "Treino",
           "img": "../imagens/Produtos/treino/roupa-surfista-fm.png",
@@ -105,7 +105,7 @@
         },
 
         {
-          "id": 10,
+          "id": 48,
           "name": "Calça e Camisa Termica",
           "type": "Treino",
           "img": "../imagens/Produtos/treino/roupa-termica.png",
@@ -115,7 +115,7 @@
         },
 
         {
-          "id": 11,
+          "id": 49,
           "name": "Kit Treino Adidas, Short e Camisa",
           "type": "Treino",
           "img": "../imagens/Produtos/treino/roupa-treino-adidas.png",
@@ -125,7 +125,7 @@
         },
 
         {
-          "id": 12,
+          "id": 50,
           "name": "Kit Treino Feminino, Short e Cropped",
           "type": "Treino",
           "img": "../imagens/Produtos/treino/roupa-treino-fm2.png",
@@ -135,7 +135,7 @@
         },
 
         {
-          "id": 13,
+          "id": 51,
           "name": "Kit Treino Feminino Nike, Short e Cropped",
           "type": "Treino",
           "img": "../imagens/Produtos/treino/roupa-treino-fm5.png",
@@ -145,7 +145,7 @@
         },
 
         {
-          "id": 14,
+          "id": 52,
           "name": "Pote Creatina Turbo",
           "type": "Treino",
           "img": "../imagens/Produtos/treino/pote-creatina.png",
@@ -155,7 +155,7 @@
         },
 
         {
-          "id": 15,
+          "id": 53,
           "name": "Short Nike",
           "type": "Treino",
           "img": "../imagens/Produtos/treino/short-nike.png",
@@ -165,7 +165,7 @@
         },
 
         {
-          "id": 16,
+          "id": 54,
           "name": "Short Adidas",
           "type": "Treino",
           "img": "../imagens/Produtos/treino/short-adidas.png",
@@ -176,7 +176,7 @@
 
 
         {
-          "id" : 17,
+          "id" : 55,
           "name": "Pacote Creatina Turbo",
           "type": "Treino",
           "img": "../imagens/Produtos/treino/pacote-creatina-turbo.png",
@@ -187,7 +187,7 @@
         },
 
         {
-          "id": 18,
+          "id": 56,
           "name": "Pacote Creatina Whey 100% Pure 900g",
           "type": "Treino",
           "img": "../imagens/Produtos/treino/pacote-whey.png",
@@ -197,7 +197,7 @@
         },
 
         {
-          "id" : 19,
+          "id" : 57,
           "name": "Kit Peso",
           "type": "Treino",
           "img": "../imagens/Produtos/treino/kit-peso.png",
@@ -208,7 +208,7 @@
         },
 
         {
-          "id": 20,
+          "id": 58,
           "name": "Cama Elastica",
           "type": "Treino",
           "img": "../imagens/Produtos/treino/cama-elastica.png",
@@ -218,7 +218,7 @@
         },
 
         {
-          "id": 21,
+          "id": 59,
           "name": "Kit Crossfit",
           "type": "Treino",
           "img": "../imagens/Produtos/treino/kit-crossfit.png",
@@ -228,7 +228,7 @@
         },
 
         {
-          "id": 22,
+          "id": 60,
           "name": "Kit Treino Agilidade",
           "type": "Treino",
           "img": "../imagens/Produtos/treino/kit-treino-agilidade.png",
@@ -238,7 +238,7 @@
         },
 
         {
-          "id": 23,
+          "id": 61,
           "name": "Hand Grip Acte T99",
           "type": "Treino",
           "img": "../imagens/Produtos/treino/grip.png",
@@ -248,7 +248,7 @@
         },
 
         {
-          "id": 24,
+          "id": 62,
           "name": "Saco de Box Adulto 20Kg",
           "type": "Treino",
           "img": "../imagens/Produtos/treino/saco-de-pancada.png",
