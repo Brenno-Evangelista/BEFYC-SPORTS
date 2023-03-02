@@ -269,7 +269,26 @@
           "color": ["Preto", "Rosa"],
           "size": ["39", "40", "41", "42"],
           "price": 80
-        }
+        },
 
+        {
+          "id": 27,
+          "name": "Chuteira Campo Copa Pure.4 Flexible Ground",
+          "type": "Chuteira",
+          "img": "../imagens/Produtos/Chuteira/chuteira-adidas-3.png",
+          "color": ["Preto", "Rosa", "Branco"],
+          "size": ["39", "40", "41", "42"],
+          "price": 80
+        },
+
+        {
+          "id": 28,
+          "name": "Chuteira Campo X Speedflow.1 FG White Spark",
+          "type": "Chuteira",
+          "img": "../imagens/Produtos/Chuteira/chuteira-adidas-4.png",
+          "color": ["Branco", "Vermelho"],
+          "size": ["39", "40", "41", "42"],
+          "price": 80
+        }
        ]
     }
