@@ -7,8 +7,9 @@
           "img": "../imagens/Produtos/Camisa/camisa-O.marselha.png",
           "color": ["Branca", "Azul"],
           "size": ["P", "M", "G", "GG"],
-          "price": 65
+          "price": 75
         },
+
         {
           "id": 1,
           "name": "Camisa Paris Saint-Germain",
@@ -16,7 +17,7 @@
           "img": "../imagens/Produtos/Camisa/camisa-Psg.png",
           "color": ["Branca"],
           "size": ["P", "M", "G", "GG"],
-          "price": 80
+          "price": 75
         },
         {
           "id": 2,
@@ -25,8 +26,14 @@
           "img": "../imagens/Produtos/Camisa/camisa-Cruzeiro.png",
           "color": ["Azul", "Azul"],
           "size": ["P", "M", "G", "GG"],
-          "price": 100
+          "price": 80
         },
+
+        
+
+
+
+
         {
           "id": 3,
           "name": "Chuteira nike futsal",
@@ -36,6 +43,7 @@
           "size": ["40", "41", "42"],
           "price": 190
         },
+
         {
           "id": 4,
           "name": "Kit Treino Arsenal",
@@ -98,7 +106,7 @@
 
         {
           "id": 10,
-          "name": "Roupa Termica, Calça e Blusa",
+          "name": "Calça e Camisa Termica",
           "type": "Treino",
           "img": "../imagens/Produtos/treino/roupa-termica.png",
           "color": ["Preta"],
@@ -147,25 +155,49 @@
         },
 
         {
-          "id" : 15,
-          "name": "Pacote Creatina Turbo 500g",
+          "id": 15,
+          "name": "Short Nike",
           "type": "Treino",
-          "img": "../imagens/Produtos/treino/pacote-creatina-turbo.png",
-          "color": ["preto"],
-          "size": [""],
-          "price": 30
-          
+          "img": "../imagens/Produtos/treino/short-nike.png",
+          "color": ["Preto"],
+          "size": ["P", "M", "G"],
+          "price": 25
         },
 
         {
           "id": 16,
-          "name": "Pacote Creatina Turbo 50g",
+          "name": "Short Adidas",
           "type": "Treino",
-          "img": "../imagens/Produtos/treino/roupa-treino-fm4.png",
-          "color": ["Preto", "Verde"],
-          "size": [""],
+          "img": "../imagens/Produtos/treino/short-adidas.png",
+          "color": ["Branco"],
+          "size": ["P", "M", "G"],
+          "price": 25
+        },
+
+
+        {
+          "id" : 17,
+          "name": "Pacote Creatina Turbo",
+          "type": "Treino",
+          "img": "../imagens/Produtos/treino/pacote-creatina-turbo.png",
+          "color": ["preto"],
+          "size": ["500g", "1000g"],
           "price": 45
+          
+        },
+
+        {
+          "id": 18,
+          "name": "Pacote Creatina Whey 100% Pure 900g",
+          "type": "Treino",
+          "img": "../imagens/Produtos/treino/pacote-whey.png",
+          "color": ["Preto"],
+          "size": ["900g", "1800g"],
+          "price": 30
         }
+
+
+
 
 
         
