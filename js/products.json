@@ -74,7 +74,7 @@
           "id": 7,
           "name": "Camisa Atalanta Goleiro 22/23",
           "type": "Camisa",
-          "img": "../imagens/Produtos/Camisa/camisa-Atalanta-Goleiro-.png",
+          "img": "imagens/Produtos/Camisa/camisa-Atalanta-Goleiro-.png",
           "color": ["Branco", "Preto"],
           "size": ["P", "M", "G", "GG"],
           "price": 80
@@ -84,7 +84,7 @@
           "id": 8,
           "name": "Camisa Borussia 22/23",
           "type": "Camisa",
-          "img": "../imagens/Produtos/Camisa/camisa-Borrusia.png",
+          "img": "imagens/Produtos/Camisa/camisa-Borrusia.png",
           "color": ["Preto", "Amarelo"],
           "size": ["P", "M", "G", "GG"],
           "price": 80
