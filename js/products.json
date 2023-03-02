@@ -69,20 +69,9 @@
           "size": ["P", "M", "G", "GG"],
           "price": 80
         },
-
-        {
-          "id": 7,
-          "name": "Camisa Atalanta Goleiro 22/23",
-          "type": "Camisa",
-          "img": "..imagens/Produtos/Camisa/camisa-Atalanta-Goleiro-.png",
-          "color": ["Branco", "Preto"],
-          "size": ["P", "M", "G", "GG"],
-          "price": 80
-        },
-
         
         {
-          "id": 8,
+          "id": 7,
           "name": "Camisa Brasil 19/20",
           "type": "Camisa",
           "img": "../imagens/Produtos/Camisa/camisa-Brasil.png",
@@ -92,7 +81,7 @@
         },
 
         {
-          "id": 10,
+          "id": 8,
           "name": "Camisa Croacia 22/23",
           "type": "Camisa",
           "img": "../imagens/Produtos/Camisa/camisa-Croacia.png",
@@ -102,7 +91,7 @@
         },
 
         {
-          "id": 11,
+          "id": 9,
           "name": "Camisa Espanha 22/23",
           "type": "Camisa",
           "img": "../imagens/Produtos/Camisa/camisa-Espanha.png",
@@ -112,7 +101,7 @@
         },
 
         {
-          "id": 12,
+          "id": 10,
           "name": "Camisa França 22/23",
           "type": "Camisa",
           "img": "../imagens/Produtos/Camisa/camisa-França.png",
@@ -122,7 +111,7 @@
         },
 
         {
-          "id": 13,
+          "id": 11,
           "name": "Camisa Holanda 22/23",
           "type": "Camisa",
           "img": "../imagens/Produtos/Camisa/camisa-Holanda.png",
@@ -132,7 +121,7 @@
         },
 
         {
-          "id": 14,
+          "id": 12,
           "name": "Camisa Inglaterra 22/23",
           "type": "Camisa",
           "img": "../imagens/Produtos/Camisa/camisa-Inglaterra.png",
@@ -142,7 +131,7 @@
         },
 
         {
-          "id": 15,
+          "id": 13,
           "name": "Camisa Inter Miame 23/24",
           "type": "Camisa",
           "img": "../imagens/Produtos/Camisa/camisa-InterMiami.png",
@@ -152,7 +141,7 @@
         },
 
         {
-          "id": 16,
+          "id": 14,
           "name": "Camisa Liverpool Collab LeBron James 23/24",
           "type": "Camisa",
           "img": "../imagens/Produtos/Camisa/camisa-Liverpool.png",
