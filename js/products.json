@@ -253,10 +253,20 @@
 
         {
           "id": 25,
-          "name": "Chuteira Predator Freak.1 Society",
+          "name": "Chuteira Campo Predator Freak.1",
           "type": "Chuteira",
           "img": "../imagens/Produtos/Chuteira/chuteira-adidas-7.png",
           "color": ["Preto", "Verde", "Azul"],
+          "size": ["39", "40", "41", "42"],
+          "price": 80
+        },
+
+        {
+          "id": 26,
+          "name": "Chuteira Campo Predator Accuracy.1",
+          "type": "Chuteira",
+          "img": "../imagens/Produtos/Chuteira/chuteira-adidas-2.png",
+          "color": ["Preto", "Rosa"],
           "size": ["39", "40", "41", "42"],
           "price": 80
         }
