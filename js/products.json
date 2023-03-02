@@ -174,7 +174,7 @@
           "id": 17,
           "name": "Camisa Midtjylland 23/24",
           "type": "Camisa",
-          "img": "../imagens/Produtos/Camisa/camisa-Midtylland.png",
+          "img": "../imagens/Produtos/Camisa/camisa-Midtjylland.png",
           "color": ["Branco", "Vermelho", "Preto"],
           "size": ["P", "M", "G", "GG"],
           "price": 80
@@ -234,7 +234,7 @@
           "id": 23,
           "name": "Camisa Werder Bremen Especial 'How Deep is Your Love?' 23/24",
           "type": "Camisa",
-          "img": "../imagens/Produtos/Camisa/camisa-Liverpool.png",
+          "img": "../imagens/Produtos/Camisa/camisa-WerderBremer.png",
           "color": ["Verde", "Verde-Escuro"],
           "size": ["P", "M", "G", "GG"],
           "price": 80
