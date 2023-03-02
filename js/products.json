@@ -194,6 +194,17 @@
           "color": ["Preto"],
           "size": ["900g", "1800g"],
           "price": 30
+        },
+
+        {
+          "id" : 19,
+          "name": "Kit Peso",
+          "type": "Treino",
+          "img": "../imagens/Produtos/treino/kit-peso.png",
+          "color": ["preto", "Vermelho"],
+          "size": ["5Kg", "10Kg"],
+          "price": 60
+          
         }
 
 
