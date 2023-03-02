@@ -245,7 +245,19 @@
           "color": ["Preto", "Laranja"],
           "size": ["Unico"],
           "price": 50
+        },
+
+        {
+          "id": 24,
+          "name": "Saco de Box Adulto 20Kg",
+          "type": "Treino",
+          "img": "../imagens/Produtos/treino/saco-de-pancada.png",
+          "color": ["Preto"],
+          "size": ["Unico"],
+          "price": 70
         }
+
+
 
 
 
