@@ -146,12 +146,12 @@
 
         {
           "id": 14,
-          "name": "Short Adidas",
+          "name": "Pote Creatina Turbo",
           "type": "Treino",
-          "img": "../imagens/Produtos/treino/short-adidas.png",
-          "color": ["Branco"],
-          "size": ["P", "M", "G"],
-          "price": 25
+          "img": "../imagens/Produtos/treino/pote-creatina.png",
+          "color": ["Preto"],
+          "size": [""],
+          "price": 45
         },
 
         {
@@ -166,13 +166,12 @@
 
         {
           "id": 16,
-          "name": "Pote Creatina Turbo",
+          "name": "Short Adidas",
           "type": "Treino",
-          "img": "../imagens/Produtos/treino/pote-creatina.png",
-          "color": ["Preto"],
-          "size": [""],
-          "price": 45
-          
+          "img": "../imagens/Produtos/treino/short-adidas.png",
+          "color": ["Branco"],
+          "size": ["P", "M", "G"],
+          "price": 25
         },
 
 
@@ -206,7 +205,48 @@
           "size": ["5Kg", "10Kg"],
           "price": 60
           
+        },
+
+        {
+          "id": 20,
+          "name": "Cama Elastica",
+          "type": "Treino",
+          "img": "../imagens/Produtos/treino/cama-elastica.png",
+          "color": ["Preto"],
+          "size": ["Pequena", "Media"],
+          "price": 70
+        },
+
+        {
+          "id": 21,
+          "name": "Kit Crossfit",
+          "type": "Treino",
+          "img": "../imagens/Produtos/treino/kit-crossfit.png",
+          "color": ["Preto"],
+          "size": ["Unico"],
+          "price": 100
+        },
+
+        {
+          "id": 22,
+          "name": "Kit Treino Agilidade",
+          "type": "Treino",
+          "img": "../imagens/Produtos/treino/kit-treino-agilidade.png",
+          "color": ["Amarelo", "Rosa", "Azul"],
+          "size": ["Unico"],
+          "price": 85
+        },
+
+        {
+          "id": 23,
+          "name": "Hand Grip Acte T99",
+          "type": "Treino",
+          "img": "../imagens/Produtos/treino/grip.png",
+          "color": ["Preto", "Laranja"],
+          "size": ["Unico"],
+          "price": 50
         }
+
 
 
 
