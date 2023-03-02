@@ -249,6 +249,16 @@
           "color": ["Branco", "Vermelho", "Preto"],
           "size": ["P", "M", "G", "GG"],
           "price": 80
+        },
+
+        {
+          "id": 25,
+          "name": "Chuteira Predator Freak.1 Society",
+          "type": "Chuteira",
+          "img": "../imagens/Produtos/Camisa/camisa-adidas-7.png",
+          "color": ["Preto", "Verde", "Azul"],
+          "size": ["39", "40", "41", "42"],
+          "price": 80
         }
 
        ]
