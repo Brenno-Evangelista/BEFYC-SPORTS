@@ -80,18 +80,9 @@
           "price": 80
         },
 
+        
         {
           "id": 8,
-          "name": "Camisa Borrusia 22/23",
-          "type": "Camisa",
-          "img": "../imagens/Produtos/Camisa/camisa-Borrusia.png",
-          "color": ["Amarelo", "Preto"],
-          "size": ["P", "M", "G", "GG"],
-          "price": 80
-        },
-
-        {
-          "id": 9,
           "name": "Camisa Brasil 19/20",
           "type": "Camisa",
           "img": "../imagens/Produtos/Camisa/camisa-Brasil.png",
