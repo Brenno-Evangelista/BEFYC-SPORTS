@@ -84,7 +84,7 @@
           "id": 8,
           "name": "Camisa Borussia 22/23",
           "type": "Camisa",
-          "img": "..imagens/Produtos/Camisa/camisa-Ajax.png",
+          "img": "imagens/Produtos/Camisa/camisa-Borrusia.png",
           "color": ["Preto", "Amarelo"],
           "size": ["P", "M", "G", "GG"],
           "price": 80
