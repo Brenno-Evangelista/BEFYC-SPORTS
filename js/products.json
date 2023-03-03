@@ -451,6 +451,17 @@
           "color": ["Verde", "Azul"],
           "size": ["39", "40", "41", "42"],
           "price": 80
+        },
+
+        {
+          "id": 45,
+          "name": "Chuteira Campo Future Ultimate DNA FG/AG",
+          "type": "Chuteira",
+          "img": "../imagens/Produtos/Chuteira/chuteira-puma-4.png",
+          "color": ["Azul-Escuro", "Laranja"],
+          "size": ["39", "40", "41", "42"],
+          "price": 80
         }
+
        ]
     }

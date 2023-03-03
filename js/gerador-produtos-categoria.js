@@ -3,7 +3,7 @@ let productsContainer = document.getElementById('produtos');
 
 requestJSON = () => {
     let req = new XMLHttpRequest();
-    req.open('GET','https://github.com/Brenno-Evangelista/BEFYC-SPORTS/blob/main/js/products.json', false); 
+    req.open('GET','https://raw.githubusercontent.com/Brenno-Evangelista/BEFYC-SPORTS/main/js/products.json', false); 
     req.send(null);
     if(req.status == 200) {
       jsonObject = JSON.parse(req.responseText);
