@@ -305,10 +305,10 @@
 
         {
           "id": 30,
-          "name": "Chuteira Campo Adidas Predator Accuracy.1",
+          "name": "Chuteira Campo X Speedportal Messi.1",
           "type": "Chuteira",
-          "img": "../imagens/Produtos/Chuteira/chuteira-adidas-2.png",
-          "color": ["Preto", "Rosa"],
+          "img": "../imagens/Produtos/Chuteira/chuteira-x-speed-Messi.png",
+          "color": ["Laranja", "Prata", "Preto"],
           "size": ["39", "40", "41", "42"],
           "price": 80
         },
