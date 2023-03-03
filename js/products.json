@@ -294,17 +294,17 @@
 
         
         {
-          "id": 25,
+          "id": 29,
           "name": "Chuteira Campo Adidas Predator Freak.1",
           "type": "Chuteira",
-          "img": "../imagens/Produtos/Chuteira/chuteira-adidas-7.png",
-          "color": ["Preto", "Verde", "Azul"],
+          "img": "../imagens/Produtos/Chuteira/chuteira-adidas-6.png",
+          "color": ["Branco", "Cinza", "Vermelho"],
           "size": ["39", "40", "41", "42"],
           "price": 80
         },
 
         {
-          "id": 26,
+          "id": 30,
           "name": "Chuteira Campo Adidas Predator Accuracy.1",
           "type": "Chuteira",
           "img": "../imagens/Produtos/Chuteira/chuteira-adidas-2.png",
@@ -314,7 +314,7 @@
         },
 
         {
-          "id": 27,
+          "id": 31,
           "name": "Chuteira Campo Adidas Copa Pure.4 Flexible Ground",
           "type": "Chuteira",
           "img": "../imagens/Produtos/Chuteira/chuteira-adidas-3.png",
@@ -324,7 +324,7 @@
         },
 
         {
-          "id": 28,
+          "id": 32,
           "name": "Chuteira Campo Adidas X Speedflow.1 FG White Spark",
           "type": "Chuteira",
           "img": "../imagens/Produtos/Chuteira/chuteira-adidas-4.png",
@@ -334,7 +334,7 @@
         },
 
         {
-          "id": 29,
+          "id": 33,
           "name": "Chuteira Campo Adidas X Speedportal.3 Sem Cadarços",
           "type": "Chuteira",
           "img": "../imagens/Produtos/Chuteira/chuteira-adidas-5.png",
@@ -344,7 +344,7 @@
         },
 
         {
-          "id": 30,
+          "id": 34,
           "name": "Chuteira Campo Adidas Predator Freak .1",
           "type": "Chuteira",
           "img": "../imagens/Produtos/Chuteira/chuteira-adidas-6.png",
@@ -354,7 +354,7 @@
         },
 
         {
-          "id": 31,
+          "id": 35,
           "name": "Chuteira Nike Mercurial Superfly 8 Elite FG",
           "type": "Chuteira",
           "img": "../imagens/Produtos/Chuteira/chuteira-nike-1.png",
@@ -364,7 +364,7 @@
         },
 
         {
-          "id": 32,
+          "id": 36,
           "name": "Chuteira Campo Nike Phantom GX Club Dynamic Fit",
           "type": "Chuteira",
           "img": "../imagens/Produtos/Chuteira/chuteira-nike-2.png",
@@ -374,7 +374,7 @@
         },
 
         {
-          "id": 33,
+          "id": 37,
           "name": "Chuteira Campo Nike Phantom GX Club Dynamic Fit",
           "type": "Chuteira",
           "img": "../imagens/Produtos/Chuteira/chuteira-nike-3.png",
@@ -384,7 +384,7 @@
         },
 
         {
-          "id": 34,
+          "id": 38,
           "name": "Chuteira Campo Nike Phantom Ultra Venom",
           "type": "Chuteira",
           "img": "../imagens/Produtos/Chuteira/chuteira-nike-4.png",
@@ -394,7 +394,7 @@
         },
 
         {
-          "id": 35,
+          "id": 39,
           "name": "Chuteira Campo Nike Air Zoom Mercurial Vapor 15 Elite",
           "type": "Chuteira",
           "img": "../imagens/Produtos/Chuteira/chuteira-nike-5.png",
@@ -404,7 +404,7 @@
         },
 
         {
-          "id": 36,
+          "id": 40,
           "name": "Chuteira Campo Nike Tiempo Legend 9 Elite",
           "type": "Chuteira",
           "img": "../imagens/Produtos/Chuteira/chuteira-nike-6.png",
@@ -414,7 +414,7 @@
         },
 
         {
-          "id": 37,
+          "id": 41,
           "name": "Chuteira Campo Nike Phantom GT Pro",
           "type": "Chuteira",
           "img": "../imagens/Produtos/Chuteira/chuteira-nike-7.png",
@@ -424,7 +424,7 @@
         },
 
         {
-          "id": 38,
+          "id": 42,
           "name": "Chuteira Campo Puma Future Z 1.4 Liberty",
           "type": "Chuteira",
           "img": "../imagens/Produtos/Chuteira/chuteira-puma-1.png",
@@ -434,7 +434,7 @@
         },
 
         {
-          "id": 39,
+          "id": 43,
           "name": "Chuteira Campo Future Z 1.3 Instinct",
           "type": "Chuteira",
           "img": "../imagens/Produtos/Chuteira/chuteira-puma-2.png",
@@ -444,7 +444,7 @@
         },
 
         {
-          "id": 40,
+          "id": 44,
           "name": "Chuteira Campo Puma Ultra Ultimate 1.4 Instinct",
           "type": "Chuteira",
           "img": "../imagens/Produtos/Chuteira/chuteira-puma-3.png",
