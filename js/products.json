@@ -7,7 +7,7 @@
           "img": "../imagens/Produtos/Camisa/camisa-O.marselha.png",
           "color": ["Branca", "Azul"],
           "size": ["P", "M", "G", "GG"],
-          "price": 75
+          "price": 70
         },
 
         {
@@ -27,7 +27,7 @@
           "img": "../imagens/Produtos/Camisa/camisa-Cruzeiro.png",
           "color": ["Azul", "Azul"],
           "size": ["P", "M", "G", "GG"],
-          "price": 80
+          "price": 95
         },
 
         {
@@ -47,7 +47,7 @@
           "img": "../imagens/Produtos/Camisa/camisa-Almeria.png",
           "color": ["Preto", "Ciano"],
           "size": ["P", "M", "G", "GG"],
-          "price": 80
+          "price": 87
         },
 
         {
@@ -57,7 +57,7 @@
           "img": "../imagens/Produtos/Camisa/camisa-Americamex.png",
           "color": ["Preto", "Branca"],
           "size": ["P", "M", "G", "GG"],
-          "price": 80
+          "price": 89
         },
 
         {
@@ -67,7 +67,7 @@
           "img": "../imagens/Produtos/Camisa/camisa-Argentina.png",
           "color": ["Azul", "Branca"],
           "size": ["P", "M", "G", "GG"],
-          "price": 80
+          "price": 79
         },
         
         {
@@ -77,7 +77,7 @@
           "img": "../imagens/Produtos/Camisa/camisa-Brasil.png",
           "color": ["Amarelo", "Verde"],
           "size": ["P", "M", "G", "GG"],
-          "price": 80
+          "price": 55
         },
 
         {
@@ -87,7 +87,7 @@
           "img": "../imagens/Produtos/Camisa/camisa-Croacia.png",
           "color": ["Azul", "Azul-Escuro"],
           "size": ["P", "M", "G", "GG"],
-          "price": 80
+          "price": 60
         },
 
         {
@@ -97,7 +97,7 @@
           "img": "../imagens/Produtos/Camisa/camisa-Espanha.png",
           "color": ["Vermelho", "Amarelo"],
           "size": ["P", "M", "G", "GG"],
-          "price": 80
+          "price": 60
         },
 
         {
@@ -107,7 +107,7 @@
           "img": "../imagens/Produtos/Camisa/camisa-França.png",
           "color": ["Azul-Escuro", "Dourado"],
           "size": ["P", "M", "G", "GG"],
-          "price": 80
+          "price": 74
         },
 
         {
@@ -117,7 +117,7 @@
           "img": "../imagens/Produtos/Camisa/camisa-Holanda.png",
           "color": ["Laranja", "Preto"],
           "size": ["P", "M", "G", "GG"],
-          "price": 80
+          "price": 60
         },
 
         {
@@ -127,7 +127,7 @@
           "img": "../imagens/Produtos/Camisa/camisa-Inglaterra.png",
           "color": ["Branco", "Azul"],
           "size": ["P", "M", "G", "GG"],
-          "price": 80
+          "price": 62
         },
 
         {
@@ -137,7 +137,7 @@
           "img": "../imagens/Produtos/Camisa/camisa-InterMiami.png",
           "color": ["Preto", "Rosa"],
           "size": ["P", "M", "G", "GG"],
-          "price": 80
+          "price": 79
         },
 
         {
@@ -147,7 +147,7 @@
           "img": "../imagens/Produtos/Camisa/camisa-Liverpool.png",
           "color": ["Azul", "Azul"],
           "size": ["P", "M", "G", "GG"],
-          "price": 80
+          "price": 119
         },
 
         {
@@ -157,7 +157,7 @@
           "img": "../imagens/Produtos/Camisa/camisa-Borrusia.png",
           "color": ["Amarelo", "Preto"],
           "size": ["P", "M", "G", "GG"],
-          "price": 80
+          "price": 72
         },
 
         {
@@ -167,7 +167,7 @@
           "img": "../imagens/Produtos/Camisa/camisa-Atalanta-Goleiro-.png",
           "color": ["Preto"],
           "size": ["P", "M", "G", "GG"],
-          "price": 80
+          "price": 49
         },
 
 
@@ -178,17 +178,17 @@
           "img": "../imagens/Produtos/Camisa/camisa-Monterrey.png",
           "color": ["Roxo", "Rosa"],
           "size": ["P", "M", "G", "GG"],
-          "price": 80
+          "price": 78
         },
 
         {
           "id": 18,
-          "name": "Camisa Dia dos Namorados 23/24",
+          "name": "Camisa Napoli Dia dos Namorados 23/24",
           "type": "Camisa",
           "img": "../imagens/Produtos/Camisa/camisa-Napoli-Diadosnamorados.png",
           "color": ["Branca", "Vermelho"],
           "size": ["P", "M", "G", "GG"],
-          "price": 80
+          "price": 119
         },
 
         {
@@ -198,7 +198,7 @@
           "img": "../imagens/Produtos/Camisa/camisa-Parma.png",
           "color": ["Branco", "Preto"],
           "size": ["P", "M", "G", "GG"],
-          "price": 80
+          "price": 67
         },
 
         {
@@ -208,7 +208,7 @@
           "img": "../imagens/Produtos/Camisa/camisa-Porto.png",
           "color": ["Azul", "Dourado"],
           "size": ["P", "M", "G", "GG"],
-          "price": 80
+          "price": 99
         },
 
         {
@@ -218,7 +218,7 @@
           "img": "../imagens/Produtos/Camisa/camisa-Sporting.png",
           "color": ["Verde", "Branco"],
           "size": ["P", "M", "G", "GG"],
-          "price": 80
+          "price": 56
         },
         
         {
@@ -228,7 +228,7 @@
           "img": "../imagens/Produtos/Camisa/camisa-WerderBremer.png",
           "color": ["Verde", "Verde-Escuro"],
           "size": ["P", "M", "G", "GG"],
-          "price": 80
+          "price": 119
         },
 
         {
@@ -238,7 +238,7 @@
           "img": "../imagens/Produtos/Camisa/camisa-West-Ham.png",
           "color": ["Verde", "Verde-Escuro"],
           "size": ["P", "M", "G", "GG"],
-          "price": 80
+          "price": 69
         },
 
         {
@@ -248,7 +248,7 @@
           "img": "../imagens/Produtos/Camisa/camisa-Midtjylland.png",
           "color": ["Branco", "Vermelho", "Preto"],
           "size": ["P", "M", "G", "GG"],
-          "price": 80
+          "price": 119
         },
 
         {

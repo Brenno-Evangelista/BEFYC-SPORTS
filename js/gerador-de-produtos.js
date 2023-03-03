@@ -21,7 +21,7 @@ generateProductHTML = () => {
             </div>
             <div id="informação-produto">
                 <p id="produto-nome">`+jsonObject.products[idValue].name+`</p>
-                <p id="produto-preço">R$`+jsonObject.products[idValue].price+`,00</p>
+                <p id="produto-preço">R$`+jsonObject.products[idValue].price+`,99</p>
                 <p class="label">Tamanho</p>
                 <select name="tamanho" id="selecionar-tamanho">
 
