@@ -290,6 +290,167 @@
           "color": ["Branco", "Vermelho"],
           "size": ["39", "40", "41", "42"],
           "price": 80
+        },
+
+        
+        {
+          "id": 25,
+          "name": "Chuteira Campo Adidas Predator Freak.1",
+          "type": "Chuteira",
+          "img": "../imagens/Produtos/Chuteira/chuteira-adidas-7.png",
+          "color": ["Preto", "Verde", "Azul"],
+          "size": ["39", "40", "41", "42"],
+          "price": 80
+        },
+
+        {
+          "id": 26,
+          "name": "Chuteira Campo Adidas Predator Accuracy.1",
+          "type": "Chuteira",
+          "img": "../imagens/Produtos/Chuteira/chuteira-adidas-2.png",
+          "color": ["Preto", "Rosa"],
+          "size": ["39", "40", "41", "42"],
+          "price": 80
+        },
+
+        {
+          "id": 27,
+          "name": "Chuteira Campo Adidas Copa Pure.4 Flexible Ground",
+          "type": "Chuteira",
+          "img": "../imagens/Produtos/Chuteira/chuteira-adidas-3.png",
+          "color": ["Preto", "Rosa", "Branco"],
+          "size": ["39", "40", "41", "42"],
+          "price": 80
+        },
+
+        {
+          "id": 28,
+          "name": "Chuteira Campo Adidas X Speedflow.1 FG White Spark",
+          "type": "Chuteira",
+          "img": "../imagens/Produtos/Chuteira/chuteira-adidas-4.png",
+          "color": ["Branco", "Vermelho"],
+          "size": ["39", "40", "41", "42"],
+          "price": 80
+        },
+
+        {
+          "id": 29,
+          "name": "Chuteira Campo Adidas X Speedportal.3 Sem Cadarços",
+          "type": "Chuteira",
+          "img": "../imagens/Produtos/Chuteira/chuteira-adidas-5.png",
+          "color": ["Preto", "Rosa"],
+          "size": ["39", "40", "41", "42"],
+          "price": 80
+        },
+
+        {
+          "id": 30,
+          "name": "Chuteira Campo Adidas Predator Freak .1",
+          "type": "Chuteira",
+          "img": "../imagens/Produtos/Chuteira/chuteira-adidas-6.png",
+          "color": ["Branco", "Cinza"],
+          "size": ["39", "40", "41", "42"],
+          "price": 80
+        },
+
+        {
+          "id": 31,
+          "name": "Chuteira Nike Mercurial Superfly 8 Elite FG",
+          "type": "Chuteira",
+          "img": "../imagens/Produtos/Chuteira/chuteira-nike-1.png",
+          "color": ["Verde-Agua", "Verde-Claro"],
+          "size": ["39", "40", "41", "42"],
+          "price": 80
+        },
+
+        {
+          "id": 32,
+          "name": "Chuteira Campo Nike Phantom GX Club Dynamic Fit",
+          "type": "Chuteira",
+          "img": "../imagens/Produtos/Chuteira/chuteira-nike-2.png",
+          "color": ["Branco", "Azul-Claro"],
+          "size": ["39", "40", "41", "42"],
+          "price": 80
+        },
+
+        {
+          "id": 33,
+          "name": "Chuteira Campo Nike Phantom GX Club Dynamic Fit",
+          "type": "Chuteira",
+          "img": "../imagens/Produtos/Chuteira/chuteira-nike-3.png",
+          "color": ["Preto", "Laranja"],
+          "size": ["39", "40", "41", "42"],
+          "price": 80
+        },
+
+        {
+          "id": 34,
+          "name": "Chuteira Campo Nike Phantom Ultra Venom",
+          "type": "Chuteira",
+          "img": "../imagens/Produtos/Chuteira/chuteira-nike-4.png",
+          "color": ["Preto", "Laranja"],
+          "size": ["39", "40", "41", "42"],
+          "price": 80
+        },
+
+        {
+          "id": 35,
+          "name": "Chuteira Campo Nike Air Zoom Mercurial Vapor 15 Elite",
+          "type": "Chuteira",
+          "img": "../imagens/Produtos/Chuteira/chuteira-nike-5.png",
+          "color": ["Branco", "Ciano"],
+          "size": ["39", "40", "41", "42"],
+          "price": 80
+        },
+
+        {
+          "id": 36,
+          "name": "Chuteira Campo Nike Tiempo Legend 9 Elite",
+          "type": "Chuteira",
+          "img": "../imagens/Produtos/Chuteira/chuteira-nike-6.png",
+          "color": ["Branco", "Azul-Claro", "Verde"],
+          "size": ["39", "40", "41", "42"],
+          "price": 80
+        },
+
+        {
+          "id": 37,
+          "name": "Chuteira Campo Nike Phantom GT Pro",
+          "type": "Chuteira",
+          "img": "../imagens/Produtos/Chuteira/chuteira-nike-7.png",
+          "color": ["Amarelo", "Azul"],
+          "size": ["39", "40", "41", "42"],
+          "price": 80
+        },
+
+        {
+          "id": 38,
+          "name": "Chuteira Campo Puma Future Z 1.4 Liberty",
+          "type": "Chuteira",
+          "img": "../imagens/Produtos/Chuteira/chuteira-puma-1.png",
+          "color": ["Branco", "Bege", "Vermelho"],
+          "size": ["39", "40", "41", "42"],
+          "price": 80
+        },
+
+        {
+          "id": 39,
+          "name": "Chuteira Campo Future Z 1.3 Instinct",
+          "type": "Chuteira",
+          "img": "../imagens/Produtos/Chuteira/chuteira-puma-2.png",
+          "color": ["Roxo", "Verde"],
+          "size": ["39", "40", "41", "42"],
+          "price": 80
+        },
+
+        {
+          "id": 40,
+          "name": "Chuteira Campo Puma Ultra Ultimate 1.4 Instinct",
+          "type": "Chuteira",
+          "img": "../imagens/Produtos/Chuteira/chuteira-puma-3.png",
+          "color": ["Verde", "Azul"],
+          "size": ["39", "40", "41", "42"],
+          "price": 80
         }
        ]
     }
