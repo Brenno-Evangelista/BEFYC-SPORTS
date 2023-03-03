@@ -32,8 +32,9 @@ generateProductHTML = () => {
             </div>
             
         </div>
-        <p id="Descrição">`+jsonObject.products[idValue].descrição+`</p>
-
+        <div>
+           <p id="Descrição">`+jsonObject.products[idValue].descrição+`</p>
+        </div>
     `
 
 } 

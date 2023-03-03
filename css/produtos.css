@@ -82,6 +82,19 @@
     opacity: 0.8;
 }
 
+#Descrição{
+    display: flex;
+    flex-direction: column;
+    margin-left: 50%;
+    margin-top: 50%;
+    width: 450px;
+    height: auto;
+    max-width: 500px;
+    font-weight: bold;
+
+
+}
+
 /****************
    DESCRIÇÃo
 ****************/
