@@ -16,12 +16,13 @@
     border: 2px solid var(--main-blue-color);
     border-radius: 10px;
     padding: 1rem;
+    max-width: 700px;
     
 }
 
 #produto-image {
-    width: 100%;
-    height: auto;
+    width: 300px;
+    height: 300px;
 }
 
 #informação-produto {
@@ -49,14 +50,14 @@
 }
 
 #selecionar-tamanho {
-    width: 70%;
+    width: 70px;
     padding: 0.5rem;
     margin-top: 0.3rem;
     border-radius: 5px;
 }
 
 #quantidade-produto {
-    width: 40%;
+    width: 40px;
     text-align: center;
     margin-top: 0.3rem;
     margin-right: 0.4rem;
@@ -66,7 +67,7 @@
 }
 
 #produto-button {
-    width: 90%;
+    width: 90px;
     margin-top: 1rem;
     padding: 0.5rem;
     text-align: center;

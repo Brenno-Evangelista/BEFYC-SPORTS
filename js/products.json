@@ -248,7 +248,8 @@
           "img": "../imagens/Produtos/Camisa/camisa-Midtjylland.png",
           "color": ["Branco", "Vermelho", "Preto"],
           "size": ["P", "M", "G", "GG"],
-          "price": 119
+          "price": 119,
+          "descrição": "tamo tentando inventar oq butar"
         },
 
         {

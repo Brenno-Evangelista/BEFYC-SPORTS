@@ -30,7 +30,9 @@ generateProductHTML = () => {
                 <input type="number" id="quantidade-produto" min=1 max=99 value=1>
                 <a id="produto-button" href="#">Comprar</a>
             </div>
+            
         </div>
+        <p id="Descrição">`+jsonObject.products[idValue].descrição+`</p>
 
     `
 

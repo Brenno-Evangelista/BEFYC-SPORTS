@@ -117,9 +117,10 @@
 }
 
 .img-produto{
-    width:100%;
-    height: auto;
+    width:250px;
+    height: 250px;
     max-height: 400px;
+
 }
 
 .catalogo-line {
