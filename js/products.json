@@ -315,40 +315,40 @@
 
         {
           "id": 31,
-          "name": "Chuteira Campo Adidas Copa Pure.4 Flexible Ground",
+          "name": "Chuteira Campo X Speedportal.1 SG 'Karim Benzema'",
           "type": "Chuteira",
-          "img": "../imagens/Produtos/Chuteira/chuteira-adidas-3.png",
-          "color": ["Preto", "Rosa", "Branco"],
+          "img": "../imagens/Produtos/Chuteira/chuteira-adidas-bz.png",
+          "color": ["Dourado", "Branco"],
           "size": ["39", "40", "41", "42"],
           "price": 80
         },
 
         {
           "id": 32,
-          "name": "Chuteira Campo Adidas X Speedflow.1 FG White Spark",
+          "name": "Chuteira X Speedportal+ FG 'Al Rihla'",
           "type": "Chuteira",
-          "img": "../imagens/Produtos/Chuteira/chuteira-adidas-4.png",
-          "color": ["Branco", "Vermelho"],
+          "img": "../imagens/Produtos/Chuteira/chuteira-adidas-spedportal.png",
+          "color": ["Ciano", "Azul"],
           "size": ["39", "40", "41", "42"],
           "price": 80
         },
 
         {
           "id": 33,
-          "name": "Chuteira Campo Adidas X Speedportal.3 Sem Cadarços",
+          "name": "Chuteira Campo Nike Hypervenom Phelon Prem TF",
           "type": "Chuteira",
-          "img": "../imagens/Produtos/Chuteira/chuteira-adidas-5.png",
-          "color": ["Preto", "Rosa"],
+          "img": "../imagens/Produtos/Chuteira/chuteira-nike-hypervenom.png",
+          "color": ["Dourado", "Verde"],
           "size": ["39", "40", "41", "42"],
           "price": 80
         },
 
         {
           "id": 34,
-          "name": "Chuteira Campo Adidas Predator Freak .1",
+          "name": "Chuteira Campo Nike Mercurial Superfly 8 FG Elite Jordan 1 Travis Scott x Fragment",
           "type": "Chuteira",
-          "img": "../imagens/Produtos/Chuteira/chuteira-adidas-6.png",
-          "color": ["Branco", "Cinza"],
+          "img": "../imagens/Produtos/Chuteira/chuteira-nike-ts.png",
+          "color": ["Branco", "Azul", "Preto"],
           "size": ["39", "40", "41", "42"],
           "price": 80
         },
