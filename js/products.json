@@ -315,7 +315,7 @@
 
         {
           "id": 31,
-          "name": "Chuteira Campo X Speedportal.1 SG 'Karim Benzema'",
+          "name": "Chuteira Campo X Speedportal.1 'Karim Benzema'",
           "type": "Chuteira",
           "img": "../imagens/Produtos/Chuteira/chuteira-adidas-bz.png",
           "color": ["Dourado", "Branco"],
@@ -325,7 +325,7 @@
 
         {
           "id": 32,
-          "name": "Chuteira X Speedportal+ FG 'Al Rihla'",
+          "name": "Chuteira Campo X Speedportal+ FG 'Al Rihla'",
           "type": "Chuteira",
           "img": "../imagens/Produtos/Chuteira/chuteira-adidas-spedportal.png",
           "color": ["Ciano", "Azul"],
@@ -335,7 +335,7 @@
 
         {
           "id": 33,
-          "name": "Chuteira Campo Nike Hypervenom Phelon Prem TF",
+          "name": "Chuteira Campo Nike Hypervenom Phelon",
           "type": "Chuteira",
           "img": "../imagens/Produtos/Chuteira/chuteira-nike-hypervenom.png",
           "color": ["Dourado", "Verde"],
@@ -345,7 +345,7 @@
 
         {
           "id": 34,
-          "name": "Chuteira Campo Nike Mercurial Superfly 8 FG Elite Jordan 1 Travis Scott x Fragment",
+          "name": "Chuteira Campo Nike Mercurial Superfly 8 Jordan 1 Travis Scott x Fragment",
           "type": "Chuteira",
           "img": "../imagens/Produtos/Chuteira/chuteira-nike-ts.png",
           "color": ["Branco", "Azul", "Preto"],
