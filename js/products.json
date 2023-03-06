@@ -515,9 +515,9 @@
 
         {
           "id": 51,
-          "name": "Roupa de Treinamento Surf ",
+          "name": "Roupa de Treinamento Feminino Surf Blusa e Short",
           "type": "Treino",
-          "img": "../imagens/Produtos/treino/roupa-surfista.png",
+          "img": "../imagens/Produtos/treino/roupa-surfista-fm.png",
           "color": ["Preto", "Verde"],
           "size": ["P", "M", "G"],
           "price": 80
@@ -525,11 +525,151 @@
 
         {
           "id": 52,
-          "name": "Roupa de Treinamento Termica",
+          "name": "Roupa de Treinamento Termica Blusa e Calça",
           "type": "Treino",
           "img": "../imagens/Produtos/treino/roupa-termica.png",
           "color": ["Preto"],
           "size": ["P", "M", "G"],
+          "price": 80
+        },
+
+        {
+          "id": 53,
+          "name": "Roupa de Treino Adidas Short e Camisa",
+          "type": "Treino",
+          "img": "../imagens/Produtos/treino/roupa-treino-adidas.png",
+          "color": ["Preto", "Branco"],
+          "size": ["P", "M", "G"],
+          "price": 80
+        },
+
+        {
+          "id": 54,
+          "name": "Roupa de Treinamento Feminino Short e Cropped",
+          "type": "Treino",
+          "img": "../imagens/Produtos/treino/roupa-treino-fm2.png",
+          "color": ["Azul", "Azul-Escuro", "Rosa"],
+          "size": ["P", "M", "G"],
+          "price": 80
+        },
+
+        {
+          "id": 55,
+          "name": "Roupa de Treinamento Feminino Short e Cropped",
+          "type": "Treino",
+          "img": "../imagens/Produtos/treino/roupa-treino-fm3.png",
+          "color": ["Cinza"],
+          "size": ["P", "M", "G"],
+          "price": 80
+        },
+
+        {
+          "id": 56,
+          "name": "Roupa de Treinamento Feminino Calça e Cropped",
+          "type": "Treino",
+          "img": "../imagens/Produtos/treino/roupa-treino-fm4.png",
+          "color": ["Preto", "Verde"],
+          "size": ["P", "M", "G"],
+          "price": 80
+        },
+
+        {
+          "id": 57,
+          "name": "Roupa de Treinamento Feminino Nike Short e Blusa",
+          "type": "Treino",
+          "img": "../imagens/Produtos/treino/roupa-treino-fm5.png",
+          "color": ["Preto", "Branco"],
+          "size": ["P", "M", "G"],
+          "price": 80
+        },
+
+        {
+          "id": 58,
+          "name": "Cama Elastica",
+          "type": "Treino",
+          "img": "../imagens/Produtos/treino/cama-elastica.png",
+          "color": ["Preto"],
+          "size": ["Unico"],
+          "price": 80
+        },
+
+        {
+          "id": 59,
+          "name": "Kit Crossfit",
+          "type": "Treino",
+          "img": "../imagens/Produtos/treino/kit-crossfit.png",
+          "color": ["Preto"],
+          "size": ["Unico"],
+          "price": 80
+        },
+
+        {
+          "id": 60,
+          "name": "Acte T99 Hand Grip",
+          "type": "Treino",
+          "img": "../imagens/Produtos/treino/grip.png",
+          "color": ["Preto", "Laranja"],
+          "size": ["Unico"],
+          "price": 80
+        },
+
+        {
+          "id": 61,
+          "name": "Kit Peso",
+          "type": "Treino",
+          "img": "../imagens/Produtos/treino/kit-peso.png",
+          "color": ["Preto", "Vermelho"],
+          "size": ["Unico"],
+          "price": 80
+        },
+
+        {
+          "id": 62,
+          "name": "Kit Treino de Agilidade",
+          "type": "Treino",
+          "img": "../imagens/Produtos/treino/kit-treino-agilidade.png",
+          "color": ["Preto"],
+          "size": ["Unico"],
+          "price": 80
+        },
+
+        {
+          "id": 63,
+          "name": "Pacote Whey",
+          "type": "Treino",
+          "img": "../imagens/Produtos/treino/pacote-whey.png",
+          "color": ["Amarelo", "Azul", "Rosa"],
+          "size": ["Unico"],
+          "price": 80
+        },
+
+        {
+          "id": 64,
+          "name": "Pote Creatina Turbo",
+          "type": "Treino",
+          "img": "../imagens/Produtos/treino/pote-creatina.png",
+          "color": ["Preto"],
+          "size": ["1Kg"],
+          "price": 80
+        },
+      
+        {
+          "id": 65,
+          "name": "Short Nike",
+          "type": "Treino",
+          "img": "../imagens/Produtos/treino/short-nike.png",
+          "color": ["Preto", "Cinza"],
+          "size": ["P", "M", "G"],
+          "price": 80
+        },
+
+        {
+          "id": 66,
+          "name": "Short Adidas",
+          "type": "Treino",
+          "img": "../imagens/Produtos/treino/short-adidas.png",
+          "color": ["Branco","Preto"],
+          "size": ["Unico"],
           "price": 80
         }
 
