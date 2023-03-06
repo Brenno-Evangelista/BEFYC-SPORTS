@@ -511,6 +511,26 @@
           "color": ["Vermelho", "Preto"],
           "size": ["P", "M", "G"],
           "price": 80
+        },
+
+        {
+          "id": 51,
+          "name": "Roupa de Treinamento Surf ",
+          "type": "Treino",
+          "img": "../imagens/Produtos/treino/roupa-surfista.png",
+          "color": ["Preto", "Verde"],
+          "size": ["P", "M", "G"],
+          "price": 80
+        },
+
+        {
+          "id": 52,
+          "name": "Roupa de Treinamento Termica",
+          "type": "Treino",
+          "img": "../imagens/Produtos/treino/roupa-termica.png",
+          "color": ["Preto"],
+          "size": ["P", "M", "G"],
+          "price": 80
         }
 
        ]
