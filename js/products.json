@@ -467,7 +467,7 @@
           "id": 46,
           "name": "Kit Treinamento Arsenal",
           "type": "Treino",
-          "img": "../imagens/Produtos/trino/roupa-arsenal.png",
+          "img": "../imagens/Produtos/treino/roupa-arsenal.png",
           "color": ["Vermelho", "Preto"],
           "size": ["P", "M", "G"],
           "price": 80
