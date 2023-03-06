@@ -461,6 +461,16 @@
           "color": ["Azul-Escuro", "Laranja"],
           "size": ["39", "40", "41", "42"],
           "price": 80
+        },
+
+        {
+          "id": 46,
+          "name": "Kit Treinamento Arsenal",
+          "type": "Treino",
+          "img": "../imagens/Produtos/trino/roupa-arsenal.png",
+          "color": ["Vermelho", "Preto"],
+          "size": ["P", "M", "G"],
+          "price": 80
         }
 
        ]
