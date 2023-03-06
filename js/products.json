@@ -465,9 +465,49 @@
 
         {
           "id": 46,
-          "name": "Kit Treinamento Arsenal",
+          "name": "Kit Treinamento Arsenal Short e Regata",
           "type": "Treino",
           "img": "../imagens/Produtos/treino/roupa-arsenal.png",
+          "color": ["Vermelho", "Preto"],
+          "size": ["P", "M", "G"],
+          "price": 80
+        },
+
+        {
+          "id": 47,
+          "name": "Kit Treinamento Borussia Casaco e Calça",
+          "type": "Treino",
+          "img": "../imagens/Produtos/treino/roupa-borussia.png",
+          "color": ["Amarelo", "Preto"],
+          "size": ["P", "M", "G"],
+          "price": 80
+        },
+
+        {
+          "id": 48,
+          "name": "Kit Treinamento Manchester City Casaco e Calça",
+          "type": "Treino",
+          "img": "../imagens/Produtos/treino/roupa-city.png",
+          "color": ["Azul-Claro", "Azul-Escuro"],
+          "size": ["P", "M", "G"],
+          "price": 80
+        },
+
+        {
+          "id": 49,
+          "name": "Kit Treinamento Seleção Francesa Casaco e Calça",
+          "type": "Treino",
+          "img": "../imagens/Produtos/treino/roupa-frança.png",
+          "color": ["Azul", "Dourado"],
+          "size": ["P", "M", "G"],
+          "price": 80
+        },
+
+        {
+          "id": 50,
+          "name": "Kit Treinamento AC Milan Casaco e Calça",
+          "type": "Treino",
+          "img": "../imagens/Produtos/treino/roupa-milan.png",
           "color": ["Vermelho", "Preto"],
           "size": ["P", "M", "G"],
           "price": 80
