@@ -831,7 +831,17 @@
           "color": ["Branco","Azul"],
           "size": ["8","9","10","12"],
           "price": 80
-        }
+        },
+
+        {
+            "id": 82,
+            "name": "Luva Adidas Predator Mutator",
+            "type": "Luva",
+            "img": "../imagens/Produtos/Luva/luvas-adidas-predator-mutator.png",
+            "color": ["Preto","Dourado","Branco"],
+            "size": ["8","9","10","12"],
+            "price": 80
+          }
 
        ]
     }
