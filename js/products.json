@@ -885,10 +885,10 @@
 
           {
             "id": 88,
-            "name": "Camisa Seleção Alemã 89/90",
+            "name": "Camisa Cruzeiro 93/94",
             "type": "Camisa-Retro",
-            "img": "../imagens/Produtos/camisa retro/camisa-Alemanha1990.png",
-            "color": ["Branco","Preto","Vermelho"],
+            "img": "../imagens/Produtos/camisa retro/camisa-cruzeiro-93.png",
+            "color": ["Azul","Branco"],
             "size": ["P","M","G","GG"],
             "price": 80
           },
@@ -1041,7 +1041,59 @@
             "color": ["Azul-Claro"],
             "size": ["P","M","G","GG"],
             "price": 80
+          },
+
+          {
+            "id": 104,
+            "name": "Camisa Seleção Alemã 89/90",
+            "type": "Camisa-Retro",
+            "img": "../imagens/Produtos/camisa retro/camisa-Alemanha1990.png",
+            "color": ["Branco","Vermelho","Preto","Amarelo"],
+            "size": ["P","M","G","GG"],
+            "price": 80
+          },
+
+          {
+            "id": 105,
+            "name": "Camisa Santos 12/13",
+            "type": "Camisa-Retro",
+            "img": "../imagens/Produtos/camisa retro/camisa-santos-13.png",
+            "color": ["Azul", "Preto"],
+            "size": ["P","M","G","GG"],
+            "price": 80
+          },
+
+          {
+            "id": 106,
+            "name": "Camisa Seleção Inglesa 02/03",
+            "type": "Camisa-Retro",
+            "img": "../imagens/Produtos/camisa retro/england-02.png",
+            "color": ["Branco", "Vermelho"],
+            "size": ["P","M","G","GG"],
+            "price": 80
+          },
+
+          {
+            "id": 107,
+            "name": "Camisa Olympique de Marseille 98/99",
+            "type": "Camisa-Retro",
+            "img": "../imagens/Produtos/camisa retro/om-98.png",
+            "color": ["Branco", "Azul-Claro"],
+            "size": ["P","M","G","GG"],
+            "price": 80
+          },
+
+          {
+            "id": 108,
+            "name": "Camisa Parma 02/03",
+            "type": "Camisa-Retro",
+            "img": "../imagens/Produtos/camisa retro/parma-02.png",
+            "color": ["Branco", "Azul-Escuro", "Amarelo"],
+            "size": ["P","M","G","GG"],
+            "price": 80
           }
+          
+
 
        ]
     }
