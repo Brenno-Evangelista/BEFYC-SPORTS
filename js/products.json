@@ -835,10 +835,50 @@
 
         {
             "id": 83,
-            "name": "Luva Adidas Predator Mutator",
+            "name": "Luva Goleiro Adidas Predator Mutator",
             "type": "Luva",
             "img": "../imagens/Produtos/Luva/luvas-adidas-predator-mutator.png",
             "color": ["Preto","Dourado","Branco"],
+            "size": ["8","9","10","12"],
+            "price": 80
+          },
+
+          {
+            "id": 84,
+            "name": "Luva Goleiro Nike Phantom Shadow PRO lrj",
+            "type": "Luva",
+            "img": "../imagens/Produtos/Luva/Luva-Goleiro-Nike-Phantom-Shadow-PRO-lrj.png",
+            "color": ["Vermelho","Verde","Branco"],
+            "size": ["8","9","10","12"],
+            "price": 80
+          },
+
+          {
+            "id": 85,
+            "name": "Luva Goleiro Nike Mercurial Touch Elite Original",
+            "type": "Luva",
+            "img": "../imagens/Produtos/Luva/luva-nike-mercurial-touch-elite-original.png",
+            "color": ["Verde","Preto",
+            "size": ["8","9","10","12"],
+            "price": 80
+          },
+
+          {
+            "id": 86,
+            "name": "Luva Goleiro Adidas Predator GL Hybrid Solar ",
+            "type": "Luva",
+            "img": "../imagens/Produtos/Luva/Luva-de-Goleiro-Predator-GL-Hybrid-Solar.png",
+            "color": ["Laranja","Verde","Branco"],
+            "size": ["8","9","10","12"],
+            "price": 80
+          },
+
+          {
+            "id": 87,
+            "name": "Luva Goleiro Puma Future Ultimate Nc",
+            "type": "Luva",
+            "img": "../imagens/Produtos/Luva/puma-luvas-guarda-redes-future-ultimate-nc.png",
+            "color": ["Azul","Laranja","Branco"],
             "size": ["8","9","10","12"],
             "price": 80
           }
