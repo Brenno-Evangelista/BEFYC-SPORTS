@@ -881,6 +881,166 @@
             "color": ["Azul","Laranja","Branco"],
             "size": ["8","9","10","12"],
             "price": 80
+          },
+
+          {
+            "id": 88,
+            "name": "Camisa Seleção Alemã 89/90",
+            "type": "Camisa-Retro",
+            "img": "../imagens/Produtos/camisa retro/camisa-Alemanha1990.png",
+            "color": ["Branco","Preto","Vermelho"],
+            "size": ["P","M","G","GG"],
+            "price": 80
+          },
+
+          {
+            "id": 89,
+            "name": "Camisa Arsenal 06/07",
+            "type": "Camisa-Retro",
+            "img": "../imagens/Produtos/camisa retro/camisa-Arsenal2006.png",
+            "color": ["Vermelho","Dourado"],
+            "size": ["P","M","G","GG"],
+            "price": 80
+          },
+
+          {
+            "id": 90,
+            "name": "Camisa Barcelona 15/16",
+            "type": "Camisa-Retro",
+            "img": "../imagens/Produtos/camisa retro/camisa-Barcelona2015.png",
+            "color": ["Azul","Preto"],
+            "size": ["P","M","G","GG"],
+            "price": 80
+          },
+
+          {
+            "id": 91,
+            "name": "Camisa Seleção Brasileira 02/03",
+            "type": "Camisa-Retro",
+            "img": "../imagens/Produtos/camisa retro/camisa-Brasil2002.png",
+            "color": ["Verde","Amarelo"],
+            "size": ["P","M","G","GG"],
+            "price": 80
+          },
+
+          {
+            "id": 92,
+            "name": "Camisa Seleção Francesa 05/06",
+            "type": "Camisa-Retro",
+            "img": "../imagens/Produtos/camisa retro/camisa-França2006.png",
+            "color": ["Branco","Azul","Vermelho"],
+            "size": ["P","M","G","GG"],
+            "price": 80
+          },
+
+          {
+            "id": 93,
+            "name": "Camisa Seleção Holandesa 74/75",
+            "type": "Camisa-Retro",
+            "img": "../imagens/Produtos/camisa retro/camisa-Holanda1974.png",
+            "color": ["Laranja","Preto"],
+            "size": ["P","M","G","GG"],
+            "price": 80
+          },
+
+          {
+            "id": 94,
+            "name": "Camisa Inter de Milão 04/05",
+            "type": "Camisa-Retro",
+            "img": "../imagens/Produtos/camisa retro/camisa-InterMilão2004.png",
+            "color": ["Cinza","Amarelo"],
+            "size": ["P","M","G","GG"],
+            "price": 80
+          },
+
+          {
+            "id": 95,
+            "name": "Camisa Seleção Italiana 96/97",
+            "type": "Camisa-Retro",
+            "img": "../imagens/Produtos/camisa retro/camisa-Italia1996.png",
+            "color": ["Branco","Azul"],
+            "size": ["P","M","G","GG"],
+            "price": 80
+          },
+
+          {
+            "id": 96,
+            "name": "Camisa Juventus 14/15",
+            "type": "Camisa-Retro",
+            "img": "../imagens/Produtos/camisa retro/camisa-Juventos2015.png",
+            "color": ["Rosa","Branco","Preto"],
+            "size": ["P","M","G","GG"],
+            "price": 80
+          },
+
+          {
+            "id": 97,
+            "name": "Camisa Manchester United 07/08",
+            "type": "Camisa-Retro",
+            "img": "../imagens/Produtos/camisa retro/camisa-ManchesterUnited2007.png",
+            "color": ["Azul","Branco"],
+            "size": ["P","M","G","GG"],
+            "price": 80
+          },
+
+          {
+            "id": 98,
+            "name": "Camisa Milan 06/07",
+            "type": "Camisa-Retro",
+            "img": "../imagens/Produtos/camisa retro/camisa-Milan2006.png",
+            "color": ["Vermelho","Branco"],
+            "size": ["P","M","G","GG"],
+            "price": 80
+          },
+
+          {
+            "id": 99,
+            "name": "Camisa Newcastle 00/01",
+            "type": "Camisa-Retro",
+            "img": "../imagens/Produtos/camisa retro/camisa-Newcastle2000.png",
+            "color": ["Branco","Preto"],
+            "size": ["P","M","G","GG"],
+            "price": 80
+          },
+
+          {
+            "id": 100,
+            "name": "Camisa Paris Saint Germain 01/02",
+            "type": "Camisa-Retro",
+            "img": "../imagens/Produtos/camisa retro/camisa-Psg2001.png",
+            "color": ["Azul","Vermelho"],
+            "size": ["P","M","G","GG"],
+            "price": 80
+          },
+
+          {
+            "id": 101,
+            "name": "Camisa Real Madrid 08/09",
+            "type": "Camisa-Retro",
+            "img": "../imagens/Produtos/camisa retro/camisa-RealMadrid2009.png",
+            "color": ["Preto","Azul-Claro"],
+            "size": ["P","M","G","GG"],
+            "price": 80
+          },
+
+          {
+            "id": 102,
+            "name": "Camisa Sporting 02/03",
+            "type": "Camisa-Retro",
+            "img": "../imagens/Produtos/camisa retro/camisa-Sporting2003.png",
+            "color": ["Verde","Branco"],
+            "size": ["P","M","G","GG"],
+            "price": 80
+          },
+
+          {
+            "id": 103,
+            "name": "Camisa Tottenham 05/06",
+            "type": "Camisa-Retro",
+            "img": "../imagens/Produtos/camisa retro/camisa-Tottenham2006.png",
+            "color": ["Azul-Claro"],
+            "size": ["P","M","G","GG"],
+            "price": 80
           }
 
        ]
