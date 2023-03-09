@@ -1251,6 +1251,56 @@
             "color": ["Preto", "Verde"],
             "size": ["39", "40", "41", "42"],
             "price": 80
+          },
+
+          {
+            "id": 125,
+            "name": "Ben 10",
+            "type": "Tenis",
+            "img": "../imagens/Produtos/tenis/Ben-10-Tênis.png",
+            "color": ["Preto", "Verde"],
+            "size": ["39", "40", "41", "42"],
+            "price": 80
+          },
+
+          {
+            "id": 126,
+            "name": "Relampago Marquinhos",
+            "type": "Tenis",
+            "img": "../imagens/Produtos/tenis/tenis-relampago-marquinhos.png",
+            "color": ["Vermelho", "Preto"],
+            "size": ["39", "40", "41", "42"],
+            "price": 80
+          },
+
+          {
+            "id": 127,
+            "name": "Mizuno Wave Prophecy 11s ",
+            "type": "Tenis",
+            "img": "../imagens/Produtos/tenis/tenis-mizuno-wave-prophecy-11s-removebg-preview.png",
+            "color": ["Branco", "Cinza"],
+            "size": ["39", "40", "41", "42"],
+            "price": 80
+          },
+
+          {
+            "id": 128,
+            "name": "Puma Rs Block Party",
+            "type": "Tenis",
+            "img": "../imagens/Produtos/tenis/TÊNIS-RS-X-EFEKT-TOPOGRAPHIC.png",
+            "color": ["Preto", "Verde","Azul","Vermelho"],
+            "size": ["39", "40", "41", "42"],
+            "price": 80
+          },
+
+          {
+            "id": 129,
+            "name": "Puma Rs Z Lth",
+            "type": "Tenis",
+            "img": "../imagens/Produtos/tenis/TÊNIS-RS-Z-LTH.png",
+            "color": ["Preto", "Verde","Branco"],
+            "size": ["39", "40", "41", "42"],
+            "price": 80
           }
 
 
