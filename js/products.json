@@ -885,10 +885,10 @@
 
           {
             "id": 88,
-            "name": "Camisa Cruzeiro 93/94",
+            "name": "Camisa Milan 05/06",
             "type": "Camisa-Retro",
-            "img": "../imagens/Produtos/camisa retro/camisa-cruzeiro-93.png",
-            "color": ["Azul","Branco"],
+            "img": "../imagens/Produtos/camisa retro/camisa-Milan2006.png",
+            "color": ["Branco","Vermelho"],
             "size": ["P","M","G","GG"],
             "price": 80
           },
@@ -985,10 +985,10 @@
 
           {
             "id": 98,
-            "name": "Camisa Milan 06/07",
+            "name": "Camisa Cruzeiro 93/94",
             "type": "Camisa-Retro",
-            "img": "../imagens/Produtos/camisa retro/camisa-Milan2006.png",
-            "color": ["Vermelho","Branco"],
+            "img": "../imagens/Produtos/camisa retro/camisa-cruzeiro-93.png",
+            "color": ["Azul","Branco"],
             "size": ["P","M","G","GG"],
             "price": 80
           },
