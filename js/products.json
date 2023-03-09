@@ -858,7 +858,7 @@
             "name": "Luva Goleiro Nike Mercurial Touch Elite Original",
             "type": "Luva",
             "img": "../imagens/Produtos/Luva/luva-nike-mercurial-touch-elite-original.png",
-            "color": ["Verde","Preto",
+            "color": ["Verde","Preto"],
             "size": ["8","9","10","12"],
             "price": 80
           },
