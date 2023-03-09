@@ -1091,8 +1091,167 @@
             "color": ["Branco", "Azul-Escuro", "Amarelo"],
             "size": ["P","M","G","GG"],
             "price": 80
-          }
+          },
           
+          {
+            "id": 109,
+            "name": "Nike Air Jordan 11 Cherry",
+            "type": "Tenis",
+            "img": "../imagens/Produtos/tenis/Air-Jordan-11Cherry.png",
+            "color": ["Branco", "Vermelho"],
+            "size": ["39", "40", "41", "42"],
+            "price": 80
+          },
+
+          {
+            "id": 110,
+            "name": "Adidas Adi2000",
+            "type": "Tenis",
+            "img": "../imagens/Produtos/tenis/Tênis-Adi2000.png",
+            "color": ["Branco", "Azul","Preto"],
+            "size": ["39", "40", "41", "42"],
+            "price": 80
+          },
+          
+          {
+            "id": 111,
+            "name": "Nike Air Jordan 6 Retro",
+            "type": "Tenis",
+            "img": "../imagens/Produtos/tenis/Tênis-Air-Jordan-6-Retro.png",
+            "color": ["Cinza", "Branco"],
+            "size": ["39", "40", "41", "42"],
+            "price": 80
+          },
+
+          {
+            "id": 112,
+            "name": "Adidas Forum Bold",
+            "type": "Tenis",
+            "img": "../imagens/Produtos/tenis/Tênis-Forum-Bold.png",
+            "color": ["Branco", "Preto"],
+            "size": ["39", "40", "41", "42"],
+            "price": 80
+          },
+
+          {
+            "id": 113,
+            "name": "Adidas Forum Low",
+            "type": "Tenis",
+            "img": "../imagens/Produtos/tenis/Tênis-Forum-Low.png",
+            "color": ["Azul-Claro", "Branco"],
+            "size": ["39", "40", "41", "42"],
+            "price": 80
+          },
+
+          {
+            "id": 114,
+            "name": "Nike Air Max Lebron 7 Retro QS",
+            "type": "Tenis",
+            "img": "../imagens/Produtos/tenis/Tênis-Nike-Air Max-Lebron-7-Retro-QS.png",
+            "color": ["Preto", "Ciano","Branco"],
+            "size": ["39", "40", "41", "42"],
+            "price": 80
+          },
+
+          {
+            "id": 115,
+            "name": "Nike Air Max 90",
+            "type": "Tenis",
+            "img": "../imagens/Produtos/tenis/Tênis-Nike-Air-Max-90.png",
+            "color": ["Branco", "Preto"],
+            "size": ["39", "40", "41", "42"],
+            "price": 80
+          },
+
+          {
+            "id": 117,
+            "name": "Nike Air Max 95",
+            "type": "Tenis",
+            "img": "../imagens/Produtos/tenis/Tênis-Nike-Air-Max-95.png",
+            "color": ["Branco", "Azul-Claro","Cinza"],
+            "size": ["39", "40", "41", "42"],
+            "price": 80
+          },
+
+          {
+            "id": 118,
+            "name": "Nike Air Max 97",
+            "type": "Tenis",
+            "img": "../imagens/Produtos/tenis/Tênis-Nike-Air-Max-97.png",
+            "color": ["Dourado", "Preto"],
+            "size": ["39", "40", "41", "42"],
+            "price": 80
+          },
+
+          {
+            "id": 119,
+            "name": "Nike Air Max TW",
+            "type": "Tenis",
+            "img": "../imagens/Produtos/tenis/Tênis-Nike-Air-Max-TW.png",
+            "color": ["Cinza", "Preto"],
+            "size": ["39", "40", "41", "42"],
+            "price": 80
+          },
+
+          {
+            "id": 120,
+            "name": "Adidas NMD R1 V2",
+            "type": "Tenis",
+            "img": "../imagens/Produtos/tenis/Tênis-NMD-R1-V2.png",
+            "color": ["Cinza", "Verde"],
+            "size": ["39", "40", "41", "42"],
+            "price": 80
+          },
+
+          {
+            "id": 121,
+            "name": "Adidas NMD R1 V3",
+            "type": "Tenis",
+            "img": "../imagens/Produtos/tenis/Tênis-NMD-R1-V3.png",
+            "color": ["Preto", "Azul"],
+            "size": ["39", "40", "41", "42"],
+            "price": 80
+          },
+
+          {
+            "id": 122,
+            "name": "Puma Rs X Efekt Topographic",
+            "type": "Tenis",
+            "img": "../imagens/Produtos/tenis/TÊNIS-RS-X-EFEKT-TOPOGRAPHIC.png",
+            "color": ["Branco", "Preto", "Azul"],
+            "size": ["39", "40", "41", "42"],
+            "price": 80
+          },
+
+          {
+            "id": 123,
+            "name": "Puma Slipstream Archive Remastered",
+            "type": "Tenis",
+            "img": "../imagens/Produtos/tenis/Tênis-Slipstream-Archive-Remastered.png",
+            "color": ["Branco", "Verde", "Preto"],
+            "size": ["39", "40", "41", "42"],
+            "price": 80
+          },
+
+          {
+            "id": 124,
+            "name": "Puma Slipstream Neymar Jr",
+            "type": "Tenis",
+            "img": "../imagens/Produtos/tenis/Tênis-Slipstream-Neymar Jr.png",
+            "color": ["Branco", "Amarelo"],
+            "size": ["39", "40", "41", "42"],
+            "price": 80
+          },
+
+          {
+            "id": 125,
+            "name": "Puma Suede Archive Remastered",
+            "type": "Tenis",
+            "img": "../imagens/Produtos/tenis/Tênis-Suede-Archive-Remastered.png",
+            "color": ["Preto", "Verde"],
+            "size": ["39", "40", "41", "42"],
+            "price": 80
+          }
 
 
        ]
