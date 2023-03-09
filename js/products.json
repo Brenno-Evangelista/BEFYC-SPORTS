@@ -697,7 +697,7 @@
           "id": 69,
           "name": "Luva Goleiro Ho Soccer One Negative Essential 8",
           "type": "Luva",
-          "img": "..imagens/Produtos/Luva/luva-goleiro-ho-soccer-one-negative-essential-8.png",
+          "img": "../imagens/Produtos/Luva/luva-goleiro-ho-soccer-one-negative-essential-8.png",
           "color": ["Branca","Azul"],
           "size": ["8","9","10","12"],
           "price": 80
@@ -707,7 +707,7 @@
           "id": 70,
           "name": "Luva Goleiro Mercurial Touch Elite",
           "type": "Luva",
-          "img": "..imagens/Produtos/Luva/Luva-Goleiro-Mercurial-Touch-Elite.png",
+          "img": "../imagens/Produtos/Luva/Luva-Goleiro-Mercurial-Touch-Elite.png",
           "color": ["Preto","Verde"],
           "size": ["8","9","10","12"],
           "price": 80
@@ -717,7 +717,7 @@
           "id": 71,
           "name": "Luva Goleiro NGA Soccer Evolution Elite",
           "type": "Luva",
-          "img": "..imagens/Produtos/Luva/Luva-Goleiro-NGA-Soccer-Evolution-Elite.png",
+          "img": "../imagens/Produtos/Luva/Luva-Goleiro-NGA-Soccer-Evolution-Elite.png",
           "color": ["Laranja","Preta"],
           "size": ["8","9","10","12"],
           "price": 80
@@ -727,7 +727,7 @@
           "id": 72,
           "name": "Luva Goleiro Poker Water Precision",
           "type": "Luva",
-          "img": "..imagens/Produtos/Luva/Luva-Goleiro-Poker-Water-Precision.png",
+          "img": "../imagens/Produtos/Luva/Luva-Goleiro-Poker-Water-Precision.png",
           "color": ["Roxo","Branca","Azul"],
           "size": ["8","9","10","12"],
           "price": 80
@@ -737,7 +737,7 @@
           "id": 73,
           "name": "Luva Goleiro Predator Pro 2",
           "type": "Luva",
-          "img": "..imagens/Produtos/Luva/Luva-Goleiro-Predator-Pro-2-Azul-Branco.png",
+          "img": "../imagens/Produtos/Luva/Luva-Goleiro-Predator-Pro-2-Azul-Branco.png",
           "color": ["Branca","Azul"],
           "size": ["8","9","10","12"],
           "price": 80
@@ -747,7 +747,7 @@
           "id": 73,
           "name": "Luva Goleiro Predator Pro",
           "type": "Luva",
-          "img": "..imagens/Produtos/Luva/Luva-Goleiro-Predator-Pro-Azul-Branco.png",
+          "img": "../imagens/Produtos/Luva/Luva-Goleiro-Predator-Pro-Azul-Branco.png",
           "color": ["Branca","Azul"],
           "size": ["8","9","10","12"],
           "price": 80
@@ -757,7 +757,7 @@
           "id": 74,
           "name": "Luva Goleiro Predator 20 Competition",
           "type": "Luva",
-          "img": "..imagens/Produtos/Luva/Luva-Goleiro-Predator20-Competition.png",
+          "img": "../imagens/Produtos/Luva/Luva-Goleiro-Predator20-Competition.png",
           "color": ["Preta","Vermelha"],
           "size": ["8","9","10","12"],
           "price": 80
@@ -767,7 +767,7 @@
           "id": 75,
           "name": "Luva Goleiro Raptor Nitro 4 Outubro Rosa",
           "type": "Luva",
-          "img": "..imagens/Produtos/Luva/Luva-Goleiro-Raptor-Nitro-4-Outubro-rosa.png",
+          "img": "../imagens/Produtos/Luva/Luva-Goleiro-Raptor-Nitro-4-Outubro-rosa.png",
           "color": ["Branco","Rosa"],
           "size": ["8","9","10","12"],
           "price": 80
@@ -777,7 +777,7 @@
           "id": 76,
           "name": "Luva Goleiro Saipulang",
           "type": "Luva",
-          "img": "..imagens/Produtos/Luva/Luva-Goleiro-Saipulang.png",
+          "img": "../imagens/Produtos/Luva/Luva-Goleiro-Saipulang.png",
           "color": ["Preto","Azul"],
           "size": ["8","9","10","12"],
           "price": 80
@@ -787,7 +787,7 @@
           "id": 77,
           "name": "Luva Goleiro Saurognathous Celie",
           "type": "Luva",
-          "img": "..imagens/Produtos/Luva/luva-Goleiro-saurognathous-celie-rosa.png",
+          "img": "../imagens/Produtos/Luva/luva-Goleiro-saurognathous-celie-rosa.png",
           "color": ["Rosa","Preto"],
           "size": ["8","9","10","12"],
           "price": 80
@@ -797,7 +797,7 @@
           "id": 78,
           "name": "Luva Goleiro Scorpius",
           "type": "Luva",
-          "img": "..imagens/Produtos/Luva/Luva-Goleiro-Scorpius-Black.png",
+          "img": "../imagens/Produtos/Luva/Luva-Goleiro-Scorpius-Black.png",
           "color": ["Preto","Branco"],
           "size": ["8","9","10","12"],
           "price": 80
@@ -807,7 +807,7 @@
           "id": 79,
           "name": "Luva Goleiro Scorpius",
           "type": "Luva",
-          "img": "..imagens/Produtos/Luva/Luva-Goleiro-Scorpius-Blue.png",
+          "img": "../imagens/Produtos/Luva/Luva-Goleiro-Scorpius-Blue.png",
           "color": ["Preto","Azul"],
           "size": ["8","9","10","12"],
           "price": 80
@@ -817,7 +817,7 @@
           "id": 80,
           "name": "Luva Goleiro Scorpius",
           "type": "Luva",
-          "img": "..imagens/Produtos/Luva/Luva-Goleiro-Scorpius-White.png",
+          "img": "../imagens/Produtos/Luva/Luva-Goleiro-Scorpius-White.png",
           "color": ["Branco","Preto"],
           "size": ["8","9","10","12"],
           "price": 80
@@ -827,7 +827,7 @@
           "id": 81,
           "name": "Luva Goleiro Three Stars Fox",
           "type": "Luva",
-          "img": "..imagens/Produtos/Luva/luva-goleiro-three-stars-fox-palma-branca.png",
+          "img": "../imagens/Produtos/Luva/luva-goleiro-three-stars-fox-palma-branca.png",
           "color": ["Branco","Azul"],
           "size": ["8","9","10","12"],
           "price": 80
