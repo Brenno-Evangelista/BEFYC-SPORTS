@@ -7,7 +7,7 @@
           "img": "../imagens/Produtos/Camisa/camisa-O.marselha.png",
           "color": ["Branca", "Azul"],
           "size": ["P", "M", "G", "GG"],
-          "price": 70
+          "price": 100
         },
 
         {
@@ -17,7 +17,7 @@
           "img": "../imagens/Produtos/Camisa/camisa-Psg.png",
           "color": ["Branca"],
           "size": ["P", "M", "G", "GG"],
-          "price": 75
+          "price": 115
         },
 
         {
@@ -27,7 +27,7 @@
           "img": "../imagens/Produtos/Camisa/camisa-Cruzeiro.png",
           "color": ["Azul", "Azul"],
           "size": ["P", "M", "G", "GG"],
-          "price": 95
+          "price": 130
         },
 
         {
@@ -37,7 +37,7 @@
           "img": "../imagens/Produtos/Camisa/camisa-Ajax.png",
           "color": ["Branca", "Vermelha"],
           "size": ["P", "M", "G", "GG"],
-          "price": 80
+          "price": 110
         },
 
         {
@@ -47,7 +47,7 @@
           "img": "../imagens/Produtos/Camisa/camisa-Almeria.png",
           "color": ["Preto", "Ciano"],
           "size": ["P", "M", "G", "GG"],
-          "price": 87
+          "price": 112
         },
 
         {
@@ -57,7 +57,7 @@
           "img": "../imagens/Produtos/Camisa/camisa-Americamex.png",
           "color": ["Preto", "Branca"],
           "size": ["P", "M", "G", "GG"],
-          "price": 89
+          "price": 129
         },
 
         {
@@ -67,7 +67,7 @@
           "img": "../imagens/Produtos/Camisa/camisa-Argentina.png",
           "color": ["Azul", "Branca"],
           "size": ["P", "M", "G", "GG"],
-          "price": 79
+          "price": 109
         },
         
         {
@@ -77,7 +77,7 @@
           "img": "../imagens/Produtos/Camisa/camisa-Brasil.png",
           "color": ["Amarelo", "Verde"],
           "size": ["P", "M", "G", "GG"],
-          "price": 55
+          "price": 75
         },
 
         {
@@ -87,7 +87,7 @@
           "img": "../imagens/Produtos/Camisa/camisa-Croacia.png",
           "color": ["Azul", "Azul-Escuro"],
           "size": ["P", "M", "G", "GG"],
-          "price": 60
+          "price": 90
         },
 
         {
@@ -97,7 +97,7 @@
           "img": "../imagens/Produtos/Camisa/camisa-Espanha.png",
           "color": ["Vermelho", "Amarelo"],
           "size": ["P", "M", "G", "GG"],
-          "price": 60
+          "price": 90
         },
 
         {
@@ -107,7 +107,7 @@
           "img": "../imagens/Produtos/Camisa/camisa-França.png",
           "color": ["Azul-Escuro", "Dourado"],
           "size": ["P", "M", "G", "GG"],
-          "price": 74
+          "price": 104
         },
 
         {
@@ -117,7 +117,7 @@
           "img": "../imagens/Produtos/Camisa/camisa-Holanda.png",
           "color": ["Laranja", "Preto"],
           "size": ["P", "M", "G", "GG"],
-          "price": 60
+          "price": 90
         },
 
         {
@@ -127,7 +127,7 @@
           "img": "../imagens/Produtos/Camisa/camisa-Inglaterra.png",
           "color": ["Branco", "Azul"],
           "size": ["P", "M", "G", "GG"],
-          "price": 62
+          "price": 92
         },
 
         {
@@ -137,7 +137,7 @@
           "img": "../imagens/Produtos/Camisa/camisa-InterMiami.png",
           "color": ["Preto", "Rosa"],
           "size": ["P", "M", "G", "GG"],
-          "price": 79
+          "price": 109
         },
 
         {
@@ -147,7 +147,7 @@
           "img": "../imagens/Produtos/Camisa/camisa-Liverpool.png",
           "color": ["Azul", "Azul"],
           "size": ["P", "M", "G", "GG"],
-          "price": 119
+          "price": 139
         },
 
         {
@@ -157,7 +157,7 @@
           "img": "../imagens/Produtos/Camisa/camisa-Borrusia.png",
           "color": ["Amarelo", "Preto"],
           "size": ["P", "M", "G", "GG"],
-          "price": 72
+          "price": 102
         },
 
         {
@@ -167,7 +167,7 @@
           "img": "../imagens/Produtos/Camisa/camisa-Atalanta-Goleiro-.png",
           "color": ["Preto"],
           "size": ["P", "M", "G", "GG"],
-          "price": 49
+          "price": 79
         },
 
 
@@ -178,7 +178,7 @@
           "img": "../imagens/Produtos/Camisa/camisa-Monterrey.png",
           "color": ["Roxo", "Rosa"],
           "size": ["P", "M", "G", "GG"],
-          "price": 78
+          "price": 118
         },
 
         {
@@ -188,7 +188,7 @@
           "img": "../imagens/Produtos/Camisa/camisa-Napoli-Diadosnamorados.png",
           "color": ["Branca", "Vermelho"],
           "size": ["P", "M", "G", "GG"],
-          "price": 119
+          "price": 139
         },
 
         {
@@ -198,7 +198,7 @@
           "img": "../imagens/Produtos/Camisa/camisa-Parma.png",
           "color": ["Branco", "Preto"],
           "size": ["P", "M", "G", "GG"],
-          "price": 67
+          "price": 97
         },
 
         {
@@ -208,7 +208,7 @@
           "img": "../imagens/Produtos/Camisa/camisa-Porto.png",
           "color": ["Azul", "Dourado"],
           "size": ["P", "M", "G", "GG"],
-          "price": 99
+          "price": 139
         },
 
         {
@@ -218,7 +218,7 @@
           "img": "../imagens/Produtos/Camisa/camisa-Sporting.png",
           "color": ["Verde", "Branco"],
           "size": ["P", "M", "G", "GG"],
-          "price": 56
+          "price": 86
         },
         
         {
@@ -228,7 +228,7 @@
           "img": "../imagens/Produtos/Camisa/camisa-WerderBremer.png",
           "color": ["Verde", "Verde-Escuro"],
           "size": ["P", "M", "G", "GG"],
-          "price": 119
+          "price": 129
         },
 
         {
@@ -238,7 +238,7 @@
           "img": "../imagens/Produtos/Camisa/camisa-West-Ham.png",
           "color": ["Verde", "Verde-Escuro"],
           "size": ["P", "M", "G", "GG"],
-          "price": 69
+          "price": 96
         },
 
         {
@@ -248,7 +248,7 @@
           "img": "../imagens/Produtos/Camisa/camisa-Midtjylland.png",
           "color": ["Branco", "Vermelho", "Preto"],
           "size": ["P", "M", "G", "GG"],
-          "price": 119,
+          "price": 159,
           "descrição": "tamo tentando inventar oq butar"
         },
 
@@ -259,7 +259,7 @@
           "img": "../imagens/Produtos/Chuteira/chuteira-adidas-7.png",
           "color": ["Preto", "Verde", "Azul"],
           "size": ["39", "40", "41", "42"],
-          "price": 80
+          "price": 345
         },
 
         {
@@ -269,7 +269,7 @@
           "img": "../imagens/Produtos/Chuteira/chuteira-adidas-2.png",
           "color": ["Preto", "Rosa"],
           "size": ["39", "40", "41", "42"],
-          "price": 80
+          "price": 200
         },
 
         {
@@ -279,7 +279,7 @@
           "img": "../imagens/Produtos/Chuteira/chuteira-adidas-3.png",
           "color": ["Preto", "Rosa", "Branco"],
           "size": ["39", "40", "41", "42"],
-          "price": 80
+          "price": 170
         },
 
         {
@@ -289,7 +289,7 @@
           "img": "../imagens/Produtos/Chuteira/chuteira-adidas-4.png",
           "color": ["Branco", "Vermelho"],
           "size": ["39", "40", "41", "42"],
-          "price": 80
+          "price": 349
         },
 
         
@@ -300,7 +300,7 @@
           "img": "../imagens/Produtos/Chuteira/chuteira-adidas-6.png",
           "color": ["Branco", "Cinza", "Vermelho"],
           "size": ["39", "40", "41", "42"],
-          "price": 80
+          "price": 500
         },
 
         {
@@ -310,7 +310,7 @@
           "img": "../imagens/Produtos/Chuteira/chuteira-x-speed-Messi.png",
           "color": ["Laranja", "Prata", "Preto"],
           "size": ["39", "40", "41", "42"],
-          "price": 80
+          "price": 218
         },
 
         {
@@ -320,7 +320,7 @@
           "img": "../imagens/Produtos/Chuteira/chuteira-adidas-bz.png",
           "color": ["Dourado", "Branco"],
           "size": ["39", "40", "41", "42"],
-          "price": 80
+          "price": 394
         },
 
         {
@@ -330,7 +330,7 @@
           "img": "../imagens/Produtos/Chuteira/chuteira-adidas-spedportal.png",
           "color": ["Ciano", "Azul"],
           "size": ["39", "40", "41", "42"],
-          "price": 80
+          "price": 330
         },
 
         {
@@ -340,7 +340,7 @@
           "img": "../imagens/Produtos/Chuteira/chuteira-nike-hypervenom.png",
           "color": ["Dourado", "Verde"],
           "size": ["39", "40", "41", "42"],
-          "price": 80
+          "price": 399
         },
 
         {
@@ -350,7 +350,7 @@
           "img": "../imagens/Produtos/Chuteira/chuteira-nike-ts.png",
           "color": ["Branco", "Azul", "Preto"],
           "size": ["39", "40", "41", "42"],
-          "price": 80
+          "price": 255
         },
 
         {
@@ -360,7 +360,7 @@
           "img": "../imagens/Produtos/Chuteira/chuteira-nike-1.png",
           "color": ["Verde-Agua", "Verde-Claro"],
           "size": ["39", "40", "41", "42"],
-          "price": 80
+          "price": 415
         },
 
         {
@@ -370,7 +370,7 @@
           "img": "../imagens/Produtos/Chuteira/chuteira-nike-2.png",
           "color": ["Branco", "Azul-Claro"],
           "size": ["39", "40", "41", "42"],
-          "price": 80
+          "price": 399
         },
 
         {
@@ -380,7 +380,7 @@
           "img": "../imagens/Produtos/Chuteira/chuteira-nike-3.png",
           "color": ["Preto", "Laranja"],
           "size": ["39", "40", "41", "42"],
-          "price": 80
+          "price": 420
         },
 
         {
@@ -390,7 +390,7 @@
           "img": "../imagens/Produtos/Chuteira/chuteira-nike-4.png",
           "color": ["Preto", "Laranja"],
           "size": ["39", "40", "41", "42"],
-          "price": 80
+          "price": 318
         },
 
         {
@@ -400,7 +400,7 @@
           "img": "../imagens/Produtos/Chuteira/chuteira-nike-5.png",
           "color": ["Branco", "Ciano"],
           "size": ["39", "40", "41", "42"],
-          "price": 80
+          "price": 299
         },
 
         {
@@ -410,7 +410,7 @@
           "img": "../imagens/Produtos/Chuteira/chuteira-nike-6.png",
           "color": ["Branco", "Azul-Claro", "Verde"],
           "size": ["39", "40", "41", "42"],
-          "price": 80
+          "price": 120
         },
 
         {
@@ -420,7 +420,7 @@
           "img": "../imagens/Produtos/Chuteira/chuteira-nike-7.png",
           "color": ["Amarelo", "Azul"],
           "size": ["39", "40", "41", "42"],
-          "price": 80
+          "price": 255
         },
 
         {
@@ -430,7 +430,7 @@
           "img": "../imagens/Produtos/Chuteira/chuteira-puma-1.png",
           "color": ["Branco", "Bege", "Vermelho"],
           "size": ["39", "40", "41", "42"],
-          "price": 80
+          "price": 430
         },
 
         {
@@ -440,7 +440,7 @@
           "img": "../imagens/Produtos/Chuteira/chuteira-puma-2.png",
           "color": ["Roxo", "Verde"],
           "size": ["39", "40", "41", "42"],
-          "price": 80
+          "price": 480
         },
 
         {
@@ -450,7 +450,7 @@
           "img": "../imagens/Produtos/Chuteira/chuteira-puma-3.png",
           "color": ["Verde", "Azul"],
           "size": ["39", "40", "41", "42"],
-          "price": 80
+          "price": 229
         },
 
         {
@@ -460,7 +460,7 @@
           "img": "../imagens/Produtos/Chuteira/chuteira-puma-4.png",
           "color": ["Azul-Escuro", "Laranja"],
           "size": ["39", "40", "41", "42"],
-          "price": 80
+          "price": 499
         },
 
         {
@@ -480,7 +480,7 @@
           "img": "../imagens/Produtos/treino/roupa-borussia.png",
           "color": ["Amarelo", "Preto"],
           "size": ["P", "M", "G"],
-          "price": 80
+          "price": 120
         },
 
         {
@@ -490,7 +490,7 @@
           "img": "../imagens/Produtos/treino/roupa-city.png",
           "color": ["Azul-Claro", "Azul-Escuro"],
           "size": ["P", "M", "G"],
-          "price": 80
+          "price": 120
         },
 
         {
@@ -500,7 +500,7 @@
           "img": "../imagens/Produtos/treino/roupa-frança.png",
           "color": ["Azul", "Dourado"],
           "size": ["P", "M", "G"],
-          "price": 80
+          "price": 115
         },
 
         {
@@ -510,7 +510,7 @@
           "img": "../imagens/Produtos/treino/roupa-milan.png",
           "color": ["Vermelho", "Preto"],
           "size": ["P", "M", "G"],
-          "price": 80
+          "price": 115
         },
 
         {
@@ -520,7 +520,7 @@
           "img": "../imagens/Produtos/treino/roupa-surfista-fm.png",
           "color": ["Preto", "Verde"],
           "size": ["P", "M", "G"],
-          "price": 80
+          "price": 65
         },
 
         {
@@ -550,7 +550,7 @@
           "img": "../imagens/Produtos/treino/roupa-treino-fm2.png",
           "color": ["Azul", "Azul-Escuro", "Rosa"],
           "size": ["P", "M", "G"],
-          "price": 80
+          "price": 85
         },
 
         {
@@ -560,7 +560,7 @@
           "img": "../imagens/Produtos/treino/roupa-treino-fm3.png",
           "color": ["Cinza"],
           "size": ["P", "M", "G"],
-          "price": 80
+          "price": 73
         },
 
         {
@@ -570,7 +570,7 @@
           "img": "../imagens/Produtos/treino/roupa-treino-fm4.png",
           "color": ["Preto", "Verde"],
           "size": ["P", "M", "G"],
-          "price": 80
+          "price": 75
         },
 
         {
@@ -580,7 +580,7 @@
           "img": "../imagens/Produtos/treino/roupa-treino-fm5.png",
           "color": ["Preto", "Branco"],
           "size": ["P", "M", "G"],
-          "price": 80
+          "price": 60
         },
 
         {
@@ -590,7 +590,7 @@
           "img": "../imagens/Produtos/treino/cama-elastica.png",
           "color": ["Preto"],
           "size": ["Unico"],
-          "price": 80
+          "price": 124
         },
 
         {
@@ -600,7 +600,7 @@
           "img": "../imagens/Produtos/treino/kit-crossfit.png",
           "color": ["Preto"],
           "size": ["Unico"],
-          "price": 80
+          "price": 154
         },
 
         {
@@ -610,7 +610,7 @@
           "img": "../imagens/Produtos/treino/grip.png",
           "color": ["Preto", "Laranja"],
           "size": ["Unico"],
-          "price": 80
+          "price": 63
         },
 
         {
@@ -620,7 +620,7 @@
           "img": "../imagens/Produtos/treino/kit-peso.png",
           "color": ["Preto", "Vermelho"],
           "size": ["Unico"],
-          "price": 80
+          "price": 125
         },
 
         {
@@ -630,7 +630,7 @@
           "img": "../imagens/Produtos/treino/kit-treino-agilidade.png",
           "color": ["Preto"],
           "size": ["Unico"],
-          "price": 80
+          "price": 99
         },
 
         {
@@ -640,7 +640,7 @@
           "img": "../imagens/Produtos/treino/pacote-whey.png",
           "color": ["Amarelo", "Azul", "Rosa"],
           "size": ["Unico"],
-          "price": 80
+          "price": 56
         },
 
         {
@@ -650,7 +650,7 @@
           "img": "../imagens/Produtos/treino/pote-creatina.png",
           "color": ["Preto"],
           "size": ["1Kg"],
-          "price": 80
+          "price": 82
         },
       
         {
@@ -660,7 +660,7 @@
           "img": "../imagens/Produtos/treino/short-nike.png",
           "color": ["Preto", "Cinza"],
           "size": ["P", "M", "G"],
-          "price": 80
+          "price": 45
         },
 
         {
@@ -670,7 +670,7 @@
           "img": "../imagens/Produtos/treino/short-adidas.png",
           "color": ["Branco","Preto"],
           "size": ["Unico"],
-          "price": 80
+          "price": 44
         },
 
         {
@@ -680,7 +680,7 @@
           "img": "../imagens/Produtos/Luva/Luva-Goleiro-Buffon-titan-pro-8.png",
           "color": ["Preto","Verde"],
           "size": ["8","9","10","12"],
-          "price": 80
+          "price": 81
         },
 
         {
@@ -690,7 +690,7 @@
           "img": "../imagens/Produtos/Luva/Luva-Goleiro-Fusion.png",
           "color": ["Cinza","Azul"],
           "size": ["8","9","10","12"],
-          "price": 80
+          "price": 114
         },
 
         {
@@ -700,7 +700,7 @@
           "img": "../imagens/Produtos/Luva/luva-goleiro-ho-soccer-one-negative-essential-8.png",
           "color": ["Branca","Azul"],
           "size": ["8","9","10","12"],
-          "price": 80
+          "price": 120
         },
 
         {
@@ -710,7 +710,7 @@
           "img": "../imagens/Produtos/Luva/Luva-Goleiro-Mercurial-Touch-Elite.png",
           "color": ["Preto","Verde"],
           "size": ["8","9","10","12"],
-          "price": 80
+          "price": 159
         },
 
         {
@@ -730,7 +730,7 @@
           "img": "../imagens/Produtos/Luva/Luva-Goleiro-Poker-Water-Precision.png",
           "color": ["Roxo","Branca","Azul"],
           "size": ["8","9","10","12"],
-          "price": 80
+          "price": 193
         },
 
         {
@@ -740,7 +740,7 @@
           "img": "../imagens/Produtos/Luva/Luva-Goleiro-Predator-Pro-2-Azul-Branco.png",
           "color": ["Branca","Azul"],
           "size": ["8","9","10","12"],
-          "price": 80
+          "price": 169
         },
 
         {
@@ -750,7 +750,7 @@
           "img": "../imagens/Produtos/Luva/Luva-Goleiro-Predator-Pro-Azul-Branco.png",
           "color": ["Branca","Azul"],
           "size": ["8","9","10","12"],
-          "price": 80
+          "price": 278
         },
 
         {
@@ -760,7 +760,7 @@
           "img": "../imagens/Produtos/Luva/Luva-Goleiro-Predator20-Competition.png",
           "color": ["Preta","Vermelha"],
           "size": ["8","9","10","12"],
-          "price": 80
+          "price": 279
         },
 
         {
@@ -770,7 +770,7 @@
           "img": "../imagens/Produtos/Luva/Luva-Goleiro-Raptor-Nitro-4-Outubro-rosa.png",
           "color": ["Branco","Rosa"],
           "size": ["8","9","10","12"],
-          "price": 80
+          "price": 165
         },
 
         {
@@ -780,7 +780,7 @@
           "img": "../imagens/Produtos/Luva/Luva-Goleiro-Saipulang.png",
           "color": ["Preto","Azul"],
           "size": ["8","9","10","12"],
-          "price": 80
+          "price": 131
         },
 
         {
@@ -790,7 +790,7 @@
           "img": "../imagens/Produtos/Luva/luva-Goleiro-saurognathous-celie-rosa.png",
           "color": ["Rosa","Preto"],
           "size": ["8","9","10","12"],
-          "price": 80
+          "price": 107
         },
 
         {
@@ -800,7 +800,7 @@
           "img": "../imagens/Produtos/Luva/Luva-Goleiro-Scorpius-Black.png",
           "color": ["Preto","Branco"],
           "size": ["8","9","10","12"],
-          "price": 80
+          "price": 215
         },
 
         {
@@ -810,7 +810,7 @@
           "img": "../imagens/Produtos/Luva/Luva-Goleiro-Scorpius-Blue.png",
           "color": ["Preto","Azul"],
           "size": ["8","9","10","12"],
-          "price": 80
+          "price": 229
         },
 
         {
@@ -820,7 +820,7 @@
           "img": "../imagens/Produtos/Luva/Luva-Goleiro-Scorpius-White.png",
           "color": ["Branco","Preto"],
           "size": ["8","9","10","12"],
-          "price": 80
+          "price": 135
         },
 
         {
@@ -830,7 +830,7 @@
           "img": "../imagens/Produtos/Luva/luva-goleiro-three-stars-fox-palma-branca.png",
           "color": ["Branco","Azul"],
           "size": ["8","9","10","12"],
-          "price": 80
+          "price": 219
         },
 
         {
@@ -840,7 +840,7 @@
             "img": "../imagens/Produtos/Luva/luvas-adidas-predator-mutator.png",
             "color": ["Preto","Dourado","Branco"],
             "size": ["8","9","10","12"],
-            "price": 80
+            "price": 289
           },
 
           {
@@ -850,7 +850,7 @@
             "img": "../imagens/Produtos/Luva/Luva-Goleiro-Nike-Phantom-Shadow-PRO-lrj.png",
             "color": ["Vermelho","Verde","Branco"],
             "size": ["8","9","10","12"],
-            "price": 80
+            "price": 269
           },
 
           {
@@ -860,7 +860,7 @@
             "img": "../imagens/Produtos/Luva/luva-nike-mercurial-touch-elite-original.png",
             "color": ["Verde","Preto"],
             "size": ["8","9","10","12"],
-            "price": 80
+            "price": 299
           },
 
           {
@@ -870,7 +870,7 @@
             "img": "../imagens/Produtos/Luva/Luva-de-Goleiro-Predator-GL-Hybrid-Solar.png",
             "color": ["Laranja","Verde","Branco"],
             "size": ["8","9","10","12"],
-            "price": 80
+            "price": 275
           },
 
           {
@@ -880,7 +880,7 @@
             "img": "../imagens/Produtos/Luva/puma-luvas-guarda-redes-future-ultimate-nc.png",
             "color": ["Azul","Laranja","Branco"],
             "size": ["8","9","10","12"],
-            "price": 80
+            "price": 237
           },
 
           {
@@ -890,7 +890,7 @@
             "img": "../imagens/Produtos/camisa retro/camisa-Milan2006.png",
             "color": ["Branco","Vermelho"],
             "size": ["P","M","G","GG"],
-            "price": 80
+            "price": 209
           },
 
           {
@@ -900,7 +900,7 @@
             "img": "../imagens/Produtos/camisa retro/camisa-Arsenal2006.png",
             "color": ["Vermelho","Dourado"],
             "size": ["P","M","G","GG"],
-            "price": 80
+            "price": 199
           },
 
           {
@@ -910,7 +910,7 @@
             "img": "../imagens/Produtos/camisa retro/camisa-Barcelona2015.png",
             "color": ["Azul","Preto"],
             "size": ["P","M","G","GG"],
-            "price": 80
+            "price": 135
           },
 
           {
@@ -920,7 +920,7 @@
             "img": "../imagens/Produtos/camisa retro/camisa-Brasil2002.png",
             "color": ["Verde","Amarelo"],
             "size": ["P","M","G","GG"],
-            "price": 80
+            "price": 125
           },
 
           {
@@ -930,7 +930,7 @@
             "img": "../imagens/Produtos/camisa retro/camisa-França2006.png",
             "color": ["Branco","Azul","Vermelho"],
             "size": ["P","M","G","GG"],
-            "price": 80
+            "price": 139
           },
 
           {
@@ -940,7 +940,7 @@
             "img": "../imagens/Produtos/camisa retro/camisa-Holanda1974.png",
             "color": ["Laranja","Preto"],
             "size": ["P","M","G","GG"],
-            "price": 80
+            "price": 119
           },
 
           {
@@ -950,7 +950,7 @@
             "img": "../imagens/Produtos/camisa retro/camisa-InterMilão2004.png",
             "color": ["Cinza","Amarelo"],
             "size": ["P","M","G","GG"],
-            "price": 80
+            "price": 179
           },
 
           {
@@ -960,7 +960,7 @@
             "img": "../imagens/Produtos/camisa retro/camisa-Italia1996.png",
             "color": ["Branco","Azul"],
             "size": ["P","M","G","GG"],
-            "price": 80
+            "price": 130
           },
 
           {
@@ -970,7 +970,7 @@
             "img": "../imagens/Produtos/camisa retro/camisa-Juventos2015.png",
             "color": ["Rosa","Branco","Preto"],
             "size": ["P","M","G","GG"],
-            "price": 80
+            "price": 129
           },
 
           {
@@ -980,7 +980,7 @@
             "img": "../imagens/Produtos/camisa retro/camisa-ManchesterUnited2007.png",
             "color": ["Azul","Branco"],
             "size": ["P","M","G","GG"],
-            "price": 80
+            "price": 133
           },
 
           {
@@ -990,7 +990,7 @@
             "img": "../imagens/Produtos/camisa retro/camisa-cruzeiro-93.png",
             "color": ["Azul","Branco"],
             "size": ["P","M","G","GG"],
-            "price": 80
+            "price": 209
           },
 
           {
@@ -1000,7 +1000,7 @@
             "img": "../imagens/Produtos/camisa retro/camisa-Newcastle2000.png",
             "color": ["Branco","Preto"],
             "size": ["P","M","G","GG"],
-            "price": 80
+            "price": 175
           },
 
           {
@@ -1010,7 +1010,7 @@
             "img": "../imagens/Produtos/camisa retro/camisa-Psg2001.png",
             "color": ["Azul","Vermelho"],
             "size": ["P","M","G","GG"],
-            "price": 80
+            "price": 120
           },
 
           {
@@ -1020,7 +1020,7 @@
             "img": "../imagens/Produtos/camisa retro/camisa-RealMadrid2009.png",
             "color": ["Preto","Azul-Claro"],
             "size": ["P","M","G","GG"],
-            "price": 80
+            "price": 169
           },
 
           {
@@ -1030,7 +1030,7 @@
             "img": "../imagens/Produtos/camisa retro/camisa-Sporting2003.png",
             "color": ["Verde","Branco"],
             "size": ["P","M","G","GG"],
-            "price": 80
+            "price": 153
           },
 
           {
@@ -1040,7 +1040,7 @@
             "img": "../imagens/Produtos/camisa retro/camisa-Tottenham2006.png",
             "color": ["Azul-Claro"],
             "size": ["P","M","G","GG"],
-            "price": 80
+            "price": 115
           },
 
           {
@@ -1050,7 +1050,7 @@
             "img": "../imagens/Produtos/camisa retro/camisa-Alemanha1990.png",
             "color": ["Branco","Vermelho","Preto","Amarelo"],
             "size": ["P","M","G","GG"],
-            "price": 80
+            "price": 187
           },
 
           {
@@ -1060,7 +1060,7 @@
             "img": "../imagens/Produtos/camisa retro/camisa-santos-13.png",
             "color": ["Azul", "Preto"],
             "size": ["P","M","G","GG"],
-            "price": 80
+            "price": 200
           },
 
           {
@@ -1070,7 +1070,7 @@
             "img": "../imagens/Produtos/camisa retro/england-02.png",
             "color": ["Branco", "Vermelho"],
             "size": ["P","M","G","GG"],
-            "price": 80
+            "price": 136
           },
 
           {
@@ -1080,7 +1080,7 @@
             "img": "../imagens/Produtos/camisa retro/om-98.png",
             "color": ["Branco", "Azul-Claro"],
             "size": ["P","M","G","GG"],
-            "price": 80
+            "price": 155
           },
 
           {
@@ -1090,7 +1090,7 @@
             "img": "../imagens/Produtos/camisa retro/parma-02.png",
             "color": ["Branco", "Azul-Escuro", "Amarelo"],
             "size": ["P","M","G","GG"],
-            "price": 80
+            "price": 163
           },
           
           {
@@ -1100,7 +1100,7 @@
             "img": "../imagens/Produtos/tenis/Air-Jordan-11Cherry.png",
             "color": ["Branco", "Vermelho"],
             "size": ["39", "40", "41", "42"],
-            "price": 80
+            "price": 339
           },
 
           {
@@ -1110,7 +1110,7 @@
             "img": "../imagens/Produtos/tenis/Tênis-Adi2000.png",
             "color": ["Branco", "Azul","Preto"],
             "size": ["39", "40", "41", "42"],
-            "price": 80
+            "price": 315
           },
           
           {
@@ -1120,7 +1120,7 @@
             "img": "../imagens/Produtos/tenis/Tênis-Air-Jordan-6-Retro.png",
             "color": ["Cinza", "Branco"],
             "size": ["39", "40", "41", "42"],
-            "price": 80
+            "price": 300
           },
 
           {
@@ -1130,7 +1130,7 @@
             "img": "../imagens/Produtos/tenis/Tênis-Forum-Bold.png",
             "color": ["Branco", "Preto"],
             "size": ["39", "40", "41", "42"],
-            "price": 80
+            "price": 360
           },
 
           {
@@ -1140,7 +1140,7 @@
             "img": "../imagens/Produtos/tenis/Tênis-Forum-Low.png",
             "color": ["Azul-Claro", "Branco"],
             "size": ["39", "40", "41", "42"],
-            "price": 80
+            "price": 280
           },
 
           {
@@ -1150,7 +1150,7 @@
             "img": "../imagens/Produtos/tenis/Tênis-Nike-Air Max-Lebron-7-Retro-QS.png",
             "color": ["Preto", "Ciano","Branco"],
             "size": ["39", "40", "41", "42"],
-            "price": 80
+            "price": 310
           },
 
           {
@@ -1160,7 +1160,7 @@
             "img": "../imagens/Produtos/tenis/Tênis-Nike-Air-Max-90.png",
             "color": ["Branco", "Preto"],
             "size": ["39", "40", "41", "42"],
-            "price": 80
+            "price": 205
           },
 
           {
@@ -1170,7 +1170,7 @@
             "img": "../imagens/Produtos/tenis/Tênis-Nike-Air-Max-95.png",
             "color": ["Branco", "Azul-Claro","Cinza"],
             "size": ["39", "40", "41", "42"],
-            "price": 80
+            "price": 289
           },
 
           {
@@ -1180,7 +1180,7 @@
             "img": "../imagens/Produtos/tenis/Tênis-Nike-Air-Max-97.png",
             "color": ["Dourado", "Preto"],
             "size": ["39", "40", "41", "42"],
-            "price": 80
+            "price": 299
           },
 
           {
@@ -1190,7 +1190,7 @@
             "img": "../imagens/Produtos/tenis/Tênis-Nike-Air-Max-TW.png",
             "color": ["Cinza", "Preto"],
             "size": ["39", "40", "41", "42"],
-            "price": 80
+            "price": 399
           },
 
           {
@@ -1200,7 +1200,7 @@
             "img": "../imagens/Produtos/tenis/Tênis-NMD-R1-V2.png",
             "color": ["Cinza", "Verde"],
             "size": ["39", "40", "41", "42"],
-            "price": 80
+            "price": 210
           },
 
           {
@@ -1210,7 +1210,7 @@
             "img": "../imagens/Produtos/tenis/Tênis-NMD-R1-V3.png",
             "color": ["Preto", "Azul"],
             "size": ["39", "40", "41", "42"],
-            "price": 80
+            "price": 229
           },
 
           {
@@ -1220,7 +1220,7 @@
             "img": "../imagens/Produtos/tenis/TÊNIS-RS-X-EFEKT-TOPOGRAPHIC.png",
             "color": ["Branco", "Preto", "Azul"],
             "size": ["39", "40", "41", "42"],
-            "price": 80
+            "price": 317
           },
 
           {
@@ -1230,7 +1230,7 @@
             "img": "../imagens/Produtos/tenis/Tênis-Slipstream-Archive-Remastered.png",
             "color": ["Branco", "Verde", "Preto"],
             "size": ["39", "40", "41", "42"],
-            "price": 80
+            "price": 330
           },
 
           {
@@ -1240,7 +1240,7 @@
             "img": "../imagens/Produtos/tenis/Tênis-Slipstream-Neymar Jr.png",
             "color": ["Branco", "Amarelo"],
             "size": ["39", "40", "41", "42"],
-            "price": 80
+            "price": 399
           },
 
           {
@@ -1250,7 +1250,7 @@
             "img": "../imagens/Produtos/tenis/Tênis-Suede-Archive-Remastered.png",
             "color": ["Preto", "Verde"],
             "size": ["39", "40", "41", "42"],
-            "price": 80
+            "price": 199
           },
 
           {
@@ -1260,7 +1260,7 @@
             "img": "../imagens/Produtos/tenis/Ben-10-Tênis.png",
             "color": ["Preto", "Verde"],
             "size": ["39", "40", "41", "42"],
-            "price": 80
+            "price": 90
           },
 
           {
@@ -1270,7 +1270,7 @@
             "img": "../imagens/Produtos/tenis/tenis-relampago-marquinhos.png",
             "color": ["Vermelho", "Preto"],
             "size": ["39", "40", "41", "42"],
-            "price": 80
+            "price": 97
           },
 
           {
@@ -1280,7 +1280,7 @@
             "img": "../imagens/Produtos/tenis/tenis-mizuno-wave-prophecy-11s-removebg-preview.png",
             "color": ["Branco", "Cinza"],
             "size": ["39", "40", "41", "42"],
-            "price": 80
+            "price": 348
           },
 
           {
@@ -1290,7 +1290,7 @@
             "img": "../imagens/Produtos/tenis/TÊNIS-RS-X-EFEKT-TOPOGRAPHIC.png",
             "color": ["Preto", "Verde","Azul","Vermelho"],
             "size": ["39", "40", "41", "42"],
-            "price": 80
+            "price": 212
           },
 
           {
@@ -1300,7 +1300,7 @@
             "img": "../imagens/Produtos/tenis/TÊNIS-RS-Z-LTH.png",
             "color": ["Preto", "Verde","Branco"],
             "size": ["39", "40", "41", "42"],
-            "price": 80
+            "price": 235
           }
 
 
