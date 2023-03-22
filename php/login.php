@@ -15,10 +15,10 @@
             <div>
                 <img src="../imagens/Logo/Logo-BEFYC-semfundo.png">
            
-            <form class="form" action="" method="POST">
+            <form class="form" action="test.php" method="POST">
                 <input type="email" placeholder="email" name="email">
                 <input type="password" placeholder="senha" name="senha">
-                <button class="btn" name="botao">Entrar</button>
+                <button class="btn" name="submit">Entrar</button>
             </form>
             </div>
         

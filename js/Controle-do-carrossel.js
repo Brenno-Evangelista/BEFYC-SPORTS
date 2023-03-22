@@ -52,3 +52,4 @@ function resetTimer() {
     // Comeca novamente o timer
     timer = setInterval(autoPlay, 6000);
 }
+

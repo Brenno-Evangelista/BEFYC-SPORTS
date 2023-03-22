@@ -229,6 +229,7 @@
         margin-left: 0;
         padding: 0.2rem;
     }
+   
 }
 
 @media (max-width: 620px) {
@@ -255,6 +256,11 @@
         font-size: 1rem;
         margin-right: 0;
     }
+    #produto-unico{
+        display: flex;
+        flex-direction: column;
+        background-color: black;
+        }
 }
 
 @media (max-width: 288px) {

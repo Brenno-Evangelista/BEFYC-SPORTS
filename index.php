@@ -29,7 +29,7 @@
                 <div class="navigation">
                     <ul class="nav-list">
                         <li><a class="nav-link" href="#midia-social"><i class="far fa-comment-alt link-icon"></i><span class="link-text">Atendimento</span></a></li>
-                        <li><a class="nav-link" href=""><i class="far fa-user link-icon"></i><span class="link-text">Minha conta</span> </a></li>
+                        <li><a class="nav-link" href="php/login.php"><i class="far fa-user link-icon"></i><span class="link-text">Minha conta</span> </a></li>
                         <li><a class="nav-link" href="#"><i class="fas fa-shopping-cart link-icon"></i><span class="link-text">Carrinho</span></a></li>
                     </ul>
                 </div>
