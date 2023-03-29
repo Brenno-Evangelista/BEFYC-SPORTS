@@ -1,0 +1,1 @@
+SELECT * FROM befyc.tbl_cliente;
