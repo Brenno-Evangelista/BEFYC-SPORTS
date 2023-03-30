@@ -1255,10 +1255,10 @@
 
           {
             "id": 125,
-            "name": "Ben 10",
+            "name": "Tenis Homem-Aranha com luzes ",
             "type": "Tenis",
-            "img": "../imagens/Produtos/tenis/Ben-10-Tênis.png",
-            "color": ["Preto", "Verde"],
+            "img": "../imagens/Produtos/tenis/D_NQ_NP_930152-MLB48906837892_012022-W-removebg-preview.png",
+            "color": ["Vermelho", "Azul"],
             "size": ["39", "40", "41", "42"],
             "price": 90
           },
