@@ -256,7 +256,7 @@
           "id": 25,
           "name": "Chuteira Campo Predator Freak.1",
           "type": "Chuteira",
-          "img": "imagens/Produtos/Chuteira/Air Zoom-Mercurial-Vapor-XV-Elite-FG.png",
+          "img": "../imagens/Produtos/Chuteira/Air Zoom-Mercurial-Vapor-XV-Elite-FG.png",
           "color": ["Preto", "Verde", "Azul"],
           "size": ["39", "40", "41", "42"],
           "price": 345
