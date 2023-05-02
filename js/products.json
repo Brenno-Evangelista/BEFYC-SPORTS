@@ -297,7 +297,7 @@
           "id": 29,
           "name": "Chuteira Campo Adidas Predator Freak.1",
           "type": "Chuteira",
-          "img": "imagens/Produtos/ch[/COPA-GLORO-FG-WHITE-RED.png",
+          "img": "../imagens/Produtos/ch[/COPA-GLORO-FG-WHITE-RED.png",
           "color": ["Branco", "Cinza", "Vermelho"],
           "size": ["39", "40", "41", "42"],
           "price": 500
