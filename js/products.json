@@ -258,7 +258,7 @@
           "id": 23,
           "name": "Camisa West Ham 22/23",
           "type": "Camisa",
-          "img": "../imagens/Produtos/Camisa/camisa-West-Ham.png",
+          "img": "imagens/Produtos/Chuteira/air-zoom-mercurial-vapor-15-elite-xxv-se-fg.png",
           "color": ["Verde", "Verde-Escuro"],
           "size": ["P", "M", "G", "GG"],
           "price": 96,
