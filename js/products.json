@@ -286,7 +286,7 @@
           "id": 28,
           "name": "Chuteira Campo X Speedflow.1 FG White Spark",
           "type": "Chuteira",
-          "img": "imagens/Produtos/ch[/Air-Zoom-Mercurial-Vapor-XV-Elite-FG-Cinza.png",
+          "img": "../imagens/Produtos/ch[/Air-Zoom-Mercurial-Vapor-XV-Elite-FG-Cinza.png",
           "color": ["Branco", "Vermelho"],
           "size": ["39", "40", "41", "42"],
           "price": 349
@@ -297,7 +297,7 @@
           "id": 29,
           "name": "Chuteira Campo Adidas Predator Freak.1",
           "type": "Chuteira",
-          "img": "imagens/Produtos/ch[/COPA-GLORO-FG-WHITE-RED.png",
+          "img": "../imagens/Produtos/ch[/COPA-GLORO-FG-WHITE-RED.png",
           "color": ["Branco", "Cinza", "Vermelho"],
           "size": ["39", "40", "41", "42"],
           "price": 500
