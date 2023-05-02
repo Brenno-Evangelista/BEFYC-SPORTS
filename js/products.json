@@ -266,7 +266,7 @@
           "id": 26,
           "name": "Chuteira Campo Predator Accuracy.1",
           "type": "Chuteira",
-          "img": "imagens/Produtos/ch[/Air-Zoom-Mercurial-Superfly-IX-Elite-FG.png",
+          "img": "../imagens/Produtos/ch[/Air-Zoom-Mercurial-Superfly-IX-Elite-FG.png",
           "color": ["Preto", "Rosa"],
           "size": ["39", "40", "41", "42"],
           "price": 200
