@@ -280,7 +280,7 @@
           "id": 25,
           "name": "Chuteira Nike Air Zoom Mercurial Superfly IX Elite FG",
           "type": "Chuteira",
-          "img": "imagens/Produtos/Chuteira/air-zoom-mercurial-vapor-15-elite-xxv-se-fg.png",
+          "img": "../imagens/Produtos/Chuteira/air-zoom-mercurial-vapor-15-elite-xxv-se-fg.png",
           "color": ["Preto", "Cinza", "Rosa"],
           "size": ["39", "40", "41", "42"],
           "price": 345,
