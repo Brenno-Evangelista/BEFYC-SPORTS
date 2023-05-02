@@ -317,7 +317,7 @@
           "id": 31,
           "name": "Chuteira Campo X Speedportal.1 'Karim Benzema'",
           "type": "Chuteira",
-          "img": "imagens/Produtos/ch[/FUTURE-ULTIMATE-FG_AG-PURSUIT-PACK.png",
+          "img": "../imagens/Produtos/ch[/FUTURE-ULTIMATE-FG_AG-PURSUIT-PACK.png",
           "color": ["Dourado", "Branco"],
           "size": ["39", "40", "41", "42"],
           "price": 394
@@ -327,7 +327,7 @@
           "id": 32,
           "name": "Chuteira Campo X Speedportal+ FG 'Al Rihla'",
           "type": "Chuteira",
-          "img": "imagens/Produtos/ch[/FUTURE-ULTIMATE-TRICKS-FG_AG.png",
+          "img": "../imagens/Produtos/ch[/FUTURE-ULTIMATE-TRICKS-FG_AG.png",
           "color": ["Ciano", "Azul"],
           "size": ["39", "40", "41", "42"],
           "price": 330
@@ -337,7 +337,7 @@
           "id": 33,
           "name": "Chuteira Campo Nike Hypervenom Phelon",
           "type": "Chuteira",
-          "img": "imagens/Produtos/ch[/FUTURE-Z-2.4-FG_AG-NJR.png",
+          "img": "../imagens/Produtos/ch[/FUTURE-Z-2.4-FG_AG-NJR.png",
           "color": ["Dourado", "Verde"],
           "size": ["39", "40", "41", "42"],
           "price": 399
@@ -347,7 +347,7 @@
           "id": 34,
           "name": "Chuteira Campo Nike Mercurial Superfly 8 Jordan 1 Travis Scott x Fragment",
           "type": "Chuteira",
-          "img": "imagens/Produtos/ch[/JUNIOR-ULTRA-MATCH-LL-FG.png",
+          "img": "../imagens/Produtos/ch[/JUNIOR-ULTRA-MATCH-LL-FG.png",
           "color": ["Branco", "Azul", "Preto"],
           "size": ["39", "40", "41", "42"],
           "price": 255
@@ -357,7 +357,7 @@
           "id": 35,
           "name": "Chuteira Nike Mercurial Superfly 8 Elite FG",
           "type": "Chuteira",
-          "img": "imagens/Produtos/ch[/KING-ULTIMATE-FG_AG-PURSUIT-PACK.png",
+          "img": "../imagens/Produtos/ch[/KING-ULTIMATE-FG_AG-PURSUIT-PACK.png",
           "color": ["Verde-Agua", "Verde-Claro"],
           "size": ["39", "40", "41", "42"],
           "price": 415
@@ -367,7 +367,7 @@
           "id": 36,
           "name": "Chuteira Campo Nike Phantom GX Club Dynamic Fit",
           "type": "Chuteira",
-          "img": "imagens/Produtos/ch[/Nike-Phantom-GX-Pro-DF-FG.png",
+          "img": "../imagens/Produtos/ch[/Nike-Phantom-GX-Pro-DF-FG.png",
           "color": ["Branco", "Azul-Claro"],
           "size": ["39", "40", "41", "42"],
           "price": 399
@@ -377,7 +377,7 @@
           "id": 37,
           "name": "Chuteira Campo Nike Phantom GX Club Dynamic Fit",
           "type": "Chuteira",
-          "img": "imagens/Produtos/ch[/NikeZoomVapor15EliteFG.png",
+          "img": "../imagens/Produtos/ch[/NikeZoomVapor15EliteFG.png",
           "color": ["Preto", "Laranja"],
           "size": ["39", "40", "41", "42"],
           "price": 420
@@ -387,7 +387,7 @@
           "id": 38,
           "name": "Chuteira Campo Nike Phantom Ultra Venom",
           "type": "Chuteira",
-          "img": "imagens/Produtos/ch[/Phantom-GX-Elite-FG.png",
+          "img": "../imagens/Produtos/ch[/Phantom-GX-Elite-FG.png",
           "color": ["Preto", "Laranja"],
           "size": ["39", "40", "41", "42"],
           "price": 318
@@ -397,7 +397,7 @@
           "id": 39,
           "name": "Chuteira Campo Nike Air Zoom Mercurial Vapor 15 Elite",
           "type": "Chuteira",
-          "img": "imagens/Produtos/ch[/PREDATOR-ACCURACY-FG-HEATSPAWN-PACK.png",
+          "img": "../imagens/Produtos/ch[/PREDATOR-ACCURACY-FG-HEATSPAWN-PACK.png",
           "color": ["Branco", "Ciano"],
           "size": ["39", "40", "41", "42"],
           "price": 299
@@ -407,7 +407,7 @@
           "id": 40,
           "name": "Chuteira Campo Nike Tiempo Legend 9 Elite",
           "type": "Chuteira",
-          "img": "imagens/Produtos/ch[/PREDATOR-ACCURACY-FG.png",
+          "img": "../imagens/Produtos/ch[/PREDATOR-ACCURACY-FG.png",
           "color": ["Branco", "Azul-Claro", "Verde"],
           "size": ["39", "40", "41", "42"],
           "price": 120
@@ -417,7 +417,7 @@
           "id": 41,
           "name": "Chuteira Campo Nike Phantom GT Pro",
           "type": "Chuteira",
-          "img": "imagens/Produtos/ch[/PREDATOR-ACCURACY.1-L-FG-PARLEY.png",
+          "img": "../imagens/Produtos/ch[/PREDATOR-ACCURACY.1-L-FG-PARLEY.png",
           "color": ["Amarelo", "Azul"],
           "size": ["39", "40", "41", "42"],
           "price": 255
@@ -427,7 +427,7 @@
           "id": 42,
           "name": "Chuteira Campo Puma Future Z 1.4 Liberty",
           "type": "Chuteira",
-          "img": "imagens/Produtos/ch[/SPEEDPORTAL-FG-OWN-YOUR.png",
+          "img": "../imagens/Produtos/ch[/SPEEDPORTAL-FG-OWN-YOUR.png",
           "color": ["Branco", "Bege", "Vermelho"],
           "size": ["39", "40", "41", "42"],
           "price": 430
@@ -437,7 +437,7 @@
           "id": 43,
           "name": "Chuteira Campo Future Z 1.3 Instinct",
           "type": "Chuteira",
-          "img": "imagens/Produtos/ch[/Tiempo-Legend-9.png",
+          "img": "../imagens/Produtos/ch[/Tiempo-Legend-9.png",
           "color": ["Roxo", "Verde"],
           "size": ["39", "40", "41", "42"],
           "price": 480
@@ -447,7 +447,7 @@
           "id": 44,
           "name": "Chuteira Campo Puma Ultra Ultimate 1.4 Instinct",
           "type": "Chuteira",
-          "img": "imagens/Produtos/ch[/ULTRA-ULTIMATE-FG_AG-PURSUIT-PACK.png",
+          "img": "../imagens/Produtos/ch[/ULTRA-ULTIMATE-FG_AG-PURSUIT-PACK.png",
           "color": ["Verde", "Azul"],
           "size": ["39", "40", "41", "42"],
           "price": 229
@@ -457,7 +457,7 @@
           "id": 45,
           "name": "Chuteira Campo Future Ultimate DNA FG/AG",
           "type": "Chuteira",
-          "img": "imagens/Produtos/ch[/ULTRA-ULTIMATE-FG.png",
+          "img": "../imagens/Produtos/ch[/ULTRA-ULTIMATE-FG.png",
           "color": ["Azul-Escuro", "Laranja"],
           "size": ["39", "40", "41", "42"],
           "price": 499
