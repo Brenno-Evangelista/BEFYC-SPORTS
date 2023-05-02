@@ -307,7 +307,7 @@
           "id": 30,
           "name": "Chuteira Campo X Speedportal Messi.1",
           "type": "Chuteira",
-          "img": "imagens/Produtos/ch[/COPA-PURE-FG.png",
+          "img": "../imagens/Produtos/ch[/COPA-PURE-FG.png",
           "color": ["Laranja", "Prata", "Preto"],
           "size": ["39", "40", "41", "42"],
           "price": 218
