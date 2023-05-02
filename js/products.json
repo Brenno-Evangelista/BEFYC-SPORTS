@@ -7,8 +7,7 @@
           "img": "../imagens/Produtos/Camisa/camisa-O.marselha.png",
           "color": ["Branca", "Azul"],
           "size": ["P", "M", "G", "GG"],
-          "price": 100,
-          "descrição": "Aumente sua coleção de camisas de futebol adquirindo a nova Camisa Masculina do Olympique de Marseille. Semelhante ao modelo que os astros usam nos jogos em casa, o manto titular da temporada 21/22 é predominantemente branco com detalhes em azul claro e o brasão do clube francês bordado na altura do peito. De tecido leve e respirável, a peça proporciona ótimo caimento e garante liberdade de movimentos durante o uso. Garanta já a sua Camisa Olympique de Marseille e marque esse golaço."
+          "price": 100
         },
 
         {
@@ -18,8 +17,7 @@
           "img": "../imagens/Produtos/Camisa/camisa-Psg.png",
           "color": ["Branca"],
           "size": ["P", "M", "G", "GG"],
-          "price": 115,
-          "descrição": "Assim como outras camisas da nossa coleção Stadium, esse modelo combina detalhes de design de réplica com tecido antissuor para oferecer um look preparado para o jogo e inspirado no seu time favorito. Este produto é 100% feito com fibras de poliéster reciclado. Benefícios A tecnologia Nike Dri-FIT absorve o suor para uma evaporação mais rápida, ajudando a manter seu corpo seco e confortável. O design de réplica é baseado naquele que os craques usam em campo."
+          "price": 115
         },
 
         {
@@ -29,8 +27,7 @@
           "img": "../imagens/Produtos/Camisa/camisa-Cruzeiro.png",
           "color": ["Azul", "Azul"],
           "size": ["P", "M", "G", "GG"],
-          "price": 130,
-          "descrição": "Alô, torcedor do Cabuloso! Chegou a hora de atualizar o seu manto para a nova temporada com a Camisa Cruzeiro I 23/24 s/n° Torcedor Adidas Masculina! Homenageando os 20 anos da conquista da Tríplice Coroa, essa camisa Cruzeiro 2023 masculina apresenta tom predominantemente em azul, detalhes em azul marinho, gola com fechamento em botão e listras nas mangas. O diferencial fica por conta das estrelas soltas em branco, assim como na campanha vitoriosa em 2003. Apoie a Raposa e compre já essa camisa Cruzeiro masculina!"
+          "price": 130
         },
 
         {
@@ -40,8 +37,7 @@
           "img": "../imagens/Produtos/Camisa/camisa-Ajax.png",
           "color": ["Branca", "Vermelha"],
           "size": ["P", "M", "G", "GG"],
-          "price": 110,
-          "descrição": "Um uniforme clássico para um clube de futebol tradicional. Mantendo-se fiel à valiosa herança do Ajax Amsterdam"
+          "price": 110
         },
 
         {
@@ -51,8 +47,7 @@
           "img": "../imagens/Produtos/Camisa/camisa-Almeria.png",
           "color": ["Preto", "Ciano"],
           "size": ["P", "M", "G", "GG"],
-          "price": 112,
-          "descrição": "O manto titular para a temporada (reproduzido novamente abaixo) já tinha sido oficialmente revelada pela fornecedora inglesa para a equipe disputa novamente a La Liga Santander, primeira divisão espanhola, após ser campeã da La Liga 2 em sua última edição."
+          "price": 112
         },
 
         {
@@ -62,8 +57,7 @@
           "img": "../imagens/Produtos/Camisa/camisa-Americamex.png",
           "color": ["Preto", "Branca"],
           "size": ["P", "M", "G", "GG"],
-          "price": 129,
-          "descrição": "A nova terceira camisa do América do México traz um design bastante elegante e clean com a cor bege como base"
+          "price": 129
         },
 
         {
@@ -73,8 +67,7 @@
           "img": "../imagens/Produtos/Camisa/camisa-Argentina.png",
           "color": ["Azul", "Branca"],
           "size": ["P", "M", "G", "GG"],
-          "price": 109,
-          "descrição": "Chegou a hora de escolher o seu manto para torcer pela Argentina! Desenvolvida em material resistente e aconchegante, a camisa seleção Argentina Home 22/23 s/nº Torcedor Adidas garante um tecido macio, leve e confortável, promovendo comodidade para acompanhar a rotina de jogos. Com modelagem padrão e caimento regular, a peça é ideal bradar o hino da seleção em alto e bom-tom! Mostre sua paixão dentro ou fora de campo, compre agora!"
+          "price": 109
         },
         
         {
@@ -84,8 +77,7 @@
           "img": "../imagens/Produtos/Camisa/camisa-Brasil.png",
           "color": ["Amarelo", "Verde"],
           "size": ["P", "M", "G", "GG"],
-          "price": 75,
-          "descrição": "Pegue a Camisa da Seleção Brasileira I 19/20 Torcedor Nike para torcer pela Seleção Brasileira. Compondo o uniforme titular da nossa Seleção Canarinho, essa Camisa do Brasil é uma versão comemorativa especialmente para o campeonato mais importante das Américas. A peça possui gola polo na cor verde e faixa nas mangas, uma inspiração no manto de 1989, ano que conquistamos a América em casa. Chegou a hora de trazer um novo título, renove sua torcida com a nova Camisa do Brasil Torcedor Nike."
+          "price": 75
         },
 
         {
@@ -95,8 +87,7 @@
           "img": "../imagens/Produtos/Camisa/camisa-Croacia.png",
           "color": ["Azul", "Azul-Escuro"],
           "size": ["P", "M", "G", "GG"],
-          "price": 90,
-          "descrição": "Camisa Croácia 2022 AWAY Qatar 2022 futebol, Azul/Preto, Neon Edição Especial"
+          "price": 90
         },
 
         {
@@ -106,8 +97,7 @@
           "img": "../imagens/Produtos/Camisa/camisa-Espanha.png",
           "color": ["Vermelho", "Amarelo"],
           "size": ["P", "M", "G", "GG"],
-          "price": 90,
-          "descrição": "Chegou a hora de escolher o seu manto para torcer pela Espanha! Desenvolvida em material resistente e aconchegante, a camisa seleção Espanha Home Torcedor Adidas garante um tecido macio, leve e confortável, promovendo comodidade para acompanhar a rotina de jogos. Com modelagem padrão e caimento regular, a peça é ideal bradar o hino da seleção em alto e bom-tom! Mostre sua paixão dentro ou fora de campo"
+          "price": 90
         },
 
         {
@@ -117,8 +107,7 @@
           "img": "../imagens/Produtos/Camisa/camisa-França.png",
           "color": ["Azul-Escuro", "Dourado"],
           "size": ["P", "M", "G", "GG"],
-          "price": 104,
-          "descrição": "Assim como outras camisas da nossa coleção Stadium, esse modelo combina detalhes de design de réplica com tecido antissuor para oferecer um look preparado para o jogo e inspirado no seu time favorito."
+          "price": 104
         },
 
         {
@@ -128,8 +117,7 @@
           "img": "../imagens/Produtos/Camisa/camisa-Holanda.png",
           "color": ["Laranja", "Preto"],
           "size": ["P", "M", "G", "GG"],
-          "price": 90,
-          "descrição": "Assim como outras camisas da nossa coleção Stadium, esse modelo combina detalhes de design de réplica com tecido antissuor para oferecer um look preparado para o jogo e inspirado no seu time favorito."
+          "price": 90
         },
 
         {
@@ -139,8 +127,7 @@
           "img": "../imagens/Produtos/Camisa/camisa-Inglaterra.png",
           "color": ["Branco", "Azul"],
           "size": ["P", "M", "G", "GG"],
-          "price": 92,
-          "descrição": "Assim como outras camisas da nossa coleção Stadium, esse modelo combina detalhes de design de réplica com tecido antissuor para oferecer um look preparado para o jogo e inspirado no seu time favorito."
+          "price": 92
         },
 
         {
@@ -150,8 +137,7 @@
           "img": "../imagens/Produtos/Camisa/camisa-InterMiami.png",
           "color": ["Preto", "Rosa"],
           "size": ["P", "M", "G", "GG"],
-          "price": 109,
-          "descrição": "A Camisa Inter Miami 2 Away 2023 Torcedor Adidas Masculina é a escolha perfeita para os fãs que desejam representar a equipe com estilo e conforto."
+          "price": 109
         },
 
         {
@@ -161,8 +147,7 @@
           "img": "../imagens/Produtos/Camisa/camisa-Liverpool.png",
           "color": ["Azul", "Azul"],
           "size": ["P", "M", "G", "GG"],
-          "price": 139,
-          "descrição": "Com um design inspirado em LeBron James e Liverpool FC, esta camisa de malha respirável celebra um dos primeiros investimentos do Rei do Basquete"
+          "price": 139
         },
 
         {
@@ -172,8 +157,7 @@
           "img": "../imagens/Produtos/Camisa/camisa-Borrusia.png",
           "color": ["Amarelo", "Preto"],
           "size": ["P", "M", "G", "GG"],
-          "price": 102,
-          "descrição": "Feito de grandes momentos. O uniforme I BVB 2022/23 traz memórias da campanha continental da equipe de 2012/13,As listras pretas desse clássico repaginado são destacadas pelos gráficos tonais inspirados no Zum Wildschütz – o lendário restaurante em Dortmund e berço de nascimento do BVB. Heja BVB!"
+          "price": 102
         },
 
         {
@@ -183,8 +167,7 @@
           "img": "../imagens/Produtos/Camisa/camisa-Atalanta-Goleiro-.png",
           "color": ["Preto"],
           "size": ["P", "M", "G", "GG"],
-          "price": 79,
-          "descrição": "Confeccionada em poliéster leve de qualidade, elástico e resistente, seu tecido proporciona excelente respirabilidade em todo o corpo, com destaque para as axilas. Modelo Manga curta, punhos com nervuras"
+          "price": 79
         },
 
 
@@ -195,8 +178,7 @@
           "img": "../imagens/Produtos/Camisa/camisa-Monterrey.png",
           "color": ["Roxo", "Rosa"],
           "size": ["P", "M", "G", "GG"],
-          "price": 118,
-          "descrição": "Compre o terceiro uniforme dos Rayados de Monterrey para a temporada 2022/23"
+          "price": 118
         },
 
         {
@@ -206,8 +188,7 @@
           "img": "../imagens/Produtos/Camisa/camisa-Napoli-Diadosnamorados.png",
           "color": ["Branca", "Vermelho"],
           "size": ["P", "M", "G", "GG"],
-          "price": 139,
-          "descrição": "A nova camisa especial Dia dos Namorados do Napoli é branca e traz a gola redonda vermelha, assim como as mangas, que ganham um degrade em faixas para o branco, no mesmo estilo das camisas regulares já lançadas para a temporada."
+          "price": 139
         },
 
         {
@@ -217,8 +198,7 @@
           "img": "../imagens/Produtos/Camisa/camisa-Parma.png",
           "color": ["Branco", "Preto"],
           "size": ["P", "M", "G", "GG"],
-          "price": 97,
-          "descrição": "Apresentando uma visão moderna do visual tradicional do clube, a camisa de futebol oficial Errea Parma Calcio 1913 2022-2023 combina uma base branca limpa com a marca registrada da cruz preta na frente do corpo."
+          "price": 97
         },
 
         {
@@ -228,8 +208,7 @@
           "img": "../imagens/Produtos/Camisa/camisa-Porto.png",
           "color": ["Azul", "Dourado"],
           "size": ["P", "M", "G", "GG"],
-          "price": 139,
-          "descrição": "tipo de malha: Dry Fit Premium. tecnologia dry: O acabamento Dry no tecido garantirá uma peça que absorve o suor, que é transferido para a parte externa do tecido. Em contato com o ambiente"
+          "price": 139
         },
 
         {
@@ -239,8 +218,7 @@
           "img": "../imagens/Produtos/Camisa/camisa-Sporting.png",
           "color": ["Verde", "Branco"],
           "size": ["P", "M", "G", "GG"],
-          "price": 86,
-          "descrição": "Sofisticada, a gama My Jersey apresenta-se como uma coleção de réplicas oficiais e de alta qualidade das camisas oficiais do teu clube. Os detalhes minuciosos, e a caixa expositora em acrílico, conferem à gama My Jersey um visual premium que não deixará nenhum colecionador indiferente"
+          "price": 86
         },
         
         {
@@ -250,19 +228,17 @@
           "img": "../imagens/Produtos/Camisa/camisa-WerderBremer.png",
           "color": ["Verde", "Verde-Escuro"],
           "size": ["P", "M", "G", "GG"],
-          "price": 129,
-          "descrição": "O manto especial é baseado no terceiro modelo para a temporada. Nele, são dispostas 39 tatuagens, de um total de 328 inscrições, incluídas no design da camisa, incluindo algumas tatuagens de jogadores do Werder (Marco Friedl, Leonardo Bittencourt e Anthony Jung), em tons de verde."
+          "price": 129
         },
 
         {
           "id": 23,
           "name": "Camisa West Ham 22/23",
           "type": "Camisa",
-          "img": "imagens/Produtos/Chuteira/air-zoom-mercurial-vapor-15-elite-xxv-se-fg.png",
+          "img": "../imagens/Produtos/Camisa/camisa-West-Ham.png",
           "color": ["Verde", "Verde-Escuro"],
           "size": ["P", "M", "G", "GG"],
-          "price": 96,
-          "descrição": "A camisa reserva do West Ham para a temporada 2022-2023 traz o preto como predominante e tem como destaque os punhos, que trazem as cores rosa, azul, preta e branca, cujos padrões são inspirados na rampa de lançamento do navio centenário da Thames Ironworks, que foi descoberta na construção da recém-inaugurada linha Elizabeth. A gola especial segue a cor predominante."
+          "price": 96
         },
 
         {
@@ -273,184 +249,168 @@
           "color": ["Branco", "Vermelho", "Preto"],
           "size": ["P", "M", "G", "GG"],
           "price": 159,
-          "descrição": "A camisa do FC Midtjylland, lançada especialmente para a Europa League, traz o branco como predominante e apresenta cinco listras pretas, em larguras diferentes, com faixas vermelhas na parte de baixo, na região frontal. A gola e os punhos têm a cor branca"
+          "descrição": "tamo tentando inventar oq butar"
         },
 
         {
           "id": 25,
-          "name": "Chuteira Nike Air Zoom Mercurial Superfly IX Elite FG",
+          "name": "Chuteira Campo Predator Freak.1",
           "type": "Chuteira",
-          "img": "imagens/Produtos/Chuteira/COPA-GLORO-FG-WHITE-RED.png",
-          "color": ["Preto", "Cinza", "Rosa"],
+          "img": "../imagens/Produtos/Chuteira/chuteira-adidas-7.png",
+          "color": ["Preto", "Verde", "Azul"],
           "size": ["39", "40", "41", "42"],
-          "price": 345,
-          "descrição": "A grande sacada para virar o jogo é jogar diferente. Cada partida é uma oportunidade de ser maior e melhor. E ter mais controle. Libere sua energia imbatível com a Predator Freak. O colarinho de duas peças desta chuteira facilita a colocação quando você está com pressa para dominar o campo."
+          "price": 345
         },
 
         {
           "id": 26,
-          "name": "Chuteira Nike Air Zoom Mercurial Vapor XV Elite FG",
+          "name": "Chuteira Campo Predator Accuracy.1",
           "type": "Chuteira",
-          "img": "imagens/Produtos/Chuteira/",
-          "color": ["Preto", "Verde"],
+          "img": "../imagens/Produtos/Chuteira/chuteira-adidas-2.png",
+          "color": ["Preto", "Rosa"],
           "size": ["39", "40", "41", "42"],
-          "price": 200,
-          "descrição": "A chuteira Predator Accracy 23.1 Low FG, criada pela Adidas, é a alternativa ideal para os craques despertarem o seu instinto fera dentro de campo. O calçado traz cabedal em sintético e solado em TPU com travas altas e fixas que garantem melhor controle."
+          "price": 200
         },
 
         {
           "id": 27,
-          "name": "Chuteira Nike Mercurial Vapor 15 Air Zoom Ultra",
+          "name": "Chuteira Campo Copa Pure.4 Flexible Ground",
           "type": "Chuteira",
-          "img": "imagens/Produtos/Chuteira/air-zoom-mercurial-vapor-15-elite-xxv-se-fg.png",
-          "color": ["Cinza", "Dourado"],
+          "img": "../imagens/Produtos/Chuteira/chuteira-adidas-3.png",
+          "color": ["Preto", "Rosa", "Branco"],
           "size": ["39", "40", "41", "42"],
-          "price": 170,
-          "descrição": "A Adidas apresenta a chuteira Copa Pure 23.1 FG, o calçado ideal para os craques que buscam além de proteção, máxima precisão nos jogos de campo. O item possui cabedal feito em couro para maior estabilidade e o solado de borracha traz micro travas fixas."
+          "price": 170
         },
 
         {
           "id": 28,
-          "name": "Chuteira Adidas Copa Pure.1 Soft Ground Boots",
+          "name": "Chuteira Campo X Speedflow.1 FG White Spark",
           "type": "Chuteira",
-          "img": "imagens/Produtos/Chuteira/COPA-PURE-FG.png",
-          "color": ["Branco", "Laranja"],
+          "img": "../imagens/Produtos/Chuteira/chuteira-adidas-4.png",
+          "color": ["Branco", "Vermelho"],
           "size": ["39", "40", "41", "42"],
-          "price": 349,
-          "descrição": "A conexão entre cabeça, chuteira e bola é um circuito ininterrupto durante todo o jogo. Quando uma mente afiada encontra um corpo veloz, você se torna a versão mais rápida de si mesmo. Encontre o seu ritmo e deixe todo o resto para trás."
+          "price": 349
         },
 
         
         {
           "id": 29,
-          "name": "Chuteira Adidas Predator Accuracy + FG Heatspawn Pack",
+          "name": "Chuteira Campo Adidas Predator Freak.1",
           "type": "Chuteira",
-          "img": "imagens/Produtos/Chuteira/PREDATOR-ACCURACY-FG-HEATSPAWN-PACK.png",
+          "img": "../imagens/Produtos/Chuteira/chuteira-adidas-6.png",
           "color": ["Branco", "Cinza", "Vermelho"],
           "size": ["39", "40", "41", "42"],
-          "price": 500,
-          "descrição": "A grande sacada para virar o jogo é jogar diferente. Cada partida é uma oportunidade de ser maior e melhor. E ter mais controle. Libere sua energia imbatível com a Predator Freak."
+          "price": 500
         },
 
         {
           "id": 30,
-          "name": "Chuteira Adidas X Speedportal .1 FG",
+          "name": "Chuteira Campo X Speedportal Messi.1",
           "type": "Chuteira",
-          "img": "imagens/Produtos/Chuteira/X-Speedportal-.1-FG.png",
+          "img": "../imagens/Produtos/Chuteira/chuteira-x-speed-Messi.png",
           "color": ["Laranja", "Prata", "Preto"],
           "size": ["39", "40", "41", "42"],
-          "price": 218,
-          "descrição": "A chuteira X Speedportal Messi 22.3 FG, da Adidas, é perfeita para os craques dominarem os campos inspirados no gênio argentino. Com cabedal em sintético, o calçado conta com design na cor laranja, além de possuir estampa com a logo do craque do futebol."
+          "price": 218
         },
 
         {
           "id": 31,
-          "name": "Chuteira Nike Phantom Elite GX Firm Ground'",
+          "name": "Chuteira Campo X Speedportal.1 'Karim Benzema'",
           "type": "Chuteira",
-          "img": "imagens/Produtos/Chuteira/Nike-Phantom-GX-Pro-DF-FG.png",
-          "color": ["Verde", "Branco"],
+          "img": "../imagens/Produtos/Chuteira/chuteira-adidas-bz.png",
+          "color": ["Dourado", "Branco"],
           "size": ["39", "40", "41", "42"],
-          "price": 394,
-          "descrição": "Os dias em que velocidade significava distância por tempo, acabaram. Reação, noção de jogo, raciocínio, estamos falando de velocidade em todas as dimensões, em todas as posições. Experimente a X Speedportal e deixe seus pés tão rápidos quanto o seu pensamento. Combinamos as novas tecnologias Speedframe, Speedskin e o sistema de estabilidade para conectar seu corpo, mente e chuteira em todas as dimensões."
+          "price": 394
         },
 
         {
           "id": 32,
-          "name": "Chuteira Nike Air Zoom Mercurial Vapor 15 Elite FG Luminous",
+          "name": "Chuteira Campo X Speedportal+ FG 'Al Rihla'",
           "type": "Chuteira",
-          "img": "imagens/Produtos/Chuteira/NikeZoomVapor15EliteFG.png",
-          "color": ["Rosa", "Verde"],
+          "img": "../imagens/Produtos/Chuteira/chuteira-adidas-spedportal.png",
+          "color": ["Ciano", "Azul"],
           "size": ["39", "40", "41", "42"],
-          "price": 330,
-          "descrição": "Bons jogadores criam tempo e espaço. Já os craques deixam os dois para trás. Desbloqueie a velocidade multidimensional com a adidas X Speedportal. Esta chuteira adidas garante reações rápidas em campo gramado, graças ao solado leve com travas adicionais na região anterior. Na parte superior, o cabedal têxtil revestido e sem cadarços inclui o suporte da gola de malha plana e trava externa de TPU rígido no calcanhar, mantendo o ajuste firme e seguro a cada corte e arrancada."
+          "price": 330
         },
 
         {
           "id": 33,
-          "name": "Chuteira Nike Tiempo Legend 9 Elite FG",
+          "name": "Chuteira Campo Nike Hypervenom Phelon",
           "type": "Chuteira",
-          "img": "imagens/Produtos/Chuteira/Tiempo-Legend-9.png",
+          "img": "../imagens/Produtos/Chuteira/chuteira-nike-hypervenom.png",
           "color": ["Dourado", "Verde"],
           "size": ["39", "40", "41", "42"],
-          "price": 399,
-          "descrição": "ike Hypervenom Phelom é o modelo utilizado por Neymar na Copa do Mundo. O tênis foi produzido exclusivamente para o atleta na cor que ele sonhava desde criança. Seu cabedal diferenciado foi produzido com sintético muito resistente e flexível para perfeito ajuste aos pés."
+          "price": 399
         },
 
         {
           "id": 34,
-          "name": "Chuteira Adidas Copa Gloro FG",
+          "name": "Chuteira Campo Nike Mercurial Superfly 8 Jordan 1 Travis Scott x Fragment",
           "type": "Chuteira",
-          "img": "imagens/Produtos/Chuteira/COPA-GLORO-FG-WHITE-RED.png",
+          "img": "../imagens/Produtos/Chuteira/chuteira-nike-ts.png",
           "color": ["Branco", "Azul", "Preto"],
           "size": ["39", "40", "41", "42"],
-          "price": 255,
-          "descrição": "A Nike Mercurial Superfly 8 Elite FG apresenta um novo visual com componentes especializados para que possa jogar mais rápido do começo ao fim. Um colarinho elástico proporciona suporte extra e a placa inovadora oferece responsividade instantânea para cortes rápidos em altas velocidades."
+          "price": 255
         },
 
         {
           "id": 35,
-          "name": "Chuteira Puma Future Ultimate Tricks FG/AG",
+          "name": "Chuteira Nike Mercurial Superfly 8 Elite FG",
           "type": "Chuteira",
-          "img": "imagens/Produtos/Chuteira/FUTURE-ULTIMATE-TRICKS-FG_AG.png",
+          "img": "../imagens/Produtos/Chuteira/chuteira-nike-1.png",
           "color": ["Verde-Agua", "Verde-Claro"],
           "size": ["39", "40", "41", "42"],
-          "price": 415,
-          "descrição": "A Nike Mercurial Superfly 8 Elite FG apresenta um novo visual com componentes especializados para que possa jogar mais rápido do começo ao fim. Um colarinho elástico proporciona suporte extra e a placa inovadora oferece responsividade instantânea para cortes rápidos em altas velocidades."
+          "price": 415
         },
 
         {
           "id": 36,
-          "name": "Chuteira Puma Ultra Ultimate FG/AG Pursuit Pack",
+          "name": "Chuteira Campo Nike Phantom GX Club Dynamic Fit",
           "type": "Chuteira",
-          "img": "imagens/Produtos/Chuteira/KING-ULTIMATE-FG_AG-PURSUIT-PACK.png",
+          "img": "../imagens/Produtos/Chuteira/chuteira-nike-2.png",
           "color": ["Branco", "Azul-Claro"],
           "size": ["39", "40", "41", "42"],
-          "price": 399,
-          "descrição": "A parte superior destas Phantom GX (Generative texture) está composta por um tecido Flyknit melhorado com diferentes texturas que conseguem um acabamento infinitamente mais suave e de muito mais grip, que não precisa de vários usos para moldar-se e que, tal e como acontecia com as Venom, apresenta um acabamento ao longo da zona de golpe, com maior grip para facilitar o controlo e melhorar os passes."
+          "price": 399
         },
 
         {
           "id": 37,
-          "name": "Chuteira Puma Junior Ultra Match LL FG/AG Eclipse Pack",
+          "name": "Chuteira Campo Nike Phantom GX Club Dynamic Fit",
           "type": "Chuteira",
-          "img": "imagens/Produtos/Chuteira/JUNIOR-ULTRA-MATCH-LL-FG.png",
+          "img": "../imagens/Produtos/Chuteira/chuteira-nike-3.png",
           "color": ["Preto", "Laranja"],
           "size": ["39", "40", "41", "42"],
-          "price": 420,
-          "descrição": "A parte superior destas Phantom GX (Generative texture) está composta por um tecido Flyknit melhorado com diferentes texturas que conseguem um acabamento infinitamente mais suave e de muito mais grip, que não precisa de vários usos para moldar-se e que, tal e como acontecia com as Venom, apresenta um acabamento ao longo da zona de golpe, com maior grip para facilitar o controlo e melhorar os passes."
+          "price": 420
         },
 
         {
           "id": 38,
-          "name": "Zoom Mercurial Dream Speed 006 Superfly 9 Elite FG",
+          "name": "Chuteira Campo Nike Phantom Ultra Venom",
           "type": "Chuteira",
-          "img": "imagens/Produtos/Chuteira/",
+          "img": "../imagens/Produtos/Chuteira/chuteira-nike-4.png",
           "color": ["Preto", "Laranja"],
           "size": ["39", "40", "41", "42"],
-          "price": 318,
-          "descrição": "Phantom Ultra Venom apresenta um design atualizado e um padrão projetado para otimizar seus movimentos e controlar o voo. Os cadarços descentralizados criam uma zona de chute livre de obstáculos para chutes, passes e dribles habilidosos."
+          "price": 318
         },
 
         {
           "id": 39,
-          "name": "Chuteira Nike Phantom GX Elite FG",
+          "name": "Chuteira Campo Nike Air Zoom Mercurial Vapor 15 Elite",
           "type": "Chuteira",
-          "img": "imagens/Produtos/Chuteira/Phantom-GX-Elite-FG.png",
+          "img": "../imagens/Produtos/Chuteira/chuteira-nike-5.png",
           "color": ["Branco", "Ciano"],
           "size": ["39", "40", "41", "42"],
-          "price": 299,
-          "descrição": "A Mercurial Vapor 15 Elite FG apresenta um design despojado que usa a menor quantidade possível de materiais para que você possa ter a máxima velocidade do início ao fim. A palmilha almofadada proporciona conforto contínuo, enquanto a placa estabilizadora especial proporciona agilidade instantânea para cortes mais rápidos a altas velocidades."
+          "price": 299
         },
 
         {
           "id": 40,
-          "name": "Chuteira Puma King Ultimate FG/AG Pursuit Pack",
+          "name": "Chuteira Campo Nike Tiempo Legend 9 Elite",
           "type": "Chuteira",
-          "img": "imagens/Produtos/Chuteira/KING-ULTIMATE-FG_AG-PURSUIT-PACK.png",
+          "img": "../imagens/Produtos/Chuteira/chuteira-nike-6.png",
           "color": ["Branco", "Azul-Claro", "Verde"],
           "size": ["39", "40", "41", "42"],
-          "price": 120,
-          "descrição": "A Nike Tiempo Legend 9 Elite FG permite jogar na ofensiva com um design de perfil baixo reinventado para atacantes. A parte de cima tem texturas em alto relevo sobre cápsulas de espuma macia para dribles, passes e lances precisos, enquanto as travas na parte de baixo criam tração para cortes rápidos e paradas bruscas."
+          "price": 120
         },
 
         {
@@ -460,8 +420,7 @@
           "img": "../imagens/Produtos/Chuteira/chuteira-nike-7.png",
           "color": ["Amarelo", "Azul"],
           "size": ["39", "40", "41", "42"],
-          "price": 255,
-          "descrição": "A Phantom GT, a Nike Phantom GT2 Elite FG apresenta um design atualizado e um padrão em relevo projetado para otimizar seus movimentos e controlar o voo da bola, os cadarços descentralizados criam uma zona de chute livre de obstáculos para chutes, passes e dribles habilidosos."
+          "price": 255
         },
 
         {
@@ -471,8 +430,7 @@
           "img": "../imagens/Produtos/Chuteira/chuteira-puma-1.png",
           "color": ["Branco", "Bege", "Vermelho"],
           "size": ["39", "40", "41", "42"],
-          "price": 430,
-          "descrição": "Incrivelmente ágil e mais confortável do que nunca, a chuteira FUTURE Z 1.3 foi desenvolvida para os jogadores que comandam o campo com habilidade e visão. Apresentando a segunda geração da tecnologia FUZIOFIT+, o modelo se adapta ao pé para oferecer o equilíbrio perfeito entre encaixe e flexibilidade. Além disso, nossas Advanced Creator Zones"
+          "price": 430
         },
 
         {
@@ -482,8 +440,7 @@
           "img": "../imagens/Produtos/Chuteira/chuteira-puma-2.png",
           "color": ["Roxo", "Verde"],
           "size": ["39", "40", "41", "42"],
-          "price": 480,
-          "descrição": "Playmakers, preparem-se porque o game ficou crazy com a FUTURE 1.4 FG/AG Football – a chuteira feita especialmente para o jogador mais criativo em campo. Com faixa de compressão FUZIONFIT+ que se adapta ao pé para proporcionar o melhor ajuste e estabilidade "
+          "price": 480
         },
 
         {
@@ -493,8 +450,7 @@
           "img": "../imagens/Produtos/Chuteira/chuteira-puma-3.png",
           "color": ["Verde", "Azul"],
           "size": ["39", "40", "41", "42"],
-          "price": 229,
-          "descrição": "O novo ULTRA MATCH transforma segundos em recordes. A parte superior é feita de uma malha leve que foi reforçada com uma fina camada de pele GripControl para um comando decisivo sobre a bola. A gola de malha baixa oferece um ajuste confortável ao redor do tornozelo."
+          "price": 229
         },
 
         {
@@ -504,8 +460,7 @@
           "img": "../imagens/Produtos/Chuteira/chuteira-puma-4.png",
           "color": ["Azul-Escuro", "Laranja"],
           "size": ["39", "40", "41", "42"],
-          "price": 499,
-          "descrição": " jogador do FUTURO ilumina o jogo com antecipação e jogo instintivo. Imprevisíveis por natureza, jogadores como Neymar Jr. mudam o jogo em um piscar de olhos, acelerando o ritmo com suas atuações. O novo FUTURE DNA Edition é construído em torno da tecnologia PWRTAPE para replicar o efeito que esses craques têm no jogo."
+          "price": 499
         },
 
         {
@@ -515,8 +470,7 @@
           "img": "../imagens/Produtos/treino/roupa-arsenal.png",
           "color": ["Vermelho", "Preto"],
           "size": ["P", "M", "G"],
-          "price": 80,
-          "descrição": "Os produtos são fornecidos diretamente pelo fabricante, para que os clientes possam desfrutar de produtos de baixo custo e alta qualidade, Devido à iluminação e configurações de cores, pode haver uma ligeira diferença de cor entre fotos e objetos."
+          "price": 80
         },
 
         {
@@ -526,8 +480,7 @@
           "img": "../imagens/Produtos/treino/roupa-borussia.png",
           "color": ["Amarelo", "Preto"],
           "size": ["P", "M", "G"],
-          "price": 120,
-          "descrição": "Agasalho de Treino Borussia Dortmund Masculino Material 100% Poliéster Característica Tecido Liso de Alta Qualidade e Durável para conforto e capacidade de respiração. Indicado para: Dia a Dia Fechamento: Com ZiperComprimento."
+          "price": 120
         },
 
         {
@@ -537,8 +490,7 @@
           "img": "../imagens/Produtos/treino/roupa-city.png",
           "color": ["Azul-Claro", "Azul-Escuro"],
           "size": ["P", "M", "G"],
-          "price": 120,
-          "descrição": "O conjunto de treino, composto por agasalho e calça de treino, é cheio de estilo, ideal para os treinos, para academia nos dias frios ou perfeito para os momentos de lazer e descontração. Possui tecnologia inovadora do tecido, contra o aquecimento, facilitando os movimentos e proporcionando mais conforto no ajuste do tecido com seu corpo, retendo o suor."
+          "price": 120
         },
 
         {
@@ -548,8 +500,7 @@
           "img": "../imagens/Produtos/treino/roupa-frança.png",
           "color": ["Azul", "Dourado"],
           "size": ["P", "M", "G"],
-          "price": 115,
-          "descrição": "Blusa gola alta, sem bolsos e com zíper em 1/4 do comprimento, calça bolsos frontais com zíper, com cintura elástica e zíper nos tornozelos, Material 100% poliéster."
+          "price": 115
         },
 
         {
@@ -559,19 +510,17 @@
           "img": "../imagens/Produtos/treino/roupa-milan.png",
           "color": ["Vermelho", "Preto"],
           "size": ["P", "M", "G"],
-          "price": 115,
-          "descrição": "Composto de 01 jaqueta e 01 calça, o kit de agasalho PRÉ JOGO do MILAN é a melhor opção para treinos ou passeios em dias de inverno. Confeccionado com alta tecnologia e um estilo único, além de design sofisticado com um conforto incomparável."
+          "price": 115
         },
 
         {
           "id": 51,
-          "name": "Roupa de Treinamento Feminino Surf Blusa e Short",
+          "name": "Treinamento AC Milan Casaco e Calça",
           "type": "Treino",
           "img": "../imagens/Produtos/treino/roupa-surfista-fm.png",
           "color": ["Preto", "Verde"],
           "size": ["P", "M", "G"],
-          "price": 65,
-          "descrição": "Camisa manga longa térmica com gola redonda, confeccionada em tecido com proteção UV 50+, proporcionando todo o cuidado que você precisa para a prática de esportes de areia, são leves e flexíveis, permitem total liberdade de movimento durante os treinos e fornecem a dissipação do calor."
+          "price": 65
         },
 
         {
@@ -581,8 +530,7 @@
           "img": "../imagens/Produtos/treino/roupa-termica.png",
           "color": ["Preto"],
           "size": ["P", "M", "G"],
-          "price": 80,
-          "descrição": "As Camisas E Calças UV Possuem Uma Proteção De 98% Dos Raios Solares, Mais Que O Triplo Das Camisas E Calças Convencionais. Também Absorvem O Suor Do Corpo E Dissipam Com Mais Facilidade.Com Esse Conjunto, Além Do Conforto E Flexibilidade Para Suas Atividades, Você Terá Um Padrão Excelente De Proteção Solar.Você Não Vai Querer Perder Essa Ne?!* Esse Conjunto É Composto Por 1 Blusa Térmica + 1 Calça Térmica."
+          "price": 80
         },
 
         {
@@ -592,8 +540,7 @@
           "img": "../imagens/Produtos/treino/roupa-treino-adidas.png",
           "color": ["Preto", "Branco"],
           "size": ["P", "M", "G"],
-          "price": 80,
-          "descrição": "Camiseta e Short masculina de manga curta em torno do pescoço respirável solto roupas esportivas oversized verão manga curta"
+          "price": 80
         },
 
         {
@@ -603,8 +550,7 @@
           "img": "../imagens/Produtos/treino/roupa-treino-fm2.png",
           "color": ["Azul", "Azul-Escuro", "Rosa"],
           "size": ["P", "M", "G"],
-          "price": 85,
-          "descrição": "Top treino desenvolvido para realização de atividades físicas. Leve e confortável, ajusta-se ao corpo proporcionando liberdade de movimento. Confeccionado em tecido heavy dry, facilita a respiração da pele, proporcionando ótima sensação de bem-estar durante o treino."
+          "price": 85
         },
 
         {
@@ -614,8 +560,7 @@
           "img": "../imagens/Produtos/treino/roupa-treino-fm3.png",
           "color": ["Cinza"],
           "size": ["P", "M", "G"],
-          "price": 73,
-          "descrição": "Roupa de treino feminina 2 peças Conjuntos de 2 peças sem costura canelada corrida ioga duas peças top cropped academia cintura alta yoga esporte shorts"
+          "price": 73
         },
 
         {
@@ -625,8 +570,7 @@
           "img": "../imagens/Produtos/treino/roupa-treino-fm4.png",
           "color": ["Preto", "Verde"],
           "size": ["P", "M", "G"],
-          "price": 75,
-          "descrição": "Calça legging confeccionada em suplex liso, esse modelo possui cós alto. O cós modela e promove melhor ajuste ao corpo. Confortável, ela é ideal para a prática de atividades físicas e tarefas diárias. Possui bolso com tela para segurança e conforto. Top sem bojo com tela, com toque macio porém firme para prática de exercícios do dia a dia. "
+          "price": 75
         },
 
         {
@@ -636,8 +580,7 @@
           "img": "../imagens/Produtos/treino/roupa-treino-fm5.png",
           "color": ["Preto", "Branco"],
           "size": ["P", "M", "G"],
-          "price": 60,
-          "descrição": "Renovar o guarda-roupa dos seus filhos nunca foi tão fácil! Feito em material de alta qualidade, o artigo é ideal para garantir conforto, comodidade e beleza para o dia a dia. Compre agora!"
+          "price": 60
         },
 
         {
@@ -647,8 +590,7 @@
           "img": "../imagens/Produtos/treino/cama-elastica.png",
           "color": ["Preto"],
           "size": ["Unico"],
-          "price": 124,
-          "descrição": "O Mini Trampolim SS Esportes é ideal para o uso em academias e uso doméstico. É uma forma divertida de se exercitar e queimar calorias, além de ser um ótimo exercício aeróbico, também fortalece pernas e glúteos. É uma excelente opção para quem procura manter a saúde e a boa forma. O Mini Trampolim é feito em tubo 1° com pintura epóxi, 6 pés fixo com ponteiras de borracha, tela resistente e costuras reforçadas."
+          "price": 124
         },
 
         {
@@ -658,8 +600,7 @@
           "img": "../imagens/Produtos/treino/kit-crossfit.png",
           "color": ["Preto"],
           "size": ["Unico"],
-          "price": 154,
-          "descrição": "O Elástico Extensor foi criado com o propósito de possibilitar a realização de exercicios, tanto de membros superiores, quanto de membros inferiores e logo de cara foi um sucesso. Essa febre se espalhou pelo mundo e hoje é utilizado em várias aulas de academia, hits e aquecimentos aeróbicos. "
+          "price": 154
         },
 
         {
@@ -669,8 +610,7 @@
           "img": "../imagens/Produtos/treino/grip.png",
           "color": ["Preto", "Laranja"],
           "size": ["Unico"],
-          "price": 63,
-          "descrição": "Hand Grip Ajustável é ideal para o aumento da performance, pois a sua tensão pode ser ajustada de 10 a 40 kg, fortalece os músculos das mãos, antebraços e punhos, indicado para treinamento funcional, musculação, reabilitação muscular e como suporte prática de variados esportes."
+          "price": 63
         },
 
         {
@@ -680,8 +620,7 @@
           "img": "../imagens/Produtos/treino/kit-peso.png",
           "color": ["Preto", "Vermelho"],
           "size": ["Unico"],
-          "price": 125,
-          "descrição": "O kit multifuncional 6 em 1 Odin Fit é um kit versátil que te possibilita um treino completo com inúmeros exercícios. O kit te proporciona várias formas de montagens como: Kettlebell, Par de Halteres, Halter com pegada externa, Apoio fixo para flexão, barra 97cm e barra 110cm sendo todos estes com peso ajustável."
+          "price": 125
         },
 
         {
@@ -691,8 +630,7 @@
           "img": "../imagens/Produtos/treino/kit-treino-agilidade.png",
           "color": ["Preto"],
           "size": ["Unico"],
-          "price": 99,
-          "descrição": "Natural Fitness desde 2008 comercializando os melhores equipamentos fitness do mercado, Nossa Loja física localizada na cidade de Franca-sp com mais de 2100 metros quadrados. Hoje uma empresa consolidada e Líder de vendas online no Brasil (Market Place e Site) Oferecemos a nossos clientes produtos a pronta entrega e de melhor de qualidade, compra segura e um envio super rápido."
+          "price": 99
         },
 
         {
@@ -702,8 +640,7 @@
           "img": "../imagens/Produtos/treino/pacote-whey.png",
           "color": ["Amarelo", "Azul", "Rosa"],
           "size": ["Unico"],
-          "price": 56,
-          "descrição": "WHEY PURE REFIL 900g – PROBIOTICA 100% PURE WHEY é um suplemento proteico composto basicamente por proteína concentrada do soro do leite, matéria-prima elaborada com alta tecnologia e elevada concentração de aminoácidos."
+          "price": 56
         },
 
         {
@@ -713,8 +650,7 @@
           "img": "../imagens/Produtos/treino/pote-creatina.png",
           "color": ["Preto"],
           "size": ["1Kg"],
-          "price": 82,
-          "descrição": "Uma nutrição equilibrada tem um papel muito importante na qualidade de vida. Com o ritmo acelerado de muitas pessoas, às vezes, é muito difícil prestar atenção a todos os requisitos que o corpo precisa para estar saudável e forte."
+          "price": 82
         },
       
         {
@@ -724,8 +660,7 @@
           "img": "../imagens/Produtos/treino/short-nike.png",
           "color": ["Preto", "Cinza"],
           "size": ["P", "M", "G"],
-          "price": 45,
-          "descrição": "O Shorts Nike Challenger 5 de Corrida Masculino oferece conforto antissuor e ventilação ideal. O cós ajustável permite ajustar o caimento, enquanto os diversos bolsos permitem manter o essencial ao alcance."
+          "price": 45
         },
 
         {
@@ -735,8 +670,7 @@
           "img": "../imagens/Produtos/treino/short-adidas.png",
           "color": ["Branco","Preto"],
           "size": ["Unico"],
-          "price": 44,
-          "descrição": "Esse Shorts Masculino Adidas Parma é feito de tecido macio e elástico na cintura com cordão para ajuste. Possui tecido com tecnologia anti suor, modelagem tradicional e estampa lateral."
+          "price": 44
         },
 
         {
@@ -746,8 +680,7 @@
           "img": "../imagens/Produtos/Luva/Luva-Goleiro-Buffon-titan-pro-8.png",
           "color": ["Preto","Verde"],
           "size": ["8","9","10","12"],
-          "price": 81,
-          "descrição": "Corte: Corte RollFinger com extensão de palma da mão. Costas: palma de látex 100% importada: palma de látex importada com dupla aderência ou gel interno (aderência vint). Elástico: Aro tradicional elástico."
+          "price": 81
         },
 
         {
@@ -757,8 +690,7 @@
           "img": "../imagens/Produtos/Luva/Luva-Goleiro-Fusion.png",
           "color": ["Cinza","Azul"],
           "size": ["8","9","10","12"],
-          "price": 114,
-          "descrição": "Luvas de goleiro desenvolvidas na Alemanha – T1Tan é uma iniciação apaixonada por luvas de goleiro. Juntamente com o antigo goleiro nacional alemão René Adler e uma equipe de goleiros entusiastas, desenvolvemos luvas de goleiro de alta qualidade. "
+          "price": 114
         },
 
         {
@@ -768,8 +700,7 @@
           "img": "../imagens/Produtos/Luva/luva-goleiro-ho-soccer-one-negative-essential-8.png",
           "color": ["Branca","Azul"],
           "size": ["8","9","10","12"],
-          "price": 120,
-          "descrição": "A Linha ONE é composta por modelos de nível PROFISSIONAL. Em sua faixa de preço, é a melhor. Palma 4mm de látex + 3mm de espuma, o látex natural UCG (Ultimate Control Grip) oferece uma combinação ideal entre aderência em condição seca ou chuvosa com durabilidade e resistência."
+          "price": 120
         },
 
         {
@@ -779,8 +710,7 @@
           "img": "../imagens/Produtos/Luva/Luva-Goleiro-Mercurial-Touch-Elite.png",
           "color": ["Preto","Verde"],
           "size": ["8","9","10","12"],
-          "price": 159,
-          "descrição": "ADERÊNCIA COM AMORTECIMENTO PARA BLOQUEAR TODOS OS ATAQUES.As luvas Nike Goalkeeper Match estão prontas para defender seu jogo. O acolchoamento macio proporciona amortecimento contra impactos, enquanto uma superfície macia proporciona aderência em condições úmidas ou secas."
+          "price": 159
         },
 
         {
@@ -790,8 +720,7 @@
           "img": "../imagens/Produtos/Luva/Luva-Goleiro-NGA-Soccer-Evolution-Elite.png",
           "color": ["Laranja","Preta"],
           "size": ["8","9","10","12"],
-          "price": 80,
-          "descrição": "A NGA Evolution é Uma Das Luvas Profissionais Com a Melhor Durabilidade Do Mercado Sem Perde o Grip, com uma palma de látex natural alemão, tem muita aderência, facilitando suas defesas.O modelo Evolution Elite é da linha PROFISSION."
+          "price": 80
         },
 
         {
@@ -801,8 +730,7 @@
           "img": "../imagens/Produtos/Luva/Luva-Goleiro-Poker-Water-Precision.png",
           "color": ["Roxo","Branca","Azul"],
           "size": ["8","9","10","12"],
-          "price": 193,
-          "descrição": "A Hug Flex Profissional tem palma SSG, látex alemão 100% natural e tecnologia Flex, que prioriza a mobilidade das mãos, com 3mm de espessura, garantindo maior resistência e absorção do impacto na bola. "
+          "price": 193
         },
 
         {
@@ -812,8 +740,7 @@
           "img": "../imagens/Produtos/Luva/Luva-Goleiro-Predator-Pro-2-Azul-Branco.png",
           "color": ["Branca","Azul"],
           "size": ["8","9","10","12"],
-          "price": 169,
-          "descrição": "Tecnologia URG 2.0, 3,5mm de látex natural com extrema qualidade que proporciona um ótimo agarre em bolas difíceis, possui uma tecnologia que proporciona o escoamento da água para ter uma experiência melhor em dias de chuva."
+          "price": 169
         },
 
         {
@@ -823,8 +750,7 @@
           "img": "../imagens/Produtos/Luva/Luva-Goleiro-Predator-Pro-Azul-Branco.png",
           "color": ["Branca","Azul"],
           "size": ["8","9","10","12"],
-          "price": 278,
-          "descrição": "Com estas luvas de goleiro é você quem manda. A palma tem acolchoamento de 3.5 mm para tirar a pressão dos chutes mais fortes e o látex adere à bola em qualquer condição."
+          "price": 278
         },
 
         {
@@ -834,8 +760,7 @@
           "img": "../imagens/Produtos/Luva/Luva-Goleiro-Predator20-Competition.png",
           "color": ["Preta","Vermelha"],
           "size": ["8","9","10","12"],
-          "price": 279,
-          "descrição": "Luva de goleiro profissional predator Mutator 2.0, lançamento 2020, tamanho 8,9 e 10 a pronta entrega, Produto de ótima qualidade e excelente custo benefício, para você que quer desempenho e performance sem perder o estilo, látex 3,5 mm mais revestimento interno, palma de ótimo grip para dar mais firmeza e segurança no agarre."
+          "price": 279
         },
 
         {
@@ -845,8 +770,7 @@
           "img": "../imagens/Produtos/Luva/Luva-Goleiro-Raptor-Nitro-4-Outubro-rosa.png",
           "color": ["Branco","Rosa"],
           "size": ["8","9","10","12"],
-          "price": 165,
-          "descrição": "NEO PRO ROSA - CORTE GECKO ; • PALMA LÁTEX ALEMÃO SSG 4mm; DORSO EM LÁTEX NATURAL E MESH - FECHO DE PUNHO SINTA COM VELCRO - ZONA DE SOCO EMBORRACHADA; - INDICADA PARA CAMPOS SINTETICOS OU DE GRAMA NATURAL, SECO OU MOLHADO."
+          "price": 165
         },
 
         {
@@ -856,8 +780,7 @@
           "img": "../imagens/Produtos/Luva/Luva-Goleiro-Saipulang.png",
           "color": ["Preto","Azul"],
           "size": ["8","9","10","12"],
-          "price": 131,
-          "descrição": "A palma de látex antiderrapante e resistente ao desgaste oferece suporte máximo ao impacto e controle e aderência extremamente fortes ao manusear a bola, mesmo em condições molhadas. "
+          "price": 131
         },
 
         {
@@ -867,8 +790,7 @@
           "img": "../imagens/Produtos/Luva/luva-Goleiro-saurognathous-celie-rosa.png",
           "color": ["Rosa","Preto"],
           "size": ["8","9","10","12"],
-          "price": 107,
-          "descrição": "completamente satisfeito com Ho soccer Ghotta Roll Gecko Special Edition que adquiriu na goalinn, terá 30 dias consecutivos a partir do momento da entrega para proceder à sua devolução. "
+          "price": 107
         },
 
         {
@@ -878,8 +800,7 @@
           "img": "../imagens/Produtos/Luva/Luva-Goleiro-Scorpius-Black.png",
           "color": ["Preto","Branco"],
           "size": ["8","9","10","12"],
-          "price": 215,
-          "descrição": ". As nossas luvas são todas compostas pelos melhores materiais do mercado atual e são produzidas com o verdadeiro látex 100% Alemão, gerando assim o melhor GRIP e DURABILIDADE. "
+          "price": 215
         },
 
         {
@@ -889,8 +810,7 @@
           "img": "../imagens/Produtos/Luva/Luva-Goleiro-Scorpius-Blue.png",
           "color": ["Preto","Azul"],
           "size": ["8","9","10","12"],
-          "price": 229,
-          "descrição": ". As nossas luvas são todas compostas pelos melhores materiais do mercado atual e são produzidas com o verdadeiro látex 100% Alemão, gerando assim o melhor GRIP e DURABILIDADE. "
+          "price": 229
         },
 
         {
@@ -900,8 +820,7 @@
           "img": "../imagens/Produtos/Luva/Luva-Goleiro-Scorpius-White.png",
           "color": ["Branco","Preto"],
           "size": ["8","9","10","12"],
-          "price": 135,
-          "descrição": ". As nossas luvas são todas compostas pelos melhores materiais do mercado atual e são produzidas com o verdadeiro látex 100% Alemão, gerando assim o melhor GRIP e DURABILIDADE. "
+          "price": 135
         },
 
         {
@@ -911,8 +830,7 @@
           "img": "../imagens/Produtos/Luva/luva-goleiro-three-stars-fox-palma-branca.png",
           "color": ["Branco","Azul"],
           "size": ["8","9","10","12"],
-          "price": 219,
-          "descrição": "A Three Stars Fox apresenta palma em látex macio que proporciona um maior encaixe com a tecnologia Aqua Grip absorve o impacto e proporciona uma excelente aderência em campos molhados + palma estendida dando maior segurança em suas defesas. "
+          "price": 219
         },
 
         {
@@ -922,8 +840,7 @@
             "img": "../imagens/Produtos/Luva/luvas-adidas-predator-mutator.png",
             "color": ["Preto","Dourado","Branco"],
             "size": ["8","9","10","12"],
-            "price": 289,
-            "descrição": "Luva de goleiro profissional predator Mutator 2.0, lançamento 2020, tamanho 8,9 e 10 a pronta entrega, Produto de ótima qualidade e excelente custo benefício, para você que quer desempenho e performance sem perder o estilo, látex 3,5 mm mais revestimento interno, palma de ótimo grip para dar mais firmeza e segurança no agarre."
+            "price": 289
           },
 
           {
@@ -933,8 +850,7 @@
             "img": "../imagens/Produtos/Luva/Luva-Goleiro-Nike-Phantom-Shadow-PRO-lrj.png",
             "color": ["Vermelho","Verde","Branco"],
             "size": ["8","9","10","12"],
-            "price": 269,
-            "descrição": "Para grandes goleiros, grandes luvas! A Luva de Goleiro Nike é a pedida para os arqueiros, dos novatos aos mais experientes. Fabricada com material macio e resistente, o modelo conta com acolchoamento ventilado e espuma aderente para melhor agarre, seja em campos molhados ou secos."
+            "price": 269
           },
 
           {
@@ -944,8 +860,7 @@
             "img": "../imagens/Produtos/Luva/luva-nike-mercurial-touch-elite-original.png",
             "color": ["Verde","Preto"],
             "size": ["8","9","10","12"],
-            "price": 299,
-            "descrição": "As luvas de futebol Nike Goalkeeper Touch Elite são fabricadas com espuma e tecnologia Nike All Conditions Control para proteção ideal contra impactos em condições úmidas e secas."
+            "price": 299
           },
 
           {
@@ -955,8 +870,7 @@
             "img": "../imagens/Produtos/Luva/Luva-de-Goleiro-Predator-GL-Hybrid-Solar.png",
             "color": ["Laranja","Verde","Branco"],
             "size": ["8","9","10","12"],
-            "price": 275,
-            "descrição": "As luvas de goleiro Predator Pro NC Sapphire Edge são equipadas com palma de látex URG 2.0 com zonas flexíveis anatômicas para aderência confiável em todas as condições climáticas. Estas luvas são projetadas para se encaixar perfeitamente em sua mão para obter os melhores desempenhos com uma sensação natural."
+            "price": 275
           },
 
           {
@@ -966,8 +880,7 @@
             "img": "../imagens/Produtos/Luva/puma-luvas-guarda-redes-future-ultimate-nc.png",
             "color": ["Azul","Laranja","Branco"],
             "size": ["8","9","10","12"],
-            "price": 237,
-            "descrição": "Sua oposição não tem chance quando essas luvas são sua primeira linha de defesa. Suas mãos desfrutarão da máxima liberdade de movimento, mas se sentirão completamente apoiadas devido às elasticidades 3D variáveis ​​na fabricação do backhand. "
+            "price": 237
           },
 
           {
@@ -977,8 +890,7 @@
             "img": "../imagens/Produtos/camisa retro/camisa-Milan2006.png",
             "color": ["Branco","Vermelho"],
             "size": ["P","M","G","GG"],
-            "price": 209,
-            "descrição": "Camisa usada no titulo da Champions de 2006"
+            "price": 209
           },
 
           {
@@ -988,8 +900,7 @@
             "img": "../imagens/Produtos/camisa retro/camisa-Arsenal2006.png",
             "color": ["Vermelho","Dourado"],
             "size": ["P","M","G","GG"],
-            "price": 199,
-            "descrição": "Camisa usada no titulo da copa da Inglaterra de 2006"
+            "price": 199
           },
 
           {
@@ -999,8 +910,7 @@
             "img": "../imagens/Produtos/camisa retro/camisa-Barcelona2015.png",
             "color": ["Azul","Preto"],
             "size": ["P","M","G","GG"],
-            "price": 135,
-            "descrição": "Camisa usada pelo elenco de 2015 Campeão da Champions League e do Mundial de Clubes FIFA"
+            "price": 135
           },
 
           {
@@ -1010,8 +920,7 @@
             "img": "../imagens/Produtos/camisa retro/camisa-Brasil2002.png",
             "color": ["Verde","Amarelo"],
             "size": ["P","M","G","GG"],
-            "price": 125,
-            "descrição": "Lendaria camisa usada no titulo de Copa do Mundo onde conquistou o quinto título do torneio, ao vencer a Alemanha na final por 2-0, em Yokohama."
+            "price": 125
           },
 
           {
@@ -1021,8 +930,7 @@
             "img": "../imagens/Produtos/camisa retro/camisa-França2006.png",
             "color": ["Branco","Azul","Vermelho"],
             "size": ["P","M","G","GG"],
-            "price": 139,
-            "descrição": "Camisa usada pelo idolo Zinedine Zidane na final da Copa do Mundo de 2006"
+            "price": 139
           },
 
           {
@@ -1032,8 +940,8 @@
             "img": "../imagens/Produtos/camisa retro/camisa-Holanda1974.png",
             "color": ["Laranja","Preto"],
             "size": ["P","M","G","GG"],
-            "price": 119,
-            "descrição": "Camisa do famoso 'Carrossel Holandês' usada pelo Lendario Johan Cruijff"
+            "price": 119
+            
           },
 
           {
@@ -1043,8 +951,7 @@
             "img": "../imagens/Produtos/camisa retro/camisa-InterMilão2004.png",
             "color": ["Cinza","Amarelo"],
             "size": ["P","M","G","GG"],
-            "price": 179,
-            "descrição": "Camisa do ano do titulo da Copa da Italia e Supercopa da Italia"
+            "price": 179
           },
 
           {
@@ -1054,8 +961,7 @@
             "img": "../imagens/Produtos/camisa retro/camisa-Italia1996.png",
             "color": ["Branco","Azul"],
             "size": ["P","M","G","GG"],
-            "price": 130,
-            "descrição": "Ultima Camisa usada idolo italiano pelo Lateral Maldini"
+            "price": 130
           },
 
           {
@@ -1065,8 +971,7 @@
             "img": "../imagens/Produtos/camisa retro/camisa-Juventos2015.png",
             "color": ["Rosa","Branco","Preto"],
             "size": ["P","M","G","GG"],
-            "price": 129,
-            "descrição": "Com essa camisa Pirlo conquistou a Tripice Coroa pela Juventus e se aposentou posteriormente"
+            "price": 129
           },
 
           {
@@ -1076,8 +981,7 @@
             "img": "../imagens/Produtos/camisa retro/camisa-ManchesterUnited2007.png",
             "color": ["Azul","Branco"],
             "size": ["P","M","G","GG"],
-            "price": 133,
-            "descrição": "Camisa usada por Cristiano Ronaldo no inicio de sua carreira"
+            "price": 133
           },
 
           {
@@ -1087,8 +991,7 @@
             "img": "../imagens/Produtos/camisa retro/camisa-cruzeiro-93.png",
             "color": ["Azul","Branco"],
             "size": ["P","M","G","GG"],
-            "price": 209,
-            "descrição": "Camisa do Tetra campeonato da Copa do Brasil"
+            "price": 209
           },
 
           {
@@ -1098,8 +1001,7 @@
             "img": "../imagens/Produtos/camisa retro/camisa-Newcastle2000.png",
             "color": ["Branco","Preto"],
             "size": ["P","M","G","GG"],
-            "price": 175,
-            "descrição": "Camisa usada pelo idolo do clube, Gary Speed que veio a falecer em 2011"
+            "price": 175
           },
 
           {
@@ -1109,8 +1011,7 @@
             "img": "../imagens/Produtos/camisa retro/camisa-Psg2001.png",
             "color": ["Azul","Vermelho"],
             "size": ["P","M","G","GG"],
-            "price": 120,
-            "descrição": "Camisa usada por um do maior idolo brasileiro que o clube ja teve Ronaldinho"
+            "price": 120
           },
 
           {
@@ -1120,8 +1021,7 @@
             "img": "../imagens/Produtos/camisa retro/camisa-RealMadrid2009.png",
             "color": ["Preto","Azul-Claro"],
             "size": ["P","M","G","GG"],
-            "price": 169,
-            "descrição": "Camisa usada na chegada de uns dos maiores idolos do clube Cristiano Ronaldo"
+            "price": 169
           },
 
           {
@@ -1131,8 +1031,7 @@
             "img": "../imagens/Produtos/camisa retro/camisa-Sporting2003.png",
             "color": ["Verde","Branco"],
             "size": ["P","M","G","GG"],
-            "price": 153,
-            "descrição": "Camisa usada na conquistaa da SuperTaça de Portugal"
+            "price": 153
           },
 
           {
@@ -1142,8 +1041,7 @@
             "img": "../imagens/Produtos/camisa retro/camisa-Tottenham2006.png",
             "color": ["Azul-Claro"],
             "size": ["P","M","G","GG"],
-            "price": 115,
-            "descrição": "Camisa usada por idolo Goran Bunjevcevic falecido em 2018"
+            "price": 115
           },
 
           {
@@ -1153,8 +1051,7 @@
             "img": "../imagens/Produtos/camisa retro/camisa-Alemanha1990.png",
             "color": ["Branco","Vermelho","Preto","Amarelo"],
             "size": ["P","M","G","GG"],
-            "price": 187,
-            "descrição": "Camisa usada na conquista da Copa do Mundo"
+            "price": 187
           },
 
           {
@@ -1164,8 +1061,7 @@
             "img": "../imagens/Produtos/camisa retro/camisa-santos-13.png",
             "color": ["Azul", "Preto"],
             "size": ["P","M","G","GG"],
-            "price": 200,
-            "descrição": "Camisa Lendaria usada no inicio da carreira por Neymar Jr."
+            "price": 200
           },
 
           {
@@ -1175,8 +1071,7 @@
             "img": "../imagens/Produtos/camisa retro/england-02.png",
             "color": ["Branco", "Vermelho"],
             "size": ["P","M","G","GG"],
-            "price": 136,
-            "descrição": "Camisa usada pelo idolo Ingles Lampard"
+            "price": 136
           },
 
           {
@@ -1186,8 +1081,7 @@
             "img": "../imagens/Produtos/camisa retro/om-98.png",
             "color": ["Branco", "Azul-Claro"],
             "size": ["P","M","G","GG"],
-            "price": 155,
-            "descrição": "Camisa usada por Klas Ingesson falecido em 2014"
+            "price": 155
           },
 
           {
@@ -1197,8 +1091,7 @@
             "img": "../imagens/Produtos/camisa retro/parma-02.png",
             "color": ["Branco", "Azul-Escuro", "Amarelo"],
             "size": ["P","M","G","GG"],
-            "price": 163,
-            "descrição": "Camisa usada na conquista da Taça da Italia"
+            "price": 163
           },
           
           {
@@ -1208,8 +1101,7 @@
             "img": "../imagens/Produtos/tenis/Air-Jordan-11Cherry.png",
             "color": ["Branco", "Vermelho"],
             "size": ["39", "40", "41", "42"],
-            "price": 339,
-            "descrição": "Vamos direto ao ponto - o AJ11 é de todos os tempos. MJ ganhou 72 jogos e um título enquanto os usava. Agora, o ícone retorna nas cores clássicas de Chicago: Varsity Red e White. Do guarda-lamas de couro envernizado liso à sola fosca, este design Tinker Hatfield traz o fascínio fora da quadra. E para o toque final? O amortecimento Air de comprimento total é a cereja no topo"
+            "price": 339
           },
 
           {
@@ -1219,8 +1111,7 @@
             "img": "../imagens/Produtos/tenis/Tênis-Adi2000.png",
             "color": ["Branco", "Azul","Preto"],
             "size": ["39", "40", "41", "42"],
-            "price": 315,
-            "descrição": "O tênis Adidas Adi2000 tem o Y2K no seu DNA. Parte influência do skate, parte influência do basquete, sua herança cultural não pode ser negada. O cabedal de couro premium e suede dá o toque final de estilo a cada passo. "
+            "price": 315
           },
           
           {
@@ -1230,8 +1121,7 @@
             "img": "../imagens/Produtos/tenis/Tênis-Air-Jordan-6-Retro.png",
             "color": ["Cinza", "Branco"],
             "size": ["39", "40", "41", "42"],
-            "price": 300,
-            "descrição": "O sexto tênis de assinatura de MJ estreou durante a temporada 1990-91 e sempre será lembrado como o que ele usava quando ganhou seu primeiro anel."
+            "price": 300
           },
 
           {
@@ -1241,8 +1131,7 @@
             "img": "../imagens/Produtos/tenis/Tênis-Forum-Bold.png",
             "color": ["Branco", "Preto"],
             "size": ["39", "40", "41", "42"],
-            "price": 360,
-            "descrição": "Tênis da linha Forum, ícone da marca Adidas. Pensando em uma solução para acabar com o lixo plástico, a Adidas desenvolveu este modelo com uma série de materiais reciclados, o cabedal contém pelo menos 50% de conteúdo reaproveitado."
+            "price": 360
           },
 
           {
@@ -1252,8 +1141,7 @@
             "img": "../imagens/Produtos/tenis/Tênis-Forum-Low.png",
             "color": ["Azul-Claro", "Branco"],
             "size": ["39", "40", "41", "42"],
-            "price": 280,
-            "descrição": "Como uma das marcas esportivas mais respeitadas do mundo, a adidas constantemente olha para suas próprias raízes para inspirar suas coleções atuais. A clássica silhueta teve uma notável participação em histórias incríveis, se tornando uma peça que não pode ficar fora da sua coleção."
+            "price": 280
           },
 
           {
@@ -1263,8 +1151,7 @@
             "img": "../imagens/Produtos/tenis/Tênis-Nike-Air Max-Lebron-7-Retro-QS.png",
             "color": ["Preto", "Ciano","Branco"],
             "size": ["39", "40", "41", "42"],
-            "price": 310,
-            "descrição": "Comemorando dez anos desde o lançamento original, o Air Max LeBron 7 Retro QS 'Red Carpet' 2019 foi lançado em outubro com o modelo em preto e branco com hits de 'Glass Blue' e 'Chilling Red'. Em novembro de 2009, LeBron estreou essa iteração do tênis inovador criado pelo designer da Nike Jason Petrie e produziu um esforço de 33 pontos, 8 rebotes e 9 assistências contra o NY Knicks."
+            "price": 310
           },
 
           {
@@ -1274,8 +1161,7 @@
             "img": "../imagens/Produtos/tenis/Tênis-Nike-Air-Max-90.png",
             "color": ["Branco", "Preto"],
             "size": ["39", "40", "41", "42"],
-            "price": 205,
-            "descrição": "Esse modelo de Air Max 90 Feminino volta ao básico e trabalha um 'color-blocking' simples, porém elegante. Seu cabedal é construido em malha e couro branco com detalhes em preto cobrindo o Swoosh, língua, palmilha e calcanhar."
+            "price": 205
           },
 
           {
@@ -1285,8 +1171,7 @@
             "img": "../imagens/Produtos/tenis/Tênis-Nike-Air-Max-95.png",
             "color": ["Branco", "Azul-Claro","Cinza"],
             "size": ["39", "40", "41", "42"],
-            "price": 289,
-            "descrição": "Inspirado no corpo humano e na estética de atletismo dos anos 90, o Nike Air Max 95 combina conforto inacreditável com estilo impressionante."
+            "price": 289
           },
 
           {
@@ -1296,8 +1181,7 @@
             "img": "../imagens/Produtos/tenis/Tênis-Nike-Air-Max-97.png",
             "color": ["Dourado", "Preto"],
             "size": ["39", "40", "41", "42"],
-            "price": 299,
-            "descrição": "Melhore seu estilo em velocidade total com o Air Max 97. Seu design icônico foi inspirado nos trens-bala japoneses e gotas de água. E, claro, o amortecimento Nike Air de comprimento total permite correr com conforto de desempenho.Benefícios Originalmente criado para a prática de corrida,"
+            "price": 299
           },
 
           {
@@ -1307,8 +1191,7 @@
             "img": "../imagens/Produtos/tenis/Tênis-Nike-Air-Max-TW.png",
             "color": ["Cinza", "Preto"],
             "size": ["39", "40", "41", "42"],
-            "price": 399,
-            "descrição": "Adicionando um toque retrô, o tênis Nike Air Max TW 1 mantém você enraizado no DNA da Nike! O design deste Air conta com um visual fascinante pronto para destacar seu outfit por completo, sem comprometer a estética dos anos 90 combinado com a cultura atual das ruas. "
+            "price": 399
           },
 
           {
@@ -1318,8 +1201,7 @@
             "img": "../imagens/Produtos/tenis/Tênis-NMD-R1-V2.png",
             "color": ["Cinza", "Verde"],
             "size": ["39", "40", "41", "42"],
-            "price": 210,
-            "descrição": "Tênis Adidas NMD_R1 aproveita o melhor da tecnologia de corrida adidas em um tênis pronto para as ruas. Este tênis NMD tem estilo inspirado nos modelos retrôs do acervo adidas. Os plugues contrastantes na entressola colocam seus pés em evidência."
+            "price": 210
           },
 
           {
@@ -1329,8 +1211,7 @@
             "img": "../imagens/Produtos/tenis/Tênis-NMD-R1-V3.png",
             "color": ["Preto", "Azul"],
             "size": ["39", "40", "41", "42"],
-            "price": 229,
-            "descrição": "Este tênis lhe garante um look confortável e urbano, graças a tecnologia de ponta da Adidas. Conforto e amortecimento para o seu dia em um estilo descomplicado. Seu cabedal em malha é flexível e abraça o seu pé, além de contar com estrutura RPU refletiva."
+            "price": 229
           },
 
           {
@@ -1340,8 +1221,7 @@
             "img": "../imagens/Produtos/tenis/TÊNIS-RS-X-EFEKT-TOPOGRAPHIC.png",
             "color": ["Branco", "Preto", "Azul"],
             "size": ["39", "40", "41", "42"],
-            "price": 317,
-            "descrição": "O RS-X está de volta. A silhueta retro-futurista deste tênis retorna com uma estética progressiva e detalhes angulares, completos com sobreposições de camurça e material sintético."
+            "price": 317
           },
 
           {
@@ -1351,8 +1231,7 @@
             "img": "../imagens/Produtos/tenis/Tênis-Slipstream-Archive-Remastered.png",
             "color": ["Branco", "Verde", "Preto"],
             "size": ["39", "40", "41", "42"],
-            "price": 330,
-            "descrição": "Em 1987, o OG PUMA Slipstream Lo entrou em cena como um tênis de basquete. Um tênis de basquete que voa alto, dá enterradas e mostra quem você é. Agora, juntou-se a ele o Slipstream – uma nova versão do original que traz uma energia totalmente nova ao jogo, mantendo-se fiel às raízes esportivas do OG."
+            "price": 330
           },
 
           {
@@ -1362,8 +1241,7 @@
             "img": "../imagens/Produtos/tenis/Tênis-Slipstream-Neymar Jr.png",
             "color": ["Branco", "Amarelo"],
             "size": ["39", "40", "41", "42"],
-            "price": 399,
-            "descrição": "Agora, essa coleção vem acompanhada da linha Slipstream – um retrabalho da linha original que traz toda uma nova energia ao jogo, ao mesmo tempo que se mantém fiel às raízes esportivas da versão original. Esse tênis é inspirado no estilo arrojado do Neymar em campo e traz o logo do craque no calcanhar."
+            "price": 399
           },
 
           {
@@ -1373,8 +1251,7 @@
             "img": "../imagens/Produtos/tenis/Tênis-Suede-Archive-Remastered.png",
             "color": ["Preto", "Verde"],
             "size": ["39", "40", "41", "42"],
-            "price": 199,
-            "descrição": "Invadimos os arquivos para comemorar os 75 anos do legado esportivo da PUMA. O resultado? Estilos clássicos reinventados para o século XXI. Dá só uma olhada nessa edição do icônico Suede."
+            "price": 199
           },
 
           {
@@ -1384,8 +1261,7 @@
             "img": "../imagens/Produtos/tenis/Ben-10-Tênis.png",
             "color": ["Preto", "Verde"],
             "size": ["39", "40", "41", "42"],
-            "price": 90,
-            "descrição": "Tênis Ben 10 Play Motion preto, confeccionado em material sintético, com recortes estilizados, detalhes em cinza e padronagem com temática do personagem. Fechamento em cadarço."
+            "price": 90
           },
 
           {
@@ -1395,8 +1271,7 @@
             "img": "../imagens/Produtos/tenis/tenis-relampago-marquinhos.png",
             "color": ["Vermelho", "Preto"],
             "size": ["39", "40", "41", "42"],
-            "price": 97,
-            "descrição": "O carro mais veloz da Disney, mais conhecido como Relâmpago McQueen, vai deixar os baixinho repletos de estilo, já que chegou o Tênis dos Carros da Disney para completar as produções. Estampa do McQueen; Cabedal em material têxtil"
+            "price": 97
           },
 
           {
@@ -1406,8 +1281,7 @@
             "img": "../imagens/Produtos/tenis/tenis-mizuno-wave-prophecy-11s-removebg-preview.png",
             "color": ["Branco", "Cinza"],
             "size": ["39", "40", "41", "42"],
-            "price": 348,
-            "descrição": "Com um dos designs mais lindos do momento, o tênis Wave Prophecy 11S é perfeito para você que prioriza qualidade e muito estilo em seus eventos. O tênis tem cabedal (parte superior do calçado) de material sintético e têxtil."
+            "price": 348
           },
 
           {
@@ -1417,8 +1291,7 @@
             "img": "../imagens/Produtos/tenis/TÊNIS-RS-X-EFEKT-TOPOGRAPHIC.png",
             "color": ["Preto", "Verde","Azul","Vermelho"],
             "size": ["39", "40", "41", "42"],
-            "price": 212,
-            "descrição": "Ouse ser quem você é com a nova edição do RS-X. Estes tênis expressam sua individualidade. Com combinações de cores ousadas, texturas dinâmicas e detalhes de sobreposição enérgicos, não haverá dúvidas de que você é tão destemido quanto eles."
+            "price": 212
           },
 
           {
@@ -1428,8 +1301,7 @@
             "img": "../imagens/Produtos/tenis/TÊNIS-RS-Z-LTH.png",
             "color": ["Preto", "Verde","Branco"],
             "size": ["39", "40", "41", "42"],
-            "price": 235,
-            "descrição": "Conheça o modelo que instituiu uma nova dinastia no sportswear. Inspirado na reinvenção da conexão entre comunidades na era digital, o tênis RS-Z LTH traz cabedal com sobreposições em PU, sola de borracha, fechamento de cadarço e tecnologia exclusiva PUMA Running System para resistir à prova do tempo."
+            "price": 235
           }
 
 
