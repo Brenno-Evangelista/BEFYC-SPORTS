@@ -8,7 +8,7 @@
           "color": ["Branca", "Azul"],
           "size": ["P", "M", "G", "GG"],
           "price": 100,
-          "descrição":"Para usar dentro ou fora dos estádios, a Camisa Ajax I 22/23 adidas é a pedida certa. A camisa Ajax masculina é de gola em “v” com tira interna em tecido que ajuda a diminuir o atrito de contato com a costura. Seu diferencial é a tecnologia Aeroready, desenvolvida para proporcionar respirabilidade e absorção do suor para comodidade duradoura. Confeccionada em poliéster que oferece leveza e durabilidade. Não perca a chance e adquira já a qualidade adidas!"   
+          "descrição":"Aumente sua coleção de camisas de futebol adquirindo a nova Camisa Masculina do Olympique de Marseille. Semelhante ao modelo que os astros usam nos jogos em casa, o manto titular da temporada 21/22 é predominantemente branco com detalhes em azul claro e o brasão do clube francês bordado na altura do peito. De tecido leve e respirável, a peça proporciona ótimo caimento e garante liberdade de movimentos durante o uso."   
         },
 
         {
@@ -18,7 +18,8 @@
           "img": "../imagens/Produtos/Camisa/camisa-Psg.png",
           "color": ["Branca"],
           "size": ["P", "M", "G", "GG"],
-          "price": 115
+          "price": 115,
+          "descrição":"A nova camisa reserva rende homenagem aos 50 anos do estádio Parc des Princes e é predominantemente cinza, inspirada nos muros que o circundam. A faixa central no manto é preta, como se fosse pincelada, com uma interrupção na área nobre para a aplicação do patrocínio máster da Qatar Airways."
         },
 
         {
@@ -28,7 +29,8 @@
           "img": "../imagens/Produtos/Camisa/camisa-Cruzeiro.png",
           "color": ["Azul", "Azul"],
           "size": ["P", "M", "G", "GG"],
-          "price": 130
+          "price": 130,
+          "descrição":"Alô, torcedor do Cabuloso! Chegou a hora de atualizar o manto da criançada para a nova temporada com a Camisa Cruzeiro Infantil I 23/24 s/n° Torcedor Adidas Masculina! Homenageando os 20 anos da conquista da Tríplice Coroa, essa camisa Cruzeiro infantil 2023 masculina apresenta tom predominantemente em azul, detalhes em azul marinho, gola com fechamento em botão e listras nas mangas. O diferencial fica por conta das estrelas soltas em branco, assim como na campanha vitoriosa em 2003. Apoie a Raposa e compre já essa camisa Cruzeiro infantil masculina!"
         },
 
         {
@@ -38,7 +40,8 @@
           "img": "../imagens/Produtos/Camisa/camisa-Ajax.png",
           "color": ["Branca", "Vermelha"],
           "size": ["P", "M", "G", "GG"],
-          "price": 110
+          "price": 110,
+          "descrição":"Para usar dentro ou fora dos estádios, a Camisa Ajax I 22/23 adidas é a pedida certa. A camisa Ajax masculina é de gola em “v” com tira interna em tecido que ajuda a diminuir o atrito de contato com a costura. Seu diferencial é a tecnologia Aeroready, desenvolvida para proporcionar respirabilidade e absorção do suor para comodidade duradoura. Confeccionada em poliéster que oferece leveza e durabilidade. Não perca a chance e adquira já a qualidade adidas!"
         },
 
         {
@@ -48,7 +51,8 @@
           "img": "../imagens/Produtos/Camisa/camisa-Almeria.png",
           "color": ["Preto", "Ciano"],
           "size": ["P", "M", "G", "GG"],
-          "price": 112
+          "price": 112,
+          "descrição":"O manto alternativo do Almería traz o preto como cor de fundo e, inspirado no hino do clube, tem diversas faixas azul celeste, que lembram ondas sonoras, segundo o próprio clube. A gola e os punhos são azul celeste. A Castore estampa uma versão azul de seu logo no lado direito do peito, enquanto o escudo do Almería é colocado no lado esquerdo, em uma versão vazada na mesma cor."
         },
 
         {
@@ -58,7 +62,8 @@
           "img": "../imagens/Produtos/Camisa/camisa-Americamex.png",
           "color": ["Preto", "Branca"],
           "size": ["P", "M", "G", "GG"],
-          "price": 129
+          "price": 129,
+          "descrição":"Se você é um fã do Club América do México, não pode perder a oportunidade de ter em sua coleção a nova terceira camisa do time para 2023. Com um design elegante e clean na cor bege, essa camisa é perfeita para usar tanto nas arquibancadas quanto no dia a dia. Além disso, você tem a opção de personalizar a camisa com seu nome e número favorito, tornando-a ainda mais especial e exclusiva. Feita com materiais de alta qualidade, essa camisa garante conforto e durabilidade durante o uso."
         },
 
         {
@@ -68,7 +73,8 @@
           "img": "../imagens/Produtos/Camisa/camisa-Argentina.png",
           "color": ["Azul", "Branca"],
           "size": ["P", "M", "G", "GG"],
-          "price": 109
+          "price": 109,
+          "descrição":"A camisa titular da Argentina para a Copa do Mundo 2022 traz as listras verticais em azul celeste e branco na região do corpo do manto, com três faixas celestes e quatro brancas. A gola é redonda na cor preta, cor que é vista também nas laterais do kit, nas três listras que percorrem os ombros e nos punhos das mangas que são brancas."
         },
         
         {
@@ -78,7 +84,8 @@
           "img": "../imagens/Produtos/Camisa/camisa-Brasil.png",
           "color": ["Amarelo", "Verde"],
           "size": ["P", "M", "G", "GG"],
-          "price": 75
+          "price": 75,
+          "descrição":"Para empurrar o Brasil rumo a mais um título americano, adquira a nova Camisa da Seleção Brasileira III 19/20 Torcedor Nike! Esse manto regado de história e classe, compõem o terceiro uniforme da seleção e comemora os 100 anos da primeira conquista da Copa América, em 1919. Mostre que você é “Team Brasileiro” e garanta a sua Camisa Branca do Brasil Nike!"
         },
 
         {
@@ -88,7 +95,8 @@
           "img": "../imagens/Produtos/Camisa/camisa-Croacia.png",
           "color": ["Azul", "Azul-Escuro"],
           "size": ["P", "M", "G", "GG"],
-          "price": 90
+          "price": 90,
+          "descrição":"O manto reserva dos croatas para o Mundial no Catar tem o azul marinho como cor predominante e o padrão quadriculado volta a aparecer em azul claro na região da manga esquerda, e se tornando desfocado, conforme chega na região esquerda do peito, até que some, acenando para os fluxos e refluxos da costa adriática da Croácia."
         },
 
         {
@@ -98,7 +106,8 @@
           "img": "../imagens/Produtos/Camisa/camisa-Espanha.png",
           "color": ["Vermelho", "Amarelo"],
           "size": ["P", "M", "G", "GG"],
-          "price": 90
+          "price": 90,
+          "descrição":"A camisa titular da Seleção da Espanha para o Mundial no Catar, segundo a Adidas, é inspirada no DNA futebolístico do país, que busca seu bicampeonato. O manto é vermelho e traz gola “V” nas cores azul marinho, vermelho e amarelo, com detalhe frontal em azul marinho. As três listras percorrem os ombros em azul marinho, cor que também é vista nas laterais e na barra inferior do kit."
         },
 
         {
@@ -108,7 +117,8 @@
           "img": "../imagens/Produtos/Camisa/camisa-França.png",
           "color": ["Azul-Escuro", "Dourado"],
           "size": ["P", "M", "G", "GG"],
-          "price": 104
+          "price": 104,
+          "descrição":"A nova camisa titular da França para a temporada traz o azul marinho como cor predominante e apresenta na gola e nos punhos um padrão de folha de carvalho e ramo de oliveira, que representam força, solidariedade e paz. A bandeira da França também é utilizada nos punhos. Dentro da gola é visto em dourado a frase “Nos différences nous unissent” (Nossas diferenças nos unem)"
         },
 
         {
@@ -118,7 +128,8 @@
           "img": "../imagens/Produtos/Camisa/camisa-Holanda.png",
           "color": ["Laranja", "Preto"],
           "size": ["P", "M", "G", "GG"],
-          "price": 90
+          "price": 90,
+          "descrição":"A nova camisa titular da Holanda é baseada no novo template da Nike e traz um tom mais amarelado do laranja mas ao longo do corpo do manto, tons mais escuros são aplicados em uma espécie de redemoinho que simula a juba de um leão, símbolo histórico dos Países Baixos, representando também a fluidez do sistema tático revolucionário do Futebol Total."
         },
 
         {
@@ -128,7 +139,8 @@
           "img": "../imagens/Produtos/Camisa/camisa-Inglaterra.png",
           "color": ["Branco", "Azul"],
           "size": ["P", "M", "G", "GG"],
-          "price": 92
+          "price": 92,
+          "descrição":"A nova camisa titular da Inglaterra para a Copa 2022 inspira-se na ousadia do time inglês, destacando seu espírito robusto e energia coletiva, é baseada no novo template da Nike para a temporada e tem a base branca.A nova camisa titular da Inglaterra para a Copa 2022 inspira-se na ousadia do time inglês, destacando seu espírito robusto e energia coletiva, é baseada no novo template da Nike para a temporada e tem a base branca."
         },
 
         {
@@ -138,7 +150,8 @@
           "img": "../imagens/Produtos/Camisa/camisa-InterMiami.png",
           "color": ["Preto", "Rosa"],
           "size": ["P", "M", "G", "GG"],
-          "price": 109
+          "price": 109,
+          "descrição":"A Camisa Inter Miami 2 Away 2023 Torcedor Adidas Masculina é a escolha perfeita para os fãs que desejam representar a equipe com estilo e conforto. Batizada de 'La Noche', esta camisa apresenta um design preto com seis listras horizontais em relevo, que retratam a energia e a intensidade do futebol em Miami durante a noite."
         },
 
         {
@@ -148,7 +161,8 @@
           "img": "../imagens/Produtos/Camisa/camisa-Liverpool.png",
           "color": ["Azul", "Azul"],
           "size": ["P", "M", "G", "GG"],
-          "price": 139
+          "price": 139,
+          "descrição":"Se você é fã do Liverpool FC e do astro do basquete LeBron James, não pode perder a oportunidade de ter a Camisa do Liverpool FC LeBron James 2023/24 Nike Jogador Masculina Preto em sua coleção! Com um design moderno e cheio de personalidade, esta camisa preta traz faixas verticais cinzas com as letras YNW, que representam o lema do clube: 'You'll Never Walk Alone'. Além disso, a camisa traz as linhas verticais vermelhas, que dão um toque de cor e estilo."
         },
 
         {
@@ -158,7 +172,8 @@
           "img": "../imagens/Produtos/Camisa/camisa-Borrusia.png",
           "color": ["Amarelo", "Preto"],
           "size": ["P", "M", "G", "GG"],
-          "price": 102
+          "price": 102,
+          "descrição":"A camisa titular do Borussia Dortmund para a temporada 2022-2023 é predominantemente amarela e traz como destaque, quatro faixas verticais pretas, inspiradas no modelo utilizado na Champions League 2012-2013, da qual o time foi vice-campeão. Essas listras trazem um padrão gráfico sequencial em seu preenchimento, baseado no Wildschütz , um lendário restaurante em Dortmund e local onde o clube foi fundado em 1909, e são interrompidas para aplicação do patrocinador máster da 1&1."
         },
 
         {
@@ -168,7 +183,8 @@
           "img": "../imagens/Produtos/Camisa/camisa-Atalanta-Goleiro-.png",
           "color": ["Preto"],
           "size": ["P", "M", "G", "GG"],
-          "price": 79
+          "price": 79,
+          "descrição":"Camisa de goleiro do Atalanta BC é predominantemente preta. A produção foi realizada com poliéster 100% reciclado para minimizar o impacto no meio ambiente. Este tecido caracteriza-se pela sua qualidade e elasticidade, além de ser muito resistente. A tecnologia MICROMESH proporciona respirabilidade à camisa, o sistema FLATLOCK, com costuras planas, evita o atrito e proporciona elasticidade e liberdade de movimento. Os logotipos foram aplicados com a tecnologia JOMA SPORTTECH, técnica que consiste na selagem a quente de peças de borracha."
         },
 
 
@@ -179,7 +195,8 @@
           "img": "../imagens/Produtos/Camisa/camisa-Monterrey.png",
           "color": ["Roxo", "Rosa"],
           "size": ["P", "M", "G", "GG"],
-          "price": 118
+          "price": 118,
+          "descrição":"A camisa três do Monterrey traz a base em tons de roxo, e alguns pontos em vermelho, numa coloração camuflada, na região frontal. As costas tem a cor preta, mesma dos punhos e da gola redonda. A PUMA estampa o felino em branco, nas mangas e no lado direito do peito, enquanto que, no lado esquerdo, é colocado o escudo do time, em sua versão atual padrão."
         },
 
         {
@@ -189,7 +206,8 @@
           "img": "../imagens/Produtos/Camisa/camisa-Napoli-Diadosnamorados.png",
           "color": ["Branca", "Vermelho"],
           "size": ["P", "M", "G", "GG"],
-          "price": 139
+          "price": 139,
+          "descrição":"A camisa especial do Dia dos Namorados do Napoli é branca e traz a gola redonda vermelha, assim como as mangas, que ganham um degrade em faixas para o branco, no mesmo estilo das camisas regulares já lançadas para a temporada. O grande destaque da camisa fica por conta de um grande marca de beijo em batom vermelho, aplicada na região inferior direita da camisa."
         },
 
         {
@@ -199,7 +217,8 @@
           "img": "../imagens/Produtos/Camisa/camisa-Parma.png",
           "color": ["Branco", "Preto"],
           "size": ["P", "M", "G", "GG"],
-          "price": 97
+          "price": 97,
+          "descrição": "A Erreà apresentou as novas camisas do Parma Calcio para a temporada 2020-2021, em que a equipe disputa novamente a Serie A TIM. A camisa titular do Parma para a temporada traz o tradicional estilo com a cruz preta sobre o fundo branco. Desta vez, no entanto, as mangas também são pretas, representando, segundo a Erreà, as asas da Fênix."
         },
 
         {
@@ -209,7 +228,8 @@
           "img": "../imagens/Produtos/Camisa/camisa-Porto.png",
           "color": ["Azul", "Dourado"],
           "size": ["P", "M", "G", "GG"],
-          "price": 139
+          "price": 139,
+          "descrição":
         },
 
         {
@@ -219,7 +239,8 @@
           "img": "../imagens/Produtos/Camisa/camisa-Sporting.png",
           "color": ["Verde", "Branco"],
           "size": ["P", "M", "G", "GG"],
-          "price": 86
+          "price": 86,
+          "descrição":
         },
         
         {
@@ -229,7 +250,8 @@
           "img": "../imagens/Produtos/Camisa/camisa-WerderBremer.png",
           "color": ["Verde", "Verde-Escuro"],
           "size": ["P", "M", "G", "GG"],
-          "price": 129
+          "price": 129,
+          "descrição":
         },
 
         {
@@ -239,7 +261,8 @@
           "img": "../imagens/Produtos/Camisa/camisa-West-Ham.png",
           "color": ["Verde", "Verde-Escuro"],
           "size": ["P", "M", "G", "GG"],
-          "price": 96
+          "price": 96,
+          "descrição":
         },
 
         {
@@ -260,7 +283,8 @@
           "img": "../imagens/Produtos/ch[/Air Zoom-Mercurial-Vapor-XV-Elite-FG.png",
           "color": ["Preto", "Verde", "Azul"],
           "size": ["39", "40", "41", "42"],
-          "price": 345
+          "price": 345,
+          "descrição":
         },
 
         {
@@ -270,7 +294,8 @@
           "img": "../imagens/Produtos/ch[/Air-Zoom-Mercurial-Superfly-IX-Elite-FG.png",
           "color": ["Preto", "Rosa"],
           "size": ["39", "40", "41", "42"],
-          "price": 250
+          "price": 250,
+          "descrição":
         },
 
         {
@@ -280,7 +305,8 @@
           "img": "../imagens/Produtos/ch[/air-zoom-mercurial-vapor-15-elite-xxv-se-fg.png",
           "color": ["Preto", "Rosa", "Branco"],
           "size": ["39", "40", "41", "42"],
-          "price": 270
+          "price": 270,
+          "descrição":
         },
 
         {
@@ -290,7 +316,8 @@
           "img": "../imagens/Produtos/ch[/Air-Zoom-Mercurial-Vapor-XV-Elite-FG-Cinza.png",
           "color": ["Branco", "Vermelho"],
           "size": ["39", "40", "41", "42"],
-          "price": 349
+          "price": 349,
+          "descrição":
         },
 
         
@@ -301,7 +328,8 @@
           "img": "../imagens/Produtos/ch[/COPA-GLORO-FG-WHITE-RED.png",
           "color": ["Branco", "Cinza", "Vermelho"],
           "size": ["39", "40", "41", "42"],
-          "price": 270
+          "price": 270,
+          "descrição":
         },
 
         {
@@ -311,7 +339,8 @@
           "img": "../imagens/Produtos/ch[/COPA-PURE-FG.png",
           "color": ["Laranja", "Prata", "Preto"],
           "size": ["39", "40", "41", "42"],
-          "price": 318
+          "price": 318,
+          "descrição":
         },
 
         {
@@ -321,7 +350,8 @@
           "img": "../imagens/Produtos/ch[/FUTURE-ULTIMATE-FG_AG-PURSUIT-PACK.png",
           "color": ["Dourado", "Branco"],
           "size": ["39", "40", "41", "42"],
-          "price": 394
+          "price": 394,
+          "descrição":
         },
 
         {
@@ -331,7 +361,8 @@
           "img": "../imagens/Produtos/ch[/FUTURE-ULTIMATE-TRICKS-FG_AG.png",
           "color": ["Ciano", "Azul"],
           "size": ["39", "40", "41", "42"],
-          "price": 330
+          "price": 330,
+          "descrição":
         },
 
         {
@@ -341,7 +372,8 @@
           "img": "../imagens/Produtos/ch[/FUTURE-Z-2.4-FG_AG-NJR.png",
           "color": ["Dourado", "Verde"],
           "size": ["39", "40", "41", "42"],
-          "price": 399
+          "price": 399,
+          "descrição":
         },
 
         {
@@ -351,7 +383,8 @@
           "img": "../imagens/Produtos/ch[/JUNIOR-ULTRA-MATCH-LL-FG.png",
           "color": ["Branco", "Azul", "Preto"],
           "size": ["39", "40", "41", "42"],
-          "price": 255
+          "price": 255,
+          "descrição":
         },
 
         {
@@ -361,7 +394,8 @@
           "img": "../imagens/Produtos/ch[/KING-ULTIMATE-FG_AG-PURSUIT-PACK.png",
           "color": ["Verde-Agua", "Verde-Claro"],
           "size": ["39", "40", "41", "42"],
-          "price": 415
+          "price": 415,
+          "descrição":
         },
 
         {
@@ -371,7 +405,8 @@
           "img": "../imagens/Produtos/ch[/Nike-Phantom-GX-Pro-DF-FG.png",
           "color": ["Branco", "Azul-Claro"],
           "size": ["39", "40", "41", "42"],
-          "price": 399
+          "price": 399,
+          "descrição":
         },
 
         {
@@ -381,7 +416,8 @@
           "img": "../imagens/Produtos/ch[/NikeZoomVapor15EliteFG.png",
           "color": ["Preto", "Laranja"],
           "size": ["39", "40", "41", "42"],
-          "price": 420
+          "price": 420,
+          "descrição":
         },
 
         {
@@ -391,7 +427,8 @@
           "img": "../imagens/Produtos/ch[/Phantom-GX-Elite-FG.png",
           "color": ["Preto", "Laranja"],
           "size": ["39", "40", "41", "42"],
-          "price": 318
+          "price": 318,
+          "descrição":
         },
 
         {
@@ -401,7 +438,8 @@
           "img": "../imagens/Produtos/ch[/PREDATOR-ACCURACY-FG-HEATSPAWN-PACK.png",
           "color": ["Branco", "Ciano"],
           "size": ["39", "40", "41", "42"],
-          "price": 299
+          "price": 299,
+          "descrição":
         },
 
         {
@@ -411,7 +449,8 @@
           "img": "../imagens/Produtos/ch[/PREDATOR-ACCURACY-FG.png",
           "color": ["Branco", "Azul-Claro", "Verde"],
           "size": ["39", "40", "41", "42"],
-          "price": 320
+          "price": 320,
+          "descrição":
         },
 
         {
@@ -421,7 +460,8 @@
           "img": "../imagens/Produtos/ch[/PREDATOR-ACCURACY.1-L-FG-PARLEY.png",
           "color": ["Amarelo", "Azul"],
           "size": ["39", "40", "41", "42"],
-          "price": 305
+          "price": 305,
+          "descrição":
         },
 
         {
@@ -431,7 +471,8 @@
           "img": "../imagens/Produtos/ch[/SPEEDPORTAL-FG-OWN-YOUR.png",
           "color": ["Branco", "Bege", "Vermelho"],
           "size": ["39", "40", "41", "42"],
-          "price": 230
+          "price": 230,
+          "descrição":
         },
 
         {
@@ -441,7 +482,8 @@
           "img": "../imagens/Produtos/ch[/Tiempo-Legend-9.png",
           "color": ["Roxo", "Verde"],
           "size": ["39", "40", "41", "42"],
-          "price": 380
+          "price": 380,
+          "descrição":
         },
 
         {
@@ -451,7 +493,8 @@
           "img": "../imagens/Produtos/ch[/ULTRA-ULTIMATE-FG_AG-PURSUIT-PACK.png",
           "color": ["Verde", "Azul"],
           "size": ["39", "40", "41", "42"],
-          "price": 229
+          "price": 229,
+          "descrição":
         },
 
         {
@@ -461,7 +504,8 @@
           "img": "../imagens/Produtos/ch[/ULTRA-ULTIMATE-FG.png",
           "color": ["Azul-Escuro", "Laranja"],
           "size": ["39", "40", "41", "42"],
-          "price": 499
+          "price": 499,
+          "descrição":
         },
 
         {
@@ -471,7 +515,8 @@
           "img": "../imagens/Produtos/treino/roupa-arsenal.png",
           "color": ["Vermelho", "Preto"],
           "size": ["P", "M", "G"],
-          "price": 80
+          "price": 80,
+          "descrição":
         },
 
         {
@@ -481,7 +526,8 @@
           "img": "../imagens/Produtos/treino/roupa-borussia.png",
           "color": ["Amarelo", "Preto"],
           "size": ["P", "M", "G"],
-          "price": 120
+          "price": 120,
+          "descrição":
         },
 
         {
@@ -491,7 +537,8 @@
           "img": "../imagens/Produtos/treino/roupa-city.png",
           "color": ["Azul-Claro", "Azul-Escuro"],
           "size": ["P", "M", "G"],
-          "price": 120
+          "price": 120,
+          "descrição":
         },
 
         {
@@ -501,7 +548,8 @@
           "img": "../imagens/Produtos/treino/roupa-frança.png",
           "color": ["Azul", "Dourado"],
           "size": ["P", "M", "G"],
-          "price": 115
+          "price": 115,
+          "descrição":
         },
 
         {
@@ -511,7 +559,8 @@
           "img": "../imagens/Produtos/treino/roupa-milan.png",
           "color": ["Vermelho", "Preto"],
           "size": ["P", "M", "G"],
-          "price": 115
+          "price": 115,
+          "descrição":
         },
 
         {
@@ -521,7 +570,8 @@
           "img": "../imagens/Produtos/treino/roupa-surfista-fm.png",
           "color": ["Preto", "Verde"],
           "size": ["P", "M", "G"],
-          "price": 65
+          "price": 65,
+          "descrição":
         },
 
         {
@@ -531,7 +581,8 @@
           "img": "../imagens/Produtos/treino/roupa-termica.png",
           "color": ["Preto"],
           "size": ["P", "M", "G"],
-          "price": 80
+          "price": 80,
+          "descrição":
         },
 
         {
@@ -541,7 +592,8 @@
           "img": "../imagens/Produtos/treino/roupa-treino-adidas.png",
           "color": ["Preto", "Branco"],
           "size": ["P", "M", "G"],
-          "price": 80
+          "price": 80,
+          "descrição":
         },
 
         {
@@ -551,7 +603,8 @@
           "img": "../imagens/Produtos/treino/roupa-treino-fm2.png",
           "color": ["Azul", "Azul-Escuro", "Rosa"],
           "size": ["P", "M", "G"],
-          "price": 85
+          "price": 85,
+          "descrição":
         },
 
         {
@@ -561,7 +614,8 @@
           "img": "../imagens/Produtos/treino/roupa-treino-fm3.png",
           "color": ["Cinza"],
           "size": ["P", "M", "G"],
-          "price": 73
+          "price": 73,
+          "descrição":
         },
 
         {
@@ -571,7 +625,8 @@
           "img": "../imagens/Produtos/treino/roupa-treino-fm4.png",
           "color": ["Preto", "Verde"],
           "size": ["P", "M", "G"],
-          "price": 75
+          "price": 75,
+          "descrição":
         },
 
         {
@@ -581,7 +636,8 @@
           "img": "../imagens/Produtos/treino/roupa-treino-fm5.png",
           "color": ["Preto", "Branco"],
           "size": ["P", "M", "G"],
-          "price": 60
+          "price": 60,
+          "descrição":
         },
 
         {
@@ -591,7 +647,8 @@
           "img": "../imagens/Produtos/treino/cama-elastica.png",
           "color": ["Preto"],
           "size": ["Unico"],
-          "price": 124
+          "price": 124,
+          "descrição":
         },
 
         {
@@ -601,7 +658,8 @@
           "img": "../imagens/Produtos/treino/kit-crossfit.png",
           "color": ["Preto"],
           "size": ["Unico"],
-          "price": 154
+          "price": 154,
+          "descrição":
         },
 
         {
@@ -611,7 +669,8 @@
           "img": "../imagens/Produtos/treino/grip.png",
           "color": ["Preto", "Laranja"],
           "size": ["Unico"],
-          "price": 63
+          "price": 63,
+          "descrição":
         },
 
         {
@@ -621,7 +680,8 @@
           "img": "../imagens/Produtos/treino/kit-peso.png",
           "color": ["Preto", "Vermelho"],
           "size": ["Unico"],
-          "price": 125
+          "price": 125,
+          "descrição":
         },
 
         {
@@ -631,7 +691,8 @@
           "img": "../imagens/Produtos/treino/kit-treino-agilidade.png",
           "color": ["Preto"],
           "size": ["Unico"],
-          "price": 99
+          "price": 99,
+          "descrição":
         },
 
         {
@@ -641,7 +702,8 @@
           "img": "../imagens/Produtos/treino/pacote-whey.png",
           "color": ["Amarelo", "Azul", "Rosa"],
           "size": ["Unico"],
-          "price": 56
+          "price": 56,
+          "descrição":
         },
 
         {
@@ -651,7 +713,8 @@
           "img": "../imagens/Produtos/treino/pote-creatina.png",
           "color": ["Preto"],
           "size": ["1Kg"],
-          "price": 82
+          "price": 82,
+          "descrição":
         },
       
         {
@@ -661,7 +724,8 @@
           "img": "../imagens/Produtos/treino/short-nike.png",
           "color": ["Preto", "Cinza"],
           "size": ["P", "M", "G"],
-          "price": 45
+          "price": 45,
+          "descrição":
         },
 
         {
@@ -671,7 +735,8 @@
           "img": "../imagens/Produtos/treino/short-adidas.png",
           "color": ["Branco","Preto"],
           "size": ["Unico"],
-          "price": 44
+          "price": 44,
+          "descrição":
         },
 
         {
@@ -681,7 +746,8 @@
           "img": "../imagens/Produtos/Luva/Luva-Goleiro-Buffon-titan-pro-8.png",
           "color": ["Preto","Verde"],
           "size": ["8","9","10","12"],
-          "price": 81
+          "price": 81,
+          "descrição":
         },
 
         {
@@ -691,7 +757,8 @@
           "img": "../imagens/Produtos/Luva/Luva-Goleiro-Fusion.png",
           "color": ["Cinza","Azul"],
           "size": ["8","9","10","12"],
-          "price": 114
+          "price": 114,
+          "descrição":
         },
 
         {
@@ -701,7 +768,8 @@
           "img": "../imagens/Produtos/Luva/luva-goleiro-ho-soccer-one-negative-essential-8.png",
           "color": ["Branca","Azul"],
           "size": ["8","9","10","12"],
-          "price": 120
+          "price": 120,
+          "descrição":
         },
 
         {
@@ -711,7 +779,8 @@
           "img": "../imagens/Produtos/Luva/Luva-Goleiro-Mercurial-Touch-Elite.png",
           "color": ["Preto","Verde"],
           "size": ["8","9","10","12"],
-          "price": 159
+          "price": 159,
+          "descrição":
         },
 
         {
@@ -721,7 +790,8 @@
           "img": "../imagens/Produtos/Luva/Luva-Goleiro-NGA-Soccer-Evolution-Elite.png",
           "color": ["Laranja","Preta"],
           "size": ["8","9","10","12"],
-          "price": 80
+          "price": 80,
+          "descrição":
         },
 
         {
@@ -731,7 +801,8 @@
           "img": "../imagens/Produtos/Luva/Luva-Goleiro-Poker-Water-Precision.png",
           "color": ["Roxo","Branca","Azul"],
           "size": ["8","9","10","12"],
-          "price": 193
+          "price": 193,
+          "descrição":
         },
 
         {
@@ -741,7 +812,8 @@
           "img": "../imagens/Produtos/Luva/Luva-Goleiro-Predator-Pro-2-Azul-Branco.png",
           "color": ["Branca","Azul"],
           "size": ["8","9","10","12"],
-          "price": 169
+          "price": 169,
+          "descrição":
         },
 
         {
@@ -751,7 +823,8 @@
           "img": "../imagens/Produtos/Luva/Luva-Goleiro-Predator-Pro-Azul-Branco.png",
           "color": ["Branca","Azul"],
           "size": ["8","9","10","12"],
-          "price": 278
+          "price": 278,
+          "descrição":
         },
 
         {
@@ -761,7 +834,8 @@
           "img": "../imagens/Produtos/Luva/Luva-Goleiro-Predator20-Competition.png",
           "color": ["Preta","Vermelha"],
           "size": ["8","9","10","12"],
-          "price": 279
+          "price": 279,
+          "descrição":
         },
 
         {
@@ -771,7 +845,8 @@
           "img": "../imagens/Produtos/Luva/Luva-Goleiro-Raptor-Nitro-4-Outubro-rosa.png",
           "color": ["Branco","Rosa"],
           "size": ["8","9","10","12"],
-          "price": 165
+          "price": 165,
+          "descrição":
         },
 
         {
@@ -781,7 +856,8 @@
           "img": "../imagens/Produtos/Luva/Luva-Goleiro-Saipulang.png",
           "color": ["Preto","Azul"],
           "size": ["8","9","10","12"],
-          "price": 131
+          "price": 131,
+          "descrição":
         },
 
         {
@@ -791,7 +867,8 @@
           "img": "../imagens/Produtos/Luva/luva-Goleiro-saurognathous-celie-rosa.png",
           "color": ["Rosa","Preto"],
           "size": ["8","9","10","12"],
-          "price": 107
+          "price": 107,
+          "descrição":
         },
 
         {
@@ -801,7 +878,8 @@
           "img": "../imagens/Produtos/Luva/Luva-Goleiro-Scorpius-Black.png",
           "color": ["Preto","Branco"],
           "size": ["8","9","10","12"],
-          "price": 215
+          "price": 215,
+          "descrição":
         },
 
         {
@@ -811,7 +889,8 @@
           "img": "../imagens/Produtos/Luva/Luva-Goleiro-Scorpius-Blue.png",
           "color": ["Preto","Azul"],
           "size": ["8","9","10","12"],
-          "price": 229
+          "price": 229,
+          "descrição":
         },
 
         {
@@ -821,7 +900,8 @@
           "img": "../imagens/Produtos/Luva/Luva-Goleiro-Scorpius-White.png",
           "color": ["Branco","Preto"],
           "size": ["8","9","10","12"],
-          "price": 135
+          "price": 135,
+          "descrição":
         },
 
         {
@@ -831,7 +911,8 @@
           "img": "../imagens/Produtos/Luva/luva-goleiro-three-stars-fox-palma-branca.png",
           "color": ["Branco","Azul"],
           "size": ["8","9","10","12"],
-          "price": 219
+          "price": 219,
+          "descrição":
         },
 
         {
@@ -841,7 +922,8 @@
             "img": "../imagens/Produtos/Luva/luvas-adidas-predator-mutator.png",
             "color": ["Preto","Dourado","Branco"],
             "size": ["8","9","10","12"],
-            "price": 289
+            "price": 289,
+            "descrição":
           },
 
           {
@@ -851,7 +933,8 @@
             "img": "../imagens/Produtos/Luva/Luva-Goleiro-Nike-Phantom-Shadow-PRO-lrj.png",
             "color": ["Vermelho","Verde","Branco"],
             "size": ["8","9","10","12"],
-            "price": 269
+            "price": 269,
+            "descrição":
           },
 
           {
@@ -861,7 +944,8 @@
             "img": "../imagens/Produtos/Luva/luva-nike-mercurial-touch-elite-original.png",
             "color": ["Verde","Preto"],
             "size": ["8","9","10","12"],
-            "price": 299
+            "price": 299,
+            "descrição":
           },
 
           {
@@ -871,7 +955,8 @@
             "img": "../imagens/Produtos/Luva/Luva-de-Goleiro-Predator-GL-Hybrid-Solar.png",
             "color": ["Laranja","Verde","Branco"],
             "size": ["8","9","10","12"],
-            "price": 275
+            "price": 275,
+            "descrição":
           },
 
           {
@@ -881,7 +966,8 @@
             "img": "../imagens/Produtos/Luva/puma-luvas-guarda-redes-future-ultimate-nc.png",
             "color": ["Azul","Laranja","Branco"],
             "size": ["8","9","10","12"],
-            "price": 237
+            "price": 237,
+            "descrição":
           },
 
           {
@@ -891,7 +977,8 @@
             "img": "../imagens/Produtos/camisa retro/camisa-Milan2006.png",
             "color": ["Branco","Vermelho"],
             "size": ["P","M","G","GG"],
-            "price": 209
+            "price": 209,
+            "descrição":
           },
 
           {
@@ -901,7 +988,8 @@
             "img": "../imagens/Produtos/camisa retro/camisa-Arsenal2006.png",
             "color": ["Vermelho","Dourado"],
             "size": ["P","M","G","GG"],
-            "price": 199
+            "price": 199,
+            "descrição":
           },
 
           {
@@ -911,7 +999,8 @@
             "img": "../imagens/Produtos/camisa retro/camisa-Barcelona2015.png",
             "color": ["Azul","Preto"],
             "size": ["P","M","G","GG"],
-            "price": 135
+            "price": 135,
+            "descrição":
           },
 
           {
@@ -921,7 +1010,8 @@
             "img": "../imagens/Produtos/camisa retro/camisa-Brasil2002.png",
             "color": ["Verde","Amarelo"],
             "size": ["P","M","G","GG"],
-            "price": 125
+            "price": 125,
+            "descrição":
           },
 
           {
@@ -931,7 +1021,8 @@
             "img": "../imagens/Produtos/camisa retro/camisa-França2006.png",
             "color": ["Branco","Azul","Vermelho"],
             "size": ["P","M","G","GG"],
-            "price": 139
+            "price": 139,
+            "descrição":
           },
 
           {
@@ -941,7 +1032,8 @@
             "img": "../imagens/Produtos/camisa retro/camisa-Holanda1974.png",
             "color": ["Laranja","Preto"],
             "size": ["P","M","G","GG"],
-            "price": 119
+            "price": 119,
+            "descrição":
             
           },
 
@@ -952,7 +1044,8 @@
             "img": "../imagens/Produtos/camisa retro/camisa-InterMilão2004.png",
             "color": ["Cinza","Amarelo"],
             "size": ["P","M","G","GG"],
-            "price": 179
+            "price": 179,
+            "descrição":
           },
 
           {
@@ -962,7 +1055,8 @@
             "img": "../imagens/Produtos/camisa retro/camisa-Italia1996.png",
             "color": ["Branco","Azul"],
             "size": ["P","M","G","GG"],
-            "price": 130
+            "price": 130,
+            "descrição":
           },
 
           {
@@ -972,7 +1066,8 @@
             "img": "../imagens/Produtos/camisa retro/camisa-Juventos2015.png",
             "color": ["Rosa","Branco","Preto"],
             "size": ["P","M","G","GG"],
-            "price": 129
+            "price": 129,
+            "descrição":
           },
 
           {
@@ -982,7 +1077,8 @@
             "img": "../imagens/Produtos/camisa retro/camisa-ManchesterUnited2007.png",
             "color": ["Azul","Branco"],
             "size": ["P","M","G","GG"],
-            "price": 133
+            "price": 133,
+            "descrição":
           },
 
           {
@@ -992,7 +1088,8 @@
             "img": "../imagens/Produtos/camisa retro/camisa-cruzeiro-93.png",
             "color": ["Azul","Branco"],
             "size": ["P","M","G","GG"],
-            "price": 209
+            "price": 209,
+            "descrição":
           },
 
           {
@@ -1002,7 +1099,8 @@
             "img": "../imagens/Produtos/camisa retro/camisa-Newcastle2000.png",
             "color": ["Branco","Preto"],
             "size": ["P","M","G","GG"],
-            "price": 175
+            "price": 175,
+            "descrição":
           },
 
           {
@@ -1012,7 +1110,8 @@
             "img": "../imagens/Produtos/camisa retro/camisa-Psg2001.png",
             "color": ["Azul","Vermelho"],
             "size": ["P","M","G","GG"],
-            "price": 120
+            "price": 120,
+            "descrição":
           },
 
           {
@@ -1022,7 +1121,8 @@
             "img": "../imagens/Produtos/camisa retro/camisa-RealMadrid2009.png",
             "color": ["Preto","Azul-Claro"],
             "size": ["P","M","G","GG"],
-            "price": 169
+            "price": 169,
+            "descrição":
           },
 
           {
@@ -1032,7 +1132,8 @@
             "img": "../imagens/Produtos/camisa retro/camisa-Sporting2003.png",
             "color": ["Verde","Branco"],
             "size": ["P","M","G","GG"],
-            "price": 153
+            "price": 153,
+            "descrição":
           },
 
           {
@@ -1042,7 +1143,8 @@
             "img": "../imagens/Produtos/camisa retro/camisa-Tottenham2006.png",
             "color": ["Azul-Claro"],
             "size": ["P","M","G","GG"],
-            "price": 115
+            "price": 115,
+            "descrição":
           },
 
           {
@@ -1052,7 +1154,8 @@
             "img": "../imagens/Produtos/camisa retro/camisa-Alemanha1990.png",
             "color": ["Branco","Vermelho","Preto","Amarelo"],
             "size": ["P","M","G","GG"],
-            "price": 187
+            "price": 187,
+            "descrição":
           },
 
           {
@@ -1062,7 +1165,8 @@
             "img": "../imagens/Produtos/camisa retro/camisa-santos-13.png",
             "color": ["Azul", "Preto"],
             "size": ["P","M","G","GG"],
-            "price": 200
+            "price": 200,
+            "descrição":
           },
 
           {
@@ -1072,7 +1176,8 @@
             "img": "../imagens/Produtos/camisa retro/england-02.png",
             "color": ["Branco", "Vermelho"],
             "size": ["P","M","G","GG"],
-            "price": 136
+            "price": 136,
+            "descrição":
           },
 
           {
@@ -1082,7 +1187,8 @@
             "img": "../imagens/Produtos/camisa retro/om-98.png",
             "color": ["Branco", "Azul-Claro"],
             "size": ["P","M","G","GG"],
-            "price": 155
+            "price": 155,
+            "descrição":
           },
 
           {
@@ -1092,7 +1198,8 @@
             "img": "../imagens/Produtos/camisa retro/parma-02.png",
             "color": ["Branco", "Azul-Escuro", "Amarelo"],
             "size": ["P","M","G","GG"],
-            "price": 163
+            "price": 163,
+            "descrição":
           },
           
           {
@@ -1102,7 +1209,8 @@
             "img": "../imagens/Produtos/tenis/Air-Jordan-11Cherry.png",
             "color": ["Branco", "Vermelho"],
             "size": ["39", "40", "41", "42"],
-            "price": 339
+            "price": 339,
+            "descrição":
           },
 
           {
@@ -1112,7 +1220,8 @@
             "img": "../imagens/Produtos/tenis/Tênis-Adi2000.png",
             "color": ["Branco", "Azul","Preto"],
             "size": ["39", "40", "41", "42"],
-            "price": 315
+            "price": 315,
+            "descrição":
           },
           
           {
@@ -1122,7 +1231,8 @@
             "img": "../imagens/Produtos/tenis/Tênis-Air-Jordan-6-Retro.png",
             "color": ["Cinza", "Branco"],
             "size": ["39", "40", "41", "42"],
-            "price": 300
+            "price": 300,
+            "descrição":
           },
 
           {
@@ -1132,7 +1242,8 @@
             "img": "../imagens/Produtos/tenis/Tênis-Forum-Bold.png",
             "color": ["Branco", "Preto"],
             "size": ["39", "40", "41", "42"],
-            "price": 360
+            "price": 360,
+            "descrição":
           },
 
           {
@@ -1142,7 +1253,8 @@
             "img": "../imagens/Produtos/tenis/Tênis-Forum-Low.png",
             "color": ["Azul-Claro", "Branco"],
             "size": ["39", "40", "41", "42"],
-            "price": 280
+            "price": 280,
+            "descrição":
           },
 
           {
@@ -1152,7 +1264,8 @@
             "img": "../imagens/Produtos/tenis/Tênis-Nike-Air Max-Lebron-7-Retro-QS.png",
             "color": ["Preto", "Ciano","Branco"],
             "size": ["39", "40", "41", "42"],
-            "price": 310
+            "price": 310,
+            "descrição":
           },
 
           {
@@ -1162,7 +1275,8 @@
             "img": "../imagens/Produtos/tenis/Tênis-Nike-Air-Max-90.png",
             "color": ["Branco", "Preto"],
             "size": ["39", "40", "41", "42"],
-            "price": 205
+            "price": 205,
+            "descrição":
           },
 
           {
@@ -1172,7 +1286,8 @@
             "img": "../imagens/Produtos/tenis/Tênis-Nike-Air-Max-95.png",
             "color": ["Branco", "Azul-Claro","Cinza"],
             "size": ["39", "40", "41", "42"],
-            "price": 289
+            "price": 289,
+            "descrição":
           },
 
           {
@@ -1182,7 +1297,8 @@
             "img": "../imagens/Produtos/tenis/Tênis-Nike-Air-Max-97.png",
             "color": ["Dourado", "Preto"],
             "size": ["39", "40", "41", "42"],
-            "price": 299
+            "price": 299,
+            "descrição":
           },
 
           {
@@ -1192,7 +1308,8 @@
             "img": "../imagens/Produtos/tenis/Tênis-Nike-Air-Max-TW.png",
             "color": ["Cinza", "Preto"],
             "size": ["39", "40", "41", "42"],
-            "price": 399
+            "price": 399,
+            "descrição":
           },
 
           {
@@ -1202,7 +1319,8 @@
             "img": "../imagens/Produtos/tenis/Tênis-NMD-R1-V2.png",
             "color": ["Cinza", "Verde"],
             "size": ["39", "40", "41", "42"],
-            "price": 210
+            "price": 210,
+            "descrição":
           },
 
           {
@@ -1212,7 +1330,8 @@
             "img": "../imagens/Produtos/tenis/Tênis-NMD-R1-V3.png",
             "color": ["Preto", "Azul"],
             "size": ["39", "40", "41", "42"],
-            "price": 229
+            "price": 229,
+            "descrição":
           },
 
           {
@@ -1222,7 +1341,8 @@
             "img": "../imagens/Produtos/tenis/TÊNIS-RS-X-EFEKT-TOPOGRAPHIC.png",
             "color": ["Branco", "Preto", "Azul"],
             "size": ["39", "40", "41", "42"],
-            "price": 317
+            "price": 317,
+            "descrição":
           },
 
           {
@@ -1232,7 +1352,8 @@
             "img": "../imagens/Produtos/tenis/Tênis-Slipstream-Archive-Remastered.png",
             "color": ["Branco", "Verde", "Preto"],
             "size": ["39", "40", "41", "42"],
-            "price": 330
+            "price": 330,
+            "descrição":
           },
 
           {
@@ -1242,7 +1363,8 @@
             "img": "../imagens/Produtos/tenis/Tênis-Slipstream-Neymar Jr.png",
             "color": ["Branco", "Amarelo"],
             "size": ["39", "40", "41", "42"],
-            "price": 399
+            "price": 399,
+            "descrição":
           },
 
           {
@@ -1252,7 +1374,8 @@
             "img": "../imagens/Produtos/tenis/Tênis-Suede-Archive-Remastered.png",
             "color": ["Preto", "Verde"],
             "size": ["39", "40", "41", "42"],
-            "price": 199
+            "price": 199,
+            "descrição":
           },
 
           {
@@ -1262,7 +1385,8 @@
             "img": "../imagens/Produtos/tenis/Ben-10-Tênis.png",
             "color": ["Preto", "Verde"],
             "size": ["39", "40", "41", "42"],
-            "price": 90
+            "price": 90,
+            "descrição":
           },
 
           {
@@ -1272,7 +1396,8 @@
             "img": "../imagens/Produtos/tenis/tenis-relampago-marquinhos.png",
             "color": ["Vermelho", "Preto"],
             "size": ["39", "40", "41", "42"],
-            "price": 97
+            "price": 97,
+            "descrição":
           },
 
           {
@@ -1282,7 +1407,8 @@
             "img": "../imagens/Produtos/tenis/tenis-mizuno-wave-prophecy-11s-removebg-preview.png",
             "color": ["Branco", "Cinza"],
             "size": ["39", "40", "41", "42"],
-            "price": 348
+            "price": 348,
+            "descrição":
           },
 
           {
@@ -1292,7 +1418,8 @@
             "img": "../imagens/Produtos/tenis/TÊNIS-RS-X-EFEKT-TOPOGRAPHIC.png",
             "color": ["Preto", "Verde","Azul","Vermelho"],
             "size": ["39", "40", "41", "42"],
-            "price": 212
+            "price": 212,
+            "descrição":
           },
 
           {
@@ -1302,7 +1429,8 @@
             "img": "../imagens/Produtos/tenis/TÊNIS-RS-Z-LTH.png",
             "color": ["Preto", "Verde","Branco"],
             "size": ["39", "40", "41", "42"],
-            "price": 235
+            "price": 235,
+            "descrição":
           }
 
 
