@@ -314,8 +314,8 @@
           "img": "../imagens/Produtos/ch[/COPA-PURE-FG.png",
           "color": ["Laranja", "Prata", "Preto"],
           "size": ["39", "40", "41", "42"],
-          "price": 318
-          
+          "price": 318,
+          "descrição":"Com a adidas Copa Pure, você recupera a sensação do futebol puro. Ele se concentra no essencial e conta com conforto absoluto e uma sensação não adulterada com a bola. Esta chuteira de futebol sem cadarço apresenta cabedal de couro Fusionskin costurado no antepé que é perfeitamente conectado ao colar adidas PRIMEKNIT para suporte ideal. O acolchoado é feito sem costuras. Além disso, a sola especial garante o melhor desempenho na grama natural seca."          
         },
 
         {
@@ -413,7 +413,8 @@
           "img": "../imagens/Produtos/ch[/PREDATOR-ACCURACY-FG-HEATSPAWN-PACK.png",
           "color": ["Branco", "Ciano"],
           "size": ["39", "40", "41", "42"],
-          "price": 299
+          "price": 299,
+          "descrição":"Controle + precisão = confiança. Quando o objetivo estiver na sua mira, mire na perfeição com o adidas Predator Accuracy. A parte superior de tecido macio e revestido dessas chuteiras inclui textura de alta definição em sua zona de impacto. Uma mistura de elementos em relevo e impressão em relevo, está lá para ajudá-lo a acertar cada passe e tiro. Por baixo, uma sola especializada mantém você no modo chefe em terreno firme."
           
         },
 
@@ -446,7 +447,8 @@
           "img": "../imagens/Produtos/ch[/SPEEDPORTAL-FG-OWN-YOUR.png",
           "color": ["Branco", "Bege", "Vermelho"],
           "size": ["39", "40", "41", "42"],
-          "price": 230
+          "price": 230,
+          "descrição":"Os bons jogadores criam tempo e espaço. Os grandes deixam-nos para trás. Desbloqueia uma velocidade multidimensional com as X Speedportal da adidas. Elegantes e superconfortáveis, estas botas de futebol apoiam as tuas reações estonteantes com uma placa de carbono Carbitex em toda extensão da sola para piso firme. O envolvente topo adidas PRIMEKNIT sem atacadores inclui inserções de EVA no interior e uma leve estrutura em carbono no exterior do calcanhar, oferecendo estabilidade para jogadas à velocidade da luz. Feito com uma série de materiais reciclados, o topo inclui pelo menos 50% de conteúdo reciclado."
           
         },
 
@@ -1166,12 +1168,13 @@
 
           {
             "id": 114,
-            "name": "Nike Air Max Lebron 7 Retro QS",
+            "name": "Tênis Nike Revolution 6 Next Nature",
             "type": "Tenis",
             "img": "../imagens/Produtos/tenis/Tênis-Nike-Air Max-Lebron-7-Retro-QS.png",
             "color": ["Preto", "Ciano","Branco"],
             "size": ["39", "40", "41", "42"],
-            "price": 310
+            "price": 310,
+            "descrição":"O Tênis Nike Revolution 6 Next Nature Esportivo Masculino Preto, é o seu mais novo aliado para os treinos na academia, ou em casa naqueles dias de chuva. É indicado para a prática de musculação, pois tem a base reta e mais larga no calcanhar, estabilizando os pés, evitando a sobrecarga dos joelhos, durante o treino com pesos. Também te acompanha nas corridas curtas e em exercícios de velocidade, oferecendo mais estabilidade e flexibilidade aos seus movimentos, sem perder o ritmo. Com esse modelo Nike, arrase na linha de chegada!"
           },
 
           {
@@ -1276,12 +1279,13 @@
 
           {
             "id": 125,
-            "name": "Ben 10",
+            "name": "Tênis Nike MC Trainer 2 Feminino",
             "type": "Tenis",
             "img": "../imagens/Produtos/tenis/Ben-10-Tênis.png",
             "color": ["Preto", "Verde"],
             "size": ["39", "40", "41", "42"],
-            "price": 90
+            "price": 90,
+            "descrição":"Com base firme e plana, o Tênis Nike Mc Trainer 2 Feminino é para a mulher que tem pisada neutra, o atleta que busca conforto e flexibilidade nos seus treinos, caminhada ou corrida. Esse tênis feminino é confeccionado em material durável, com cabedal têxtil respirável, entressola grossa de espuma para absorção de impactos e solado em borracha para alta durabilidade. Aposte na marca que te acompanha do casual ao esporte, vá de Nike!"
           },
 
           {
