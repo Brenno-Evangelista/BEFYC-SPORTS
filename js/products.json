@@ -7,7 +7,8 @@
           "img": "../imagens/Produtos/Camisa/camisa-O.marselha.png",
           "color": ["Branca", "Azul"],
           "size": ["P", "M", "G", "GG"],
-          "price": 100
+          "price": 100,
+          "descrição":"Aumente sua coleção de camisas de futebol adquirindo a nova Camisa Masculina do Olympique de Marseille. Semelhante ao modelo que os astros usam nos jogos em casa, o manto titular da temporada 21/22 é predominantemente branco com detalhes em azul claro e o brasão do clube francês bordado na altura do peito. De tecido leve e respirável, a peça proporciona ótimo caimento e garante liberdade de movimentos durante o uso."
         },
 
         {
@@ -260,8 +261,8 @@
           "img": "../imagens/Produtos/ch[/Air Zoom-Mercurial-Vapor-XV-Elite-FG.png",
           "color": ["Preto", "Verde", "Azul"],
           "size": ["39", "40", "41", "42"],
-          "price": 345
-          
+          "price": 345,
+          "descrição":"A Nike Mercurial vapor 15 Elite FG apresenta um modelo simplificado que utiliza a quantidade minima de materiais possivel, para que possa jogar mais rapido do comeco ao fim. Uma palmilha amortecida proporciona conforto imparavel e uma placa especialmente desenhada proporciona responsividade para cortes rapidos em alta velocidade."          
         },
 
         {
@@ -864,7 +865,8 @@
             "img": "../imagens/Produtos/Luva/luvas-adidas-predator-mutator.png",
             "color": ["Preto","Dourado","Branco"],
             "size": ["8","9","10","12"],
-            "price": 289
+            "price": 289,
+            "descrição":"Estas luvas de goleiro são facilmente as mais macias e aderentes da linha adidas. Elas apresentam URG 1.0, um látex incrivelmente viscoso, desenvolvido para os nossos jogadores profissionais. A palma, aderente desde a embalagem, é também extremamente sensível."
           },
 
           {
@@ -1135,7 +1137,8 @@
             "img": "../imagens/Produtos/tenis/Tênis-Adi2000.png",
             "color": ["Branco", "Azul","Preto"],
             "size": ["39", "40", "41", "42"],
-            "price": 315
+            "price": 315,
+            "descrição":"O adidas Adi2000 têm Y2K no seu ADN. Parte influência do skate, parte influência do basquete, sua herança cultural não pode ser negada. Uma parte superior em couro e camurça premium completa a receita de estilo em cada passada."
           },
           
           {
