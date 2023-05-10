@@ -162,12 +162,13 @@
 
         {
           "id": 16,
-          "name": "Camisa Atalanta Goleiro 22/23",
+          "name": "Camisa Mãe Rainha🙏",
           "type": "Camisa",
-          "img": "../imagens/Produtos/Camisa/camisa-Atalanta-Goleiro-.png",
+          "img": "../imagens/Produtos/Camisa/camisa-mae-rainha.png",
           "color": ["Preto"],
           "size": ["P", "M", "G", "GG"],
-          "price": 79
+          "price": 79,
+          "descrição":"Procurando uma camiseta com temática cristã de alto estilo e qualidade? As Camisetas da BEFYC perfeitas para você. A BEFYC busca através de suas camisetas fortalecer a propagar a fé. São modelos exclusivos para você presentear alguém especial ou até mesmo se presentear. São muitos modelos. Aproveite nossa imensa coleção e garanta já a sua."
         },
 
 
@@ -369,7 +370,8 @@
           "img": "../imagens/Produtos/ch[/KING-ULTIMATE-FG_AG-PURSUIT-PACK.png",
           "color": ["Verde-Agua", "Verde-Claro"],
           "size": ["39", "40", "41", "42"],
-          "price": 415
+          "price": 415,
+          "descrição":"O ícone retorna com atualizações ousadas e novos materiais inovadores no Puma King Ultimate. A parte superior totalmente nova do K-Better é construída com 60% de conteúdo reciclado para reduzir o impacto ambiental, proporcionando toque e conforto superiores. Uma nova sola leve com contador de calcanhar externo, coluna de estabilidade integrada e pinos cônicos mantêm você no comando enquanto navega no jogo."
           
         },
 
@@ -448,7 +450,7 @@
           "color": ["Branco", "Bege", "Vermelho"],
           "size": ["39", "40", "41", "42"],
           "price": 230,
-          "descrição":"Os bons jogadores criam tempo e espaço. Os grandes deixam-nos para trás. Desbloqueia uma velocidade multidimensional com as X Speedportal da adidas. Elegantes e superconfortáveis, estas botas de futebol apoiam as tuas reações estonteantes com uma placa de carbono Carbitex em toda extensão da sola para piso firme. O envolvente topo adidas PRIMEKNIT sem atacadores inclui inserções de EVA no interior e uma leve estrutura em carbono no exterior do calcanhar, oferecendo estabilidade para jogadas à velocidade da luz. Feito com uma série de materiais reciclados, o topo inclui pelo menos 50% de conteúdo reciclado."
+          "descrição":"Os bons jogadores criam tempo e espaço. Os grandes deixam-nos para trás. Desbloqueia uma velocidade multidimensional com as X Speedportal da adidas. Elegantes e superconfortáveis, estas botas de futebol apoiam as tuas reações estonteantes com uma placa de carbono Carbitex em toda extensão da sola para piso firme. O envolvente topo adidas PRIMEKNIT sem atacadores inclui inserções de EVA no interior e uma leve estrutura em carbono no exterior do calcanhar, oferecendo estabilidade para jogadas à velocidade da luz. Feito com uma série de materiais reciclados, o topo inclui pelo menos 50% de conteúdo reciclado.j"
           
         },
 
