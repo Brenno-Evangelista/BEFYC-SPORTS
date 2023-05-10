@@ -256,7 +256,7 @@
 
         {
           "id": 25,
-          "name": "Chuteira Campo Nike Air Zoom Mercurial FG CR7 Elite - Dream Speed",
+          "name": "Chuteira Campo Nike Air Zoom Mercurial FG CR7 Elite",
           "type": "Chuteira",
           "img": "../imagens/Produtos/ch[/Air Zoom-Mercurial-Vapor-XV-Elite-FG.png",
           "color": ["Preto", "Verde", "Azul"],
@@ -389,7 +389,7 @@
 
         {
           "id": 37,
-          "name": "Chuteira Campo Nike Air Zoom Mercurial Vapor 15 Elite FG Luminous",
+          "name": "Chuteira Campo Nike Air Zoom Mercurial Vapor 15 Elite FG",
           "type": "Chuteira",
           "img": "../imagens/Produtos/ch[/NikeZoomVapor15EliteFG.png",
           "color": ["Preto", "Laranja"],
@@ -411,7 +411,7 @@
 
         {
           "id": 39,
-          "name": "Chuteira Campo Adidas Predator Accuracy.1 L FG Parley Sustainability Pack",
+          "name": "Chuteira Campo Adidas Predator Accuracy.1 L FG Parley ",
           "type": "Chuteira",
           "img": "../imagens/Produtos/ch[/PREDATOR-ACCURACY-FG-HEATSPAWN-PACK.png",
           "color": ["Branco", "Ciano"],
@@ -1179,7 +1179,7 @@
             "color": ["Preto", "Ciano","Branco"],
             "size": ["39", "40", "41", "42"],
             "price": 310,
-            "descrição":"O Tênis Nike Revolution 6 Next Nature Esportivo Masculino Preto, é o seu mais novo aliado para os treinos na academia, ou em casa naqueles dias de chuva. É indicado para a prática de musculação, pois tem a base reta e mais larga no calcanhar, estabilizando os pés, evitando a sobrecarga dos joelhos, durante o treino com pesos. Também te acompanha nas corridas curtas e em exercícios de velocidade, oferecendo mais estabilidade e flexibilidade aos seus movimentos, sem perder o ritmo. Com esse modelo Nike, arrase na linha de chegada!"
+            "descrição":"O Tênis Nike Revolution 6 Next Nature Esportivo Feminino Rosa, é o seu mais novo aliado para os treinos na academia, ou em casa naqueles dias de chuva. É indicado para a prática de musculação, pois tem a base reta e mais larga no calcanhar, estabilizando os pés, evitando a sobrecarga dos joelhos, durante o treino com pesos. Também te acompanha nas corridas curtas e em exercícios de velocidade, oferecendo mais estabilidade e flexibilidade aos seus movimentos, sem perder o ritmo. Com esse modelo Nike, arrase na linha de chegada!"
           },
 
           {
