@@ -254,213 +254,233 @@
 
         {
           "id": 25,
-          "name": "Chuteira Campo Predator Freak.1",
+          "name": "Chuteira Campo Nike Air Zoom Mercurial FG CR7 Elite - Dream Speed",
           "type": "Chuteira",
-          "img": "../imagens/Produtos/Chuteira/chuteira-adidas-7.png",
+          "img": "../imagens/Produtos/ch[/Air Zoom-Mercurial-Vapor-XV-Elite-FG.png",
           "color": ["Preto", "Verde", "Azul"],
           "size": ["39", "40", "41", "42"],
           "price": 345
+          
         },
 
         {
           "id": 26,
-          "name": "Chuteira Campo Predator Accuracy.1",
+          "name": "Chuteira Campo Nike Air Zoom Mercurial Superfly 9 Elite FG Cano Alto",
           "type": "Chuteira",
-          "img": "../imagens/Produtos/Chuteira/chuteira-adidas-2.png",
+          "img": "../imagens/Produtos/ch[/Air-Zoom-Mercurial-Superfly-IX-Elite-FG.png",
           "color": ["Preto", "Rosa"],
           "size": ["39", "40", "41", "42"],
-          "price": 200
+          "price": 250
+          
         },
 
         {
           "id": 27,
-          "name": "Chuteira Campo Copa Pure.4 Flexible Ground",
+          "name": "Chuteira Campo Nike Mercurial vapor 15 Air Zoom Ultra",
           "type": "Chuteira",
-          "img": "../imagens/Produtos/Chuteira/chuteira-adidas-3.png",
+          "img": "../imagens/Produtos/ch[/air-zoom-mercurial-vapor-15-elite-xxv-se-fg.png",
           "color": ["Preto", "Rosa", "Branco"],
           "size": ["39", "40", "41", "42"],
-          "price": 170
+          "price": 270
         },
 
         {
           "id": 28,
-          "name": "Chuteira Campo X Speedflow.1 FG White Spark",
+          "name": "Chuteira Campo Nike Air Zoom Mercurial Vapor 15 Elite",
           "type": "Chuteira",
-          "img": "../imagens/Produtos/Chuteira/chuteira-adidas-4.png",
+          "img": "../imagens/Produtos/ch[/Air-Zoom-Mercurial-Vapor-XV-Elite-FG-Cinza.png",
           "color": ["Branco", "Vermelho"],
           "size": ["39", "40", "41", "42"],
           "price": 349
+          
         },
 
         
         {
           "id": 29,
-          "name": "Chuteira Campo Adidas Predator Freak.1",
+          "name": "Chuteiras Campo adidas COPA GLORO FG",
           "type": "Chuteira",
-          "img": "../imagens/Produtos/Chuteira/chuteira-adidas-6.png",
+          "img": "../imagens/Produtos/ch[/COPA-GLORO-FG-WHITE-RED.png",
           "color": ["Branco", "Cinza", "Vermelho"],
-          "size": ["36", "39","40", "41", "42"],
-          "price": 500
+          "size": ["39", "40", "41", "42"],
+          "price": 270
+          
         },
 
         {
           "id": 30,
-          "name": "Chuteira Campo X Speedportal Messi.1",
+          "name": "Chuteira Campo Copa Pure + FG Heatspawn Pack",
           "type": "Chuteira",
-          "img": "../imagens/Produtos/Chuteira/chuteira-x-speed-Messi.png",
+          "img": "../imagens/Produtos/ch[/COPA-PURE-FG.png",
           "color": ["Laranja", "Prata", "Preto"],
           "size": ["39", "40", "41", "42"],
-          "price": 218
+          "price": 318
+          
         },
 
         {
           "id": 31,
-          "name": "Chuteira Campo X Speedportal.1 'Karim Benzema'",
+          "name": "Chuteira Campo Puma Future Ultimate Low",
           "type": "Chuteira",
-          "img": "../imagens/Produtos/Chuteira/chuteira-adidas-bz.png",
+          "img": "../imagens/Produtos/ch[/FUTURE-ULTIMATE-FG_AG-PURSUIT-PACK.png",
           "color": ["Dourado", "Branco"],
           "size": ["39", "40", "41", "42"],
           "price": 394
+          
         },
 
         {
           "id": 32,
-          "name": "Chuteira Campo X Speedportal+ FG 'Al Rihla'",
+          "name": "Chuteira Campo Puma Future Ultimate Tricks FG/AG",
           "type": "Chuteira",
-          "img": "../imagens/Produtos/Chuteira/chuteira-adidas-spedportal.png",
+          "img": "../imagens/Produtos/ch[/FUTURE-ULTIMATE-TRICKS-FG_AG.png",
           "color": ["Ciano", "Azul"],
           "size": ["39", "40", "41", "42"],
           "price": 330
+          
         },
 
         {
           "id": 33,
-          "name": "Chuteira Campo Nike Hypervenom Phelon",
+          "name": "Chuteira Campo Puma Neymar Jr Future 1.4 Fg/Ag",
           "type": "Chuteira",
-          "img": "../imagens/Produtos/Chuteira/chuteira-nike-hypervenom.png",
+          "img": "../imagens/Produtos/ch[/FUTURE-Z-2.4-FG_AG-NJR.png",
           "color": ["Dourado", "Verde"],
           "size": ["39", "40", "41", "42"],
           "price": 399
+        
         },
 
         {
           "id": 34,
-          "name": "Chuteira Campo Nike Mercurial Superfly 8 Jordan 1 Travis Scott x Fragment",
+          "name": "Chuteira Campo Puma Ultra Match+ Ll FG/AG",
           "type": "Chuteira",
-          "img": "../imagens/Produtos/Chuteira/chuteira-nike-ts.png",
+          "img": "../imagens/Produtos/ch[/JUNIOR-ULTRA-MATCH-LL-FG.png",
           "color": ["Branco", "Azul", "Preto"],
           "size": ["39", "40", "41", "42"],
           "price": 255
+          
         },
 
         {
           "id": 35,
-          "name": "Chuteira Nike Mercurial Superfly 8 Elite FG",
+          "name": "Chuteira Campo Puma King Ultimate FG/AG M 107097 03 ",
           "type": "Chuteira",
-          "img": "../imagens/Produtos/Chuteira/chuteira-nike-1.png",
+          "img": "../imagens/Produtos/ch[/KING-ULTIMATE-FG_AG-PURSUIT-PACK.png",
           "color": ["Verde-Agua", "Verde-Claro"],
           "size": ["39", "40", "41", "42"],
           "price": 415
+          
         },
 
         {
           "id": 36,
-          "name": "Chuteira Campo Nike Phantom GX Club Dynamic Fit",
+          "name": "Chuteira Campo Nike Phantom GX Elite DF FG",
           "type": "Chuteira",
-          "img": "../imagens/Produtos/Chuteira/chuteira-nike-2.png",
+          "img": "../imagens/Produtos/ch[/Nike-Phantom-GX-Pro-DF-FG.png",
           "color": ["Branco", "Azul-Claro"],
           "size": ["39", "40", "41", "42"],
           "price": 399
+          
         },
 
         {
           "id": 37,
-          "name": "Chuteira Campo Nike Phantom GX Club Dynamic Fit",
+          "name": "Chuteira Campo Nike Air Zoom Mercurial Vapor 15 Elite FG Luminous",
           "type": "Chuteira",
-          "img": "../imagens/Produtos/Chuteira/chuteira-nike-3.png",
+          "img": "../imagens/Produtos/ch[/NikeZoomVapor15EliteFG.png",
           "color": ["Preto", "Laranja"],
           "size": ["39", "40", "41", "42"],
           "price": 420
+          
         },
 
         {
           "id": 38,
-          "name": "Chuteira Campo Nike Phantom Ultra Venom",
+          "name": "Chuteira Campo Nike Phantom GX Elite DF FG",
           "type": "Chuteira",
-          "img": "../imagens/Produtos/Chuteira/chuteira-nike-4.png",
+          "img": "../imagens/Produtos/ch[/Phantom-GX-Elite-FG.png",
           "color": ["Preto", "Laranja"],
           "size": ["39", "40", "41", "42"],
           "price": 318
+          
         },
 
         {
           "id": 39,
-          "name": "Chuteira Campo Nike Air Zoom Mercurial Vapor 15 Elite",
+          "name": "Chuteira Campo Adidas Predator Accuracy.1 L FG Parley Sustainability Pack",
           "type": "Chuteira",
-          "img": "../imagens/Produtos/Chuteira/chuteira-nike-5.png",
+          "img": "../imagens/Produtos/ch[/PREDATOR-ACCURACY-FG-HEATSPAWN-PACK.png",
           "color": ["Branco", "Ciano"],
           "size": ["39", "40", "41", "42"],
           "price": 299
+          
         },
 
         {
           "id": 40,
-          "name": "Chuteira Campo Nike Tiempo Legend 9 Elite",
+          "name": "Chuteira Campo Adidas Predator Accuracy.1 All Black ",
           "type": "Chuteira",
-          "img": "../imagens/Produtos/Chuteira/chuteira-nike-6.png",
+          "img": "../imagens/Produtos/ch[/PREDATOR-ACCURACY-FG.png",
           "color": ["Branco", "Azul-Claro", "Verde"],
           "size": ["39", "40", "41", "42"],
-          "price": 120
+          "price": 320
+          
         },
 
         {
           "id": 41,
-          "name": "Chuteira Campo Nike Phantom GT Pro",
+          "name": "Chuteiras Campo Adidas Predator Accuracy.2 FG",
           "type": "Chuteira",
-          "img": "../imagens/Produtos/Chuteira/chuteira-nike-7.png",
+          "img": "../imagens/Produtos/ch[/PREDATOR-ACCURACY.1-L-FG-PARLEY.png",
           "color": ["Amarelo", "Azul"],
           "size": ["39", "40", "41", "42"],
-          "price": 255
+          "price": 305
+          
         },
 
         {
           "id": 42,
-          "name": "Chuteira Campo Puma Future Z 1.4 Liberty",
+          "name": "Chuteira Campo Adidas Campo X SpeedPortal. 1 FG +",
           "type": "Chuteira",
-          "img": "../imagens/Produtos/Chuteira/chuteira-puma-1.png",
+          "img": "../imagens/Produtos/ch[/SPEEDPORTAL-FG-OWN-YOUR.png",
           "color": ["Branco", "Bege", "Vermelho"],
           "size": ["39", "40", "41", "42"],
-          "price": 430
+          "price": 230
+          
         },
 
         {
           "id": 43,
-          "name": "Chuteira Campo Future Z 1.3 Instinct",
+          "name": "Chuteira Campo Nike Tiempo Legend 9 Elite",
           "type": "Chuteira",
-          "img": "../imagens/Produtos/Chuteira/chuteira-puma-2.png",
+          "img": "../imagens/Produtos/ch[/Tiempo-Legend-9.png",
           "color": ["Roxo", "Verde"],
           "size": ["39", "40", "41", "42"],
-          "price": 480
+          "price": 380
+          
         },
 
         {
           "id": 44,
-          "name": "Chuteira Campo Puma Ultra Ultimate 1.4 Instinct",
+          "name": "Chuteira Campo Puma Ultra Ultimate FG AG Supercharge Pack",
           "type": "Chuteira",
-          "img": "../imagens/Produtos/Chuteira/chuteira-puma-3.png",
+          "img": "../imagens/Produtos/ch[/ULTRA-ULTIMATE-FG_AG-PURSUIT-PACK.png",
           "color": ["Verde", "Azul"],
           "size": ["39", "40", "41", "42"],
           "price": 229
+          
         },
 
         {
           "id": 45,
-          "name": "Chuteira Campo Future Ultimate DNA FG/AG",
+          "name": "Chuteiras Campo Puma Ultra Ultimate FG/AG",
           "type": "Chuteira",
-          "img": "../imagens/Produtos/Chuteira/chuteira-puma-4.png",
+          "img": "../imagens/Produtos/ch[/ULTRA-ULTIMATE-FG.png",
           "color": ["Azul-Escuro", "Laranja"],
           "size": ["39", "40", "41", "42"],
           "price": 499
+          
         },
 
         {
