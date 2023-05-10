@@ -12,7 +12,7 @@
     width: 100%;
     margin: 2rem 0;
     background-color: var(--main-blue-color);
-    color: var(--text-red-color);
+    color: var(--main-pink-color);
 }
 
 .filtro-titulo {
@@ -53,6 +53,7 @@
 .ordenar {
     display: flex;
     flex-direction: row;
+    height: 2em;
 }
 
 .form-select {
@@ -112,8 +113,10 @@
     text-align: center;
     align-items: center;
     justify-content: center;
+    background-image: linear-gradient(to bottom,#F2C2CF,#B599F2);
     border: 1px solid var(--main-blue-color);
     border-radius: 5%;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
 }
 
 .img-produto{
@@ -146,12 +149,12 @@
     width: 150px;
     font-size: 0.8rem;
     margin: 0.2rem 0;
-    background-color: var(--main-blue-color);
+    background-color: black;
     border: none;
     border-radius: 40px;
     padding: 0.5rem;
     text-transform: uppercase;
-    color: var(--text-red-color);
+    color: #fff;
     text-align: center;
     transition: opacity .5s ease-in;
 }
@@ -191,6 +194,57 @@
 .pagina li a.active-page {
     background-color: var(--main-blue-color);
 }
+
+/*******************
+    CAIXA
+*******************/
+#caixa{ 
+    background-image: linear-gradient(to bottom, #F2C2CF,#595959);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Quicksand', sans-serif;
+    font-weight: bold;
+  
+  }
+  #caixa .descrição{
+   text-align: center;
+   margin-right: 50px;
+   color: #fff;
+  }
+  #produto-button {
+      width: 90px;
+      padding: 0.5rem;
+      text-align: center;
+      background-color: var(--main-blue-color);
+      color: #fff;
+      border: none;
+      border-radius:10px;
+  }
+  #btn-cancelar{
+      background-color: var(--text-red-color);
+      color: black;
+  }
+  #btn-adicionar{
+      background-color: var(--main-blue-color);
+      color: #fff;
+  }
+  #produto-preço{
+   font-size: 26px;
+   font-weight: bold;
+   color: #fff;
+  }
+  #descrição{
+  color: #fff;
+  }
+  .label{
+  color: #fff;
+  }
+  #quantidade-produto{
+      width: 50px;
+  }
+  
 
 /*******************
     MEDIA QUERY

@@ -8,6 +8,7 @@
     overflow: hidden;
     margin: 1rem auto;
     border-radius: 20px;
+    margin-left: 18%;
 }
 
 .carousel-item img {
@@ -41,7 +42,7 @@ CONTROLES
     text-align: center;
     line-height: 35px;
     background-color: var(--main-blue-color);
-    color: var(--text-red-color);
+    color: var(--text-purple-color);
     border-radius: 50%;
     font-size: 1.4rem;
     top: 50%;
@@ -79,9 +80,11 @@ CONTROLES
 
 .categorias {
     display: block;
-    background-color: var(--main-blue-color);
+    background-color :#B599F2;
     text-align: center;
     border-radius: 15px;
+    border: solid 2px;
+    box-shadow: rgba(240, 46, 170, 0.4) -5px 5px, rgba(240, 46, 170, 0.3) -10px 10px, rgba(240, 46, 170, 0.2) -15px 15px, rgba(240, 46, 170, 0.1) -20px 20px, rgba(240, 46, 170, 0.05) -25px 25px;
 
 }
 
@@ -96,16 +99,16 @@ CONTROLES
 
 .categorias-button {
     cursor: pointer;
-    background-color: var(--main-blue-color);
+    background-image: linear-gradient(to bottom,#F2C2CF,#B599F2);
     border-radius: 15px;
     border: 0;
     padding: 0;
 }
 
 .categorias-texto {
-    font-family: 'Quicksand', sans-serif;
-    color: var(--text-red-color);
-    font-size: 2rem;
+    font-family: 'Noto Sans';
+    color: var(--text-purple-color);
+    font-size: 1.5rem;
     font-weight: 800;
     padding: 1.6rem;
     text-align: center;
@@ -185,6 +188,8 @@ CATALOGO
     align-items: center;
     border: 1px solid rgba(93, 93, 129, 0.3);
     border-radius: 5%;
+    background-image: linear-gradient(to bottom,#F2C2CF,#B599F2);
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
 }
 
 .destaques .catalogo-item {
@@ -198,7 +203,7 @@ CATALOGO
 }
 
 .catalogo-line {
-    border: 2px solid var(--main-blue-color);
+    border: 2px solid rgba(240, 46, 170, 0.4) ;
     width: 100%;
     margin-bottom: 0.6rem;
 }
@@ -207,6 +212,7 @@ CATALOGO
     font-size: 1.2rem;
     text-align: center;
     font-weight: bold;
+    color: #ffff;
 }
 
 .produto-preço {
@@ -214,10 +220,12 @@ CATALOGO
     font-size: 1.4rem;
     font-weight: 700;
     margin: 0.5rem 0;
+    color: #ffff;
 }
 
 .produto-prestação {
     font-size: 0.8rem;
+    color: #ffff;
 }
 
 .produto-bold {
@@ -228,12 +236,12 @@ CATALOGO
     width: 100%;
     margin: 1rem 0;
     cursor: pointer;
-    background-color: var(--main-blue-color);
+    background-color: rgba(240, 46, 170, 0.4);
     border: none;
     border-radius: 40px;
     padding: 0.7rem 3.5rem;
     text-transform: uppercase;
-    color: var(--text-red-color);
+    color: #fff;
     text-align: center;
     transition: opacity .5s ease-in;
 }
