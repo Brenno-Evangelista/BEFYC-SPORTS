@@ -299,7 +299,7 @@
           "type": "Chuteira",
           "img": "../imagens/Produtos/Chuteira/chuteira-adidas-6.png",
           "color": ["Branco", "Cinza", "Vermelho"],
-          "size": ["39", "40", "41", "42"],
+          "size": ["36", "39","40", "41", "42"],
           "price": 500
         },
 
@@ -1271,7 +1271,8 @@
             "img": "../imagens/Produtos/tenis/tenis-relampago-marquinhos.png",
             "color": ["Vermelho", "Preto"],
             "size": ["39", "40", "41", "42"],
-            "price": 97
+            "price": 97,
+            "descrição": "Para os pequenos que adoram as competições da Copa Pistão, escolha o Tênis Infantil Disney Relâmpago McQueen Masculino. Estampando a personagem mais veloz da animação, garante conforto e diversão."
           },
 
           {
