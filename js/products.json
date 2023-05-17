@@ -4,7 +4,7 @@
           "id": 0,
           "name": "Camisa Olimpique de Marselhe 21/22",
           "type": "Camisa",
-          "img": "../imagens/Produtos/Camisa/camisa-O.marselha.png",
+          "img": "../imagens/Produtos/Camisa/america-home.png",
           "color": ["Branca", "Azul"],
           "size": ["P", "M", "G", "GG"],
           "price": 100,
