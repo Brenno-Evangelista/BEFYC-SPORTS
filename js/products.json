@@ -34,7 +34,7 @@
         "img": "../imagens/Produtos/Camisa/arsenal-away.png",
         "img1":"../imagens/Produtos/Camisa/ars1.png",
         "img2":"../imagens/Produtos/Camisa/ars2.png",
-        "img3":"../imagens/Produtos/Camisa/ars3.png",
+        "img3":"../imagens/Produtos/Camisa/ars3.jpg",
         "color": ["Azul", "Azul"],
         "size": ["P", "M", "G", "GG"],
         "price": 130
@@ -73,7 +73,7 @@
         "img": "../imagens/Produtos/Camisa/aston.v-home.png",
         "img1":"../imagens/Produtos/Camisa/ast1.png",
         "img2":"../imagens/Produtos/Camisa/ast2.png",
-        "img3":"../imagens/Produtos/Camisa/ast3.png",
+        "img3":"../imagens/Produtos/Camisa/ast3.jpeg",
         "color": ["Preto", "Branca"],
         "size": ["P", "M", "G", "GG"],
         "price": 129
@@ -111,8 +111,8 @@
         "type": "Camisa",
         "img": "../imagens/Produtos/Camisa/b.leverkusen-home.png",
         "img1":"../imagens/Produtos/Camisa/lev1.png",
-        "img2":"../imagens/Produtos/Camisa/lev2.png",
-        "img3":"../imagens/Produtos/Camisa/lev3.png",
+        "img2":"../imagens/Produtos/Camisa/lev2.jpeg",
+        "img3":"../imagens/Produtos/Camisa/lev3.jpeg",
         "color": ["Azul", "Azul-Escuro"],
         "size": ["P", "M", "G", "GG"],
         "price": 90
@@ -177,7 +177,7 @@
         "img": "../imagens/Produtos/Camisa/bayern-home.png",
         "img1":"../imagens/Produtos/Camisa/bay1.png",
         "img2":"../imagens/Produtos/Camisa/bay2.png",
-        "img3":"../imagens/Produtos/Camisa/bay3.png",
+        "img3":"../imagens/Produtos/Camisa/bay3.jpeg",
         "color": ["Preto", "Rosa"],
         "size": ["P", "M", "G", "GG"],
         "price": 109
@@ -190,7 +190,7 @@
         "img": "../imagens/Produtos/Camisa/benfica-away.png",
         "img1":"../imagens/Produtos/Camisa/ben-a1.png",
         "img2":"../imagens/Produtos/Camisa/ben-a2.png",
-        "img3":"../imagens/Produtos/Camisa/ben-a3.png",
+        "img3":"../imagens/Produtos/Camisa/ben-a3.jpeg",
         "color": ["Azul", "Azul"],
         "size": ["P", "M", "G", "GG"],
         "price": 139
@@ -202,8 +202,8 @@
         "type": "Camisa",
         "img": "../imagens/Produtos/Camisa/benfica-home.png",
         "img1":"../imagens/Produtos/Camisa/ben1.png",
-        "img2":"../imagens/Produtos/Camisa/ben2.png",
-        "img3":"../imagens/Produtos/Camisa/ben3.png",
+        "img2":"../imagens/Produtos/Camisa/ben2.jpeg",
+        "img3":"../imagens/Produtos/Camisa/ben3.jpeg",
         "color": ["Amarelo", "Preto"],
         "size": ["P", "M", "G", "GG"],
         "price": 102
@@ -270,7 +270,7 @@
         "img": "../imagens/Produtos/Camisa/celta-away.png",
         "img1":"../imagens/Produtos/Camisa/celta-a1.png",
         "img2":"../imagens/Produtos/Camisa/celta-a2.png",
-        "img3":"../imagens/Produtos/Camisa/celta-a3.png",
+        "img3":"../imagens/Produtos/Camisa/celta-a3.jpeg",
         "color": ["Azul", "Dourado"],
         "size": ["P", "M", "G", "GG"],
         "price": 139
@@ -296,7 +296,7 @@
         "img": "../imagens/Produtos/Camisa/celtic-home.png",
         "img1":"../imagens/Produtos/Camisa/cel1.png",
         "img2":"../imagens/Produtos/Camisa/cel2.png",
-        "img3":"../imagens/Produtos/Camisa/cel3.png",
+        "img3":"../imagens/Produtos/Camisa/cel3.jpeg",
         "color": ["Verde", "Verde-Escuro"],
         "size": ["P", "M", "G", "GG"],
         "price": 129
