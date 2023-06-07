@@ -1,1341 +1,1342 @@
 {
-    "products":[
-        {
-          "id": 0,
-          "name": "Camisa Olimpique de Marselhe 21/22",
-          "type": "Camisa",
-          "img": "../imagens/Produtos/Camisa/camisa-O.marselha.png",
-          "img2": "../imagens/Produtos/Camisa/bar1.jpg",
-          "img3": "../imagens/Produtos/Camisa/bar2.jpg",
-          "color": ["Branca", "Azul"],
-          "size": ["P", "M", "G", "GG"],
-          "price": 100,
-          "descrição":"Aumente sua coleção de camisas de futebol adquirindo a nova Camisa Masculina do Olympique de Marseille. Semelhante ao modelo que os astros usam nos jogos em casa, o manto titular da temporada 21/22 é predominantemente branco com detalhes em azul claro e o brasão do clube francês bordado na altura do peito. De tecido leve e respirável, a peça proporciona ótimo caimento e garante liberdade de movimentos durante o uso."
-        },
+  "products":[
+      {
+        "id": 0,
+        "name": "Camisa Olimpique de Marselhe 21/22",
+        "type": "Camisa",
+        "img": "../imagens/Produtos/Camisa/america-home.png",
+        "img1":"../imagens/Produtos/Camisa/amc1.jpeg",
+        "img2":"../imagens/Produtos/Camisa/amc2.jpeg",
+        "img3":"../imagens/Produtos/Camisa/amc3.jpeg",
+        "color": ["Branca", "Azul"],
+        "size": ["P", "M", "G", "GG"],
+        "price": 100,
+        "descrição":"Aumente sua coleção de camisas de futebol adquirindo a nova Camisa Masculina do Olympique de Marseille. Semelhante ao modelo que os astros usam nos jogos em casa, o manto titular da temporada 21/22 é predominantemente branco com detalhes em azul claro e o brasão do clube francês bordado na altura do peito. De tecido leve e respirável, a peça proporciona ótimo caimento e garante liberdade de movimentos durante o uso."
+      },
 
-        {
-          "id": 1,
-          "name": "Camisa Paris Saint-Germain 22/23",
-          "type": "Camisa",
-          "img": "../imagens/Produtos/Camisa/camisa-Psg.png",
-          "color": ["Branca"],
-          "size": ["P", "M", "G", "GG"],
-          "price": 115
-        },
+      {
+        "id": 1,
+        "name": "Camisa Paris Saint-Germain 22/23",
+        "type": "Camisa",
+        "img": "../imagens/Produtos/Camisa/argentina-away.png",
+        "color": ["Branca"],
+        "size": ["P", "M", "G", "GG"],
+        "price": 115
+      },
 
-        {
-          "id": 2,
-          "name": "Camisa Cruzeiro 23/24",
-          "type": "Camisa",
-          "img": "../imagens/Produtos/Camisa/camisa-Cruzeiro.png",
-          "color": ["Azul", "Azul"],
-          "size": ["P", "M", "G", "GG"],
-          "price": 130
-        },
+      {
+        "id": 2,
+        "name": "Camisa Cruzeiro 23/24",
+        "type": "Camisa",
+        "img": "../imagens/Produtos/Camisa/arsenal-away.png",
+        "color": ["Azul", "Azul"],
+        "size": ["P", "M", "G", "GG"],
+        "price": 130
+      },
 
-        {
-          "id": 3,
-          "name": "Camisa Ajax 22/23",
-          "type": "Camisa",
-          "img": "../imagens/Produtos/Camisa/camisa-Ajax.png",
-          "color": ["Branca", "Vermelha"],
-          "size": ["P", "M", "G", "GG"],
-          "price": 110
-        },
+      {
+        "id": 3,
+        "name": "Camisa Ajax 22/23",
+        "type": "Camisa",
+        "img": "../imagens/Produtos/Camisa/arsenal-home.png",
+        "color": ["Branca", "Vermelha"],
+        "size": ["P", "M", "G", "GG"],
+        "price": 110
+      },
 
-        {
-          "id": 4,
-          "name": "Camisa Almeria 22/23",
-          "type": "Camisa",
-          "img": "../imagens/Produtos/Camisa/camisa-Almeria.png",
-          "color": ["Preto", "Ciano"],
-          "size": ["P", "M", "G", "GG"],
-          "price": 112
-        },
+      {
+        "id": 4,
+        "name": "Camisa Almeria 22/23",
+        "type": "Camisa",
+        "img": "../imagens/Produtos/Camisa/aston.v-away.png",
+        "color": ["Preto", "Ciano"],
+        "size": ["P", "M", "G", "GG"],
+        "price": 112
+      },
 
-        {
-          "id": 5,
-          "name": "Camisa America-MEX 22/23",
-          "type": "Camisa",
-          "img": "../imagens/Produtos/Camisa/camisa-Americamex.png",
-          "color": ["Preto", "Branca"],
-          "size": ["P", "M", "G", "GG"],
-          "price": 129
-        },
+      {
+        "id": 5,
+        "name": "Camisa America-MEX 22/23",
+        "type": "Camisa",
+        "img": "../imagens/Produtos/Camisa/aston.v-home.png",
+        "color": ["Preto", "Branca"],
+        "size": ["P", "M", "G", "GG"],
+        "price": 129
+      },
 
-        {
-          "id": 6,
-          "name": "Camisa Argentina 22/23",
-          "type": "Camisa",
-          "img": "../imagens/Produtos/Camisa/camisa-Argentina.png",
-          "color": ["Azul", "Branca"],
-          "size": ["P", "M", "G", "GG"],
-          "price": 109
-        },
-        
-        {
-          "id": 7,
-          "name": "Camisa Brasil 19/20",
-          "type": "Camisa",
-          "img": "../imagens/Produtos/Camisa/camisa-Brasil.png",
-          "color": ["Amarelo", "Verde"],
-          "size": ["P", "M", "G", "GG"],
-          "price": 75
-        },
-
-        {
-          "id": 8,
-          "name": "Camisa Croacia 22/23",
-          "type": "Camisa",
-          "img": "../imagens/Produtos/Camisa/camisa-Croacia.png",
-          "color": ["Azul", "Azul-Escuro"],
-          "size": ["P", "M", "G", "GG"],
-          "price": 90
-        },
-
-        {
-          "id": 9,
-          "name": "Camisa Espanha 22/23",
-          "type": "Camisa",
-          "img": "../imagens/Produtos/Camisa/camisa-Espanha.png",
-          "color": ["Vermelho", "Amarelo"],
-          "size": ["P", "M", "G", "GG"],
-          "price": 90
-        },
-
-        {
-          "id": 10,
-          "name": "Camisa França 22/23",
-          "type": "Camisa",
-          "img": "../imagens/Produtos/Camisa/camisa-França.png",
-          "color": ["Azul-Escuro", "Dourado"],
-          "size": ["P", "M", "G", "GG"],
-          "price": 104
-        },
-
-        {
-          "id": 11,
-          "name": "Camisa Holanda 22/23",
-          "type": "Camisa",
-          "img": "../imagens/Produtos/Camisa/camisa-Holanda.png",
-          "color": ["Laranja", "Preto"],
-          "size": ["P", "M", "G", "GG"],
-          "price": 90
-        },
-
-        {
-          "id": 12,
-          "name": "Camisa Inglaterra 22/23",
-          "type": "Camisa",
-          "img": "../imagens/Produtos/Camisa/camisa-Inglaterra.png",
-          "color": ["Branco", "Azul"],
-          "size": ["P", "M", "G", "GG"],
-          "price": 92
-        },
-
-        {
-          "id": 13,
-          "name": "Camisa Inter Miame 23/24",
-          "type": "Camisa",
-          "img": "../imagens/Produtos/Camisa/camisa-InterMiami.png",
-          "color": ["Preto", "Rosa"],
-          "size": ["P", "M", "G", "GG"],
-          "price": 109
-        },
-
-        {
-          "id": 14,
-          "name": "Camisa Liverpool Collab LeBron James 23/24",
-          "type": "Camisa",
-          "img": "../imagens/Produtos/Camisa/camisa-Liverpool.png",
-          "color": ["Azul", "Azul"],
-          "size": ["P", "M", "G", "GG"],
-          "price": 139
-        },
-
-        {
-          "id": 15,
-          "name": "Camisa Borussia 22/23",
-          "type": "Camisa",
-          "img": "../imagens/Produtos/Camisa/camisa-Borrusia.png",
-          "color": ["Amarelo", "Preto"],
-          "size": ["P", "M", "G", "GG"],
-          "price": 102
-        },
-
-        {
-          "id": 16,
-          "name": "Camisa Mãe Rainha👏🙌",
-          "type": "Camisa",
-          "img": "../imagens/Produtos/Camisa/camisa-mae-rainha.png",
-          "color": ["Preto"],
-          "size": ["P", "M", "G", "GG"],
-          "price": 79,
-          "descrição":"Procurando uma camiseta com temática cristã de alto estilo e qualidade? As Camisetas da BEFYC perfeitas para você. A BEFYC busca através de suas camisetas fortalecer a propagar a fé. São modelos exclusivos para você presentear alguém especial ou até mesmo se presentear. São muitos modelos. Aproveite nossa imensa coleção e garanta já a sua."
-        },
-
-
-        {
-          "id": 17,
-          "name": "Camisa Monterrey 23/24",
-          "type": "Camisa",
-          "img": "../imagens/Produtos/Camisa/camisa-Monterrey.png",
-          "color": ["Roxo", "Rosa"],
-          "size": ["P", "M", "G", "GG"],
-          "price": 118
-        },
-
-        {
-          "id": 18,
-          "name": "Camisa Napoli Dia dos Namorados 23/24",
-          "type": "Camisa",
-          "img": "../imagens/Produtos/Camisa/camisa-Napoli-Diadosnamorados.png",
-          "color": ["Branca", "Vermelho"],
-          "size": ["P", "M", "G", "GG"],
-          "price": 139
-        },
-
-        {
-          "id": 19,
-          "name": "Camisa Parma 22/23",
-          "type": "Camisa",
-          "img": "../imagens/Produtos/Camisa/camisa-Parma.png",
-          "color": ["Branco", "Preto"],
-          "size": ["P", "M", "G", "GG"],
-          "price": 97
-        },
-
-        {
-          "id": 20,
-          "name": "Camisa Porto 23/24",
-          "type": "Camisa",
-          "img": "../imagens/Produtos/Camisa/camisa-Porto.png",
-          "color": ["Azul", "Dourado"],
-          "size": ["P", "M", "G", "GG"],
-          "price": 139
-        },
-
-        {
-          "id": 21,
-          "name": "Camisa Sporting 23/24",
-          "type": "Camisa",
-          "img": "../imagens/Produtos/Camisa/camisa-Sporting.png",
-          "color": ["Verde", "Branco"],
-          "size": ["P", "M", "G", "GG"],
-          "price": 86
-        },
-        
-        {
-          "id": 22,
-          "name": "Camisa Werder Bremen Especial 'How Deep is Your Love?' 23/24",
-          "type": "Camisa",
-          "img": "../imagens/Produtos/Camisa/camisa-WerderBremer.png",
-          "color": ["Verde", "Verde-Escuro"],
-          "size": ["P", "M", "G", "GG"],
-          "price": 129
-        },
-
-        {
-          "id": 23,
-          "name": "Camisa West Ham 22/23",
-          "type": "Camisa",
-          "img": "../imagens/Produtos/Camisa/camisa-West-Ham.png",
-          "color": ["Verde", "Verde-Escuro"],
-          "size": ["P", "M", "G", "GG"],
-          "price": 96
-        },
-
-        {
-          "id": 24,
-          "name": "Camisa Midtjylland 23/24",
-          "type": "Camisa",
-          "img": "../imagens/Produtos/Camisa/camisa-Midtjylland.png",
-          "color": ["Branco", "Vermelho", "Preto"],
-          "size": ["P", "M", "G", "GG"],
-          "price": 159,
-          "descrição": "tamo tentando inventar oq butar"
-        },
-
-        {
-          "id": 25,
-          "name": "Chuteira Campo Nike Air Zoom Mercurial FG CR7 Elite",
-          "type": "Chuteira",
-          "img": "../imagens/Produtos/ch[/Air Zoom-Mercurial-Vapor-XV-Elite-FG.png",
-          "color": ["Preto", "Verde", "Azul"],
-          "size": ["39", "40", "41", "42"],
-          "price": 345,
-          "descrição":"A Nike Mercurial vapor 15 Elite FG apresenta um modelo simplificado que utiliza a quantidade minima de materiais possivel, para que possa jogar mais rapido do comeco ao fim. Uma palmilha amortecida proporciona conforto imparavel e uma placa especialmente desenhada proporciona responsividade para cortes rapidos em alta velocidade."          
-        },
-
-        {
-          "id": 26,
-          "name": "Chuteira Campo Nike Air Zoom Mercurial Superfly 9 Elite FG Cano Alto",
-          "type": "Chuteira",
-          "img": "../imagens/Produtos/ch[/Air-Zoom-Mercurial-Superfly-IX-Elite-FG.png",
-          "color": ["Preto", "Rosa"],
-          "size": ["39", "40", "41", "42"],
-          "price": 250
-          
-        },
-
-        {
-          "id": 27,
-          "name": "Chuteira Campo Nike Mercurial vapor 15 Air Zoom Ultra",
-          "type": "Chuteira",
-          "img": "../imagens/Produtos/ch[/air-zoom-mercurial-vapor-15-elite-xxv-se-fg.png",
-          "color": ["Preto", "Rosa", "Branco"],
-          "size": ["39", "40", "41", "42"],
-          "price": 270
-        },
-
-        {
-          "id": 28,
-          "name": "Chuteira Campo Nike Air Zoom Mercurial Vapor 15 Elite",
-          "type": "Chuteira",
-          "img": "../imagens/Produtos/ch[/Air-Zoom-Mercurial-Vapor-XV-Elite-FG-Cinza.png",
-          "color": ["Branco", "Vermelho"],
-          "size": ["39", "40", "41", "42"],
-          "price": 349
-          
-        },
-
-        
-        {
-          "id": 29,
-          "name": "Chuteiras Campo adidas COPA GLORO FG",
-          "type": "Chuteira",
-          "img": "../imagens/Produtos/ch[/COPA-GLORO-FG-WHITE-RED.png",
-          "color": ["Branco", "Cinza", "Vermelho"],
-          "size": ["39", "40", "41", "42"],
-          "price": 270
-          
-        },
-
-        {
-          "id": 30,
-          "name": "Chuteira Campo Copa Pure + FG Heatspawn Pack",
-          "type": "Chuteira",
-          "img": "../imagens/Produtos/ch[/COPA-PURE-FG.png",
-          "color": ["Laranja", "Prata", "Preto"],
-          "size": ["39", "40", "41", "42"],
-          "price": 318,
-          "descrição":"Com a adidas Copa Pure, você recupera a sensação do futebol puro. Ele se concentra no essencial e conta com conforto absoluto e uma sensação não adulterada com a bola. Esta chuteira de futebol sem cadarço apresenta cabedal de couro Fusionskin costurado no antepé que é perfeitamente conectado ao colar adidas PRIMEKNIT para suporte ideal. O acolchoado é feito sem costuras. Além disso, a sola especial garante o melhor desempenho na grama natural seca."          
-        },
-
-        {
-          "id": 31,
-          "name": "Chuteira Campo Puma Future Ultimate Low",
-          "type": "Chuteira",
-          "img": "../imagens/Produtos/ch[/FUTURE-ULTIMATE-FG_AG-PURSUIT-PACK.png",
-          "color": ["Dourado", "Branco"],
-          "size": ["39", "40", "41", "42"],
-          "price": 394
-          
-        },
-
-        {
-          "id": 32,
-          "name": "Chuteira Campo Puma Future Ultimate Tricks FG/AG",
-          "type": "Chuteira",
-          "img": "../imagens/Produtos/ch[/FUTURE-ULTIMATE-TRICKS-FG_AG.png",
-          "color": ["Ciano", "Azul"],
-          "size": ["39", "40", "41", "42"],
-          "price": 330
-          
-        },
-
-        {
-          "id": 33,
-          "name": "Chuteira Campo Puma Neymar Jr Future 1.4 Fg/Ag",
-          "type": "Chuteira",
-          "img": "../imagens/Produtos/ch[/FUTURE-Z-2.4-FG_AG-NJR.png",
-          "color": ["Dourado", "Verde"],
-          "size": ["39", "40", "41", "42"],
-          "price": 399
-        
-        },
-
-        {
-          "id": 34,
-          "name": "Chuteira Campo Puma Ultra Match+ Ll FG/AG",
-          "type": "Chuteira",
-          "img": "../imagens/Produtos/ch[/JUNIOR-ULTRA-MATCH-LL-FG.png",
-          "color": ["Branco", "Azul", "Preto"],
-          "size": ["39", "40", "41", "42"],
-          "price": 255
-          
-        },
-
-        {
-          "id": 35,
-          "name": "Chuteira Campo Puma King Ultimate FG/AG M 107097 03 ",
-          "type": "Chuteira",
-          "img": "../imagens/Produtos/ch[/KING-ULTIMATE-FG_AG-PURSUIT-PACK.png",
-          "color": ["Verde-Agua", "Verde-Claro"],
-          "size": ["39", "40", "41", "42"],
-          "price": 415,
-          "descrição":"O ícone retorna com atualizações ousadas e novos materiais inovadores no Puma King Ultimate. A parte superior totalmente nova do K-Better é construída com 60% de conteúdo reciclado para reduzir o impacto ambiental, proporcionando toque e conforto superiores. Uma nova sola leve com contador de calcanhar externo, coluna de estabilidade integrada e pinos cônicos mantêm você no comando enquanto navega no jogo."
-          
-        },
-
-        {
-          "id": 36,
-          "name": "Chuteira Campo Nike Phantom GX Elite DF FG",
-          "type": "Chuteira",
-          "img": "../imagens/Produtos/ch[/Nike-Phantom-GX-Pro-DF-FG.png",
-          "color": ["Branco", "Azul-Claro"],
-          "size": ["39", "40", "41", "42"],
-          "price": 399
-          
-        },
-
-        {
-          "id": 37,
-          "name": "Chuteira Campo Nike Air Zoom Mercurial Vapor 15 Elite FG",
-          "type": "Chuteira",
-          "img": "../imagens/Produtos/ch[/NikeZoomVapor15EliteFG.png",
-          "color": ["Preto", "Laranja"],
-          "size": ["39", "40", "41", "42"],
-          "price": 420
-          
-        },
-
-        {
-          "id": 38,
-          "name": "Chuteira Campo Nike Phantom GX Elite DF FG",
-          "type": "Chuteira",
-          "img": "../imagens/Produtos/ch[/Phantom-GX-Elite-FG.png",
-          "color": ["Preto", "Laranja"],
-          "size": ["39", "40", "41", "42"],
-          "price": 318
-          
-        },
-
-        {
-          "id": 39,
-          "name": "Chuteira Campo Adidas Predator Accuracy.1 L FG Parley ",
-          "type": "Chuteira",
-          "img": "../imagens/Produtos/ch[/PREDATOR-ACCURACY-FG-HEATSPAWN-PACK.png",
-          "color": ["Branco", "Ciano"],
-          "size": ["39", "40", "41", "42"],
-          "price": 299,
-          "descrição":"Controle + precisão = confiança. Quando o objetivo estiver na sua mira, mire na perfeição com o adidas Predator Accuracy. A parte superior de tecido macio e revestido dessas chuteiras inclui textura de alta definição em sua zona de impacto. Uma mistura de elementos em relevo e impressão em relevo, está lá para ajudá-lo a acertar cada passe e tiro. Por baixo, uma sola especializada mantém você no modo chefe em terreno firme."
-          
-        },
-
-        {
-          "id": 40,
-          "name": "Chuteira Campo Adidas Predator Accuracy.1 All Black ",
-          "type": "Chuteira",
-          "img": "../imagens/Produtos/ch[/PREDATOR-ACCURACY-FG.png",
-          "color": ["Branco", "Azul-Claro", "Verde"],
-          "size": ["39", "40", "41", "42"],
-          "price": 320
-          
-        },
-
-        {
-          "id": 41,
-          "name": "Chuteiras Campo Adidas Predator Accuracy.2 FG",
-          "type": "Chuteira",
-          "img": "../imagens/Produtos/ch[/PREDATOR-ACCURACY.1-L-FG-PARLEY.png",
-          "color": ["Amarelo", "Azul"],
-          "size": ["39", "40", "41", "42"],
-          "price": 305
-          
-        },
-
-        {
-          "id": 42,
-          "name": "Chuteira Campo Adidas Campo X SpeedPortal. 1 FG +",
-          "type": "Chuteira",
-          "img": "../imagens/Produtos/ch[/SPEEDPORTAL-FG-OWN-YOUR.png",
-          "color": ["Branco", "Bege", "Vermelho"],
-          "size": ["39", "40", "41", "42"],
-          "price": 230,
-          "descrição":"Os bons jogadores criam tempo e espaço. Os grandes deixam-nos para trás. Desbloqueia uma velocidade multidimensional com as X Speedportal da adidas. Elegantes e superconfortáveis, estas botas de futebol apoiam as tuas reações estonteantes com uma placa de carbono Carbitex em toda extensão da sola para piso firme. O envolvente topo adidas PRIMEKNIT sem atacadores inclui inserções de EVA no interior e uma leve estrutura em carbono no exterior do calcanhar, oferecendo estabilidade para jogadas à velocidade da luz. Feito com uma série de materiais reciclados, o topo inclui pelo menos 50% de conteúdo reciclado.j"
-          
-        },
-
-        {
-          "id": 43,
-          "name": "Chuteira Campo Nike Tiempo Legend 9 Elite",
-          "type": "Chuteira",
-          "img": "../imagens/Produtos/ch[/Tiempo-Legend-9.png",
-          "color": ["Roxo", "Verde"],
-          "size": ["39", "40", "41", "42"],
-          "price": 380
-          
-        },
-
-        {
-          "id": 44,
-          "name": "Chuteira Campo Puma Ultra Ultimate FG AG Supercharge Pack",
-          "type": "Chuteira",
-          "img": "../imagens/Produtos/ch[/ULTRA-ULTIMATE-FG_AG-PURSUIT-PACK.png",
-          "color": ["Verde", "Azul"],
-          "size": ["39", "40", "41", "42"],
-          "price": 229
-          
-        },
-
-        {
-          "id": 45,
-          "name": "Chuteiras Campo Puma Ultra Ultimate FG/AG",
-          "type": "Chuteira",
-          "img": "../imagens/Produtos/ch[/ULTRA-ULTIMATE-FG.png",
-          "color": ["Azul-Escuro", "Laranja"],
-          "size": ["39", "40", "41", "42"],
-          "price": 499
-          
-        },
-
-        {
-          "id": 46,
-          "name": "Kit Treinamento Arsenal Short e Regata",
-          "type": "Treino",
-          "img": "../imagens/Produtos/treino/roupa-arsenal.png",
-          "color": ["Vermelho", "Preto"],
-          "size": ["P", "M", "G"],
-          "price": 80
-        },
-
-        {
-          "id": 47,
-          "name": "Kit Treinamento Borussia Casaco e Calça",
-          "type": "Treino",
-          "img": "../imagens/Produtos/treino/roupa-borussia.png",
-          "color": ["Amarelo", "Preto"],
-          "size": ["P", "M", "G"],
-          "price": 120
-        },
-
-        {
-          "id": 48,
-          "name": "Kit Treinamento Manchester City Casaco e Calça",
-          "type": "Treino",
-          "img": "../imagens/Produtos/treino/roupa-city.png",
-          "color": ["Azul-Claro", "Azul-Escuro"],
-          "size": ["P", "M", "G"],
-          "price": 120
-        },
-
-        {
-          "id": 49,
-          "name": "Kit Treinamento Seleção Francesa Casaco e Calça",
-          "type": "Treino",
-          "img": "../imagens/Produtos/treino/roupa-frança.png",
-          "color": ["Azul", "Dourado"],
-          "size": ["P", "M", "G"],
-          "price": 115
-        },
-
-        {
-          "id": 50,
-          "name": "Kit Treinamento AC Milan Casaco e Calça",
-          "type": "Treino",
-          "img": "../imagens/Produtos/treino/roupa-milan.png",
-          "color": ["Vermelho", "Preto"],
-          "size": ["P", "M", "G"],
-          "price": 115
-        },
-
-        {
-          "id": 51,
-          "name": "Treinamento AC Milan Casaco e Calça",
-          "type": "Treino",
-          "img": "../imagens/Produtos/treino/roupa-surfista-fm.png",
-          "color": ["Preto", "Verde"],
-          "size": ["P", "M", "G"],
-          "price": 65
-        },
-
-        {
-          "id": 52,
-          "name": "Roupa de Treinamento Termica Blusa e Calça",
-          "type": "Treino",
-          "img": "../imagens/Produtos/treino/roupa-termica.png",
-          "color": ["Preto"],
-          "size": ["P", "M", "G"],
-          "price": 80
-        },
-
-        {
-          "id": 53,
-          "name": "Roupa de Treino Adidas Short e Camisa",
-          "type": "Treino",
-          "img": "../imagens/Produtos/treino/roupa-treino-adidas.png",
-          "color": ["Preto", "Branco"],
-          "size": ["P", "M", "G"],
-          "price": 80
-        },
-
-        {
-          "id": 54,
-          "name": "Roupa de Treinamento Feminino Short e Cropped",
-          "type": "Treino",
-          "img": "../imagens/Produtos/treino/roupa-treino-fm2.png",
-          "color": ["Azul", "Azul-Escuro", "Rosa"],
-          "size": ["P", "M", "G"],
-          "price": 85
-        },
-
-        {
-          "id": 55,
-          "name": "Roupa de Treinamento Feminino Short e Cropped",
-          "type": "Treino",
-          "img": "../imagens/Produtos/treino/roupa-treino-fm3.png",
-          "color": ["Cinza"],
-          "size": ["P", "M", "G"],
-          "price": 73
-        },
-
-        {
-          "id": 56,
-          "name": "Roupa de Treinamento Feminino Calça e Cropped",
-          "type": "Treino",
-          "img": "../imagens/Produtos/treino/roupa-treino-fm4.png",
-          "color": ["Preto", "Verde"],
-          "size": ["P", "M", "G"],
-          "price": 75
-        },
-
-        {
-          "id": 57,
-          "name": "Roupa de Treinamento Feminino Nike Short e Blusa",
-          "type": "Treino",
-          "img": "../imagens/Produtos/treino/roupa-treino-fm5.png",
-          "color": ["Preto", "Branco"],
-          "size": ["P", "M", "G"],
-          "price": 60
-        },
-
-        {
-          "id": 58,
-          "name": "Cama Elastica",
-          "type": "Treino",
-          "img": "../imagens/Produtos/treino/cama-elastica.png",
-          "color": ["Preto"],
-          "size": ["Unico"],
-          "price": 124
-        },
-
-        {
-          "id": 59,
-          "name": "Kit Crossfit",
-          "type": "Treino",
-          "img": "../imagens/Produtos/treino/kit-crossfit.png",
-          "color": ["Preto"],
-          "size": ["Unico"],
-          "price": 154
-        },
-
-        {
-          "id": 60,
-          "name": "Acte T99 Hand Grip",
-          "type": "Treino",
-          "img": "../imagens/Produtos/treino/grip.png",
-          "color": ["Preto", "Laranja"],
-          "size": ["Unico"],
-          "price": 63
-        },
-
-        {
-          "id": 61,
-          "name": "Kit Peso",
-          "type": "Treino",
-          "img": "../imagens/Produtos/treino/kit-peso.png",
-          "color": ["Preto", "Vermelho"],
-          "size": ["Unico"],
-          "price": 125
-        },
-
-        {
-          "id": 62,
-          "name": "Kit Treino de Agilidade",
-          "type": "Treino",
-          "img": "../imagens/Produtos/treino/kit-treino-agilidade.png",
-          "color": ["Preto"],
-          "size": ["Unico"],
-          "price": 99
-        },
-
-        {
-          "id": 63,
-          "name": "Pacote Whey",
-          "type": "Treino",
-          "img": "../imagens/Produtos/treino/pacote-whey.png",
-          "color": ["Amarelo", "Azul", "Rosa"],
-          "size": ["Unico"],
-          "price": 56
-        },
-
-        {
-          "id": 64,
-          "name": "Pote Creatina Turbo",
-          "type": "Treino",
-          "img": "../imagens/Produtos/treino/pote-creatina.png",
-          "color": ["Preto"],
-          "size": ["1Kg"],
-          "price": 82
-        },
+      {
+        "id": 6,
+        "name": "Camisa Argentina 22/23",
+        "type": "Camisa",
+        "img": "../imagens/Produtos/Camisa/atalanta-away.png",
+        "color": ["Azul", "Branca"],
+        "size": ["P", "M", "G", "GG"],
+        "price": 109
+      },
       
-        {
-          "id": 65,
-          "name": "Short Nike",
-          "type": "Treino",
-          "img": "../imagens/Produtos/treino/short-nike.png",
-          "color": ["Preto", "Cinza"],
-          "size": ["P", "M", "G"],
-          "price": 45
-        },
+      {
+        "id": 7,
+        "name": "Camisa Brasil 19/20",
+        "type": "Camisa",
+        "img": "../imagens/Produtos/Camisa/b.dortmund-third.png",
+        "color": ["Amarelo", "Verde"],
+        "size": ["P", "M", "G", "GG"],
+        "price": 75
+      },
 
-        {
-          "id": 66,
-          "name": "Short Adidas",
-          "type": "Treino",
-          "img": "../imagens/Produtos/treino/short-adidas.png",
-          "color": ["Branco","Preto"],
-          "size": ["Unico"],
-          "price": 44
-        },
+      {
+        "id": 8,
+        "name": "Camisa Croacia 22/23",
+        "type": "Camisa",
+        "img": "../imagens/Produtos/Camisa/b.leverkusen-home.png",
+        "color": ["Azul", "Azul-Escuro"],
+        "size": ["P", "M", "G", "GG"],
+        "price": 90
+      },
 
-        {
-          "id": 67,
-          "name": "Luva Goleiro Buffon Titan Pro 8",
+      {
+        "id": 9,
+        "name": "Camisa Espanha 22/23",
+        "type": "Camisa",
+        "img": "../imagens/Produtos/Camisa/bahia-away.png",
+        "color": ["Vermelho", "Amarelo"],
+        "size": ["P", "M", "G", "GG"],
+        "price": 90
+      },
+
+      {
+        "id": 10,
+        "name": "Camisa França 22/23",
+        "type": "Camisa",
+        "img": "../imagens/Produtos/Camisa/bahia-home.png",
+        "color": ["Azul-Escuro", "Dourado"],
+        "size": ["P", "M", "G", "GG"],
+        "price": 104
+      },
+
+      {
+        "id": 11,
+        "name": "Camisa Holanda 22/23",
+        "type": "Camisa",
+        "img": "../imagens/Produtos/Camisa/barcelona-away.png",
+        "color": ["Laranja", "Preto"],
+        "size": ["P", "M", "G", "GG"],
+        "price": 90
+      },
+
+      {
+        "id": 12,
+        "name": "Camisa Inglaterra 22/23",
+        "type": "Camisa",
+        "img": "../imagens/Produtos/Camisa/barcelona-home.png",
+        "color": ["Branco", "Azul"],
+        "size": ["P", "M", "G", "GG"],
+        "price": 92
+      },
+
+      {
+        "id": 13,
+        "name": "Camisa Inter Miame 23/24",
+        "type": "Camisa",
+        "img": "../imagens/Produtos/Camisa/bayern-home.png",
+        "color": ["Preto", "Rosa"],
+        "size": ["P", "M", "G", "GG"],
+        "price": 109
+      },
+
+      {
+        "id": 14,
+        "name": "Camisa Liverpool Collab LeBron James 23/24",
+        "type": "Camisa",
+        "img": "../imagens/Produtos/Camisa/benfica-away.png",
+        "color": ["Azul", "Azul"],
+        "size": ["P", "M", "G", "GG"],
+        "price": 139
+      },
+
+      {
+        "id": 15,
+        "name": "Camisa Borussia 22/23",
+        "type": "Camisa",
+        "img": "../imagens/Produtos/Camisa/benfica-home.png",
+        "color": ["Amarelo", "Preto"],
+        "size": ["P", "M", "G", "GG"],
+        "price": 102
+      },
+
+      {
+        "id": 16,
+        "name": "Camisa Mãe Rainha👏🙌",
+        "type": "Camisa",
+        "img": "../imagens/Produtos/Camisa/bocajr-away.png",
+        "color": ["Preto"],
+        "size": ["P", "M", "G", "GG"],
+        "price": 79,
+        "descrição":"Procurando uma camiseta com temática cristã de alto estilo e qualidade? As Camisetas da BEFYC perfeitas para você. A BEFYC busca através de suas camisetas fortalecer a propagar a fé. São modelos exclusivos para você presentear alguém especial ou até mesmo se presentear. São muitos modelos. Aproveite nossa imensa coleção e garanta já a sua."
+      },
+
+
+      {
+        "id": 17,
+        "name": "Camisa Monterrey 23/24",
+        "type": "Camisa",
+        "img": "../imagens/Produtos/Camisa/bocajr-home.png",
+        "color": ["Roxo", "Rosa"],
+        "size": ["P", "M", "G", "GG"],
+        "price": 118
+      },
+
+      {
+        "id": 18,
+        "name": "Camisa Napoli Dia dos Namorados 23/24",
+        "type": "Camisa",
+        "img": "../imagens/Produtos/Camisa/c.porteno-away.png",
+        "color": ["Branca", "Vermelho"],
+        "size": ["P", "M", "G", "GG"],
+        "price": 139
+      },
+
+      {
+        "id": 19,
+        "name": "Camisa Parma 22/23",
+        "type": "Camisa",
+        "img": "../imagens/Produtos/Camisa/c.porteno-home.png",
+        "color": ["Branco", "Preto"],
+        "size": ["P", "M", "G", "GG"],
+        "price": 97
+      },
+
+      {
+        "id": 20,
+        "name": "Camisa Porto 23/24",
+        "type": "Camisa",
+        "img": "../imagens/Produtos/Camisa/celta-away.png",
+        "color": ["Azul", "Dourado"],
+        "size": ["P", "M", "G", "GG"],
+        "price": 139
+      },
+
+      {
+        "id": 21,
+        "name": "Camisa Sporting 23/24",
+        "type": "Camisa",
+        "img": "../imagens/Produtos/Camisa/celta-home.png",
+        "color": ["Verde", "Branco"],
+        "size": ["P", "M", "G", "GG"],
+        "price": 86
+      },
+      
+      {
+        "id": 22,
+        "name": "Camisa Werder Bremen Especial 'How Deep is Your Love?' 23/24",
+        "type": "Camisa",
+        "img": "../imagens/Produtos/Camisa/celtic-home.png",
+        "color": ["Verde", "Verde-Escuro"],
+        "size": ["P", "M", "G", "GG"],
+        "price": 129
+      },
+
+      {
+        "id": 23,
+        "name": "Camisa West Ham 22/23",
+        "type": "Camisa",
+        "img": "../imagens/Produtos/Camisa/chelsea-away.png",
+        "color": ["Verde", "Verde-Escuro"],
+        "size": ["P", "M", "G", "GG"],
+        "price": 96
+      },
+
+      {
+        "id": 24,
+        "name": "Camisa Midtjylland 23/24",
+        "type": "Camisa",
+        "img": "../imagens/Produtos/Camisa/chelsea-home.png",
+        "color": ["Branco", "Vermelho", "Preto"],
+        "size": ["P", "M", "G", "GG"],
+        "price": 159,
+        "descrição": "tamo tentando inventar oq butar"
+      },
+
+      {
+        "id": 25,
+        "name": "Chuteira Campo Nike Air Zoom Mercurial FG CR7 Elite",
+        "type": "Chuteira",
+        "img": "../imagens/Produtos/ch[/Air Zoom-Mercurial-Vapor-XV-Elite-FG.png",
+        "color": ["Preto", "Verde", "Azul"],
+        "size": ["39", "40", "41", "42"],
+        "price": 345,
+        "descrição":"A Nike Mercurial vapor 15 Elite FG apresenta um modelo simplificado que utiliza a quantidade minima de materiais possivel, para que possa jogar mais rapido do comeco ao fim. Uma palmilha amortecida proporciona conforto imparavel e uma placa especialmente desenhada proporciona responsividade para cortes rapidos em alta velocidade."          
+      },
+
+      {
+        "id": 26,
+        "name": "Chuteira Campo Nike Air Zoom Mercurial Superfly 9 Elite FG Cano Alto",
+        "type": "Chuteira",
+        "img": "../imagens/Produtos/ch[/Air-Zoom-Mercurial-Superfly-IX-Elite-FG.png",
+        "color": ["Preto", "Rosa"],
+        "size": ["39", "40", "41", "42"],
+        "price": 250
+        
+      },
+
+      {
+        "id": 27,
+        "name": "Chuteira Campo Nike Mercurial vapor 15 Air Zoom Ultra",
+        "type": "Chuteira",
+        "img": "../imagens/Produtos/ch[/air-zoom-mercurial-vapor-15-elite-xxv-se-fg.png",
+        "color": ["Preto", "Rosa", "Branco"],
+        "size": ["39", "40", "41", "42"],
+        "price": 270
+      },
+
+      {
+        "id": 28,
+        "name": "Chuteira Campo Nike Air Zoom Mercurial Vapor 15 Elite",
+        "type": "Chuteira",
+        "img": "../imagens/Produtos/ch[/Air-Zoom-Mercurial-Vapor-XV-Elite-FG-Cinza.png",
+        "color": ["Branco", "Vermelho"],
+        "size": ["39", "40", "41", "42"],
+        "price": 349
+        
+      },
+
+      
+      {
+        "id": 29,
+        "name": "Chuteiras Campo adidas COPA GLORO FG",
+        "type": "Chuteira",
+        "img": "../imagens/Produtos/ch[/COPA-GLORO-FG-WHITE-RED.png",
+        "color": ["Branco", "Cinza", "Vermelho"],
+        "size": ["39", "40", "41", "42"],
+        "price": 270
+        
+      },
+
+      {
+        "id": 30,
+        "name": "Chuteira Campo Copa Pure + FG Heatspawn Pack",
+        "type": "Chuteira",
+        "img": "../imagens/Produtos/ch[/COPA-PURE-FG.png",
+        "color": ["Laranja", "Prata", "Preto"],
+        "size": ["39", "40", "41", "42"],
+        "price": 318,
+        "descrição":"Com a adidas Copa Pure, você recupera a sensação do futebol puro. Ele se concentra no essencial e conta com conforto absoluto e uma sensação não adulterada com a bola. Esta chuteira de futebol sem cadarço apresenta cabedal de couro Fusionskin costurado no antepé que é perfeitamente conectado ao colar adidas PRIMEKNIT para suporte ideal. O acolchoado é feito sem costuras. Além disso, a sola especial garante o melhor desempenho na grama natural seca."          
+      },
+
+      {
+        "id": 31,
+        "name": "Chuteira Campo Puma Future Ultimate Low",
+        "type": "Chuteira",
+        "img": "../imagens/Produtos/ch[/FUTURE-ULTIMATE-FG_AG-PURSUIT-PACK.png",
+        "color": ["Dourado", "Branco"],
+        "size": ["39", "40", "41", "42"],
+        "price": 394
+        
+      },
+
+      {
+        "id": 32,
+        "name": "Chuteira Campo Puma Future Ultimate Tricks FG/AG",
+        "type": "Chuteira",
+        "img": "../imagens/Produtos/ch[/FUTURE-ULTIMATE-TRICKS-FG_AG.png",
+        "color": ["Ciano", "Azul"],
+        "size": ["39", "40", "41", "42"],
+        "price": 330
+        
+      },
+
+      {
+        "id": 33,
+        "name": "Chuteira Campo Puma Neymar Jr Future 1.4 Fg/Ag",
+        "type": "Chuteira",
+        "img": "../imagens/Produtos/ch[/FUTURE-Z-2.4-FG_AG-NJR.png",
+        "color": ["Dourado", "Verde"],
+        "size": ["39", "40", "41", "42"],
+        "price": 399
+      
+      },
+
+      {
+        "id": 34,
+        "name": "Chuteira Campo Puma Ultra Match+ Ll FG/AG",
+        "type": "Chuteira",
+        "img": "../imagens/Produtos/ch[/JUNIOR-ULTRA-MATCH-LL-FG.png",
+        "color": ["Branco", "Azul", "Preto"],
+        "size": ["39", "40", "41", "42"],
+        "price": 255
+        
+      },
+
+      {
+        "id": 35,
+        "name": "Chuteira Campo Puma King Ultimate FG/AG M 107097 03 ",
+        "type": "Chuteira",
+        "img": "../imagens/Produtos/ch[/KING-ULTIMATE-FG_AG-PURSUIT-PACK.png",
+        "color": ["Verde-Agua", "Verde-Claro"],
+        "size": ["39", "40", "41", "42"],
+        "price": 415,
+        "descrição":"O ícone retorna com atualizações ousadas e novos materiais inovadores no Puma King Ultimate. A parte superior totalmente nova do K-Better é construída com 60% de conteúdo reciclado para reduzir o impacto ambiental, proporcionando toque e conforto superiores. Uma nova sola leve com contador de calcanhar externo, coluna de estabilidade integrada e pinos cônicos mantêm você no comando enquanto navega no jogo."
+        
+      },
+
+      {
+        "id": 36,
+        "name": "Chuteira Campo Nike Phantom GX Elite DF FG",
+        "type": "Chuteira",
+        "img": "../imagens/Produtos/ch[/Nike-Phantom-GX-Pro-DF-FG.png",
+        "color": ["Branco", "Azul-Claro"],
+        "size": ["39", "40", "41", "42"],
+        "price": 399
+        
+      },
+
+      {
+        "id": 37,
+        "name": "Chuteira Campo Nike Air Zoom Mercurial Vapor 15 Elite FG",
+        "type": "Chuteira",
+        "img": "../imagens/Produtos/ch[/NikeZoomVapor15EliteFG.png",
+        "color": ["Preto", "Laranja"],
+        "size": ["39", "40", "41", "42"],
+        "price": 420
+        
+      },
+
+      {
+        "id": 38,
+        "name": "Chuteira Campo Nike Phantom GX Elite DF FG",
+        "type": "Chuteira",
+        "img": "../imagens/Produtos/ch[/Phantom-GX-Elite-FG.png",
+        "color": ["Preto", "Laranja"],
+        "size": ["39", "40", "41", "42"],
+        "price": 318
+        
+      },
+
+      {
+        "id": 39,
+        "name": "Chuteira Campo Adidas Predator Accuracy.1 L FG Parley ",
+        "type": "Chuteira",
+        "img": "../imagens/Produtos/ch[/PREDATOR-ACCURACY-FG-HEATSPAWN-PACK.png",
+        "color": ["Branco", "Ciano"],
+        "size": ["39", "40", "41", "42"],
+        "price": 299,
+        "descrição":"Controle + precisão = confiança. Quando o objetivo estiver na sua mira, mire na perfeição com o adidas Predator Accuracy. A parte superior de tecido macio e revestido dessas chuteiras inclui textura de alta definição em sua zona de impacto. Uma mistura de elementos em relevo e impressão em relevo, está lá para ajudá-lo a acertar cada passe e tiro. Por baixo, uma sola especializada mantém você no modo chefe em terreno firme."
+        
+      },
+
+      {
+        "id": 40,
+        "name": "Chuteira Campo Adidas Predator Accuracy.1 All Black ",
+        "type": "Chuteira",
+        "img": "../imagens/Produtos/ch[/PREDATOR-ACCURACY-FG.png",
+        "color": ["Branco", "Azul-Claro", "Verde"],
+        "size": ["39", "40", "41", "42"],
+        "price": 320
+        
+      },
+
+      {
+        "id": 41,
+        "name": "Chuteiras Campo Adidas Predator Accuracy.2 FG",
+        "type": "Chuteira",
+        "img": "../imagens/Produtos/ch[/PREDATOR-ACCURACY.1-L-FG-PARLEY.png",
+        "color": ["Amarelo", "Azul"],
+        "size": ["39", "40", "41", "42"],
+        "price": 305
+        
+      },
+
+      {
+        "id": 42,
+        "name": "Chuteira Campo Adidas Campo X SpeedPortal. 1 FG +",
+        "type": "Chuteira",
+        "img": "../imagens/Produtos/ch[/SPEEDPORTAL-FG-OWN-YOUR.png",
+        "color": ["Branco", "Bege", "Vermelho"],
+        "size": ["39", "40", "41", "42"],
+        "price": 230,
+        "descrição":"Os bons jogadores criam tempo e espaço. Os grandes deixam-nos para trás. Desbloqueia uma velocidade multidimensional com as X Speedportal da adidas. Elegantes e superconfortáveis, estas botas de futebol apoiam as tuas reações estonteantes com uma placa de carbono Carbitex em toda extensão da sola para piso firme. O envolvente topo adidas PRIMEKNIT sem atacadores inclui inserções de EVA no interior e uma leve estrutura em carbono no exterior do calcanhar, oferecendo estabilidade para jogadas à velocidade da luz. Feito com uma série de materiais reciclados, o topo inclui pelo menos 50% de conteúdo reciclado.j"
+        
+      },
+
+      {
+        "id": 43,
+        "name": "Chuteira Campo Nike Tiempo Legend 9 Elite",
+        "type": "Chuteira",
+        "img": "../imagens/Produtos/ch[/Tiempo-Legend-9.png",
+        "color": ["Roxo", "Verde"],
+        "size": ["39", "40", "41", "42"],
+        "price": 380
+        
+      },
+
+      {
+        "id": 44,
+        "name": "Chuteira Campo Puma Ultra Ultimate FG AG Supercharge Pack",
+        "type": "Chuteira",
+        "img": "../imagens/Produtos/ch[/ULTRA-ULTIMATE-FG_AG-PURSUIT-PACK.png",
+        "color": ["Verde", "Azul"],
+        "size": ["39", "40", "41", "42"],
+        "price": 229
+        
+      },
+
+      {
+        "id": 45,
+        "name": "Chuteiras Campo Puma Ultra Ultimate FG/AG",
+        "type": "Chuteira",
+        "img": "../imagens/Produtos/ch[/ULTRA-ULTIMATE-FG.png",
+        "color": ["Azul-Escuro", "Laranja"],
+        "size": ["39", "40", "41", "42"],
+        "price": 499
+        
+      },
+
+      {
+        "id": 46,
+        "name": "Kit Treinamento Arsenal Short e Regata",
+        "type": "Treino",
+        "img": "../imagens/Produtos/treino/roupa-arsenal.png",
+        "color": ["Vermelho", "Preto"],
+        "size": ["P", "M", "G"],
+        "price": 80
+      },
+
+      {
+        "id": 47,
+        "name": "Kit Treinamento Borussia Casaco e Calça",
+        "type": "Treino",
+        "img": "../imagens/Produtos/treino/roupa-borussia.png",
+        "color": ["Amarelo", "Preto"],
+        "size": ["P", "M", "G"],
+        "price": 120
+      },
+
+      {
+        "id": 48,
+        "name": "Kit Treinamento Manchester City Casaco e Calça",
+        "type": "Treino",
+        "img": "../imagens/Produtos/treino/roupa-city.png",
+        "color": ["Azul-Claro", "Azul-Escuro"],
+        "size": ["P", "M", "G"],
+        "price": 120
+      },
+
+      {
+        "id": 49,
+        "name": "Kit Treinamento Seleção Francesa Casaco e Calça",
+        "type": "Treino",
+        "img": "../imagens/Produtos/treino/roupa-frança.png",
+        "color": ["Azul", "Dourado"],
+        "size": ["P", "M", "G"],
+        "price": 115
+      },
+
+      {
+        "id": 50,
+        "name": "Kit Treinamento AC Milan Casaco e Calça",
+        "type": "Treino",
+        "img": "../imagens/Produtos/treino/roupa-milan.png",
+        "color": ["Vermelho", "Preto"],
+        "size": ["P", "M", "G"],
+        "price": 115
+      },
+
+      {
+        "id": 51,
+        "name": "Treinamento AC Milan Casaco e Calça",
+        "type": "Treino",
+        "img": "../imagens/Produtos/treino/roupa-surfista-fm.png",
+        "color": ["Preto", "Verde"],
+        "size": ["P", "M", "G"],
+        "price": 65
+      },
+
+      {
+        "id": 52,
+        "name": "Roupa de Treinamento Termica Blusa e Calça",
+        "type": "Treino",
+        "img": "../imagens/Produtos/treino/roupa-termica.png",
+        "color": ["Preto"],
+        "size": ["P", "M", "G"],
+        "price": 80
+      },
+
+      {
+        "id": 53,
+        "name": "Roupa de Treino Adidas Short e Camisa",
+        "type": "Treino",
+        "img": "../imagens/Produtos/treino/roupa-treino-adidas.png",
+        "color": ["Preto", "Branco"],
+        "size": ["P", "M", "G"],
+        "price": 80
+      },
+
+      {
+        "id": 54,
+        "name": "Roupa de Treinamento Feminino Short e Cropped",
+        "type": "Treino",
+        "img": "../imagens/Produtos/treino/roupa-treino-fm2.png",
+        "color": ["Azul", "Azul-Escuro", "Rosa"],
+        "size": ["P", "M", "G"],
+        "price": 85
+      },
+
+      {
+        "id": 55,
+        "name": "Roupa de Treinamento Feminino Short e Cropped",
+        "type": "Treino",
+        "img": "../imagens/Produtos/treino/roupa-treino-fm3.png",
+        "color": ["Cinza"],
+        "size": ["P", "M", "G"],
+        "price": 73
+      },
+
+      {
+        "id": 56,
+        "name": "Roupa de Treinamento Feminino Calça e Cropped",
+        "type": "Treino",
+        "img": "../imagens/Produtos/treino/roupa-treino-fm4.png",
+        "color": ["Preto", "Verde"],
+        "size": ["P", "M", "G"],
+        "price": 75
+      },
+
+      {
+        "id": 57,
+        "name": "Roupa de Treinamento Feminino Nike Short e Blusa",
+        "type": "Treino",
+        "img": "../imagens/Produtos/treino/roupa-treino-fm5.png",
+        "color": ["Preto", "Branco"],
+        "size": ["P", "M", "G"],
+        "price": 60
+      },
+
+      {
+        "id": 58,
+        "name": "Cama Elastica",
+        "type": "Treino",
+        "img": "../imagens/Produtos/treino/cama-elastica.png",
+        "color": ["Preto"],
+        "size": ["Unico"],
+        "price": 124
+      },
+
+      {
+        "id": 59,
+        "name": "Kit Crossfit",
+        "type": "Treino",
+        "img": "../imagens/Produtos/treino/kit-crossfit.png",
+        "color": ["Preto"],
+        "size": ["Unico"],
+        "price": 154
+      },
+
+      {
+        "id": 60,
+        "name": "Acte T99 Hand Grip",
+        "type": "Treino",
+        "img": "../imagens/Produtos/treino/grip.png",
+        "color": ["Preto", "Laranja"],
+        "size": ["Unico"],
+        "price": 63
+      },
+
+      {
+        "id": 61,
+        "name": "Kit Peso",
+        "type": "Treino",
+        "img": "../imagens/Produtos/treino/kit-peso.png",
+        "color": ["Preto", "Vermelho"],
+        "size": ["Unico"],
+        "price": 125
+      },
+
+      {
+        "id": 62,
+        "name": "Kit Treino de Agilidade",
+        "type": "Treino",
+        "img": "../imagens/Produtos/treino/kit-treino-agilidade.png",
+        "color": ["Preto"],
+        "size": ["Unico"],
+        "price": 99
+      },
+
+      {
+        "id": 63,
+        "name": "Pacote Whey",
+        "type": "Treino",
+        "img": "../imagens/Produtos/treino/pacote-whey.png",
+        "color": ["Amarelo", "Azul", "Rosa"],
+        "size": ["Unico"],
+        "price": 56
+      },
+
+      {
+        "id": 64,
+        "name": "Pote Creatina Turbo",
+        "type": "Treino",
+        "img": "../imagens/Produtos/treino/pote-creatina.png",
+        "color": ["Preto"],
+        "size": ["1Kg"],
+        "price": 82
+      },
+    
+      {
+        "id": 65,
+        "name": "Short Nike",
+        "type": "Treino",
+        "img": "../imagens/Produtos/treino/short-nike.png",
+        "color": ["Preto", "Cinza"],
+        "size": ["P", "M", "G"],
+        "price": 45
+      },
+
+      {
+        "id": 66,
+        "name": "Short Adidas",
+        "type": "Treino",
+        "img": "../imagens/Produtos/treino/short-adidas.png",
+        "color": ["Branco","Preto"],
+        "size": ["Unico"],
+        "price": 44
+      },
+
+      {
+        "id": 67,
+        "name": "Luva Goleiro Buffon Titan Pro 8",
+        "type": "Luva",
+        "img": "../imagens/Produtos/Luva/Luva-Goleiro-Buffon-titan-pro-8.png",
+        "color": ["Preto","Verde"],
+        "size": ["8","9","10","12"],
+        "price": 81
+      },
+
+      {
+        "id": 68,
+        "name": "Luva Goleiro Fusion",
+        "type": "Luva",
+        "img": "../imagens/Produtos/Luva/Luva-Goleiro-Fusion.png",
+        "color": ["Cinza","Azul"],
+        "size": ["8","9","10","12"],
+        "price": 114
+      },
+
+      {
+        "id": 69,
+        "name": "Luva Goleiro Ho Soccer One Negative Essential 8",
+        "type": "Luva",
+        "img": "../imagens/Produtos/Luva/luva-goleiro-ho-soccer-one-negative-essential-8.png",
+        "color": ["Branca","Azul"],
+        "size": ["8","9","10","12"],
+        "price": 120
+      },
+
+      {
+        "id": 70,
+        "name": "Luva Goleiro Mercurial Touch Elite",
+        "type": "Luva",
+        "img": "../imagens/Produtos/Luva/Luva-Goleiro-Mercurial-Touch-Elite.png",
+        "color": ["Preto","Verde"],
+        "size": ["8","9","10","12"],
+        "price": 159
+      },
+
+      {
+        "id": 71,
+        "name": "Luva Goleiro NGA Soccer Evolution Elite",
+        "type": "Luva",
+        "img": "../imagens/Produtos/Luva/Luva-Goleiro-NGA-Soccer-Evolution-Elite.png",
+        "color": ["Laranja","Preta"],
+        "size": ["8","9","10","12"],
+        "price": 80
+      },
+
+      {
+        "id": 72,
+        "name": "Luva Goleiro Poker Water Precision",
+        "type": "Luva",
+        "img": "../imagens/Produtos/Luva/Luva-Goleiro-Poker-Water-Precision.png",
+        "color": ["Roxo","Branca","Azul"],
+        "size": ["8","9","10","12"],
+        "price": 193
+      },
+
+      {
+        "id": 73,
+        "name": "Luva Goleiro Predator Pro 2",
+        "type": "Luva",
+        "img": "../imagens/Produtos/Luva/Luva-Goleiro-Predator-Pro-2-Azul-Branco.png",
+        "color": ["Branca","Azul"],
+        "size": ["8","9","10","12"],
+        "price": 169
+      },
+
+      {
+        "id": 74,
+        "name": "Luva Goleiro Predator Pro",
+        "type": "Luva",
+        "img": "../imagens/Produtos/Luva/Luva-Goleiro-Predator-Pro-Azul-Branco.png",
+        "color": ["Branca","Azul"],
+        "size": ["8","9","10","12"],
+        "price": 278
+      },
+
+      {
+        "id": 75,
+        "name": "Luva Goleiro Predator 20 Competition",
+        "type": "Luva",
+        "img": "../imagens/Produtos/Luva/Luva-Goleiro-Predator20-Competition.png",
+        "color": ["Preta","Vermelha"],
+        "size": ["8","9","10","12"],
+        "price": 279
+      },
+
+      {
+        "id": 76,
+        "name": "Luva Goleiro Raptor Nitro 4 Outubro Rosa",
+        "type": "Luva",
+        "img": "../imagens/Produtos/Luva/Luva-Goleiro-Raptor-Nitro-4-Outubro-rosa.png",
+        "color": ["Branco","Rosa"],
+        "size": ["8","9","10","12"],
+        "price": 165
+      },
+
+      {
+        "id": 77,
+        "name": "Luva Goleiro Saipulang",
+        "type": "Luva",
+        "img": "../imagens/Produtos/Luva/Luva-Goleiro-Saipulang.png",
+        "color": ["Preto","Azul"],
+        "size": ["8","9","10","12"],
+        "price": 131
+      },
+
+      {
+        "id": 78,
+        "name": "Luva Goleiro Saurognathous Celie",
+        "type": "Luva",
+        "img": "../imagens/Produtos/Luva/luva-Goleiro-saurognathous-celie-rosa.png",
+        "color": ["Rosa","Preto"],
+        "size": ["8","9","10","12"],
+        "price": 107
+      },
+
+      {
+        "id": 79,
+        "name": "Luva Goleiro Scorpius",
+        "type": "Luva",
+        "img": "../imagens/Produtos/Luva/Luva-Goleiro-Scorpius-Black.png",
+        "color": ["Preto","Branco"],
+        "size": ["8","9","10","12"],
+        "price": 215
+      },
+
+      {
+        "id": 80,
+        "name": "Luva Goleiro Scorpius",
+        "type": "Luva",
+        "img": "../imagens/Produtos/Luva/Luva-Goleiro-Scorpius-Blue.png",
+        "color": ["Preto","Azul"],
+        "size": ["8","9","10","12"],
+        "price": 229
+      },
+
+      {
+        "id": 81,
+        "name": "Luva Goleiro Scorpius",
+        "type": "Luva",
+        "img": "../imagens/Produtos/Luva/Luva-Goleiro-Scorpius-White.png",
+        "color": ["Branco","Preto"],
+        "size": ["8","9","10","12"],
+        "price": 135
+      },
+
+      {
+        "id": 82,
+        "name": "Luva Goleiro Three Stars Fox",
+        "type": "Luva",
+        "img": "../imagens/Produtos/Luva/luva-goleiro-three-stars-fox-palma-branca.png",
+        "color": ["Branco","Azul"],
+        "size": ["8","9","10","12"],
+        "price": 219
+      },
+
+      {
+          "id": 83,
+          "name": "Luva Goleiro Adidas Predator Mutator",
           "type": "Luva",
-          "img": "../imagens/Produtos/Luva/Luva-Goleiro-Buffon-titan-pro-8.png",
-          "color": ["Preto","Verde"],
+          "img": "../imagens/Produtos/Luva/luvas-adidas-predator-mutator.png",
+          "color": ["Preto","Dourado","Branco"],
           "size": ["8","9","10","12"],
-          "price": 81
+          "price": 289,
+          "descrição":"Estas luvas de goleiro são facilmente as mais macias e aderentes da linha adidas. Elas apresentam URG 1.0, um látex incrivelmente viscoso, desenvolvido para os nossos jogadores profissionais. A palma, aderente desde a embalagem, é também extremamente sensível."
         },
 
         {
-          "id": 68,
-          "name": "Luva Goleiro Fusion",
+          "id": 84,
+          "name": "Luva Goleiro Nike Phantom Shadow PRO lrj",
           "type": "Luva",
-          "img": "../imagens/Produtos/Luva/Luva-Goleiro-Fusion.png",
-          "color": ["Cinza","Azul"],
+          "img": "../imagens/Produtos/Luva/Luva-Goleiro-Nike-Phantom-Shadow-PRO-lrj.png",
+          "color": ["Vermelho","Verde","Branco"],
           "size": ["8","9","10","12"],
-          "price": 114
+          "price": 269
         },
 
         {
-          "id": 69,
-          "name": "Luva Goleiro Ho Soccer One Negative Essential 8",
+          "id": 85,
+          "name": "Luva Goleiro Nike Mercurial Touch Elite Original",
           "type": "Luva",
-          "img": "../imagens/Produtos/Luva/luva-goleiro-ho-soccer-one-negative-essential-8.png",
-          "color": ["Branca","Azul"],
+          "img": "../imagens/Produtos/Luva/luva-nike-mercurial-touch-elite-original.png",
+          "color": ["Verde","Preto"],
           "size": ["8","9","10","12"],
-          "price": 120
+          "price": 299
         },
 
         {
-          "id": 70,
-          "name": "Luva Goleiro Mercurial Touch Elite",
+          "id": 86,
+          "name": "Luva Goleiro Adidas Predator GL Hybrid Solar ",
           "type": "Luva",
-          "img": "../imagens/Produtos/Luva/Luva-Goleiro-Mercurial-Touch-Elite.png",
-          "color": ["Preto","Verde"],
+          "img": "../imagens/Produtos/Luva/Luva-de-Goleiro-Predator-GL-Hybrid-Solar.png",
+          "color": ["Laranja","Verde","Branco"],
           "size": ["8","9","10","12"],
-          "price": 159
+          "price": 275
         },
 
         {
-          "id": 71,
-          "name": "Luva Goleiro NGA Soccer Evolution Elite",
+          "id": 87,
+          "name": "Luva Goleiro Puma Future Ultimate Nc",
           "type": "Luva",
-          "img": "../imagens/Produtos/Luva/Luva-Goleiro-NGA-Soccer-Evolution-Elite.png",
-          "color": ["Laranja","Preta"],
+          "img": "../imagens/Produtos/Luva/puma-luvas-guarda-redes-future-ultimate-nc.png",
+          "color": ["Azul","Laranja","Branco"],
           "size": ["8","9","10","12"],
-          "price": 80
+          "price": 237
         },
 
         {
-          "id": 72,
-          "name": "Luva Goleiro Poker Water Precision",
-          "type": "Luva",
-          "img": "../imagens/Produtos/Luva/Luva-Goleiro-Poker-Water-Precision.png",
-          "color": ["Roxo","Branca","Azul"],
-          "size": ["8","9","10","12"],
-          "price": 193
+          "id": 88,
+          "name": "Camisa Milan 05/06",
+          "type": "Camisa-Retro",
+          "img": "../imagens/Produtos/camisa retro/camisa-Milan2006.png",
+          "color": ["Branco","Vermelho"],
+          "size": ["P","M","G","GG"],
+          "price": 209
         },
 
         {
-          "id": 73,
-          "name": "Luva Goleiro Predator Pro 2",
-          "type": "Luva",
-          "img": "../imagens/Produtos/Luva/Luva-Goleiro-Predator-Pro-2-Azul-Branco.png",
-          "color": ["Branca","Azul"],
-          "size": ["8","9","10","12"],
-          "price": 169
+          "id": 89,
+          "name": "Camisa Arsenal 06/07",
+          "type": "Camisa-Retro",
+          "img": "../imagens/Produtos/camisa retro/camisa-Arsenal2006.png",
+          "color": ["Vermelho","Dourado"],
+          "size": ["P","M","G","GG"],
+          "price": 199
         },
 
         {
-          "id": 74,
-          "name": "Luva Goleiro Predator Pro",
-          "type": "Luva",
-          "img": "../imagens/Produtos/Luva/Luva-Goleiro-Predator-Pro-Azul-Branco.png",
-          "color": ["Branca","Azul"],
-          "size": ["8","9","10","12"],
-          "price": 278
-        },
-
-        {
-          "id": 75,
-          "name": "Luva Goleiro Predator 20 Competition",
-          "type": "Luva",
-          "img": "../imagens/Produtos/Luva/Luva-Goleiro-Predator20-Competition.png",
-          "color": ["Preta","Vermelha"],
-          "size": ["8","9","10","12"],
-          "price": 279
-        },
-
-        {
-          "id": 76,
-          "name": "Luva Goleiro Raptor Nitro 4 Outubro Rosa",
-          "type": "Luva",
-          "img": "../imagens/Produtos/Luva/Luva-Goleiro-Raptor-Nitro-4-Outubro-rosa.png",
-          "color": ["Branco","Rosa"],
-          "size": ["8","9","10","12"],
-          "price": 165
-        },
-
-        {
-          "id": 77,
-          "name": "Luva Goleiro Saipulang",
-          "type": "Luva",
-          "img": "../imagens/Produtos/Luva/Luva-Goleiro-Saipulang.png",
-          "color": ["Preto","Azul"],
-          "size": ["8","9","10","12"],
-          "price": 131
-        },
-
-        {
-          "id": 78,
-          "name": "Luva Goleiro Saurognathous Celie",
-          "type": "Luva",
-          "img": "../imagens/Produtos/Luva/luva-Goleiro-saurognathous-celie-rosa.png",
-          "color": ["Rosa","Preto"],
-          "size": ["8","9","10","12"],
-          "price": 107
-        },
-
-        {
-          "id": 79,
-          "name": "Luva Goleiro Scorpius",
-          "type": "Luva",
-          "img": "../imagens/Produtos/Luva/Luva-Goleiro-Scorpius-Black.png",
-          "color": ["Preto","Branco"],
-          "size": ["8","9","10","12"],
-          "price": 215
-        },
-
-        {
-          "id": 80,
-          "name": "Luva Goleiro Scorpius",
-          "type": "Luva",
-          "img": "../imagens/Produtos/Luva/Luva-Goleiro-Scorpius-Blue.png",
-          "color": ["Preto","Azul"],
-          "size": ["8","9","10","12"],
-          "price": 229
-        },
-
-        {
-          "id": 81,
-          "name": "Luva Goleiro Scorpius",
-          "type": "Luva",
-          "img": "../imagens/Produtos/Luva/Luva-Goleiro-Scorpius-White.png",
-          "color": ["Branco","Preto"],
-          "size": ["8","9","10","12"],
+          "id": 90,
+          "name": "Camisa Barcelona 15/16",
+          "type": "Camisa-Retro",
+          "img": "../imagens/Produtos/camisa retro/camisa-Barcelona2015.png",
+          "color": ["Azul","Preto"],
+          "size": ["P","M","G","GG"],
           "price": 135
         },
 
         {
-          "id": 82,
-          "name": "Luva Goleiro Three Stars Fox",
-          "type": "Luva",
-          "img": "../imagens/Produtos/Luva/luva-goleiro-three-stars-fox-palma-branca.png",
-          "color": ["Branco","Azul"],
-          "size": ["8","9","10","12"],
-          "price": 219
+          "id": 91,
+          "name": "Camisa Seleção Brasileira 02/03",
+          "type": "Camisa-Retro",
+          "img": "../imagens/Produtos/camisa retro/camisa-Brasil2002.png",
+          "color": ["Verde","Amarelo"],
+          "size": ["P","M","G","GG"],
+          "price": 125
         },
 
         {
-            "id": 83,
-            "name": "Luva Goleiro Adidas Predator Mutator",
-            "type": "Luva",
-            "img": "../imagens/Produtos/Luva/luvas-adidas-predator-mutator.png",
-            "color": ["Preto","Dourado","Branco"],
-            "size": ["8","9","10","12"],
-            "price": 289,
-            "descrição":"Estas luvas de goleiro são facilmente as mais macias e aderentes da linha adidas. Elas apresentam URG 1.0, um látex incrivelmente viscoso, desenvolvido para os nossos jogadores profissionais. A palma, aderente desde a embalagem, é também extremamente sensível."
-          },
+          "id": 92,
+          "name": "Camisa Seleção Francesa 05/06",
+          "type": "Camisa-Retro",
+          "img": "../imagens/Produtos/camisa retro/camisa-França2006.png",
+          "color": ["Branco","Azul","Vermelho"],
+          "size": ["P","M","G","GG"],
+          "price": 139
+        },
 
-          {
-            "id": 84,
-            "name": "Luva Goleiro Nike Phantom Shadow PRO lrj",
-            "type": "Luva",
-            "img": "../imagens/Produtos/Luva/Luva-Goleiro-Nike-Phantom-Shadow-PRO-lrj.png",
-            "color": ["Vermelho","Verde","Branco"],
-            "size": ["8","9","10","12"],
-            "price": 269
-          },
-
-          {
-            "id": 85,
-            "name": "Luva Goleiro Nike Mercurial Touch Elite Original",
-            "type": "Luva",
-            "img": "../imagens/Produtos/Luva/luva-nike-mercurial-touch-elite-original.png",
-            "color": ["Verde","Preto"],
-            "size": ["8","9","10","12"],
-            "price": 299
-          },
-
-          {
-            "id": 86,
-            "name": "Luva Goleiro Adidas Predator GL Hybrid Solar ",
-            "type": "Luva",
-            "img": "../imagens/Produtos/Luva/Luva-de-Goleiro-Predator-GL-Hybrid-Solar.png",
-            "color": ["Laranja","Verde","Branco"],
-            "size": ["8","9","10","12"],
-            "price": 275
-          },
-
-          {
-            "id": 87,
-            "name": "Luva Goleiro Puma Future Ultimate Nc",
-            "type": "Luva",
-            "img": "../imagens/Produtos/Luva/puma-luvas-guarda-redes-future-ultimate-nc.png",
-            "color": ["Azul","Laranja","Branco"],
-            "size": ["8","9","10","12"],
-            "price": 237
-          },
-
-          {
-            "id": 88,
-            "name": "Camisa Milan 05/06",
-            "type": "Camisa-Retro",
-            "img": "../imagens/Produtos/camisa retro/camisa-Milan2006.png",
-            "color": ["Branco","Vermelho"],
-            "size": ["P","M","G","GG"],
-            "price": 209
-          },
-
-          {
-            "id": 89,
-            "name": "Camisa Arsenal 06/07",
-            "type": "Camisa-Retro",
-            "img": "../imagens/Produtos/camisa retro/camisa-Arsenal2006.png",
-            "color": ["Vermelho","Dourado"],
-            "size": ["P","M","G","GG"],
-            "price": 199
-          },
-
-          {
-            "id": 90,
-            "name": "Camisa Barcelona 15/16",
-            "type": "Camisa-Retro",
-            "img": "../imagens/Produtos/camisa retro/camisa-Barcelona2015.png",
-            "color": ["Azul","Preto"],
-            "size": ["P","M","G","GG"],
-            "price": 135
-          },
-
-          {
-            "id": 91,
-            "name": "Camisa Seleção Brasileira 02/03",
-            "type": "Camisa-Retro",
-            "img": "../imagens/Produtos/camisa retro/camisa-Brasil2002.png",
-            "color": ["Verde","Amarelo"],
-            "size": ["P","M","G","GG"],
-            "price": 125
-          },
-
-          {
-            "id": 92,
-            "name": "Camisa Seleção Francesa 05/06",
-            "type": "Camisa-Retro",
-            "img": "../imagens/Produtos/camisa retro/camisa-França2006.png",
-            "color": ["Branco","Azul","Vermelho"],
-            "size": ["P","M","G","GG"],
-            "price": 139
-          },
-
-          {
-            "id": 93,
-            "name": "Camisa Seleção Holandesa 74/75",
-            "type": "Camisa-Retro",
-            "img": "../imagens/Produtos/camisa retro/camisa-Holanda1974.png",
-            "color": ["Laranja","Preto"],
-            "size": ["P","M","G","GG"],
-            "price": 119
-            
-          },
-
-          {
-            "id": 94,
-            "name": "Camisa Inter de Milão 04/05",
-            "type": "Camisa-Retro",
-            "img": "../imagens/Produtos/camisa retro/camisa-InterMilão2004.png",
-            "color": ["Cinza","Amarelo"],
-            "size": ["P","M","G","GG"],
-            "price": 179
-          },
-
-          {
-            "id": 95,
-            "name": "Camisa Seleção Italiana 96/97",
-            "type": "Camisa-Retro",
-            "img": "../imagens/Produtos/camisa retro/camisa-Italia1996.png",
-            "color": ["Branco","Azul"],
-            "size": ["P","M","G","GG"],
-            "price": 130
-          },
-
-          {
-            "id": 96,
-            "name": "Camisa Juventus 14/15",
-            "type": "Camisa-Retro",
-            "img": "../imagens/Produtos/camisa retro/camisa-Juventos2015.png",
-            "color": ["Rosa","Branco","Preto"],
-            "size": ["P","M","G","GG"],
-            "price": 129
-          },
-
-          {
-            "id": 97,
-            "name": "Camisa Manchester United 07/08",
-            "type": "Camisa-Retro",
-            "img": "../imagens/Produtos/camisa retro/camisa-ManchesterUnited2007.png",
-            "color": ["Azul","Branco"],
-            "size": ["P","M","G","GG"],
-            "price": 133
-          },
-
-          {
-            "id": 98,
-            "name": "Camisa Cruzeiro 93/94",
-            "type": "Camisa-Retro",
-            "img": "../imagens/Produtos/camisa retro/camisa-cruzeiro-93.png",
-            "color": ["Azul","Branco"],
-            "size": ["P","M","G","GG"],
-            "price": 209
-          },
-
-          {
-            "id": 99,
-            "name": "Camisa Newcastle 00/01",
-            "type": "Camisa-Retro",
-            "img": "../imagens/Produtos/camisa retro/camisa-Newcastle2000.png",
-            "color": ["Branco","Preto"],
-            "size": ["P","M","G","GG"],
-            "price": 175
-          },
-
-          {
-            "id": 100,
-            "name": "Camisa Paris Saint Germain 01/02",
-            "type": "Camisa-Retro",
-            "img": "../imagens/Produtos/camisa retro/Camisa Paris Saint Germain 01/02.png",
-            "color": ["Azul","Vermelho"],
-            "size": ["P","M","G","GG"],
-            "price": 120
-          },
-
-          {
-            "id": 101,
-            "name": "Camisa Real Madrid 08/09",
-            "type": "Camisa-Retro",
-            "img": "../imagens/Produtos/camisa retro/camisa-RealMadrid2009.png",
-            "color": ["Preto","Azul-Claro"],
-            "size": ["P","M","G","GG"],
-            "price": 169
-          },
-
-          {
-            "id": 102,
-            "name": "Camisa Sporting 02/03",
-            "type": "Camisa-Retro",
-            "img": "../imagens/Produtos/camisa retro/camisa-Sporting2003.png",
-            "color": ["Verde","Branco"],
-            "size": ["P","M","G","GG"],
-            "price": 153
-          },
-
-          {
-            "id": 103,
-            "name": "Camisa Tottenham 05/06",
-            "type": "Camisa-Retro",
-            "img": "../imagens/Produtos/camisa retro/camisa-Tottenham2006.png",
-            "color": ["Azul-Claro"],
-            "size": ["P","M","G","GG"],
-            "price": 115
-          },
-
-          {
-            "id": 104,
-            "name": "Camisa Seleção Alemã 89/90",
-            "type": "Camisa-Retro",
-            "img": "../imagens/Produtos/camisa retro/camisa-Alemanha1990.png",
-            "color": ["Branco","Vermelho","Preto","Amarelo"],
-            "size": ["P","M","G","GG"],
-            "price": 187
-          },
-
-          {
-            "id": 105,
-            "name": "Camisa Santos 12/13",
-            "type": "Camisa-Retro",
-            "img": "../imagens/Produtos/camisa retro/camisa-santos-13.png",
-            "color": ["Azul", "Preto"],
-            "size": ["P","M","G","GG"],
-            "price": 200
-          },
-
-          {
-            "id": 106,
-            "name": "Camisa Seleção Inglesa 02/03",
-            "type": "Camisa-Retro",
-            "img": "../imagens/Produtos/camisa retro/england-02.png",
-            "color": ["Branco", "Vermelho"],
-            "size": ["P","M","G","GG"],
-            "price": 136
-          },
-
-          {
-            "id": 107,
-            "name": "Camisa Olympique de Marseille 98/99",
-            "type": "Camisa-Retro",
-            "img": "../imagens/Produtos/camisa retro/om-98.png",
-            "color": ["Branco", "Azul-Claro"],
-            "size": ["P","M","G","GG"],
-            "price": 155
-          },
-
-          {
-            "id": 108,
-            "name": "Camisa Parma 02/03",
-            "type": "Camisa-Retro",
-            "img": "../imagens/Produtos/camisa retro/parma-02.png",
-            "color": ["Branco", "Azul-Escuro", "Amarelo"],
-            "size": ["P","M","G","GG"],
-            "price": 163
-          },
+        {
+          "id": 93,
+          "name": "Camisa Seleção Holandesa 74/75",
+          "type": "Camisa-Retro",
+          "img": "../imagens/Produtos/camisa retro/camisa-Holanda1974.png",
+          "color": ["Laranja","Preto"],
+          "size": ["P","M","G","GG"],
+          "price": 119
           
-          {
-            "id": 109,
-            "name": "Nike Air Jordan 11 Cherry",
-            "type": "Tenis",
-            "img": "../imagens/Produtos/tenis/Air-Jordan-11Cherry.png",
-            "color": ["Branco", "Vermelho"],
-            "size": ["39", "40", "41", "42"],
-            "price": 339
-          },
+        },
 
-          {
-            "id": 110,
-            "name": "Adidas Adi2000",
-            "type": "Tenis",
-            "img": "../imagens/Produtos/tenis/Tênis-Adi2000.png",
-            "color": ["Branco", "Azul","Preto"],
-            "size": ["39", "40", "41", "42"],
-            "price": 315,
-            "descrição":"O adidas Adi2000 têm Y2K no seu ADN. Parte influência do skate, parte influência do basquete, sua herança cultural não pode ser negada. Uma parte superior em couro e camurça premium completa a receita de estilo em cada passada."
-          },
-          
-          {
-            "id": 111,
-            "name": "Nike Air Jordan 6 Retro",
-            "type": "Tenis",
-            "img": "../imagens/Produtos/tenis/Tênis-Air-Jordan-6-Retro.png",
-            "color": ["Cinza", "Branco"],
-            "size": ["39", "40", "41", "42"],
-            "price": 300
-          },
+        {
+          "id": 94,
+          "name": "Camisa Inter de Milão 04/05",
+          "type": "Camisa-Retro",
+          "img": "../imagens/Produtos/camisa retro/camisa-InterMilão2004.png",
+          "color": ["Cinza","Amarelo"],
+          "size": ["P","M","G","GG"],
+          "price": 179
+        },
 
-          {
-            "id": 112,
-            "name": "Adidas Forum Bold",
-            "type": "Tenis",
-            "img": "../imagens/Produtos/tenis/Tênis-Forum-Bold.png",
-            "color": ["Branco", "Preto"],
-            "size": ["39", "40", "41", "42"],
-            "price": 360
-          },
+        {
+          "id": 95,
+          "name": "Camisa Seleção Italiana 96/97",
+          "type": "Camisa-Retro",
+          "img": "../imagens/Produtos/camisa retro/camisa-Italia1996.png",
+          "color": ["Branco","Azul"],
+          "size": ["P","M","G","GG"],
+          "price": 130
+        },
 
-          {
-            "id": 113,
-            "name": "Adidas Forum Low",
-            "type": "Tenis",
-            "img": "../imagens/Produtos/tenis/Tênis-Forum-Low.png",
-            "color": ["Azul-Claro", "Branco"],
-            "size": ["39", "40", "41", "42"],
-            "price": 280
-          },
+        {
+          "id": 96,
+          "name": "Camisa Juventus 14/15",
+          "type": "Camisa-Retro",
+          "img": "../imagens/Produtos/camisa retro/camisa-Juventos2015.png",
+          "color": ["Rosa","Branco","Preto"],
+          "size": ["P","M","G","GG"],
+          "price": 129
+        },
 
-          {
-            "id": 114,
-            "name": "Tênis Nike Revolution 6 Next Nature",
-            "type": "Tenis",
-            "img": "../imagens/Produtos/tenis/Tênis-Nike-Air Max-Lebron-7-Retro-QS.png",
-            "color": ["Preto", "Ciano","Branco"],
-            "size": ["39", "40", "41", "42"],
-            "price": 310,
-            "descrição":"O Tênis Nike Revolution 6 Next Nature Esportivo Feminino Rosa, é o seu mais novo aliado para os treinos na academia, ou em casa naqueles dias de chuva. É indicado para a prática de musculação, pois tem a base reta e mais larga no calcanhar, estabilizando os pés, evitando a sobrecarga dos joelhos, durante o treino com pesos. Também te acompanha nas corridas curtas e em exercícios de velocidade, oferecendo mais estabilidade e flexibilidade aos seus movimentos, sem perder o ritmo. Com esse modelo Nike, arrase na linha de chegada!"
-          },
+        {
+          "id": 97,
+          "name": "Camisa Manchester United 07/08",
+          "type": "Camisa-Retro",
+          "img": "../imagens/Produtos/camisa retro/camisa-ManchesterUnited2007.png",
+          "color": ["Azul","Branco"],
+          "size": ["P","M","G","GG"],
+          "price": 133
+        },
 
-          {
-            "id": 115,
-            "name": "Nike Air Max 90",
-            "type": "Tenis",
-            "img": "../imagens/Produtos/tenis/Tênis-Nike-Air-Max-90.png",
-            "color": ["Branco", "Preto"],
-            "size": ["39", "40", "41", "42"],
-            "price": 205
-          },
+        {
+          "id": 98,
+          "name": "Camisa Cruzeiro 93/94",
+          "type": "Camisa-Retro",
+          "img": "../imagens/Produtos/camisa retro/camisa-cruzeiro-93.png",
+          "color": ["Azul","Branco"],
+          "size": ["P","M","G","GG"],
+          "price": 209
+        },
 
-          {
-            "id": 116,
-            "name": "Nike Air Max 95",
-            "type": "Tenis",
-            "img": "../imagens/Produtos/tenis/Tênis-Nike-Air-Max-95.png",
-            "color": ["Branco", "Azul-Claro","Cinza"],
-            "size": ["39", "40", "41", "42"],
-            "price": 289
-          },
+        {
+          "id": 99,
+          "name": "Camisa Newcastle 00/01",
+          "type": "Camisa-Retro",
+          "img": "../imagens/Produtos/camisa retro/camisa-Newcastle2000.png",
+          "color": ["Branco","Preto"],
+          "size": ["P","M","G","GG"],
+          "price": 175
+        },
 
-          {
-            "id": 117,
-            "name": "Nike Air Max 97",
-            "type": "Tenis",
-            "img": "../imagens/Produtos/tenis/Tênis-Nike-Air-Max-97.png",
-            "color": ["Dourado", "Preto"],
-            "size": ["39", "40", "41", "42"],
-            "price": 299
-          },
+        {
+          "id": 100,
+          "name": "Camisa Paris Saint Germain 01/02",
+          "type": "Camisa-Retro",
+          "img": "../imagens/Produtos/camisa retro/Camisa Paris Saint Germain 01/02.png",
+          "color": ["Azul","Vermelho"],
+          "size": ["P","M","G","GG"],
+          "price": 120
+        },
 
-          {
-            "id": 118,
-            "name": "Nike Air Max TW",
-            "type": "Tenis",
-            "img": "../imagens/Produtos/tenis/Tênis-Nike-Air-Max-TW.png",
-            "color": ["Cinza", "Preto"],
-            "size": ["39", "40", "41", "42"],
-            "price": 399
-          },
+        {
+          "id": 101,
+          "name": "Camisa Real Madrid 08/09",
+          "type": "Camisa-Retro",
+          "img": "../imagens/Produtos/camisa retro/camisa-RealMadrid2009.png",
+          "color": ["Preto","Azul-Claro"],
+          "size": ["P","M","G","GG"],
+          "price": 169
+        },
 
-          {
-            "id": 119,
-            "name": "Adidas NMD R1 V2",
-            "type": "Tenis",
-            "img": "../imagens/Produtos/tenis/Tênis-NMD-R1-V2.png",
-            "color": ["Cinza", "Verde"],
-            "size": ["39", "40", "41", "42"],
-            "price": 210
-          },
+        {
+          "id": 102,
+          "name": "Camisa Sporting 02/03",
+          "type": "Camisa-Retro",
+          "img": "../imagens/Produtos/camisa retro/camisa-Sporting2003.png",
+          "color": ["Verde","Branco"],
+          "size": ["P","M","G","GG"],
+          "price": 153
+        },
 
-          {
-            "id": 120,
-            "name": "Adidas NMD R1 V3",
-            "type": "Tenis",
-            "img": "../imagens/Produtos/tenis/Tênis-NMD-R1-V3.png",
-            "color": ["Preto", "Azul"],
-            "size": ["39", "40", "41", "42"],
-            "price": 229
-          },
+        {
+          "id": 103,
+          "name": "Camisa Tottenham 05/06",
+          "type": "Camisa-Retro",
+          "img": "../imagens/Produtos/camisa retro/camisa-Tottenham2006.png",
+          "color": ["Azul-Claro"],
+          "size": ["P","M","G","GG"],
+          "price": 115
+        },
 
-          {
-            "id": 121,
-            "name": "Puma Rs X Efekt Topographic",
-            "type": "Tenis",
-            "img": "../imagens/Produtos/tenis/TÊNIS-RS-X-EFEKT-TOPOGRAPHIC.png",
-            "color": ["Branco", "Preto", "Azul"],
-            "size": ["39", "40", "41", "42"],
-            "price": 317
-          },
+        {
+          "id": 104,
+          "name": "Camisa Seleção Alemã 89/90",
+          "type": "Camisa-Retro",
+          "img": "../imagens/Produtos/camisa retro/camisa-Alemanha1990.png",
+          "color": ["Branco","Vermelho","Preto","Amarelo"],
+          "size": ["P","M","G","GG"],
+          "price": 187
+        },
 
-          {
-            "id": 122,
-            "name": "Puma Slipstream Archive Remastered",
-            "type": "Tenis",
-            "img": "../imagens/Produtos/tenis/Tênis-Slipstream-Archive-Remastered.png",
-            "color": ["Branco", "Verde", "Preto"],
-            "size": ["39", "40", "41", "42"],
-            "price": 330
-          },
+        {
+          "id": 105,
+          "name": "Camisa Santos 12/13",
+          "type": "Camisa-Retro",
+          "img": "../imagens/Produtos/camisa retro/camisa-santos-13.png",
+          "color": ["Azul", "Preto"],
+          "size": ["P","M","G","GG"],
+          "price": 200
+        },
 
-          {
-            "id": 123,
-            "name": "Puma Slipstream Neymar Jr",
-            "type": "Tenis",
-            "img": "../imagens/Produtos/tenis/Tênis-Slipstream-Neymar Jr.png",
-            "color": ["Branco", "Amarelo"],
-            "size": ["39", "40", "41", "42"],
-            "price": 399
-          },
+        {
+          "id": 106,
+          "name": "Camisa Seleção Inglesa 02/03",
+          "type": "Camisa-Retro",
+          "img": "../imagens/Produtos/camisa retro/england-02.png",
+          "color": ["Branco", "Vermelho"],
+          "size": ["P","M","G","GG"],
+          "price": 136
+        },
 
-          {
-            "id": 124,
-            "name": "Puma Suede Archive Remastered",
-            "type": "Tenis",
-            "img": "../imagens/Produtos/tenis/Tênis-Suede-Archive-Remastered.png",
-            "color": ["Preto", "Verde"],
-            "size": ["39", "40", "41", "42"],
-            "price": 199
-          },
+        {
+          "id": 107,
+          "name": "Camisa Olympique de Marseille 98/99",
+          "type": "Camisa-Retro",
+          "img": "../imagens/Produtos/camisa retro/om-98.png",
+          "color": ["Branco", "Azul-Claro"],
+          "size": ["P","M","G","GG"],
+          "price": 155
+        },
 
-          {
-            "id": 125,
-            "name": "Tênis Nike MC Trainer 2 Feminino",
-            "type": "Tenis",
-            "img": "../imagens/Produtos/tenis/Ben-10-Tênis.png",
-            "color": ["Preto", "Verde"],
-            "size": ["39", "40", "41", "42"],
-            "price": 90,
-            "descrição":"Com base firme e plana, o Tênis Nike Mc Trainer 2 Feminino é para a mulher que tem pisada neutra, o atleta que busca conforto e flexibilidade nos seus treinos, caminhada ou corrida. Esse tênis feminino é confeccionado em material durável, com cabedal têxtil respirável, entressola grossa de espuma para absorção de impactos e solado em borracha para alta durabilidade. Aposte na marca que te acompanha do casual ao esporte, vá de Nike!"
-          },
+        {
+          "id": 108,
+          "name": "Camisa Parma 02/03",
+          "type": "Camisa-Retro",
+          "img": "../imagens/Produtos/camisa retro/parma-02.png",
+          "color": ["Branco", "Azul-Escuro", "Amarelo"],
+          "size": ["P","M","G","GG"],
+          "price": 163
+        },
+        
+        {
+          "id": 109,
+          "name": "Nike Air Jordan 11 Cherry",
+          "type": "Tenis",
+          "img": "../imagens/Produtos/tenis/Air-Jordan-11Cherry.png",
+          "color": ["Branco", "Vermelho"],
+          "size": ["39", "40", "41", "42"],
+          "price": 339
+        },
 
-          {
-            "id": 126,
-            "name": "Relampago Marquinhos",
-            "type": "Tenis",
-            "img": "../imagens/Produtos/tenis/tenis-relampago-marquinhos.png",
-            "color": ["Vermelho", "Preto"],
-            "size": ["39", "40", "41", "42"],
-            "price": 97,
-            "descrição": "Para os pequenos que adoram as competições da Copa Pistão, escolha o Tênis Infantil Disney Relâmpago McQueen Masculino. Estampando a personagem mais veloz da animação, garante conforto e diversão."
-          },
+        {
+          "id": 110,
+          "name": "Adidas Adi2000",
+          "type": "Tenis",
+          "img": "../imagens/Produtos/tenis/Tênis-Adi2000.png",
+          "color": ["Branco", "Azul","Preto"],
+          "size": ["39", "40", "41", "42"],
+          "price": 315,
+          "descrição":"O adidas Adi2000 têm Y2K no seu ADN. Parte influência do skate, parte influência do basquete, sua herança cultural não pode ser negada. Uma parte superior em couro e camurça premium completa a receita de estilo em cada passada."
+        },
+        
+        {
+          "id": 111,
+          "name": "Nike Air Jordan 6 Retro",
+          "type": "Tenis",
+          "img": "../imagens/Produtos/tenis/Tênis-Air-Jordan-6-Retro.png",
+          "color": ["Cinza", "Branco"],
+          "size": ["39", "40", "41", "42"],
+          "price": 300
+        },
 
-          {
-            "id": 127,
-            "name": "Mizuno Wave Prophecy 11s ",
-            "type": "Tenis",
-            "img": "../imagens/Produtos/tenis/tenis-mizuno-wave-prophecy-11s-removebg-preview.png",
-            "color": ["Branco", "Cinza"],
-            "size": ["39", "40", "41", "42"],
-            "price": 348
-          },
+        {
+          "id": 112,
+          "name": "Adidas Forum Bold",
+          "type": "Tenis",
+          "img": "../imagens/Produtos/tenis/Tênis-Forum-Bold.png",
+          "color": ["Branco", "Preto"],
+          "size": ["39", "40", "41", "42"],
+          "price": 360
+        },
 
-          {
-            "id": 128,
-            "name": "Puma Rs Block Party",
-            "type": "Tenis",
-            "img": "../imagens/Produtos/tenis/TÊNIS-RS-X-EFEKT-TOPOGRAPHIC.png",
-            "color": ["Preto", "Verde","Azul","Vermelho"],
-            "size": ["39", "40", "41", "42"],
-            "price": 212
-          },
+        {
+          "id": 113,
+          "name": "Adidas Forum Low",
+          "type": "Tenis",
+          "img": "../imagens/Produtos/tenis/Tênis-Forum-Low.png",
+          "color": ["Azul-Claro", "Branco"],
+          "size": ["39", "40", "41", "42"],
+          "price": 280
+        },
 
-          {
-            "id": 129,
-            "name": "Puma Rs Z Lth",
-            "type": "Tenis",
-            "img": "../imagens/Produtos/tenis/TÊNIS-RS-Z-LTH.png",
-            "color": ["Preto", "Verde","Branco"],
-            "size": ["39", "40", "41", "42"],
-            "price": 235
-          }
+        {
+          "id": 114,
+          "name": "Tênis Nike Revolution 6 Next Nature",
+          "type": "Tenis",
+          "img": "../imagens/Produtos/tenis/Tênis-Nike-Air Max-Lebron-7-Retro-QS.png",
+          "color": ["Preto", "Ciano","Branco"],
+          "size": ["39", "40", "41", "42"],
+          "price": 310,
+          "descrição":"O Tênis Nike Revolution 6 Next Nature Esportivo Feminino Rosa, é o seu mais novo aliado para os treinos na academia, ou em casa naqueles dias de chuva. É indicado para a prática de musculação, pois tem a base reta e mais larga no calcanhar, estabilizando os pés, evitando a sobrecarga dos joelhos, durante o treino com pesos. Também te acompanha nas corridas curtas e em exercícios de velocidade, oferecendo mais estabilidade e flexibilidade aos seus movimentos, sem perder o ritmo. Com esse modelo Nike, arrase na linha de chegada!"
+        },
+
+        {
+          "id": 115,
+          "name": "Nike Air Max 90",
+          "type": "Tenis",
+          "img": "../imagens/Produtos/tenis/Tênis-Nike-Air-Max-90.png",
+          "color": ["Branco", "Preto"],
+          "size": ["39", "40", "41", "42"],
+          "price": 205
+        },
+
+        {
+          "id": 116,
+          "name": "Nike Air Max 95",
+          "type": "Tenis",
+          "img": "../imagens/Produtos/tenis/Tênis-Nike-Air-Max-95.png",
+          "color": ["Branco", "Azul-Claro","Cinza"],
+          "size": ["39", "40", "41", "42"],
+          "price": 289
+        },
+
+        {
+          "id": 117,
+          "name": "Nike Air Max 97",
+          "type": "Tenis",
+          "img": "../imagens/Produtos/tenis/Tênis-Nike-Air-Max-97.png",
+          "color": ["Dourado", "Preto"],
+          "size": ["39", "40", "41", "42"],
+          "price": 299
+        },
+
+        {
+          "id": 118,
+          "name": "Nike Air Max TW",
+          "type": "Tenis",
+          "img": "../imagens/Produtos/tenis/Tênis-Nike-Air-Max-TW.png",
+          "color": ["Cinza", "Preto"],
+          "size": ["39", "40", "41", "42"],
+          "price": 399
+        },
+
+        {
+          "id": 119,
+          "name": "Adidas NMD R1 V2",
+          "type": "Tenis",
+          "img": "../imagens/Produtos/tenis/Tênis-NMD-R1-V2.png",
+          "color": ["Cinza", "Verde"],
+          "size": ["39", "40", "41", "42"],
+          "price": 210
+        },
+
+        {
+          "id": 120,
+          "name": "Adidas NMD R1 V3",
+          "type": "Tenis",
+          "img": "../imagens/Produtos/tenis/Tênis-NMD-R1-V3.png",
+          "color": ["Preto", "Azul"],
+          "size": ["39", "40", "41", "42"],
+          "price": 229
+        },
+
+        {
+          "id": 121,
+          "name": "Puma Rs X Efekt Topographic",
+          "type": "Tenis",
+          "img": "../imagens/Produtos/tenis/TÊNIS-RS-X-EFEKT-TOPOGRAPHIC.png",
+          "color": ["Branco", "Preto", "Azul"],
+          "size": ["39", "40", "41", "42"],
+          "price": 317
+        },
+
+        {
+          "id": 122,
+          "name": "Puma Slipstream Archive Remastered",
+          "type": "Tenis",
+          "img": "../imagens/Produtos/tenis/Tênis-Slipstream-Archive-Remastered.png",
+          "color": ["Branco", "Verde", "Preto"],
+          "size": ["39", "40", "41", "42"],
+          "price": 330
+        },
+
+        {
+          "id": 123,
+          "name": "Puma Slipstream Neymar Jr",
+          "type": "Tenis",
+          "img": "../imagens/Produtos/tenis/Tênis-Slipstream-Neymar Jr.png",
+          "color": ["Branco", "Amarelo"],
+          "size": ["39", "40", "41", "42"],
+          "price": 399
+        },
+
+        {
+          "id": 124,
+          "name": "Puma Suede Archive Remastered",
+          "type": "Tenis",
+          "img": "../imagens/Produtos/tenis/Tênis-Suede-Archive-Remastered.png",
+          "color": ["Preto", "Verde"],
+          "size": ["39", "40", "41", "42"],
+          "price": 199
+        },
+
+        {
+          "id": 125,
+          "name": "Tênis Nike MC Trainer 2 Feminino",
+          "type": "Tenis",
+          "img": "../imagens/Produtos/tenis/Ben-10-Tênis.png",
+          "color": ["Preto", "Verde"],
+          "size": ["39", "40", "41", "42"],
+          "price": 90,
+          "descrição":"Com base firme e plana, o Tênis Nike Mc Trainer 2 Feminino é para a mulher que tem pisada neutra, o atleta que busca conforto e flexibilidade nos seus treinos, caminhada ou corrida. Esse tênis feminino é confeccionado em material durável, com cabedal têxtil respirável, entressola grossa de espuma para absorção de impactos e solado em borracha para alta durabilidade. Aposte na marca que te acompanha do casual ao esporte, vá de Nike!"
+        },
+
+        {
+          "id": 126,
+          "name": "Relampago Marquinhos",
+          "type": "Tenis",
+          "img": "../imagens/Produtos/tenis/tenis-relampago-marquinhos.png",
+          "color": ["Vermelho", "Preto"],
+          "size": ["39", "40", "41", "42"],
+          "price": 97,
+          "descrição": "Para os pequenos que adoram as competições da Copa Pistão, escolha o Tênis Infantil Disney Relâmpago McQueen Masculino. Estampando a personagem mais veloz da animação, garante conforto e diversão."
+        },
+
+        {
+          "id": 127,
+          "name": "Mizuno Wave Prophecy 11s ",
+          "type": "Tenis",
+          "img": "../imagens/Produtos/tenis/tenis-mizuno-wave-prophecy-11s-removebg-preview.png",
+          "color": ["Branco", "Cinza"],
+          "size": ["39", "40", "41", "42"],
+          "price": 348
+        },
+
+        {
+          "id": 128,
+          "name": "Puma Rs Block Party",
+          "type": "Tenis",
+          "img": "../imagens/Produtos/tenis/TÊNIS-RS-X-EFEKT-TOPOGRAPHIC.png",
+          "color": ["Preto", "Verde","Azul","Vermelho"],
+          "size": ["39", "40", "41", "42"],
+          "price": 212
+        },
+
+        {
+          "id": 129,
+          "name": "Puma Rs Z Lth",
+          "type": "Tenis",
+          "img": "../imagens/Produtos/tenis/TÊNIS-RS-Z-LTH.png",
+          "color": ["Preto", "Verde","Branco"],
+          "size": ["39", "40", "41", "42"],
+          "price": 235
+        }
 
 
-       ]
-    }
+     ]
+  }
