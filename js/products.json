@@ -4,7 +4,9 @@
           "id": 0,
           "name": "Camisa Olimpique de Marselhe 21/22",
           "type": "Camisa",
-          "img": "../imagens/Produtos/Camisa/america-home.png",
+          "img": "../imagens/Produtos/Camisa/camisa-O.marselha.png",
+          "img2": "..imagens/Produtos/Camisa/bar1.jpg",
+          "img3": "..imagens/Produtos/Camisa/bar2.jpg",
           "color": ["Branca", "Azul"],
           "size": ["P", "M", "G", "GG"],
           "price": 100,
@@ -15,7 +17,7 @@
           "id": 1,
           "name": "Camisa Paris Saint-Germain 22/23",
           "type": "Camisa",
-          "img": "../imagens/Produtos/Camisa/argentina-away.png",
+          "img": "../imagens/Produtos/Camisa/camisa-Psg.png",
           "color": ["Branca"],
           "size": ["P", "M", "G", "GG"],
           "price": 115
@@ -25,7 +27,7 @@
           "id": 2,
           "name": "Camisa Cruzeiro 23/24",
           "type": "Camisa",
-          "img": "../imagens/Produtos/Camisa/arsenal-away.png",
+          "img": "../imagens/Produtos/Camisa/camisa-Cruzeiro.png",
           "color": ["Azul", "Azul"],
           "size": ["P", "M", "G", "GG"],
           "price": 130
@@ -35,7 +37,7 @@
           "id": 3,
           "name": "Camisa Ajax 22/23",
           "type": "Camisa",
-          "img": "../imagens/Produtos/Camisa/arsenal-home.png",
+          "img": "../imagens/Produtos/Camisa/camisa-Ajax.png",
           "color": ["Branca", "Vermelha"],
           "size": ["P", "M", "G", "GG"],
           "price": 110
@@ -45,7 +47,7 @@
           "id": 4,
           "name": "Camisa Almeria 22/23",
           "type": "Camisa",
-          "img": "../imagens/Produtos/Camisa/aston.v-away.png",
+          "img": "../imagens/Produtos/Camisa/camisa-Almeria.png",
           "color": ["Preto", "Ciano"],
           "size": ["P", "M", "G", "GG"],
           "price": 112
@@ -55,7 +57,7 @@
           "id": 5,
           "name": "Camisa America-MEX 22/23",
           "type": "Camisa",
-          "img": "../imagens/Produtos/Camisa/aston.v-home.png",
+          "img": "../imagens/Produtos/Camisa/camisa-Americamex.png",
           "color": ["Preto", "Branca"],
           "size": ["P", "M", "G", "GG"],
           "price": 129
@@ -65,7 +67,7 @@
           "id": 6,
           "name": "Camisa Argentina 22/23",
           "type": "Camisa",
-          "img": "../imagens/Produtos/Camisa/atalanta-away.png",
+          "img": "../imagens/Produtos/Camisa/camisa-Argentina.png",
           "color": ["Azul", "Branca"],
           "size": ["P", "M", "G", "GG"],
           "price": 109
@@ -75,7 +77,7 @@
           "id": 7,
           "name": "Camisa Brasil 19/20",
           "type": "Camisa",
-          "img": "../imagens/Produtos/Camisa/b.dortmund-third.png",
+          "img": "../imagens/Produtos/Camisa/camisa-Brasil.png",
           "color": ["Amarelo", "Verde"],
           "size": ["P", "M", "G", "GG"],
           "price": 75
@@ -85,7 +87,7 @@
           "id": 8,
           "name": "Camisa Croacia 22/23",
           "type": "Camisa",
-          "img": "../imagens/Produtos/Camisa/b.leverkusen-home.png",
+          "img": "../imagens/Produtos/Camisa/camisa-Croacia.png",
           "color": ["Azul", "Azul-Escuro"],
           "size": ["P", "M", "G", "GG"],
           "price": 90
@@ -95,7 +97,7 @@
           "id": 9,
           "name": "Camisa Espanha 22/23",
           "type": "Camisa",
-          "img": "../imagens/Produtos/Camisa/bahia-away.png",
+          "img": "../imagens/Produtos/Camisa/camisa-Espanha.png",
           "color": ["Vermelho", "Amarelo"],
           "size": ["P", "M", "G", "GG"],
           "price": 90
@@ -105,7 +107,7 @@
           "id": 10,
           "name": "Camisa França 22/23",
           "type": "Camisa",
-          "img": "../imagens/Produtos/Camisa/bahia-home.png",
+          "img": "../imagens/Produtos/Camisa/camisa-França.png",
           "color": ["Azul-Escuro", "Dourado"],
           "size": ["P", "M", "G", "GG"],
           "price": 104
@@ -115,7 +117,7 @@
           "id": 11,
           "name": "Camisa Holanda 22/23",
           "type": "Camisa",
-          "img": "../imagens/Produtos/Camisa/barcelona-away.png",
+          "img": "../imagens/Produtos/Camisa/camisa-Holanda.png",
           "color": ["Laranja", "Preto"],
           "size": ["P", "M", "G", "GG"],
           "price": 90
@@ -125,7 +127,7 @@
           "id": 12,
           "name": "Camisa Inglaterra 22/23",
           "type": "Camisa",
-          "img": "../imagens/Produtos/Camisa/barcelona-home.png",
+          "img": "../imagens/Produtos/Camisa/camisa-Inglaterra.png",
           "color": ["Branco", "Azul"],
           "size": ["P", "M", "G", "GG"],
           "price": 92
@@ -135,7 +137,7 @@
           "id": 13,
           "name": "Camisa Inter Miame 23/24",
           "type": "Camisa",
-          "img": "../imagens/Produtos/Camisa/bayern-home.png",
+          "img": "../imagens/Produtos/Camisa/camisa-InterMiami.png",
           "color": ["Preto", "Rosa"],
           "size": ["P", "M", "G", "GG"],
           "price": 109
@@ -145,7 +147,7 @@
           "id": 14,
           "name": "Camisa Liverpool Collab LeBron James 23/24",
           "type": "Camisa",
-          "img": "../imagens/Produtos/Camisa/benfica-away.png",
+          "img": "../imagens/Produtos/Camisa/camisa-Liverpool.png",
           "color": ["Azul", "Azul"],
           "size": ["P", "M", "G", "GG"],
           "price": 139
@@ -155,7 +157,7 @@
           "id": 15,
           "name": "Camisa Borussia 22/23",
           "type": "Camisa",
-          "img": "../imagens/Produtos/Camisa/benfica-home.png",
+          "img": "../imagens/Produtos/Camisa/camisa-Borrusia.png",
           "color": ["Amarelo", "Preto"],
           "size": ["P", "M", "G", "GG"],
           "price": 102
@@ -165,7 +167,7 @@
           "id": 16,
           "name": "Camisa Mãe Rainha👏🙌",
           "type": "Camisa",
-          "img": "../imagens/Produtos/Camisa/bocajr-away.png",
+          "img": "../imagens/Produtos/Camisa/camisa-mae-rainha.png",
           "color": ["Preto"],
           "size": ["P", "M", "G", "GG"],
           "price": 79,
@@ -177,7 +179,7 @@
           "id": 17,
           "name": "Camisa Monterrey 23/24",
           "type": "Camisa",
-          "img": "../imagens/Produtos/Camisa/bocajr-home.png",
+          "img": "../imagens/Produtos/Camisa/camisa-Monterrey.png",
           "color": ["Roxo", "Rosa"],
           "size": ["P", "M", "G", "GG"],
           "price": 118
@@ -187,7 +189,7 @@
           "id": 18,
           "name": "Camisa Napoli Dia dos Namorados 23/24",
           "type": "Camisa",
-          "img": "../imagens/Produtos/Camisa/c.porteno-away.png",
+          "img": "../imagens/Produtos/Camisa/camisa-Napoli-Diadosnamorados.png",
           "color": ["Branca", "Vermelho"],
           "size": ["P", "M", "G", "GG"],
           "price": 139
@@ -197,7 +199,7 @@
           "id": 19,
           "name": "Camisa Parma 22/23",
           "type": "Camisa",
-          "img": "../imagens/Produtos/Camisa/c.porteno-home.png",
+          "img": "../imagens/Produtos/Camisa/camisa-Parma.png",
           "color": ["Branco", "Preto"],
           "size": ["P", "M", "G", "GG"],
           "price": 97
@@ -207,7 +209,7 @@
           "id": 20,
           "name": "Camisa Porto 23/24",
           "type": "Camisa",
-          "img": "../imagens/Produtos/Camisa/celta-away.png",
+          "img": "../imagens/Produtos/Camisa/camisa-Porto.png",
           "color": ["Azul", "Dourado"],
           "size": ["P", "M", "G", "GG"],
           "price": 139
@@ -217,7 +219,7 @@
           "id": 21,
           "name": "Camisa Sporting 23/24",
           "type": "Camisa",
-          "img": "../imagens/Produtos/Camisa/celta-home.png",
+          "img": "../imagens/Produtos/Camisa/camisa-Sporting.png",
           "color": ["Verde", "Branco"],
           "size": ["P", "M", "G", "GG"],
           "price": 86
@@ -227,7 +229,7 @@
           "id": 22,
           "name": "Camisa Werder Bremen Especial 'How Deep is Your Love?' 23/24",
           "type": "Camisa",
-          "img": "../imagens/Produtos/Camisa/celtic-home.png",
+          "img": "../imagens/Produtos/Camisa/camisa-WerderBremer.png",
           "color": ["Verde", "Verde-Escuro"],
           "size": ["P", "M", "G", "GG"],
           "price": 129
@@ -237,7 +239,7 @@
           "id": 23,
           "name": "Camisa West Ham 22/23",
           "type": "Camisa",
-          "img": "../imagens/Produtos/Camisa/chelsea-away.png",
+          "img": "../imagens/Produtos/Camisa/camisa-West-Ham.png",
           "color": ["Verde", "Verde-Escuro"],
           "size": ["P", "M", "G", "GG"],
           "price": 96
@@ -247,7 +249,7 @@
           "id": 24,
           "name": "Camisa Midtjylland 23/24",
           "type": "Camisa",
-          "img": "../imagens/Produtos/Camisa/chelsea-home.png",
+          "img": "../imagens/Produtos/Camisa/camisa-Midtjylland.png",
           "color": ["Branco", "Vermelho", "Preto"],
           "size": ["P", "M", "G", "GG"],
           "price": 159,
