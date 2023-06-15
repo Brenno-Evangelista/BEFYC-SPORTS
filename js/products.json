@@ -47,7 +47,7 @@
         "img": "../imagens/Produtos/Camisa/arsenal-home.png",
         "img1":"../imagens/Produtos/Camisa/ars1.png",
         "img2":"../imagens/Produtos/Camisa/ars2.png",
-        "img3":"../imagens/Produtos/Camisa/ars3.png",
+        "img3":"../imagens/Produtos/Camisa/ars 3.png",
         "color": ["Branca", "Vermelha"],
         "size": ["P", "M", "G", "GG"],
         "price": 110
@@ -177,7 +177,7 @@
         "img": "../imagens/Produtos/Camisa/bayern-home.png",
         "img1":"../imagens/Produtos/Camisa/bay1.png",
         "img2":"../imagens/Produtos/Camisa/bay2.png",
-        "img3":"../imagens/Produtos/Camisa/bay3.jpeg",
+        "img3":"../imagens/Produtos/Camisa/bay3.jpg",
         "color": ["Preto", "Rosa"],
         "size": ["P", "M", "G", "GG"],
         "price": 109
