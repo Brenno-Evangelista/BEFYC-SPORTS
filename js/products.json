@@ -1420,7 +1420,62 @@
         "color": ["Azul-Escuro", "Dourado"],
         "size": ["P", "M", "G", "GG"],
         "price": 104
+      },
+
+      {
+        "id": 131,
+        "name": "Camisa Fiorentina Home (1) 2022/23",
+        "type": "Camisa",
+        "img": "../imagens/Produtos/Camisa/Fiorentina.png",
+        "img1":"../imagens/Produtos/Camisa/Fiorentina2.png",
+        "img2":"../imagens/Produtos/Camisa/Fiorentina3.jpg",
+        "img3":"../imagens/Produtos/Camisa/Fiorentina4.png",
+        "color": ["Azul-Escuro", "Dourado"],
+        "size": ["P", "M", "G", "GG"],
+        "price": 104
+      },
+
+      {
+        "id": 132,
+        "name": "Camisa Japão Away (2) 2022/23",
+        "type": "Camisa",
+        "img": "../imagens/Produtos/Camisa//Japãof.png",
+        "img1":"../imagens/Produtos/Camisa//Japãof1.png",
+        "img2":"../imagens/Produtos/Camisa//Japãof3.png",
+        "img3":"../imagens/Produtos/Camisa//Japãof4.jpg",
+        "color": ["Azul-Escuro", "Dourado"],
+        "size": ["P", "M", "G", "GG"],
+        "price": 104
+      },
+
+      {
+        "id": 133,
+        "name": "Camisa Lazio 10 anos da copa Italia 2022/23",
+        "type": "Camisa",
+        "img": "../imagens/Produtos/Camisa/Lazio.png",
+        "img1":"../imagens/Produtos/Camisa/Lazio1.png",
+        "img2":"../imagens/Produtos/Camisa/Lazio2.png",
+        "img3":"../imagens/Produtos/Camisa/Lazio3.png",
+        "color": ["Azul-Escuro", "Dourado"],
+        "size": ["P", "M", "G", "GG"],
+        "price": 104
+      },
+
+      {
+        "id": 134,
+        "name": "Camisa Milan Home (1) 2022/23",
+        "type": "Camisa",
+        "img": "../imagens/Produtos/Camisa/mil.png",
+        "img1":"../imagens/Produtos/Camisa/mil1.png",
+        "img2":"../imagens/Produtos/Camisa/mil2.jpg",
+        "img3":"../imagens/Produtos/Camisa/mil3.png",
+        "color": ["Azul-Escuro", "Dourado"],
+        "size": ["P", "M", "G", "GG"],
+        "price": 104
       }
+
+
+      
 
 
      ]
