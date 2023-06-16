@@ -1472,6 +1472,32 @@
         "color": ["Azul-Escuro", "Dourado"],
         "size": ["P", "M", "G", "GG"],
         "price": 104
+      },
+
+      {
+        "id": 135,
+        "name": "Camisa Tottenham Home (1) 2023/24",
+        "type": "Camisa",
+        "img": "../imagens/Produtos/Camisa/tott.png",
+        "img1":"../imagens/Produtos/Camisa/tott1.png",
+        "img2":"../imagens/Produtos/Camisa/tott2.png",
+        "img3":"../imagens/Produtos/Camisa/tott3.jpg",
+        "color": ["Azul-Escuro", "Dourado"],
+        "size": ["P", "M", "G", "GG"],
+        "price": 104
+      },
+
+      {
+        "id": 136,
+        "name": "Camisa Real Madrid Home (1) 2023/24",
+        "type": "Camisa",
+        "img": "../imagens/Produtos/Camisa/rmd.png",
+        "img1":"../imagens/Produtos/Camisa/rmd1.png",
+        "img2":"../imagens/Produtos/Camisa/rmd2.png",
+        "img3":"../imagens/Produtos/Camisa/rmd3.jpg",
+        "color": ["Azul-Escuro", "Dourado"],
+        "size": ["P", "M", "G", "GG"],
+        "price": 104
       }
 
 
