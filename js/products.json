@@ -1467,7 +1467,7 @@
         "type": "Camisa",
         "img": "../imagens/Produtos/Camisa/mil.png",
         "img1":"../imagens/Produtos/Camisa/mil1.png",
-        "img2":"../imagens/Produtos/Camisa/mil2.jpg",
+        "img2":"../imagens/Produtos/Camisa/mil2.png",
         "img3":"../imagens/Produtos/Camisa/mil3.png",
         "color": ["Azul-Escuro", "Dourado"],
         "size": ["P", "M", "G", "GG"],
