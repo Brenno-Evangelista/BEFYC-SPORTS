@@ -1498,6 +1498,20 @@
         "color": ["Azul-Escuro", "Dourado"],
         "size": ["P", "M", "G", "GG"],
         "price": 104
+      },
+
+      {
+        "id": 136,
+        "name": "Tênis Cano Alto Laranja Dragon Ball Goku",
+        "type": "Tenis",
+        "img": "../imagens/Produtos/tenis/goku.png",
+        "img1":"../imagens/Produtos/tenis/goku1.png",
+        "img2":"../../imagens/Produtos/tenis/goku2.png",
+        "img3":"../../imagens/Produtos/tenis/goku3.png",
+        "color": ["Azul-Escuro", "Dourado"],
+        "size": ["28", "30", "34", "42"],
+        "price": 180,
+        "descrição":"Goku é o protagonista da série de mangá e anime Dragon Ball, criada por Akira Toriyama. Ele é um poderoso guerreiro Saiyajin que luta para proteger a Terra e seus habitantes de ameaças perigosas, muitas vezes de seres extraterrestres e monstros poderosos."
       }
 
 
