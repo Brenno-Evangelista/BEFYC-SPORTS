@@ -11,7 +11,7 @@
         "color": ["Branca", "Azul"],
         "size": ["P", "M", "G", "GG"],
         "price": 100,
-        "descrição":"Aumente sua coleção de camisas de futebol adquirindo a nova Camisa Masculina do Olympique de Marseille. Semelhante ao modelo que os astros usam nos jogos em casa, o manto titular da temporada 21/22 é predominantemente branco com detalhes em azul claro e o brasão do clube francês bordado na altura do peito. De tecido leve e respirável, a peça proporciona ótimo caimento e garante liberdade de movimentos durante o uso."
+        "descrição":"Esta camisa é feita com tecido de alta qualidade, que garante frescor e conforto durante o uso. A peça é ideal para qualquer ocasião, desde um jogo de futebol até um dia de lazer. Mostre seu amor pelo América com esta camisa oficial desta temporada."
       },
 
       {
@@ -24,7 +24,8 @@
         "img3":"../imagens/Produtos/Camisa/arg3.png",
         "color": ["Branca"],
         "size": ["P", "M", "G", "GG"],
-        "price": 115
+        "price": 115,
+        "descrição":"Esta camisa é feita com tecido de alta qualidade, que garante frescor e conforto durante o uso. A peça é ideal para qualquer ocasião, desde um jogo de futebol até um dia de lazer. Mostre seu amor pelo Argentina com esta camisa oficial desta temporada."
       },
 
       {
@@ -37,7 +38,8 @@
         "img3":"../imagens/Produtos/Camisa/ars-a3.jpg",
         "color": ["Azul", "Azul"],
         "size": ["P", "M", "G", "GG"],
-        "price": 130
+        "price": 130,
+        "descrição":"Esta camisa é feita com tecido de alta qualidade, que garante frescor e conforto durante o uso. A peça é ideal para qualquer ocasião, desde um jogo de futebol até um dia de lazer. Mostre seu amor pelo Arsenal com esta camisa oficial desta temporada."
       },
 
       {
@@ -50,7 +52,8 @@
         "img3":"../imagens/Produtos/Camisa/ars 3.png",
         "color": ["Branca", "Vermelha"],
         "size": ["P", "M", "G", "GG"],
-        "price": 110
+        "price": 110,
+        "descrição":"Esta camisa é feita com tecido de alta qualidade, que garante frescor e conforto durante o uso. A peça é ideal para qualquer ocasião, desde um jogo de futebol até um dia de lazer. Mostre seu amor pelo Arsenal com esta camisa oficial desta temporada."
       },
 
       {
@@ -63,7 +66,8 @@
         "img3":"../imagens/Produtos/Camisa/ast-a3.png",
         "color": ["Preto", "Ciano"],
         "size": ["P", "M", "G", "GG"],
-        "price": 112
+        "price": 112,
+        "descrição":"Esta camisa é feita com tecido de alta qualidade, que garante frescor e conforto durante o uso. A peça é ideal para qualquer ocasião, desde um jogo de futebol até um dia de lazer. Mostre seu amor pelo Aston Villa com esta camisa oficial desta temporada."
       },
 
       {
@@ -76,7 +80,8 @@
         "img3":"../imagens/Produtos/Camisa/ast3.jpeg",
         "color": ["Preto", "Branca"],
         "size": ["P", "M", "G", "GG"],
-        "price": 129
+        "price": 129,
+        "descrição":"Esta camisa é feita com tecido de alta qualidade, que garante frescor e conforto durante o uso. A peça é ideal para qualquer ocasião, desde um jogo de futebol até um dia de lazer. Mostre seu amor pelo Aston Villa com esta camisa oficial desta temporada."
       },
 
       {
@@ -89,7 +94,8 @@
         "img3":"../imagens/Produtos/Camisa/atl3.png",
         "color": ["Azul", "Branca"],
         "size": ["P", "M", "G", "GG"],
-        "price": 109
+        "price": 109,
+        "descrição":"Esta camisa é feita com tecido de alta qualidade, que garante frescor e conforto durante o uso. A peça é ideal para qualquer ocasião, desde um jogo de futebol até um dia de lazer. Mostre seu amor pelo Atalanta com esta camisa oficial desta temporada."
       },
       
       {
@@ -102,7 +108,8 @@
         "img3":"../imagens/Produtos/Camisa/bor3.png",
         "color": ["Amarelo", "Verde"],
         "size": ["P", "M", "G", "GG"],
-        "price": 75
+        "price": 75,
+        "descrição":"Esta camisa é feita com tecido de alta qualidade, que garante frescor e conforto durante o uso. A peça é ideal para qualquer ocasião, desde um jogo de futebol até um dia de lazer. Mostre seu amor pelo Borussia Dortumund com esta camisa oficial desta temporada."
       },
 
       {
@@ -115,7 +122,8 @@
         "img3":"../imagens/Produtos/Camisa/lev3.jpeg",
         "color": ["Azul", "Azul-Escuro"],
         "size": ["P", "M", "G", "GG"],
-        "price": 90
+        "price": 90,
+        "descrição":"Esta camisa é feita com tecido de alta qualidade, que garante frescor e conforto durante o uso. A peça é ideal para qualquer ocasião, desde um jogo de futebol até um dia de lazer. Mostre seu amor pelo Bayer Leverkusen com esta camisa oficial desta temporada."
       },
 
       {
@@ -128,7 +136,8 @@
         "img3":"../imagens/Produtos/Camisa/bah-a3.png",
         "color": ["Vermelho", "Amarelo"],
         "size": ["P", "M", "G", "GG"],
-        "price": 90
+        "price": 90,
+        "descrição":"Esta camisa é feita com tecido de alta qualidade, que garante frescor e conforto durante o uso. A peça é ideal para qualquer ocasião, desde um jogo de futebol até um dia de lazer. Mostre seu amor pelo Bahia com esta camisa oficial desta temporada."
       },
 
       {
@@ -141,7 +150,8 @@
         "img3":"../imagens/Produtos/Camisa/bah3.png",
         "color": ["Azul-Escuro", "Dourado"],
         "size": ["P", "M", "G", "GG"],
-        "price": 104
+        "price": 104,
+        "descrição":"Esta camisa é feita com tecido de alta qualidade, que garante frescor e conforto durante o uso. A peça é ideal para qualquer ocasião, desde um jogo de futebol até um dia de lazer. Mostre seu amor pelo Bahia com esta camisa oficial desta temporada."
       },
 
       {
@@ -154,7 +164,8 @@
         "img3":"../imagens/Produtos/Camisa/bar3.png",
         "color": ["Laranja", "Preto"],
         "size": ["P", "M", "G", "GG"],
-        "price": 90
+        "price": 90,
+        "descrição":"Esta camisa é feita com tecido de alta qualidade, que garante frescor e conforto durante o uso. A peça é ideal para qualquer ocasião, desde um jogo de futebol até um dia de lazer. Mostre seu amor pelo Barcelona com esta camisa oficial desta temporada."
       },
 
       {
@@ -167,7 +178,8 @@
         "img3":"../imagens/Produtos/Camisa/bar-h3.png",
         "color": ["Branco", "Azul"],
         "size": ["P", "M", "G", "GG"],
-        "price": 92
+        "price": 92,
+        "descrição":"Esta camisa é feita com tecido de alta qualidade, que garante frescor e conforto durante o uso. A peça é ideal para qualquer ocasião, desde um jogo de futebol até um dia de lazer. Mostre seu amor pelo Barcelona com esta camisa oficial desta temporada."
       },
 
       {
@@ -180,7 +192,8 @@
         "img3":"../imagens/Produtos/Camisa/bay3.jpg",
         "color": ["Preto", "Rosa"],
         "size": ["P", "M", "G", "GG"],
-        "price": 109
+        "price": 109,
+        "descrição":"Esta camisa é feita com tecido de alta qualidade, que garante frescor e conforto durante o uso. A peça é ideal para qualquer ocasião, desde um jogo de futebol até um dia de lazer. Mostre seu amor pelo Bayern de Munique com esta camisa oficial desta temporada."
       },
 
       {
@@ -193,7 +206,8 @@
         "img3":"../imagens/Produtos/Camisa/ben-a3.jpeg",
         "color": ["Azul", "Azul"],
         "size": ["P", "M", "G", "GG"],
-        "price": 139
+        "price": 139,
+        "descrição":"Esta camisa é feita com tecido de alta qualidade, que garante frescor e conforto durante o uso. A peça é ideal para qualquer ocasião, desde um jogo de futebol até um dia de lazer. Mostre seu amor pelo Benfica com esta camisa oficial desta temporada."
       },
 
       {
@@ -206,7 +220,8 @@
         "img3":"../imagens/Produtos/Camisa/benfica4.jpg",
         "color": ["Amarelo", "Preto"],
         "size": ["P", "M", "G", "GG"],
-        "price": 102
+        "price": 102,
+        "descrição":"Esta camisa é feita com tecido de alta qualidade, que garante frescor e conforto durante o uso. A peça é ideal para qualquer ocasião, desde um jogo de futebol até um dia de lazer. Mostre seu amor pelo Benfica com esta camisa oficial desta temporada."
       },
 
       {
@@ -220,8 +235,7 @@
         "color": ["Preto"],
         "size": ["P", "M", "G", "GG"],
         "price": 79,
-        "descrição":"Procurando uma camiseta com temática cristã de alto estilo e qualidade? As Camisetas da BEFYC perfeitas para você. A BEFYC busca através de suas camisetas fortalecer a propagar a fé. São modelos exclusivos para você presentear alguém especial ou até mesmo se presentear. São muitos modelos. Aproveite nossa imensa coleção e garanta já a sua."
-      },
+        "descrição":"Esta camisa é feita com tecido de alta qualidade, que garante frescor e conforto durante o uso. A peça é ideal para qualquer ocasião, desde um jogo de futebol até um dia de lazer. Mostre seu amor pelo Boca Juniors com esta camisa oficial desta temporada."      },
 
 
       {
@@ -234,7 +248,8 @@
         "img3":"../imagens/Produtos/Camisa/boca3.png",
         "color": ["Roxo", "Rosa"],
         "size": ["P", "M", "G", "GG"],
-        "price": 118
+        "price": 118,
+        "descrição":"Esta camisa é feita com tecido de alta qualidade, que garante frescor e conforto durante o uso. A peça é ideal para qualquer ocasião, desde um jogo de futebol até um dia de lazer. Mostre seu amor pelo Boca Juniors com esta camisa oficial desta temporada."
       },
 
       {
@@ -247,7 +262,8 @@
         "img3":"../imagens/Produtos/Camisa/cerro-a3.png",
         "color": ["Branca", "Vermelho"],
         "size": ["P", "M", "G", "GG"],
-        "price": 139
+        "price": 139,
+        "descrição":"Esta camisa é feita com tecido de alta qualidade, que garante frescor e conforto durante o uso. A peça é ideal para qualquer ocasião, desde um jogo de futebol até um dia de lazer. Mostre seu amor pelo Cerro Porteño com esta camisa oficial desta temporada."
       },
 
       {
@@ -260,7 +276,8 @@
         "img3":"../imagens/Produtos/Camisa/cerro3.png",
         "color": ["Branco", "Preto"],
         "size": ["P", "M", "G", "GG"],
-        "price": 97
+        "price": 97,
+        "descrição":"Esta camisa é feita com tecido de alta qualidade, que garante frescor e conforto durante o uso. A peça é ideal para qualquer ocasião, desde um jogo de futebol até um dia de lazer. Mostre seu amor pelo Cerro Porteño com esta camisa oficial desta temporada."
       },
 
       {
@@ -273,7 +290,8 @@
         "img3":"../imagens/Produtos/Camisa/celta-a3.jpeg",
         "color": ["Azul", "Dourado"],
         "size": ["P", "M", "G", "GG"],
-        "price": 139
+        "price": 139,
+        "descrição":"Esta camisa é feita com tecido de alta qualidade, que garante frescor e conforto durante o uso. A peça é ideal para qualquer ocasião, desde um jogo de futebol até um dia de lazer. Mostre seu amor pelo Celta de Vigo com esta camisa oficial desta temporada."
       },
 
       {
@@ -286,7 +304,8 @@
         "img3":"../imagens/Produtos/Camisa/celta3.png",
         "color": ["Verde", "Branco"],
         "size": ["P", "M", "G", "GG"],
-        "price": 86
+        "price": 86,
+        "descrição":"Esta camisa é feita com tecido de alta qualidade, que garante frescor e conforto durante o uso. A peça é ideal para qualquer ocasião, desde um jogo de futebol até um dia de lazer. Mostre seu amor pelo Celta de Vigo com esta camisa oficial desta temporada."
       },
       
       {
@@ -299,7 +318,8 @@
         "img3":"../imagens/Produtos/Camisa/cel3.jpeg",
         "color": ["Verde", "Verde-Escuro"],
         "size": ["P", "M", "G", "GG"],
-        "price": 129
+        "price": 129,
+        "descrição":"Esta camisa é feita com tecido de alta qualidade, que garante frescor e conforto durante o uso. A peça é ideal para qualquer ocasião, desde um jogo de futebol até um dia de lazer. Mostre seu amor pelo Celtic com esta camisa oficial desta temporada."
       },
 
       {
@@ -312,7 +332,8 @@
         "img3":"../imagens/Produtos/Camisa/che-a3.png",
         "color": ["Verde", "Verde-Escuro"],
         "size": ["P", "M", "G", "GG"],
-        "price": 96
+        "price": 96,
+        "descrição":"Esta camisa é feita com tecido de alta qualidade, que garante frescor e conforto durante o uso. A peça é ideal para qualquer ocasião, desde um jogo de futebol até um dia de lazer. Mostre seu amor pelo Chelsea com esta camisa oficial desta temporada."
       },
 
       {
@@ -326,7 +347,7 @@
         "color": ["Branco", "Vermelho", "Preto"],
         "size": ["P", "M", "G", "GG"],
         "price": 159,
-        "descrição": "tamo tentando inventar oq butar"
+        "descrição":"Esta camisa é feita com tecido de alta qualidade, que garante frescor e conforto durante o uso. A peça é ideal para qualquer ocasião, desde um jogo de futebol até um dia de lazer. Mostre seu amor pelo América com esta camisa oficial desta temporada."
       },
 
       {
