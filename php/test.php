@@ -24,7 +24,7 @@ if(mysqli_num_rows($result) < 1){
 
 }
 else{
-    header('Location: ../index.php');
+    header('Location: ../index.html');
 }
 }
 
