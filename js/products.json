@@ -1082,7 +1082,7 @@
           "img": "../imagens/Produtos/lendas/ronaldo1.png",
           "img1":"../imagens/Produtos/lendas/ronaldo2.png",
           "img2":"../imagens/Produtos/lendas/ronaldo3.jpg",
-          "img3":"../imagens/Produtos/lendas/gerrad4.jpg",
+          "img3":"../imagens/Produtos/lendas/ronaldo3.jpg",
           "color": ["Cinza","Amarelo"],
           "size": ["P","M","G","GG"],
           "price": 179
@@ -1095,7 +1095,7 @@
           "img": "../imagens/Produtos/lendas/zidane1.png",
           "img1":"../imagens/Produtos/lendas/zidane2.png",
           "img2":"../imagens/Produtos/lendas/zidane3.png",
-          "img3":"../imagens/Produtos/lendas/gerrad4.jpg",
+          "img3":"../imagens/Produtos/lendas/zidane3.png",
           "color": ["Branco","Azul"],
           "size": ["P","M","G","GG"],
           "price": 130
@@ -1103,9 +1103,12 @@
 
         {
           "id": 96,
-          "name": "Camisa Juventus 14/15",
+          "name": "Camisa Real Madrid 14/15",
           "type": "Camisa-Retro",
-          "img": "../imagens/Produtos/camisa retro/camisa-Juventos2015.png",
+          "img": "../imagens/Produtos/lenda/beck1.png",
+          "img1":"../imagens/Produtos/lendas/beck2.png",
+          "img2":"../imagens/Produtos/lendas/beck3.png",
+          "img3":"../imagens/Produtos/lendas/beck4.png",
           "color": ["Rosa","Branco","Preto"],
           "size": ["P","M","G","GG"],
           "price": 129
@@ -1113,9 +1116,12 @@
 
         {
           "id": 97,
-          "name": "Camisa Manchester United 07/08",
+          "name": "Camisa inter de Milão",
           "type": "Camisa-Retro",
-          "img": "../imagens/Produtos/camisa retro/camisa-ManchesterUnited2007.png",
+          "img": "../imagens/Produtos/lendas/etoo1.png",
+          "img1":"../imagens/Produtos/lendas/etoo2.png",
+          "img2":"../imagens/Produtos/lendas/etoo3.png",
+          "img3":"../imagens/Produtos/lendas/etoo4.png",
           "color": ["Azul","Branco"],
           "size": ["P","M","G","GG"],
           "price": 133
@@ -1123,9 +1129,12 @@
 
         {
           "id": 98,
-          "name": "Camisa Cruzeiro 93/94",
+          "name": "Camisa Uruguai 93/94",
           "type": "Camisa-Retro",
-          "img": "../imagens/Produtos/camisa retro/camisa-cruzeiro-93.png",
+          "img": "../imagens/Produtos/lendas/forlan1.png",
+          "img1":"../imagens/Produtos/lendas/forlan2.png",
+          "img2":"../imagens/Produtos/lendas/forlan3.png",
+          "img3":"../imagens/Produtos/lendas/forlan4.png",
           "color": ["Azul","Branco"],
           "size": ["P","M","G","GG"],
           "price": 209
@@ -1133,9 +1142,12 @@
 
         {
           "id": 99,
-          "name": "Camisa Newcastle 00/01",
+          "name": "Camisa Liverpool 00/01",
           "type": "Camisa-Retro",
-          "img": "../imagens/Produtos/camisa retro/camisa-Newcastle2000.png",
+          "img": "../imagens/Produtos/lendas/ftorres.png",
+          "img1":"../imagens/Produtos/lendas/ftorres2.png",
+          "img2":"../imagens/Produtos/lendas/ftorres3.png",
+          "img3":"../imagens/Produtos/lendas/ftorres4.jpeg",
           "color": ["Branco","Preto"],
           "size": ["P","M","G","GG"],
           "price": 175
@@ -1143,9 +1155,12 @@
 
         {
           "id": 100,
-          "name": "Camisa Paris Saint Germain 01/02",
+          "name": "Camisa arsenal 01/02",
           "type": "Camisa-Retro",
-          "img": "../imagens/Produtos/camisa retro/Camisa Paris Saint Germain 01/02.png",
+          "img": "../imagens/Produtos/lendas/henry1.png",
+          "img1":"../imagens/Produtos/lendas/henry2.png",
+          "img2":"../imagens/Produtos/lendas/henry3.png",
+          "img3":"../imagens/Produtos/lendas/henry4.png",
           "color": ["Azul","Vermelho"],
           "size": ["P","M","G","GG"],
           "price": 120
@@ -1155,7 +1170,10 @@
           "id": 101,
           "name": "Camisa Real Madrid 08/09",
           "type": "Camisa-Retro",
-          "img": "../imagens/Produtos/camisa retro/camisa-RealMadrid2009.png",
+          "img": "../imagens/Produtos/lendas/kun1.png",
+          "img1":"../imagens/Produtos/lendas/kun2.png",
+          "img2":"../imagens/Produtos/lendas/kun3.png",
+          "img3":"../imagens/Produtos/lendas/kun4.png",
           "color": ["Preto","Azul-Claro"],
           "size": ["P","M","G","GG"],
           "price": 169
@@ -1163,9 +1181,12 @@
 
         {
           "id": 102,
-          "name": "Camisa Sporting 02/03",
+          "name": "Camisa argentina 02/03",
           "type": "Camisa-Retro",
-          "img": "../imagens/Produtos/camisa retro/camisa-Sporting2003.png",
+          "img": "../imagens/Produtos/lendas/maradona1.png",
+          "img1":"../imagens/Produtos/lendas/maradona2.png",
+          "img2":"../imagens/Produtos/lendas/maradona3.png",
+          "img3":"../imagens/Produtos/lendas/maradona4.png",
           "color": ["Verde","Branco"],
           "size": ["P","M","G","GG"],
           "price": 153
@@ -1173,9 +1194,12 @@
 
         {
           "id": 103,
-          "name": "Camisa Tottenham 05/06",
+          "name": "Camisa alemanha 05/06",
           "type": "Camisa-Retro",
-          "img": "../imagens/Produtos/camisa retro/camisa-Tottenham2006.png",
+          "img": "../imagens/Produtos/lendas/matt1.png",
+          "img1":"../imagens/Produtos/lendas/matt2.png",
+          "img2":"../imagens/Produtos/lendas/matt3.png",
+          "img3":"../imagens/Produtos/lendas/matt4.png",
           "color": ["Azul-Claro"],
           "size": ["P","M","G","GG"],
           "price": 115
@@ -1183,9 +1207,12 @@
 
         {
           "id": 104,
-          "name": "Camisa Seleção Alemã 89/90",
+          "name": "Camisa psg 89/90",
           "type": "Camisa-Retro",
-          "img": "../imagens/Produtos/camisa retro/camisa-Alemanha1990.png",
+          "img": "../imagens/Produtos/lendas/okocha1.png",
+          "img1":"../imagens/Produtos/lendas/okocha2.png",
+          "img2":"../imagens/Produtos/lendas/okocha3.png",
+          "img3":"../imagens/Produtos/lendas/okocha4.png",
           "color": ["Branco","Vermelho","Preto","Amarelo"],
           "size": ["P","M","G","GG"],
           "price": 187
@@ -1193,9 +1220,12 @@
 
         {
           "id": 105,
-          "name": "Camisa Santos 12/13",
+          "name": "Camisa Alemanhã 12/13",
           "type": "Camisa-Retro",
-          "img": "../imagens/Produtos/camisa retro/camisa-santos-13.png",
+          "img": "../imagens/Produtos/lendas/ozil1.png",
+          "img1":"../imagens/Produtos/lendas/ozil2.png",
+          "img2":"../imagens/Produtos/lendas/ozil3.png",
+          "img3":"../imagens/Produtos/lendas/ozil4.png",
           "color": ["Azul", "Preto"],
           "size": ["P","M","G","GG"],
           "price": 200
@@ -1203,9 +1233,12 @@
 
         {
           "id": 106,
-          "name": "Camisa Seleção Inglesa 02/03",
+          "name": "Camisa Manchester United 02/03",
           "type": "Camisa-Retro",
-          "img": "../imagens/Produtos/camisa retro/england-02.png",
+          "img": "../imagens/Produtos/lendas/persie1.png",
+          "img1":"../imagens/Produtos/lendas/persie2.png",
+          "img2":"../imagens/Produtos/lendas/persie3.png",
+          "img3":"../imagens/Produtos/lendas/persie4.png",
           "color": ["Branco", "Vermelho"],
           "size": ["P","M","G","GG"],
           "price": 136
@@ -1213,9 +1246,12 @@
 
         {
           "id": 107,
-          "name": "Camisa Olympique de Marseille 98/99",
+          "name": "Camisa Juventus 98/99",
           "type": "Camisa-Retro",
-          "img": "../imagens/Produtos/camisa retro/om-98.png",
+          "img": "../imagens/Produtos/lendas/pirlo1.png",
+          "img1":"../imagens/Produtos/lendas/pirlo2.png",
+          "img2":"../imagens/Produtos/lendas/pirlo3.png",
+          "img3":"../imagens/Produtos/lendas/pirlo4.png",
           "color": ["Branco", "Azul-Claro"],
           "size": ["P","M","G","GG"],
           "price": 155
@@ -1223,9 +1259,12 @@
 
         {
           "id": 108,
-          "name": "Camisa Parma 02/03",
+          "name": "Camisa Barcelona 02/03",
           "type": "Camisa-Retro",
-          "img": "../imagens/Produtos/camisa retro/parma-02.png",
+          "img": "../imagens/Produtos/lendas/rivaldo1.png",
+          "img1":"../imagens/Produtos/lendas/rivaldo2.png",
+          "img2":"../imagens/Produtos/lendas/rivaldo3.png",
+          "img3":"../imagens/Produtos/lendas/rivaldo4.png",
           "color": ["Branco", "Azul-Escuro", "Amarelo"],
           "size": ["P","M","G","GG"],
           "price": 163
@@ -1562,6 +1601,45 @@
         "size": ["28", "30", "34", "42"],
         "price": 180,
         "descrição":"Goku é o protagonista da série de mangá e anime Dragon Ball, criada por Akira Toriyama. Ele é um poderoso guerreiro Saiyajin que luta para proteger a Terra e seus habitantes de ameaças perigosas, muitas vezes de seres extraterrestres e monstros poderosos."
+      },
+
+      {
+        "id": 139,
+        "name": "Camisa Brasil 02/03",
+        "type": "Camisa-Retro",
+        "img": "../imagens/Produtos/lendas/ronaldobr1.png",
+        "img1":"../imagens/Produtos/lendas/ronaldobr2.png",
+        "img2":"../imagens/Produtos/lendas/ronaldobr3.png",
+        "img3":"../imagens/Produtos/lendas/ronaldobr4.png",
+        "color": ["Branco", "Azul-Escuro", "Amarelo"],
+        "size": ["P","M","G","GG"],
+        "price": 163
+      },
+
+      {
+        "id": 140,
+        "name": "Camisa Roma 02/03",
+        "type": "Camisa-Retro",
+        "img": "../imagens/Produtos/lendas/totti1.png",
+        "img1":"../imagens/Produtos/lendas/totti2.png",
+        "img2":"../imagens/Produtos/lendas/totti3.png",
+        "img3":"../imagens/Produtos/lendas/totti4.png",
+        "color": ["Branco", "Azul-Escuro", "Amarelo"],
+        "size": ["P","M","G","GG"],
+        "price": 163
+      },
+
+      {
+        "id": 141,
+        "name": "Camisa Monaco 02/03",
+        "type": "Camisa-Retro",
+        "img": "../imagens/Produtos/lendas/tre1.png",
+        "img1":"../imagens/Produtos/lendas/tre2.png",
+        "img2":"../imagens/Produtos/lendas/tre3.png",
+        "img3":"../imagens/Produtos/lendas/tre4.png",
+        "color": ["Branco", "Azul-Escuro", "Amarelo"],
+        "size": ["P","M","G","GG"],
+        "price": 163
       }
      ]
   }
