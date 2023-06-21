@@ -1022,7 +1022,7 @@
 
         {
           "id": 88,
-          "name": "Camisa Milan 05/06",
+          "name": "Camisa Milan Away 2006-07 Kaka#22",
           "type": "Camisa-Retro",
           "img": "../imagens/Produtos/lendas/kaka1.png",
           "img1":"../imagens/Produtos/lendas/kaka2.png",
@@ -1035,7 +1035,7 @@
 
         {
           "id": 89,
-          "name": "Camisa Flameengo 06/07",
+          "name": "Camisa Flamengo Home 2008-09 Adriano#100 ",
           "type": "Camisa-Retro",
           "img": "../imagens/Produtos/lendas/adri1.png",
           "img1":"../imagens/Produtos/lendas/adri4.png",
@@ -1048,7 +1048,7 @@
 
         {
           "id": 90,
-          "name": "Camisa Real Madrid 15/16",
+          "name": "Camisa Real Madrid Third 17/18 Cristiano Ronaldo#7",
           "type": "Camisa-Retro",
           "img": "../imagens/Produtos/lendas/cris1.png",
           "img1":"../imagens/Produtos/lendas/cris2.png",
@@ -1061,7 +1061,7 @@
 
         {
           "id": 91,
-          "name": "Camisa inglaterra 02/03",
+          "name": "Camisa Inglaterra Home 2006-07 Gerrad#4",
           "type": "Camisa-Retro",
           "img": "../imagens/Produtos/lendas/gerrad1.png",
           "img1":"../imagens/Produtos/lendas/gerrad2.png",
@@ -1074,7 +1074,7 @@
 
         {
           "id": 92,
-          "name": "Camisa Barcelona 05/06",
+          "name": "Camisa Barcelona Home 2014-15 Neymar Jr.#11",
           "type": "Camisa-Retro",
           "img": "../imagens/Produtos/lendas/ney1.png",
           "img1":"../imagens/Produtos/lendas/ney2.png",
@@ -1087,7 +1087,7 @@
 
         {
           "id": 93,
-          "name": "Camisa Milan 74/75",
+          "name": "Camisa Milan Home 2009-10 Ronaldinho#80",
           "type": "Camisa-Retro",
           "img": "../imagens/Produtos/lendas/ronaldinho1.png",
           "img1":"../imagens/Produtos/lendas/ronaldinho2.png",
@@ -1101,7 +1101,7 @@
 
         {
           "id": 94,
-          "name": "Camisa Inter de Milão 04/05",
+          "name": "Camisa Inter de Milão Third 1997-98 Ronaldo#10",
           "type": "Camisa-Retro",
           "img": "../imagens/Produtos/lendas/ronaldo1.png",
           "img1":"../imagens/Produtos/lendas/ronaldo2.png",
@@ -1114,7 +1114,7 @@
 
         {
           "id": 95,
-          "name": "Camisa frança 96/97",
+          "name": "Camisa França Away 2006-07 Zidane#10",
           "type": "Camisa-Retro",
           "img": "../imagens/Produtos/lendas/zidane1.png",
           "img1":"../imagens/Produtos/lendas/zidane2.png",
@@ -1127,7 +1127,7 @@
 
         {
           "id": 96,
-          "name": "Camisa Real Madrid 14/15",
+          "name": "Camisa Real Madrid Away 2006-07 Beckeham#23",
           "type": "Camisa-Retro",
           "img": "../imagens/Produtos/lendas/beck1.png",
           "img1":"../imagens/Produtos/lendas/beck2.png",
@@ -1140,7 +1140,7 @@
 
         {
           "id": 97,
-          "name": "Camisa inter de Milão",
+          "name": "Camisa Inter de Milão Away 2010-11 Eto'o#9",
           "type": "Camisa-Retro",
           "img": "../imagens/Produtos/lendas/etoo1.png",
           "img1":"../imagens/Produtos/lendas/etoo2.png",
@@ -1153,7 +1153,7 @@
 
         {
           "id": 98,
-          "name": "Camisa Uruguai 93/94",
+          "name": "Camisa Uruguai Home 2010 Forlan#10",
           "type": "Camisa-Retro",
           "img": "../imagens/Produtos/lendas/forlan1.png",
           "img1":"../imagens/Produtos/lendas/forlan2.png",
@@ -1166,7 +1166,7 @@
 
         {
           "id": 99,
-          "name": "Camisa Liverpool 00/01",
+          "name": "Camisa Liverpool Home 2006-08 F.Torres#9",
           "type": "Camisa-Retro",
           "img": "../imagens/Produtos/lendas/ftorres1.png",
           "img1":"../imagens/Produtos/lendas/ftorres2.png",
@@ -1179,7 +1179,7 @@
 
         {
           "id": 100,
-          "name": "Camisa arsenal 01/02",
+          "name": "Camisa Arsenal Home 2006-07 Henry#14 ",
           "type": "Camisa-Retro",
           "img": "../imagens/Produtos/lendas/henry1.png",
           "img1":"../imagens/Produtos/lendas/henry2.png",
@@ -1192,7 +1192,7 @@
 
         {
           "id": 101,
-          "name": "Camisa Real Madrid 08/09",
+          "name": "Camisa Manchester City Home 2011-12 Aguero#16",
           "type": "Camisa-Retro",
           "img": "../imagens/Produtos/lendas/kun1.png",
           "img1":"../imagens/Produtos/lendas/kun2.png",
@@ -1205,7 +1205,7 @@
 
         {
           "id": 102,
-          "name": "Camisa argentina 02/03",
+          "name": "Camisa Argentina Away 1994 Maradona#10",
           "type": "Camisa-Retro",
           "img": "../imagens/Produtos/lendas/maradona1.png",
           "img1":"../imagens/Produtos/lendas/maradona2.png",
@@ -1218,7 +1218,7 @@
 
         {
           "id": 103,
-          "name": "Camisa alemanha 05/06",
+          "name": "Camisa Alemanha Home 1994 Matthäus#10",
           "type": "Camisa-Retro",
           "img": "../imagens/Produtos/lendas/matt1.png",
           "img1":"../imagens/Produtos/lendas/matt2.png",
@@ -1231,7 +1231,7 @@
 
         {
           "id": 104,
-          "name": "Camisa psg 89/90",
+          "name": "Camisa PSG Away 1998-99 Okocha#10",
           "type": "Camisa-Retro",
           "img": "../imagens/Produtos/lendas/okocha1.png",
           "img1":"../imagens/Produtos/lendas/okocha2.png",
@@ -1244,7 +1244,7 @@
 
         {
           "id": 105,
-          "name": "Camisa Alemanhã 12/13",
+          "name": "Camisa Alemanhã Away 2014 Özil#8",
           "type": "Camisa-Retro",
           "img": "../imagens/Produtos/lendas/ozil1.png",
           "img1":"../imagens/Produtos/lendas/ozil2.png",
@@ -1257,7 +1257,7 @@
 
         {
           "id": 106,
-          "name": "Camisa Manchester United 02/03",
+          "name": "Camisa Manchester United Away 2012-13 Persie#20",
           "type": "Camisa-Retro",
           "img": "../imagens/Produtos/lendas/persie1.png",
           "img1":"../imagens/Produtos/lendas/persie2.png",
@@ -1270,7 +1270,7 @@
 
         {
           "id": 107,
-          "name": "Camisa Juventus 98/99",
+          "name": "Camisa Juventus Home 2014-15 Pirlo#21",
           "type": "Camisa-Retro",
           "img": "../imagens/Produtos/lendas/pirlo1.png",
           "img1":"../imagens/Produtos/lendas/pirlo2.png",
@@ -1283,7 +1283,7 @@
 
         {
           "id": 108,
-          "name": "Camisa Barcelona 02/03",
+          "name": "Camisa Barcelona Home 1999 Rivaldo#11",
           "type": "Camisa-Retro",
           "img": "../imagens/Produtos/lendas/rivaldo1.png",
           "img1":"../imagens/Produtos/lendas/rivaldo2.png",
@@ -1616,7 +1616,7 @@
       
       {
         "id": 138,
-        "name": "Camisa Brasil 02/03",
+        "name": "Camisa Brasil Home 2004-09 Ronaldo#9",
         "type": "Camisa-Retro",
         "img": "../imagens/Produtos/lendas/ronaldobr1.png",
         "img1":"../imagens/Produtos/lendas/ronaldobr2.png",
@@ -1629,7 +1629,7 @@
 
       {
         "id": 139,
-        "name": "Camisa Roma 02/03",
+        "name": "Camisa Roma 2017-18 Totti#10",
         "type": "Camisa-Retro",
         "img": "../imagens/Produtos/lendas/totti1.png",
         "img1":"../imagens/Produtos/lendas/totti2.png",
@@ -1642,7 +1642,7 @@
 
       {
         "id": 140,
-        "name": "Camisa Monaco 02/03",
+        "name": "Camisa Monaco Home 1999-00 Trezeguet#9",
         "type": "Camisa-Retro",
         "img": "../imagens/Produtos/lendas/tre1.png",
         "img1":"../imagens/Produtos/lendas/tre2.png",
