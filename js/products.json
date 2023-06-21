@@ -1105,7 +1105,7 @@
           "id": 96,
           "name": "Camisa Real Madrid 14/15",
           "type": "Camisa-Retro",
-          "img": "../imagens/Produtos/lenda/beck1.png",
+          "img": "../imagens/Produtos/lendas/beck1.png",
           "img1":"../imagens/Produtos/lendas/beck2.png",
           "img2":"../imagens/Produtos/lendas/beck3.png",
           "img3":"../imagens/Produtos/lendas/beck4.png",
@@ -1144,7 +1144,7 @@
           "id": 99,
           "name": "Camisa Liverpool 00/01",
           "type": "Camisa-Retro",
-          "img": "../imagens/Produtos/lendas/ftorres.png",
+          "img": "../imagens/Produtos/lendas/ftorres1.png",
           "img1":"../imagens/Produtos/lendas/ftorres2.png",
           "img2":"../imagens/Produtos/lendas/ftorres3.png",
           "img3":"../imagens/Produtos/lendas/ftorres4.jpeg",
@@ -1589,22 +1589,9 @@
         "descrição":"Goku é o protagonista da série de mangá e anime Dragon Ball, criada por Akira Toriyama. Ele é um poderoso guerreiro Saiyajin que luta para proteger a Terra e seus habitantes de ameaças perigosas, muitas vezes de seres extraterrestres e monstros poderosos."
       },
 
+      
       {
         "id": 138,
-        "name": "Camisa Milan Away (2) 05/06 Kaká #22",
-        "type": "Camisa-Retro",
-        "img": "../imagens/Produtos/tenis/goku.png",
-        "img1":"../imagens/Produtos/tenis/goku1.png",
-        "img2":"../imagens/Produtos/tenis/goku2.png",
-        "img3":"../imagens/Produtos/tenis/goku3.png",
-        "color": ["Azul-Escuro", "Dourado"],
-        "size": ["28", "30", "34", "42"],
-        "price": 180,
-        "descrição":"Goku é o protagonista da série de mangá e anime Dragon Ball, criada por Akira Toriyama. Ele é um poderoso guerreiro Saiyajin que luta para proteger a Terra e seus habitantes de ameaças perigosas, muitas vezes de seres extraterrestres e monstros poderosos."
-      },
-
-      {
-        "id": 139,
         "name": "Camisa Brasil 02/03",
         "type": "Camisa-Retro",
         "img": "../imagens/Produtos/lendas/ronaldobr1.png",
@@ -1617,7 +1604,7 @@
       },
 
       {
-        "id": 140,
+        "id": 139,
         "name": "Camisa Roma 02/03",
         "type": "Camisa-Retro",
         "img": "../imagens/Produtos/lendas/totti1.png",
@@ -1630,7 +1617,7 @@
       },
 
       {
-        "id": 141,
+        "id": 140,
         "name": "Camisa Monaco 02/03",
         "type": "Camisa-Retro",
         "img": "../imagens/Produtos/lendas/tre1.png",
