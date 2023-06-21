@@ -177,7 +177,7 @@
         "img": "../imagens/Produtos/Camisa/bayern-home.png",
         "img1":"../imagens/Produtos/Camisa/bay1.png",
         "img2":"../imagens/Produtos/Camisa/bay2.png",
-        "img3":"../imagens/Produtos/Camisa/bay3.jpeg",
+        "img3":"../imagens/Produtos/Camisa/bay3.jpg",
         "color": ["Preto", "Rosa"],
         "size": ["P", "M", "G", "GG"],
         "price": 109
@@ -200,10 +200,10 @@
         "id": 15,
         "name": "Camisa Benfica Home (1) 2022/23",
         "type": "Camisa",
-        "img": "../imagens/Produtos/Camisa/benfica-home.png",
-        "img1":"../imagens/Produtos/Camisa/ben1.png",
-        "img2":"../imagens/Produtos/Camisa/ben2.jpeg",
-        "img3":"../imagens/Produtos/Camisa/ben3.jpeg",
+        "img": "../imagens/Produtos/Camisa/benfica.png",
+        "img1":"../imagens/Produtos/Camisa/benfica1.png",
+        "img2":"../imagens/Produtos/Camisa/benfica3.png",
+        "img3":"../imagens/Produtos/Camisa/benfica4.jpg",
         "color": ["Amarelo", "Preto"],
         "size": ["P", "M", "G", "GG"],
         "price": 102
@@ -1407,8 +1407,125 @@
           "color": ["Preto", "Verde","Branco"],
           "size": ["39", "40", "41", "42"],
           "price": 235
-        }
+        },
 
+        {
+        "id": 130,
+        "name": "Camisa Austin Third (3) 2022/23",
+        "type": "Camisa",
+        "img": "../imagens/Produtos/Camisa/aus.png",
+        "img1":"../imagens/Produtos/Camisa/aus1.png",
+        "img2":"../imagens/Produtos/Camisa/aus2.png",
+        "img3":"../imagens/Produtos/Camisa/aus3.png",
+        "color": ["Azul-Escuro", "Dourado"],
+        "size": ["P", "M", "G", "GG"],
+        "price": 104
+      },
 
+      {
+        "id": 131,
+        "name": "Camisa Fiorentina Home (1) 2022/23",
+        "type": "Camisa",
+        "img": "../imagens/Produtos/Camisa/Fiorentina.png",
+        "img1":"../imagens/Produtos/Camisa/Fiorentina2.png",
+        "img2":"../imagens/Produtos/Camisa/Fiorentina3.jpg",
+        "img3":"../imagens/Produtos/Camisa/Fiorentina4.png",
+        "color": ["Azul-Escuro", "Dourado"],
+        "size": ["P", "M", "G", "GG"],
+        "price": 104
+      },
+
+      {
+        "id": 132,
+        "name": "Camisa Japão Away (2) 2022/23",
+        "type": "Camisa",
+        "img": "../imagens/Produtos/Camisa//Japãof.png",
+        "img1":"../imagens/Produtos/Camisa//Japãof1.png",
+        "img2":"../imagens/Produtos/Camisa//Japãof3.png",
+        "img3":"../imagens/Produtos/Camisa//Japãof4.jpg",
+        "color": ["Azul-Escuro", "Dourado"],
+        "size": ["P", "M", "G", "GG"],
+        "price": 104
+      },
+
+      {
+        "id": 133,
+        "name": "Camisa Lazio 10 anos da copa Italia 2022/23",
+        "type": "Camisa",
+        "img": "../imagens/Produtos/Camisa/Lazio.png",
+        "img1":"../imagens/Produtos/Camisa/Lazio1.png",
+        "img2":"../imagens/Produtos/Camisa/Lazio2.png",
+        "img3":"../imagens/Produtos/Camisa/Lazio3.png",
+        "color": ["Azul-Escuro", "Dourado"],
+        "size": ["P", "M", "G", "GG"],
+        "price": 104
+      },
+
+      {
+        "id": 134,
+        "name": "Camisa Milan Home (1) 2022/23",
+        "type": "Camisa",
+        "img": "../imagens/Produtos/Camisa/mil.png",
+        "img1":"../imagens/Produtos/Camisa/mil1.png",
+        "img2":"../imagens/Produtos/Camisa/mil2.png",
+        "img3":"../imagens/Produtos/Camisa/mil3.png",
+        "color": ["Azul-Escuro", "Dourado"],
+        "size": ["P", "M", "G", "GG"],
+        "price": 104
+      },
+
+      {
+        "id": 135,
+        "name": "Camisa Tottenham Home (1) 2023/24",
+        "type": "Camisa",
+        "img": "../imagens/Produtos/Camisa/tott.png",
+        "img1":"../imagens/Produtos/Camisa/tott1.png",
+        "img2":"../imagens/Produtos/Camisa/tott2.png",
+        "img3":"../imagens/Produtos/Camisa/tott3.jpg",
+        "color": ["Azul-Escuro", "Dourado"],
+        "size": ["P", "M", "G", "GG"],
+        "price": 104
+      },
+
+      {
+        "id": 136,
+        "name": "Camisa Real Madrid Home (1) 2023/24",
+        "type": "Camisa",
+        "img": "../imagens/Produtos/Camisa/rmd.png",
+        "img1":"../imagens/Produtos/Camisa/rmd1.png",
+        "img2":"../imagens/Produtos/Camisa/rmd2.png",
+        "img3":"../imagens/Produtos/Camisa/rmd3.jpg",
+        "color": ["Azul-Escuro", "Dourado"],
+        "size": ["P", "M", "G", "GG"],
+        "price": 104
+      },
+
+      {
+        "id": 137,
+        "name": "Tênis Cano Alto Laranja Dragon Ball Goku",
+        "type": "Tenis",
+        "img": "../imagens/Produtos/tenis/goku.png",
+        "img1":"../imagens/Produtos/tenis/goku1.png",
+        "img2":"../imagens/Produtos/tenis/goku2.png",
+        "img3":"../imagens/Produtos/tenis/goku3.png",
+        "color": ["Azul-Escuro", "Dourado"],
+        "size": ["28", "30", "34", "42"],
+        "price": 180,
+        "descrição":"Goku é o protagonista da série de mangá e anime Dragon Ball, criada por Akira Toriyama. Ele é um poderoso guerreiro Saiyajin que luta para proteger a Terra e seus habitantes de ameaças perigosas, muitas vezes de seres extraterrestres e monstros poderosos."
+      },
+
+      {
+        "id": 138,
+        "name": "Camisa Milan Away (2) 05/06 Kaká #22",
+        "type": "Camisa-Retro",
+        "img": "../imagens/Produtos/tenis/goku.png",
+        "img1":"../imagens/Produtos/tenis/goku1.png",
+        "img2":"../imagens/Produtos/tenis/goku2.png",
+        "img3":"../imagens/Produtos/tenis/goku3.png",
+        "color": ["Azul-Escuro", "Dourado"],
+        "size": ["28", "30", "34", "42"],
+        "price": 180,
+        "descrição":"Goku é o protagonista da série de mangá e anime Dragon Ball, criada por Akira Toriyama. Ele é um poderoso guerreiro Saiyajin que luta para proteger a Terra e seus habitantes de ameaças perigosas, muitas vezes de seres extraterrestres e monstros poderosos."
+      }
      ]
   }

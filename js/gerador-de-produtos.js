@@ -13,32 +13,68 @@ requestJSON = () => {
 
 // Gera o produto HTML
 generateProductHTML = () => {
-    productContainer.innerHTML += `
-
-        <div id="produto">
-            <div id="image-div">
-                <img id="produto-image" src="`+jsonObject.products[idValue].img+`">
-            </div>
-            <div id="informação-produto">
-                <p id="produto-nome">`+jsonObject.products[idValue].name+`</p>
-                <p id="produto-preço">R$`+jsonObject.products[idValue].price+`,99</p>
-                <p class="label">Tamanho</p>
-                <select name="tamanho" id="selecionar-tamanho">
-
-                </select>
-                <p class="label">Quantidade</p>
-                <input type="number" id="quantidade-produto" min=1 max=99 value=1>
-                <a id="produto-button" href="#">Comprar</a>
-            </div>
-            
-        </div>
-        <div>
-           <p id="Descrição">`+jsonObject.products[idValue].descrição+`</p>
-        </div>
+    productContainer.innerHTML += 
     `
+    
+        <div id="produto">
+            <p id="produto-nome">`+jsonObject.products[idValue].name+`</p>
+            <div id="produto2">
+                <div id="image-div">
 
-} 
+                <div id="carouselExample" class="carousel slide w-75">
+                    <div class="carousel-inner">
+                    <div class="carousel-item active">
+                        <img src="`+jsonObject.products[idValue].img+`" class="d-block w-100" alt="...">
+                    </div>
+                    <div class="carousel-item">
+                        <img src="`+jsonObject.products[idValue].img1+`" class="d-block w-100" alt="...">
+                    </div>
+                    <div class="carousel-item">
+                        <img src="`+jsonObject.products[idValue].img2+`" class="d-block w-100" alt="...">
+                    </div>
+                    <div class="carousel-item">
+                        <img src="`+jsonObject.products[idValue].img3+`" class="d-block w-100" alt="...">
+                    </div>
+                    </div>
+                    <button class="carousel-control-prev" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
+                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                    <span class="visually-hidden">Previous</span>
+                    </button>
+                    <button  class="carousel-control-next" type="button" data-bs-target="#carouselExample" data-bs-slide="next">
+                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                    <span class= "visually-hidden">Next</span>
+                    </button>
+                </div>
+                </div>
+                
+                <div id="Descrição-div">
+                <p id="Descrição">`+jsonObject.products[idValue].descrição+`</p>
+                </div>
+            </div>
+            <div>
+                <div>
+                    <button id="btn-collapse" class="btn btn-primary" type="button" data-bs-toggle="collapse" data-bs-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
+                     Selecionar
+                    </button>
+                </div>
+                <div class="collapse" id="collapseExample">
+                    <div class="card card-body" id="card-body">
+                        <div id="informação-produto">
+                            <p class="label">Tamanho</p>
+                            <select name="tamanho" id="selecionar-tamanho" value="G">
 
+                            </select>
+                            <p class="label"></p>
+                        <a id="produto-button" href="../html/carinho.html?id=${idValue}&nome=${jsonObject.products[idValue].name}&preco=${jsonObject.products[idValue].price}&imagem=${jsonObject.products[idValue].img}">Adicionar</a>
+                        <a id="produto-button" href="../html/cupomcompra.html?id=${idValue}&nome=${jsonObject.products[idValue].name}&preco=${jsonObject.products[idValue].price}">Comprar</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    
+`
+}
 // Gera opcoes de tamanho
 generateSizeOptions = () => {
     for(let x = 0; x < size.length; x++) {

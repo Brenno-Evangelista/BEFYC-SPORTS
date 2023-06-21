@@ -18,19 +18,26 @@ let catValue = keyValue[1]; // pega valor do id em string (Categorias)
 // Gera HTML do produto 
 generateHTML = (json, x) => {
     productsContainer.innerHTML += `
+         
+    
 
-            <div id="produto-unico">
-                <img src="`+json[x].img+`" class="img-produto">
-                <span class="catalogo-line"></span>
-                <p class="produto-titulo">`+json[x].name+`</p>
-                <p class="produto-preço">R$`+json[x].price+`,99</p>
-                <form method='get' action="produtos.html">
-                    <input type="hidden" value="`+json[x].id+`" name='id'/>
-                    <button class="produto-button" type="submit">Comprar</button>
-                </form>
-            </div>
+    <div id="produto-unico">
+        <img src="`+json[x].img+`" class="img-produto">
+        <span class="catalogo-line"></span>
+        <p class="produto-titulo">`+json[x].name+`</p>
+        <p class="produto-preço">R$`+json[x].price+`,99</p>
+        <form method='get' action="produtos.html">
+            <input type="hidden" value="`+json[x].id+`" name='id'/>
+            <button class="produto-button" type="submit">Comprar</button>
+        </form>
+    </div>
 
-    `
+`
+
+
+
+    
+
 }
 
 // Percorre o JSON e gera
@@ -41,6 +48,7 @@ generateProducts = () => {
             generateHTML(jsonObject.products, x);
         }
     }
+
 }
 
 generateProducts();
@@ -167,3 +175,17 @@ resetFilter = () => {
     document.getElementsByClassName('form-select')[0].value = "default";
     generateProducts();
 }
+// Gera opcoes de tamanho
+generateSizeOptions = () => {
+    for(let x = 0; x < size.length; x++) {
+        let opt = document.createElement('option');    
+        opt.value = size[x];
+        opt.innerHTML = size[x];
+        selectOptions.appendChild(opt);
+    }
+}
+let selectOptions = document.getElementById('selecionar-tamanho'); // seleciona o select
+let size = jsonObject.products[idValue].size;
+
+
+generateSizeOptions();
