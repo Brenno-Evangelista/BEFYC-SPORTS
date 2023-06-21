@@ -361,7 +361,7 @@
         "color": ["Preto", "Verde", "Azul"],
         "size": ["39", "40", "41", "42"],
         "price": 345,
-        "descrição":"A Nike Mercurial vapor 15 Elite FG apresenta um modelo simplificado que utiliza a quantidade minima de materiais possivel, para que possa jogar mais rapido do comeco ao fim. Uma palmilha amortecida proporciona conforto imparavel e uma placa especialmente desenhada proporciona responsividade para cortes rapidos em alta velocidade."          
+        "descrição":"A chuteira apresenta um modelo simplificado que utiliza a quantidade mínima de materiais possível, para que possa jogar mais rápido do começo ao fim. Uma palmilha amortecida proporciona conforto imparável e uma placa especialmente desenhada proporciona responsividade para cortes rápidos em alta velocidade."          
       },
 
       {
@@ -374,7 +374,8 @@
         "img3":"../imagens/Produtos/ch[/nikecr3.png",
         "color": ["Preto", "Rosa"],
         "size": ["39", "40", "41", "42"],
-        "price": 250
+        "price": 250,
+        "descrição":"A chuteira apresenta um modelo simplificado que utiliza a quantidade mínima de materiais possível, para que possa jogar mais rápido do começo ao fim. Uma palmilha amortecida proporciona conforto imparável e uma placa especialmente desenhada proporciona responsividade para cortes rápidos em alta velocidade."
         
       },
 
@@ -388,7 +389,8 @@
         "img3":"../imagens/Produtos/ch[/nikecz3.png",
         "color": ["Preto", "Rosa", "Branco"],
         "size": ["39", "40", "41", "42"],
-        "price": 270
+        "price": 270,
+        "descrição":"A chuteira apresenta um modelo simplificado que utiliza a quantidade mínima de materiais possível, para que possa jogar mais rápido do começo ao fim. Uma palmilha amortecida proporciona conforto imparável e uma placa especialmente desenhada proporciona responsividade para cortes rápidos em alta velocidade."
       },
 
       {
@@ -398,7 +400,8 @@
         "img": "../imagens/Produtos/ch[/Air-Zoom-Mercurial-Vapor-XV-Elite-FG-Cinza.png",
         "color": ["Branco", "Vermelho"],
         "size": ["39", "40", "41", "42"],
-        "price": 349
+        "price": 349,
+        "descrição":"A chuteira apresenta um modelo simplificado que utiliza a quantidade mínima de materiais possível, para que possa jogar mais rápido do começo ao fim. Uma palmilha amortecida proporciona conforto imparável e uma placa especialmente desenhada proporciona responsividade para cortes rápidos em alta velocidade."
         
       },
 
@@ -410,7 +413,8 @@
         "img": "../imagens/Produtos/ch[/COPA-GLORO-FG-WHITE-RED.png",
         "color": ["Branco", "Cinza", "Vermelho"],
         "size": ["39", "40", "41", "42"],
-        "price": 270
+        "price": 270,
+        "descrição":"A chuteira apresenta um modelo simplificado que utiliza a quantidade mínima de materiais possível, para que possa jogar mais rápido do começo ao fim. Uma palmilha amortecida proporciona conforto imparável e uma placa especialmente desenhada proporciona responsividade para cortes rápidos em alta velocidade."
         
       },
 
@@ -438,7 +442,8 @@
         "img3":"../imagens/Produtos/ch[/pumav3.png",
         "color": ["Dourado", "Branco"],
         "size": ["39", "40", "41", "42"],
-        "price": 394
+        "price": 394,
+        "descrição":"A chuteira apresenta um modelo simplificado que utiliza a quantidade mínima de materiais possível, para que possa jogar mais rápido do começo ao fim. Uma palmilha amortecida proporciona conforto imparável e uma placa especialmente desenhada proporciona responsividade para cortes rápidos em alta velocidade."
         
       },
 
@@ -452,7 +457,8 @@
         "img3":"../imagens/Produtos/ch[/puma2cor3.png",
         "color": ["Ciano", "Azul"],
         "size": ["39", "40", "41", "42"],
-        "price": 330
+        "price": 330,
+        "descrição":"A chuteira apresenta um modelo simplificado que utiliza a quantidade mínima de materiais possível, para que possa jogar mais rápido do começo ao fim. Uma palmilha amortecida proporciona conforto imparável e uma placa especialmente desenhada proporciona responsividade para cortes rápidos em alta velocidade."
         
       },
 
@@ -463,7 +469,8 @@
         "img": "../imagens/Produtos/ch[/FUTURE-Z-2.4-FG_AG-NJR.png",
         "color": ["Dourado", "Verde"],
         "size": ["39", "40", "41", "42"],
-        "price": 399
+        "price": 399,
+        "descrição":"A chuteira apresenta um modelo simplificado que utiliza a quantidade mínima de materiais possível, para que possa jogar mais rápido do começo ao fim. Uma palmilha amortecida proporciona conforto imparável e uma placa especialmente desenhada proporciona responsividade para cortes rápidos em alta velocidade."
       
       },
 
@@ -474,7 +481,8 @@
         "img": "../imagens/Produtos/ch[/JUNIOR-ULTRA-MATCH-LL-FG.png",
         "color": ["Branco", "Azul", "Preto"],
         "size": ["39", "40", "41", "42"],
-        "price": 255
+        "price": 255,
+        "descrição":"A chuteira apresenta um modelo simplificado que utiliza a quantidade mínima de materiais possível, para que possa jogar mais rápido do começo ao fim. Uma palmilha amortecida proporciona conforto imparável e uma placa especialmente desenhada proporciona responsividade para cortes rápidos em alta velocidade."
         
       },
 
@@ -500,7 +508,8 @@
         "img3":"../imagens/Produtos/ch[/phan3.png",
         "color": ["Branco", "Azul-Claro"],
         "size": ["39", "40", "41", "42"],
-        "price": 399
+        "price": 399,
+        "descrição":"A chuteira apresenta um modelo simplificado que utiliza a quantidade mínima de materiais possível, para que possa jogar mais rápido do começo ao fim. Uma palmilha amortecida proporciona conforto imparável e uma placa especialmente desenhada proporciona responsividade para cortes rápidos em alta velocidade."
         
       },
 
@@ -514,7 +523,8 @@
         "img3":"../imagens/Produtos/ch[/nikeair3.png",
         "color": ["Preto", "Laranja"],
         "size": ["39", "40", "41", "42"],
-        "price": 420
+        "price": 420,
+        "descrição":"A chuteira apresenta um modelo simplificado que utiliza a quantidade mínima de materiais possível, para que possa jogar mais rápido do começo ao fim. Uma palmilha amortecida proporciona conforto imparável e uma placa especialmente desenhada proporciona responsividade para cortes rápidos em alta velocidade."
         
       },
 
@@ -528,7 +538,8 @@
         "img3":"../imagens/Produtos/ch[/phamv3.png",
         "color": ["Preto", "Laranja"],
         "size": ["39", "40", "41", "42"],
-        "price": 318
+        "price": 318,
+        "descrição":"A chuteira apresenta um modelo simplificado que utiliza a quantidade mínima de materiais possível, para que possa jogar mais rápido do começo ao fim. Uma palmilha amortecida proporciona conforto imparável e uma placa especialmente desenhada proporciona responsividade para cortes rápidos em alta velocidade."
         
       },
 
@@ -554,7 +565,8 @@
         "img": "../imagens/Produtos/ch[/PREDATOR-ACCURACY-FG.png",
         "color": ["Branco", "Azul-Claro", "Verde"],
         "size": ["39", "40", "41", "42"],
-        "price": 320
+        "price": 320,
+        "descrição":"A chuteira apresenta um modelo simplificado que utiliza a quantidade mínima de materiais possível, para que possa jogar mais rápido do começo ao fim. Uma palmilha amortecida proporciona conforto imparável e uma placa especialmente desenhada proporciona responsividade para cortes rápidos em alta velocidade."
         
       },
 
@@ -568,7 +580,8 @@
         "img3":"../imagens/Produtos/ch[/pre3.png",
         "color": ["Amarelo", "Azul"],
         "size": ["39", "40", "41", "42"],
-        "price": 305
+        "price": 305,
+        "descrição":"A chuteira apresenta um modelo simplificado que utiliza a quantidade mínima de materiais possível, para que possa jogar mais rápido do começo ao fim. Uma palmilha amortecida proporciona conforto imparável e uma placa especialmente desenhada proporciona responsividade para cortes rápidos em alta velocidade."
         
       },
 
@@ -594,7 +607,8 @@
         "img": "../imagens/Produtos/ch[/Tiempo-Legend-9.png",
         "color": ["Roxo", "Verde"],
         "size": ["39", "40", "41", "42"],
-        "price": 380
+        "price": 380,
+        "descrição":"A chuteira apresenta um modelo simplificado que utiliza a quantidade mínima de materiais possível, para que possa jogar mais rápido do começo ao fim. Uma palmilha amortecida proporciona conforto imparável e uma placa especialmente desenhada proporciona responsividade para cortes rápidos em alta velocidade."
         
       },
 
@@ -605,7 +619,8 @@
         "img": "../imagens/Produtos/ch[/ULTRA-ULTIMATE-FG_AG-PURSUIT-PACK.png",
         "color": ["Verde", "Azul"],
         "size": ["39", "40", "41", "42"],
-        "price": 229
+        "price": 229,
+        "descrição":"A chuteira apresenta um modelo simplificado que utiliza a quantidade mínima de materiais possível, para que possa jogar mais rápido do começo ao fim. Uma palmilha amortecida proporciona conforto imparável e uma placa especialmente desenhada proporciona responsividade para cortes rápidos em alta velocidade."
         
       },
 
@@ -616,7 +631,8 @@
         "img": "../imagens/Produtos/ch[/ULTRA-ULTIMATE-FG.png",
         "color": ["Azul-Escuro", "Laranja"],
         "size": ["39", "40", "41", "42"],
-        "price": 499
+        "price": 499,
+        "descrição":"A chuteira apresenta um modelo simplificado que utiliza a quantidade mínima de materiais possível, para que possa jogar mais rápido do começo ao fim. Uma palmilha amortecida proporciona conforto imparável e uma placa especialmente desenhada proporciona responsividade para cortes rápidos em alta velocidade."
         
       },
 
