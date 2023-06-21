@@ -988,7 +988,8 @@
           "id": 88,
           "name": "Camisa Milan 05/06",
           "type": "Camisa-Retro",
-          "img": "../imagens/Produtos/camisa retro/camisa-Milan2006.png",
+          "img": "../imagens/Produtos/lendas/kaka1.png",
+          "img1":"../imagens/Produtos/lendas/kaka2.png",
           "color": ["Branco","Vermelho"],
           "size": ["P","M","G","GG"],
           "price": 209
