@@ -1526,17 +1526,6 @@
         "size": ["28", "30", "34", "42"],
         "price": 180,
         "descrição":"Goku é o protagonista da série de mangá e anime Dragon Ball, criada por Akira Toriyama. Ele é um poderoso guerreiro Saiyajin que luta para proteger a Terra e seus habitantes de ameaças perigosas, muitas vezes de seres extraterrestres e monstros poderosos."
-      },
-
-
-      "id": 88,
-          "name": "Camisa Milan 05/06",
-          "type": "Camisa-Retro",
-          "img": "../imagens/Produtos/camisa retro/camisa-Milan2006.png",
-          "color": ["Branco","Vermelho"],
-          "size": ["P","M","G","GG"],
-          "price": 209
-
-
+      }
      ]
   }
