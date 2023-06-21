@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Foldit:wght@300&family=Manrope:wght@500&family=Noto+Sans+JP:wght@300&display=swap');
 
 
 * {
@@ -7,14 +7,15 @@
 }
 
 :root {
-    --main-blue-color: #010626;
-    --text-red-color: #F20519;
+    --main-blue-color: #040DBF;
+    --text-red-color: #D91111;
     --main-pink-color: #F2BBC9;
-    --text-purple-color: #9F2CBF;
+    --text-orange-color:#FE9031;
 }
 
 html {
-    font-family: 'Quicksand', sans-serif;
+    font-family: 'Manrope', sans-serif;
+    background-color: #F2FFFD;
 }
 
 a {
@@ -27,10 +28,11 @@ a {
 
 .navbar {
     display: flex;
-    background-color: var(--main-blue-color);
-    font-family: 'Quicksand', sans-serif;
+    background-color:  #F2D43D;
+    font-family: 'Manrope', sans-serif;
     max-height: 300px;
 }
+
 
 /*****
 LOGO
@@ -41,15 +43,19 @@ LOGO
     width: 20%;
     font-weight: 900;
     font-size: 3.6rem;
-    font-family: 'Quicksand', sans-serif;
+    font-family: 'Manrope', sans-serif;
     
 }
 
 .nav-logo a {
-    color: var(--main-pink-color);
+    background-image: linear-gradient(to right,#F27405,#D91111);
     text-decoration: none;
-    font-family: 'Quicksand', sans-serif;
+    font-family: 'Manrope', sans-serif;
+    background-clip: text;
+    -webkit-background-clip: text;
+   -webkit-text-fill-color: transparent;
 }
+
 
 /*****
 BARRA DE PESQUISA
@@ -90,7 +96,20 @@ BARRA DE PESQUISA
 .fa-search {
     color: var(--main-blue-color);
 }
+/******
+BANDEIRA
+******/
+.bandeira{
+    align-self: center;
+    max-width: 50%;
+    margin-left: 300px;
+}
 
+#img-bandeira{
+    width: 100%;
+    height: auto;
+    justify-content: center;
+}
 /******
 LINKS
 ******/
@@ -109,17 +128,18 @@ LINKS
 }
 
 .nav-link {
-    color: var(--text-purple-color);
-    font-size: 1rem;
+    color: #F27405;
+    font-size: 18px;
+    text-decoration: none;
 }
 
 .nav-link:hover {
-    color:  #0000FF;
+    color:  #D91111;
 }
 
 .link-text {
     display: block;
-    color: var(--text-purple-color);
+    color: #FF5623;
 }
 
 /**********************
@@ -127,20 +147,20 @@ LINKS
 **********************/
 
 footer {
-    background-color: #010626;
+    background-color:  #F2D43D;
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
     padding: 1rem;
     margin-top: 10%;
     position: relative;
-    border-top: 2px solid var(--main-blue-color);
-    font-family: 'Quicksand', sans-serif;
+    border-top: 2px solid  #FF5623;
+    font-family: 'Manrope', sans-serif;
     max-height: 300px;
 }
 
 footer h4, footer a, footer  {
-    color: var(--text-purple-color);
+    color:  #FF5623;
 }
 
 footer h4 {
@@ -148,7 +168,7 @@ footer h4 {
 }
 
 .contacts-text {
-    margin-bottom: 0.2rem;
+    margin-bottom: 0.3rem;
 }
 
 .contatos {
@@ -156,7 +176,7 @@ footer h4 {
 }
 
 .contatos-text .fas {
-    margin-right: 0.3rem;
+    margin-right: 1rem;
 }
 
 .contatos, .midia-social {
@@ -170,7 +190,7 @@ footer h4 {
 }
 
 .social-link-div {
-    background-color: var(--text-purple-color);
+    background-color: #F27405;
     border-radius: 50%;
     margin-right: 1rem;
     width: 35px;
@@ -184,11 +204,12 @@ footer h4 {
     height: 100%;
     justify-content: center;
     align-items: center;
-    color: var(--main-blue-color);
+    color: #040DBF;
+    text-decoration: none;
 }
 
 .social-links a:hover {
-    color: #0000FF;
+    color: #D91111;
 }
 
 
@@ -200,12 +221,22 @@ footer h4 {
     .nav-logo {
         font-size: 3rem;
     }
+    .bandeira {
+        margin-left: 40px;
+        
+    }
+    .img-bandeira{
+        width: 300px;
+        height: 300px;
+    }
+    
 }
 
 @media (max-width: 1250px) {
     .nav-logo {
         font-size: 2rem;
     }
+    
 }
 
 @media (max-width: 950px) {
@@ -215,6 +246,7 @@ footer h4 {
     .nav-input {
         padding: 0.5rem;
     }
+
 }
 
 @media (max-width: 865px) {
@@ -231,33 +263,37 @@ footer h4 {
 }
 
 @media (max-width: 720px) {
+    .nav-search {
+        width: 40%;
+        order: 3;
+        margin-right: 50px;
+        font-size: 10px;
+        margin-left: 10px;
+    }
     .nav-logo {
         width: 40%;
         font-size: 1.4rem;
-        order: 2;
-        text-align: center;
-    }
-    .nav-search {
-        width: 30%;
         order: 1;
     }
+    .bandeira {
+        width: 90%;
+        order: 2;
+        
+    }
+    #img-bandeira{
+        width: 100%;
+    }
     .navigation {
-        order: 3;
-    }
-    .nav-input {
-       display: none;
-    }
-    #search-button {
-        margin-left: 2rem;
-    }
-    .fa-search {
-        color: var(--text-white-color);
-    }
-    .link-text {
-        display: none;
+        width: 50%;
+        order: 2;
     }
     .link-icon {
         font-size: 1rem;
+    }
+    
+    .link-text {
+     font-size: 8px;
+     padding: 5px;
     }
     footer h4 {
         font-size: 0.6rem;

@@ -9,6 +9,7 @@
     margin: 1rem auto;
     border-radius: 20px;
     margin-left: 18%;
+    margin-top: 50px;
 }
 
 .carousel-item img {
@@ -41,8 +42,8 @@ CONTROLES
     width: 40px;
     text-align: center;
     line-height: 35px;
-    background-color: var(--main-blue-color);
-    color: var(--text-purple-color);
+    background-color: #F2D43D;
+    color: #F27405;
     border-radius: 50%;
     font-size: 1.4rem;
     top: 50%;
@@ -76,22 +77,21 @@ CONTROLES
     flex-direction: row;
     justify-content: center;
     flex-wrap: wrap;
+    margin-top: 30px;
 }
 
 .categorias {
     display: block;
-    background-color :#B599F2;
+    background-color : #D91111;
     text-align: center;
     border-radius: 15px;
-    border: solid 2px;
-    box-shadow: rgba(240, 46, 170, 0.4) -5px 5px, rgba(240, 46, 170, 0.3) -10px 10px, rgba(240, 46, 170, 0.2) -15px 15px, rgba(240, 46, 170, 0.1) -20px 20px, rgba(240, 46, 170, 0.05) -25px 25px;
+    box-shadow:  rgba(253, 80, 0, 0.3)-5px 5px, rgba(253, 80, 0, 0.3) -10px 10px, rgba(253, 80, 0, 0.2) -15px 15px, rgba(253, 80, 0, 0.1) -20px 20px, rgba(253, 80, 0, 0.05) -25px 25px;
 
 }
 
 .categorias img {
     max-width: 230px;
     width: 100%;
-    max-height: 540px;
     height: auto;
     max-height: 300px;
     border-radius: 15px 15px 0 0;
@@ -99,15 +99,15 @@ CONTROLES
 
 .categorias-button {
     cursor: pointer;
-    background-image: linear-gradient(to bottom,#F2C2CF,#B599F2);
+    background-image: linear-gradient(to bottom,#F2D43D,#D91111);
     border-radius: 15px;
     border: 0;
     padding: 0;
 }
 
 .categorias-texto {
-    font-family: 'Noto Sans';
-    color: var(--text-purple-color);
+    font-family: 'Manrope', sans-serif;
+    color: #fff;
     font-size: 1.5rem;
     font-weight: 800;
     padding: 1.6rem;
@@ -157,8 +157,7 @@ CONTROLES
 }
 
 .sessão-titulo{
-    color: var(--main-blue-color);
-    font-size: 2rem;
+    font-size: 3rem;
     font-weight: 700;
 }
 
@@ -167,12 +166,12 @@ SESSÃO CATALOGOS
 *******/
 
 .sessão-catalogo {
-    width: 80%;
+    width: 60%;
     margin-top: 4rem;
     display: flex;
     flex-direction: row;
-    flex-wrap: wrap;
     justify-content: center;
+    flex-wrap: wrap;
 }
 
 /*******
@@ -180,17 +179,35 @@ CATALOGO
 *******/
 
 .catalogo-item {
-    width: 20%;
-    margin: 0 1rem;
-    padding: 0.5rem;
+    width: 30%;
+    margin: 0 1rem 2rem;
+    padding: 1rem;
     display: flex;
     flex-direction: column;
     align-items: center;
-    border: 1px solid rgba(93, 93, 129, 0.3);
     border-radius: 5%;
-    background-image: linear-gradient(to bottom,#F2C2CF,#B599F2);
-    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+    font-family: 'Manrope', sans-serif;
+    background-color: #FE9031;
+    box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
 }
+
+#cat1{
+    background: linear-gradient(to top right , green, lightgreen);
+}
+
+#cat2{
+    background: linear-gradient(to top right , #FF710B, #F2B705);
+}
+
+#cat3{
+    background: linear-gradient(to top right , #F5367A, #F4C2DF);
+}
+
+#cat4{
+    background: linear-gradient(to top right , #D91111, #FF425A);
+}
+
+
 
 .destaques .catalogo-item {
     background-color: #EFEFF1;
@@ -198,18 +215,19 @@ CATALOGO
 
 .catalogo-img {
     width: 100%;
-    height: 100%;
+    height: 300px;
     max-height: 400px;
+    max-width: 400px;
 }
 
 .catalogo-line {
-    border: 2px solid rgba(240, 46, 170, 0.4) ;
+    border: 2px solid white ;
     width: 100%;
     margin-bottom: 0.6rem;
 }
 
 .produto-titulo {
-    font-size: 1.2rem;
+    font-size: 1.4rem;
     text-align: center;
     font-weight: bold;
     color: #ffff;
@@ -221,10 +239,11 @@ CATALOGO
     font-weight: 700;
     margin: 0.5rem 0;
     color: #ffff;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .produto-prestação {
-    font-size: 0.8rem;
+    font-size: 1rem;
     color: #ffff;
 }
 
@@ -235,14 +254,16 @@ CATALOGO
 .produto-button {
     width: 100%;
     margin: 1rem 0;
+    font-size: 15px;
     cursor: pointer;
-    background-color: rgba(240, 46, 170, 0.4);
+    background-color:#fff;
     border: none;
     border-radius: 40px;
     padding: 0.7rem 3.5rem;
     text-transform: uppercase;
-    color: #fff;
+    color: #f87501;
     text-align: center;
+    font-weight: bold;
     transition: opacity .5s ease-in;
 }
 
@@ -250,26 +271,117 @@ CATALOGO
     opacity: 0.8;
 }
 
+
+
 /**********************
       MEDIA QUERY
 **********************/
 
+@media (max-width : 1440px) {
+    #carousel{
+        margin-left: 7%;
+        margin-top: 50px;
+    }
+
+    .card1{
+        margin-right: 2rem;
+     
+    }
+    
+    .card2{
+        margin-right: 2rem;
+    
+    }
+    
+    .card3{
+        margin-right: 2rem;
+    }
+    
+    .card4{
+        margin-right: 2rem;
+    }
+    
+    .card5{
+        
+        margin-right: 2rem;
+    }
+    
+    .card6{
+        margin-right: 2rem;
+        margin-top: 2rem;
+    }
+    
+    
+}
+@media (max-width: 1400px) {
+    #carousel{
+        margin-left: 6%;
+        margin-top: 50px;
+    }
+   
+    .categorias {
+       margin-top: 30px;
+       justify-content: space-between;
+    }
+    .catalogo-item {
+       margin-top: 20px;
+       
+    }
+    .card1{
+        margin-right: 2rem;
+     
+    }
+    
+    .card2{
+        margin-right: 2rem;
+    
+    }
+    
+    .card3{
+        margin-right: 2rem;
+    }
+    
+    .card4{
+        margin-right: 2rem;
+    }
+    
+    .card5{
+        
+        margin-right: 2rem;
+    }
+    
+    .card6{
+        margin-right: 2rem;
+        margin-top: 2rem;
+    }
+    
+    
+    
+    
+}
 @media (max-width: 1250px) {
     .sessão-catalogo{
         width: 100%;
     }
+    #carousel {
+        margin-right: 50px;
+    }
+
+
+    
 }
 
 @media (max-width: 1200px) {
     #carousel {
-        margin: auto;
-        border-radius: 0;
+        margin-top: 50px;
+        margin-right: 50px;
     }
+
 }
 
 @media (max-width: 1000px) {
     .catalogo-item {
-        width: 17%;
+        width: 30%;
     }
     .produto-titulo {
         font-size: 1rem;
@@ -281,6 +393,7 @@ CATALOGO
         padding: 0.7rem 2rem;
         font-size: 0.7rem;
     }
+    
 }
 
 @media (max-width: 865px) {
@@ -298,15 +411,19 @@ CATALOGO
         width: 40%;
         margin-top: 1.4rem;
     }
+    
 }
 
 @media (max-width: 751px) {
     .card1, .card2, .card3, .card4, .card5, .card6 {
-        margin-right: 0;
+        margin-right: 2rem;
     }
     .categorias {
         margin-top: 1.1rem;
     }
+
+
+    
 }
 
 @media (max-width: 720px) {
@@ -324,6 +441,7 @@ CATALOGO
     }
     .catalogo-img {
         width: 70%;
+        height: auto;
     }
 }
 
@@ -345,6 +463,51 @@ CATALOGO
     .sessão-catalogo {
         width: 100%;
     }
+    .categorias-div{
+     display: flex;
+     padding: auto;
+
+    }
+    .categorias{
+        margin-left: 2rem;
+    }
+    
+
+    .card1{
+       width: 200px;
+     
+    }
+    
+    .card2{
+        width: 200px;
+    
+    }
+    
+    .card3{
+        width: 200px;
+    }
+    
+    .card4{
+        width: 200px;
+    }
+    
+    .card5{
+        width: 200px;
+    }
+    
+    .card6{
+        width: 200px;
+    }
+    .sessão-catalogo{
+        display: flex;
+        padding: auto;
+        }
+        .catalogo-item{
+            width: 300px;
+        }
+
+    
+   
 }
 
 @media (max-width: 420px) {
@@ -365,6 +528,7 @@ CATALOGO
         font-size: 0.6rem;
         margin: 0.5rem 0;
     }
+   
 }
 
 @media (max-width: 400px) {
@@ -405,6 +569,7 @@ CATALOGO
         margin: 0.3rem 0.3rem;
         
     }
+    
 
 
 }

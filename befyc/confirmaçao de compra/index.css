@@ -1,0 +1,35 @@
+#status-pedido {
+
+    font-size: 30px;
+    
+    background: #faf5f5;
+    
+    color: rgb(01, 06, 36);
+    
+    padding: 30px;
+    
+    width: 95%;
+    
+    }
+    
+    @media screen and (min-width: 30em) {
+    
+    .w-70 {
+    
+    width: 70%;
+    
+    }
+    
+    }
+    
+    #bloco-confirma {
+    
+    border-radius: .5rem;
+    
+    background:  rgb(01, 06, 36);
+    
+    padding: 2rem;
+    
+    border: 1px solid #e21111;
+    
+    } 

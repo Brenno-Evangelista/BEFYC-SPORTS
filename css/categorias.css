@@ -11,13 +11,14 @@
     padding: 2rem 0;
     width: 100%;
     margin: 2rem 0;
-    background-color: var(--main-blue-color);
-    color: var(--main-pink-color);
+    background-image: linear-gradient(to right,#F2D43D,#F27405);
 }
 
 .filtro-titulo {
-    font-weight: 800;
-    font-size: 1.4rem;
+    font-weight:bold;
+    font-size: 2rem;
+    color: #D91111;
+    font-family: 'Manrope', sans-serif;
 }
 
 .min-max-form {
@@ -26,13 +27,16 @@
 }
 
 .min-max-form label {
-    margin-right: 0.5rem;
+    margin-right: 0.8rem;
+    font-size: 15px;
+    color: #D91111;
 }
 
 .min-max-input {
     border-radius: 5px;
     border: none;
     padding: 4px;
+    color: rgb(0, 0, 0);
 }
 
 .min-max-input:focus {
@@ -42,7 +46,7 @@
 }
 
 #min-max-button {
-    color: var(--main-blue-color);
+    color: black;
     padding: 0.3rem;
     cursor: pointer;
     border: none;
@@ -54,12 +58,13 @@
     display: flex;
     flex-direction: row;
     height: 2em;
+    color: black;
 }
 
 .form-select {
     margin-left: 0.6rem;
     border-radius: 5px;
-    border-color: var(--main-blue-color);
+    border-color: black;
 }
 
 .form-select:focus {
@@ -69,7 +74,7 @@
 }
 
 .resetar-button {
-    color: var(--main-blue-color);
+    color: black;
     padding: 0.3rem;
     cursor: pointer;
     border: none;
@@ -91,9 +96,9 @@
 }
 
 .titulo {
-    color: var(--main-blue-color);
+    color: black;
     font-size: 2rem;
-    font-weight: 700;
+    font-weight: bold;
     margin-top: 2rem;
 }
 
@@ -113,9 +118,11 @@
     text-align: center;
     align-items: center;
     justify-content: center;
-    background-image: linear-gradient(to bottom,#F2C2CF,#B599F2);
-    border: 1px solid var(--main-blue-color);
-    border-radius: 5%;
+    background-image: linear-gradient(to left,#F2D43D,#D91111);
+    border: 2px solid transparent;
+    background: linear-gradient(#fff,#fff) padding-box, linear-gradient(to right, #13f78c, #0be6e6, #f700c5) border-box;
+    border-top-right-radius:20px ;
+    border-bottom-left-radius: 20px;
     box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
 }
 
@@ -127,21 +134,24 @@
 }
 
 .catalogo-line {
-    border: 1px solid var(--main-blue-color);
+    border: 1px solid black;
     width: 100%;
     margin-bottom: 0.6rem;
 }
 
 .produto-titulo {
-    font-size: 1rem;
+    font-size: 15px;
     font-weight: bold;
+    color: black;
+    font-family: 'Manrope', sans-serif;
+
 }
 
 .produto-preço {
-    color: var(--main-blue-color);
+    color: black;
     font-size: 1.4rem;
-    font-weight: 700;
-    margin: 0.2rem 0;
+    font-weight: bold;
+    font-family: 'Manrope', sans-serif;
 }
 
 .produto-button {
@@ -149,18 +159,20 @@
     width: 150px;
     font-size: 0.8rem;
     margin: 0.2rem 0;
-    background-color: black;
-    border: none;
+    background-color: white;
+    border: 2px solid transparent;
     border-radius: 40px;
     padding: 0.5rem;
     text-transform: uppercase;
-    color: #fff;
+    color: black;
     text-align: center;
+    background: linear-gradient(white, white) padding-box, linear-gradient(to right, #13f78c, #0be6e6, #f700c5) border-box;
     transition: opacity .5s ease-in;
 }
 
 .produto-button:hover {
     opacity: 0.8;
+    background: linear-gradient(to right, #13f78c, #0be6e6, #f700c5) border-box;;
 }
 
 /*******************
@@ -195,56 +207,6 @@
     background-color: var(--main-blue-color);
 }
 
-/*******************
-    CAIXA
-*******************/
-#caixa{ 
-    background-image: linear-gradient(to bottom, #F2C2CF,#595959);
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    align-items: center;
-    font-family: 'Quicksand', sans-serif;
-    font-weight: bold;
-  
-  }
-  #caixa .descrição{
-   text-align: center;
-   margin-right: 50px;
-   color: #fff;
-  }
-  #produto-button {
-      width: 90px;
-      padding: 0.5rem;
-      text-align: center;
-      background-color: var(--main-blue-color);
-      color: #fff;
-      border: none;
-      border-radius:10px;
-  }
-  #btn-cancelar{
-      background-color: var(--text-red-color);
-      color: black;
-  }
-  #btn-adicionar{
-      background-color: var(--main-blue-color);
-      color: #fff;
-  }
-  #produto-preço{
-   font-size: 26px;
-   font-weight: bold;
-   color: #fff;
-  }
-  #descrição{
-  color: #fff;
-  }
-  .label{
-  color: #fff;
-  }
-  #quantidade-produto{
-      width: 50px;
-  }
-  
 
 /*******************
     MEDIA QUERY

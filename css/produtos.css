@@ -2,61 +2,104 @@
    PRODUTOS
 ****************/
 html{
-    background-image: linear-gradient(to bottom,#F2C2CF,#B599F2);
+    background-color: #ffffffe1;
+
 }
 .sessão-produtos {
     display: flex;
     justify-content: center;
+    align-content: center;
+    flex-wrap: wrap;
 }
 
 #produto {
     display: flex;
     justify-content: center;
     align-items: center;
-    margin: 3rem 0 4rem 0;
+    flex-wrap: wrap;
     border-radius: 10px;
-    padding: 1rem;
-    width: 890px;
-    height: 500px;
-    background-color: #fff;
-    
+    margin-top: 200px;
+    width: 950px;
+    height: auto;
+    padding: 20px;
+    background-color:  #ffffffe1;
+    backdrop-filter: blur(2px);
+    border: solid 2px #13f78c;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+
+}
+
+#produto2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+}
+
+
+
+#image-div{
+    margin: auto;
 }
 
 #produto-image {
     width: 300px;
     height: 300px;
-    margin-left: 20px;
-}
+    margin-top: 100px;
 
-#informação-produto {
-    display: flex;
-    flex-direction: column;
-    margin-left: 1rem;
-    margin-top: -100px;
-    margin-right: 100px;
 }
-
+.carousel-item{
+    margin-top: 80px;
+}
 #produto-nome {
     color: black;
-    font-size: 2rem;
+    font-size: 20px;
     font-weight: bold;
-    margin-bottom: 400px;
-    margin-left: -280px;
+    justify-content: center;
+}
+
+.texto{
+    width: 900px;
+    height: auto;
     text-align: center;
 
-    
 }
 
 #produto-preço {
-    color: var(--main-blue-color);
-    font-size: 1.8rem;
+    /*color: var(--main-blue-color);
+    font-size: 1.8rem;*/
     font-weight: bold;
-    margin-top: 100px;
+    /*margin-top: 100px;*/
 }
+#btn-collapse{
+    width: 150px;
+    background-color: white;
+    border: 2px solid transparent;
+    background: linear-gradient(#fff,#fff) padding-box, linear-gradient(to right, #13f78c, #0be6e6, #f700c5) border-box;
+    border-top-right-radius:20px ;
+    border-bottom-left-radius: 20px;
+    color: black;
+    font-family: 'Manrope', sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+  }
+  
+  #btn-collapse:hover{
+      background:  linear-gradient(to right, #13f78c, #0be6e6, #f700c5); 
+      border: none;
+  }
+  
+  #card-body{
+      border: solid 2px #0be6e6;
+      width: 300px;
+      margin-left: -75px;
+  }
 
 .label {
     font-size: 1rem;
-    margin-top: 1rem;
+    margin-left: 35%;
+    font-weight: bold;
+    /*margin-top: 1rem;*/
 }
 
 #selecionar-tamanho {
@@ -64,6 +107,7 @@ html{
     padding: 0.5rem;
     margin-top: 0.3rem;
     border-radius: 5px;
+    margin-left: 35%;
 }
 
 #quantidade-produto {
@@ -72,15 +116,44 @@ html{
     margin-top: 0.3rem;
     margin-right: 0.4rem;
     padding: 0.5rem;
-    border: 1px solid #858585;
+    border: 1px solid #13f78c;
     border-radius: 5px;
 }
 
+#preço{
+    margin-top: 15px;
+    margin-left: 90px;
+    text-align: center;
+    font-size: 40px;
+    border: 2px solid #f700c5;
+    color: #f700c5;
+    border-top-right-radius:20px ;
+    border-bottom-left-radius: 20px;
+    width: 180px;
+    
+
+
+}
 #produto-button {
+    width: 90px;
+    margin-top: 1rem;
+    margin-left: 20%;
+    padding: 0.5rem;
+    text-align: center;
+    text-decoration: none;
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius:10px;
+    transition: opacity .5s ease;
+    box-shadow: rgba(0, 0, 0, 0.87) 0px 15px 25px, rgba(0, 0, 0, 0.05) 0px 5px 10px;
+}
+#produto-button2 {
     width: 90px;
     margin-top: 1rem;
     padding: 0.5rem;
     text-align: center;
+    text-decoration: none;
     background-color: black;
     color: white;
     border: none;
@@ -89,15 +162,16 @@ html{
     box-shadow: rgba(0, 0, 0, 0.87) 0px 15px 25px, rgba(0, 0, 0, 0.05) 0px 5px 10px;
 }
 
+
 #produto-button:hover {
     opacity: 0.8;
 }
 
 #Descrição{
-    display: flex;
+    /*display: flex;
     flex-direction: column;
     line-height: 30px;
-    margin-right: 70px;
+    margin-right: 70px;*/
     font-size: 16px;
     width: 340px;
     height: auto;
@@ -105,6 +179,7 @@ html{
     font-weight: bold;
     border-radius: 10px;
     padding: 20px;
+    border: solid 2px #f700c5;
     box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
 
 
@@ -141,76 +216,200 @@ html{
 }
 #produto-image {
     width: 250px;
-    height: 250px;
-    margin-left: 130px;
+    height: auto;
+    max-height: 250px;
 }
 
-#produto-nome {
-    margin-left: -200px;
-    margin-right: 100px;
-   
-
-    
-}
 #Descrição{
     margin-right: 150px;
 }
 
+#preço{
+    margin-right: 230px;
+    margin-top: 10px;
+  }
+  .btns{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+  }
+  #produto-button {
+    margin-right: 10px;
+    margin-left: 80px;
+   }
+       
+   .label {
+    text-align: center;
 }
 
+#selecionar-tamanho {
+    margin-left: 90px;
+}
+
+    
+}
+@media (max-width: 1000px) {
+   
+   #produto{
+    width: 90%;
+    max-width: 800px;
+   }
+   #produto-nome{
+    max-width: 90%;
+    width: 60%;
+    word-break:normal;
+    margin-left: 16%;
+   }
+
+   #carouselExample{
+    margin-left: 18%;
+    padding-left: 2px;
+    padding-right: 7px;
+    width: 150px;
+    height: auto;
+   }
+
+   #preço{
+     margin-right: 230px;
+     margin-top: 10px;
+   }
+   .btns{
+    display: flex;
+   }
+   #produto-button {
+    margin-right: 10px;
+   }
+    
+   .label {
+    text-align: center;
+}
+
+#selecionar-tamanho {
+    margin-left: 90px;
+}
+
+    }
+
+    
+@media (max-width: 888px) {
+    #carouselExample{
+        margin-left: 24%;
+       }
+    
+    
+}
 
 @media (max-width: 788px) {
-    .sessão-produtos {
-        display: block;
-    }
     #produto {
-        flex-direction: column;
-        margin: 3rem 0 1rem 0;
-        border: none;
-    }
-    #informação-produto{
-        margin-left: 0;
-        justify-content: start;
-        align-items: center;
+        display: block;
+        margin: 3rem 0 1rem 3.5rem;
+        height: auto;
+        width: 80%;
+
     }
     #produto-nome {
         font-size: 1.5rem;
     }
-}
-
-@media (max-width: 425px) {
-    #produto {
-        margin: 0 0 1rem 0;
-        padding: 0;
+    .texto{
+        max-width: 100%;
+        margin: 0 50% 0 0;
     }
-    #image-div {
+    #preço{
+        margin: 0 80px 0 100px;
+    }
+    #carouselExample{
+        padding-left: 10px;
+        padding-right: 7px;
+        padding-top: 0;
+        margin: 0 160px 20px 40px;
+
+       }
+    
+       #produto2{
+        width: 80%;
         display: flex;
+        flex-direction: column;
+        justify-content: center;
+       }
+       #Descrição-div{
+        margin: 0 0 0 240px;
+       }
+       #btn-collapse{
+         margin: 20px 0 20px 210px;
+      }
+      #card-body{
+        margin-left: 130px;
         justify-content: center;
     }
-    #produto-image {
-        width: 70%;
+   
+    .label {
+        margin-left: 35%;
     }
-    #produto-nome  {
+    
+    #selecionar-tamanho {
+        margin-left: 50%;
+    }
+    .btns{
+        margin-left: 8%;
+    }
+
+}
+
+@media (max-width: 530px) {
+   
+    .texto{
+        margin: 0 0 0 15px;
+    }
+    #preço{
+        margin: 0 90px 0 60px;
+        width: 50%;
+        font-size: 20px;
+        
+    }
+    #carouselExample{
+        padding-left: 0px;
+        padding-right: 0px;
+        padding-top: 0;
+        width: 80%;
+        margin: 0 160px 20px 80px;
+
+       }
+       #image-div{
+        width: 100%;
+       }
+    
+    #btn-collapse{
+      margin: 20px 0 20px 120px;
+   }
+}
+@media (max-width: 425px) {
+
+    #Descrição-div{
+        width: 40%;
+        margin: 0 186px 0 0;
+        max-width: 400px;
+    }
+    #carouselExample{
+        margin: 0 180px 20px 60px;
+
+       }
+       #preço{
+        margin: 0 120px 0 40px;
+        
+        font-size: 1rem;
+    }
+    .texto{
+        margin: 0 0 0 13px;
         font-size: 1.4rem;
-        margin: 0.5rem;
     }
-    #produto-preço{
-        font-size: 1.4rem;
-    }
+    #btn-collapse{
+        margin: 20px 0px 20px 70px;
+     }
     .label {
         margin-top: 0.5rem;
         font-size: 0.7rem;
     }
     #selecionar-tamanho {
         padding: 0.2rem;
-    }
-    #quantidade-produto {
-        padding: 0.2rem;
-    }
-    #titulo {
-        font-size: 1rem;
-    }
-    .descrição-text {
-        font-size: 0.8rem;
     }
 }
